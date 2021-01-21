@@ -27,11 +27,13 @@ Ground Truth dataset for French typewritten OCR
 
 ## Annotation system
 
-Undescored words are preceded with `_`such as "<ins>This is an</ins> example" will be transcribed as: "\_This \_is \_an example"
+Undescored words are preceded with `_`such as "<ins>This is an</ins> example" will be transcribed as: "\_This \_is \_an example".
+
+Portions of text that are superscripted are preceded with `^` such as "1<sup>er</sup>" will be transcribed as "1^er". If several words are superscripted, each word starts with a "^".
 
 Crossed out words are not rendered:
-- words that be read under the stroke are transcribed as if not crossed out
-- words that cannot be read under the stroke are transcribed like any portion of text that is not type-written
+- words that be read under the stroke are transcribed as if not crossed out;
+- words that cannot be read under the stroke are transcribed like any portion of text that is not type-written.
 
 Any portion of text that is not type-written is transcribed as a series of `~~~` (always 3). There are as many repetition of `~~~` (with a space between each instance) as there are words.
 
