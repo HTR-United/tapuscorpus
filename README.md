@@ -7,7 +7,7 @@ Ground Truth dataset for French typewritten OCR
 
 ## Content
 
-**86 pairs of images and PAGE XML files divided into 9 sub-corpus.**
+**154 pairs of images and PAGE XML files divided into 9 sub-corpus.**
 
 
 | # | name | nb of images | GT for segmenter? | GT for recognizer? | link(s) to source images | 
@@ -21,6 +21,8 @@ Ground Truth dataset for French typewritten OCR
 | 7 | Parallélisme_Jammes_1929| (6) |y | y | https://gallica.bnf.fr/ark:/12148/btv1b10583038c/manifest.json |
 | 8 | Poesie_Pau_1962 | (2) | y | y | https://gallica.bnf.fr/ark:/12148/btv1b10583138r/manifest.json |
 | 9 | Rapport_BNF_1984 | (10) | y | y | https://gallica.bnf.fr/ark:/12148/btv1b53097347b/manifest.json |
+| 10 | Misc_Europeana_nd | (64) | n | y | Europeana |
+
 
 - (3): images are blurred (low quality), but readable none the less.
 
@@ -52,12 +54,12 @@ version: '{any version}'
 description: 'Ground Truth dataset for French typewritten OCR (20th century documents)'
 language: 'French'
 time: '1900-1999'
-hands: '12'
+hands: '30'
 license:
     - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
 format: PAGE-XML
 volume:
-    - {count: "86", metric: pages}
+    - {count: "150", metric: pages}
 ```
 
 
