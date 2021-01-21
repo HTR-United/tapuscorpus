@@ -6,7 +6,21 @@ Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 Ground Truth dataset for French typewritten OCR
 
 ## Content
-(numbers, types, dates)
+86 pairs of images and PAGE XML files divided into 9 sub-corpus.
+| # | name | nb img | GT for seg | GT for trans |
+| --- | :---- | :---: | :---: | :---: |
+| 1 | 3vagues_Bordes_nd | (15) | y | y |
+| 2 | Cat_MNATP_1962| (14) | n | y |
+| 3 | Desnos_Divers_1922-1945 | (14) | y | y |
+| 4 | Jardin_Toussaint_nd | (12) | y | y |
+| 5 | Journal_Trépond_nd | (9) | y | y |
+| 6 | Lettre_Delatre_Foley_nd | (4) | y | y |
+| 7 | Parallélisme_Jammes_1929| (6) |y | y | 
+| 8 | Poesie_Pau_1962 | (2) | y | y |
+| 9 | Rapport_BNF_1984 | (10) | y | y |
+
+- 3: images are blurred (low quality), but readable none the less.
+
 
 ## Annotation system
 (which rules we followed to annotate the text)
