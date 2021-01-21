@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-01-21T14:38:46.138223+00:00</Created>
+    <LastChange>2021-01-21T14:38:46.138244+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="bljd_DSN355_00002.jpg" imageWidth="2560" imageHeight="3280">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_8d9b3b51" >
+        <Coords points="185,426 194,382 216,374 237,388 311,390 300,470 224,445 185,456"/>
+        <Baseline points="188,429 313,443"/>
+        <TextEquiv>
+          <Unicode>685</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a73e4288" >
+        <Coords points="1460,341 1465,278 1550,273 1575,295 1649,297 1728,287 1739,300 1816,281 1813,377 1734,385 1643,382 1621,369 1463,371"/>
+        <Baseline points="1460,341 1821,352"/>
+        <TextEquiv>
+          <Unicode>_CHOCOLAT _RUELLE</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fbf3f48c" >
+        <Coords points="399,519 407,478 454,459 511,489 538,489 544,533 536,560 484,549 456,565 399,563"/>
+        <Baseline points="402,522 547,533"/>
+        <TextEquiv>
+          <Unicode>G.Q.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_db65abdd" >
+        <Coords points="916,1104 921,1033 965,1033 995,1055 1020,1035 1033,1044 1044,1033 1148,1033 1178,1057 1217,1057 1236,1038 1293,1057 1389,1060 1422,1044 1455,1060 1507,1060 1526,1044 1537,1052 1550,1038 1586,1038 1621,1063 1775,1063 1818,1041 1862,1044 1878,1060 1903,1052 1917,1066 1974,1046 1988,1057 2051,1046 2064,1055 2070,1117 2062,1158 1977,1156 1933,1137 1903,1158 1878,1137 1827,1134 1698,1134 1671,1156 1624,1156 1605,1134 1545,1148 1528,1131 1427,1145 1414,1134 1326,1128 1293,1150 1228,1150 1214,1139 1148,1150 1137,1139 1110,1134 1094,1145 1063,1131 1033,1148 918,1142"/>
+        <Baseline points="916,1104 2070,1117"/>
+        <TextEquiv>
+          <Unicode>_Air _: _Petit _Homme _c&#39;est _l&#39;heure _de _faire _dodo</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_50b1deb6" >
+        <Coords points="1063,1016 1066,970 1102,970 1137,945 1176,945 1192,959 1252,945 1299,956 1310,945 1367,970 1430,970 1438,1014 1405,1041 1299,1041 1277,1030 1263,1041 1233,1030 1217,1038 1187,1025 1167,1041 1156,1030 1066,1025"/>
+        <Baseline points="1064,1018 1441,1016"/>
+        <TextEquiv>
+          <Unicode>- _Indicatif -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4aa86c28" >
+        <Coords points="965,1257 970,1205 990,1199 1031,1213 1170,1213 1189,1199 1258,1213 1280,1199 1389,1199 1438,1213 1444,1257 1424,1273 1389,1265 1356,1281 1329,1271 1312,1284 1271,1265 1238,1287 1110,1287 1083,1265 1052,1265 1036,1279 1011,1265 970,1268"/>
+        <Baseline points="965,1257 1444,1257"/>
+        <TextEquiv>
+          <Unicode>Le chocolat RUELLE</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bbf4f758" >
+        <Coords points="962,1355 968,1309 981,1301 1140,1312 1195,1298 1208,1312 1285,1312 1301,1298 1389,1298 1441,1312 1446,1355 1441,1380 1326,1369 1304,1377 1290,1366 1266,1380 1200,1361 1167,1380 1115,1361 1033,1363 1009,1377 992,1361 968,1366"/>
+        <Baseline points="962,1355 1446,1355"/>
+        <TextEquiv>
+          <Unicode>Riche en vitamines</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b3f6f76a" >
+        <Coords points="962,1451 973,1394 1011,1410 1074,1410 1113,1394 1145,1404 1162,1394 1178,1410 1263,1410 1307,1394 1367,1407 1381,1394 1433,1394 1455,1407 1476,1399 1490,1413 1553,1396 1572,1413 1695,1413 1720,1399 1766,1413 1832,1399 1865,1413 1930,1399 1966,1413 1971,1456 1963,1489 1914,1489 1878,1465 1818,1465 1758,1489 1734,1465 1515,1465 1457,1486 1359,1486 1345,1476 1271,1486 1230,1470 1200,1486 1129,1462 1061,1481 965,1462"/>
+        <Baseline points="962,1451 1971,1456"/>
+        <TextEquiv>
+          <Unicode>Donne aux petits enfants une bonne mine</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ac89c534" >
+        <Coords points="965,1558 970,1495 1017,1508 1061,1497 1099,1508 1121,1495 1151,1508 1178,1497 1214,1508 1241,1495 1258,1508 1329,1508 1345,1495 1394,1495 1441,1506 1446,1558 1441,1582 1340,1582 1321,1563 1271,1577 1236,1563 1173,1563 1162,1574 1083,1563 1072,1574 1047,1566 1028,1582 970,1579"/>
+        <Baseline points="965,1558 1446,1558"/>
+        <TextEquiv>
+          <Unicode>Le chocolat Ruelle</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c8f876e6" >
+        <Coords points="968,1650 973,1601 990,1593 1077,1607 1107,1588 1148,1588 1170,1607 1244,1609 1274,1590 1433,1590 1471,1609 1501,1601 1528,1612 1630,1612 1676,1601 1690,1612 1736,1612 1742,1659 1720,1683 1703,1670 1690,1683 1671,1667 1643,1667 1602,1689 1561,1667 1482,1664 1438,1664 1414,1686 1397,1670 1359,1678 1337,1664 1285,1689 1241,1670 1200,1686 1165,1686 1151,1672 1115,1686 970,1686"/>
+        <Baseline points="968,1650 1742,1659"/>
+        <TextEquiv>
+          <Unicode>Et vraiment de qualité surfine</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d35599ca" >
+        <Coords points="1140,1804 1145,1760 1197,1771 1263,1760 1282,1771 1351,1768 1362,1771 1367,1804 1362,1820 1145,1820"/>
+        <Baseline points="1140,1804 1367,1804"/>
+        <TextEquiv>
+          <Unicode>-:-:-:-:-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

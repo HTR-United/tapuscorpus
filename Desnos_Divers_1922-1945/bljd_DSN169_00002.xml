@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-01-21T14:38:46.105774+00:00</Created>
+    <LastChange>2021-01-21T14:38:46.105796+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="bljd_DSN169_00002.jpg" imageWidth="2560" imageHeight="3296">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_7d8928d6" >
+        <Coords points="2123,442 2126,414 2183,412 2321,433 2329,450 2321,477 2277,488 2197,488 2180,475 2126,472"/>
+        <Baseline points="2126,443 2332,453"/>
+        <TextEquiv>
+          <Unicode>- 2 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1cd39827" >
+        <Coords points="1087,703 1093,642 1106,653 1126,642 1159,653 1159,730 1120,744 1093,738"/>
+        <Baseline points="1087,703 1164,703"/>
+        <TextEquiv>
+          <Unicode>11</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b6d89f38" >
+        <Coords points="878,818 884,763 895,760 986,760 1027,782 1106,769 1123,782 1167,785 1233,785 1244,774 1296,785 1367,769 1400,785 1447,777 1464,791 1582,771 1587,832 1579,848 1510,848 1444,832 1285,843 1271,832 1186,829 1164,840 1043,829 1024,840 881,824"/>
+        <Baseline points="878,818 1587,832"/>
+        <TextEquiv>
+          <Unicode>L&#39;autre jour ma p&#39;tite amie</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ebe7d01b" >
+        <Coords points="881,867 884,826 1057,826 1093,837 1469,832 1502,840 1510,876 1502,889 884,876"/>
+        <Baseline points="881,867 1510,876"/>
+        <TextEquiv>
+          <Unicode>Avec un gros va nu pieds</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1aab53d0" >
+        <Coords points="878,917 884,876 942,887 1010,876 1071,889 1137,878 1208,892 1277,881 1334,892 1354,881 1370,895 1409,884 1527,895 1532,928 1496,942 1477,931 1370,942 1332,928 1315,939 1274,931 1219,939 1205,928 1071,936 994,922 881,925"/>
+        <Baseline points="878,917 1532,928"/>
+        <TextEquiv>
+          <Unicode>N&#39;a trompé quelle infamie</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1fbf38d0" >
+        <Coords points="881,966 884,928 922,922 1142,936 1269,928 1312,939 1516,933 1529,980 1521,991 1409,991 1348,980 1271,988 1252,977 884,977"/>
+        <Baseline points="881,966 1529,980"/>
+        <TextEquiv>
+          <Unicode>Je l&#39;ai su, je l&#39;ai épiée</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a3242e53" >
+        <Coords points="881,1019 889,972 1002,975 1016,986 1095,975 1142,988 1227,988 1252,977 1274,991 1290,980 1318,991 1343,980 1362,991 1488,983 1527,994 1532,1032 1403,1040 1351,1030 1296,1038 1271,1027 884,1030"/>
+        <Baseline points="881,1019 1532,1032"/>
+        <TextEquiv>
+          <Unicode>Et le soir dans ma colère</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8ad1150f" >
+        <Coords points="722,1115 727,1060 788,1076 851,1062 878,1082 931,1071 942,1082 1104,1076 1422,1090 1466,1076 1491,1093 1576,1076 1637,1090 1692,1079 1708,1090 1749,1087 1755,1134 1670,1159 1609,1159 1527,1156 1507,1137 1461,1142 1442,1131 1422,1142 1392,1131 1365,1145 1354,1134 1263,1139 1238,1128 1205,1142 1181,1128 1104,1137 1052,1126 1019,1139 999,1126 964,1134 931,1123 782,1142 760,1126 725,1123"/>
+        <Baseline points="722,1115 1755,1134"/>
+        <TextEquiv>
+          <Unicode>A six coups, bien en main, pour gangster</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1c45053f" >
+        <Coords points="887,1068 898,1027 1269,1030 1453,1038 1461,1076 1422,1087 889,1082"/>
+        <Baseline points="887,1068 1461,1076"/>
+        <TextEquiv>
+          <Unicode>J&#39;achetais un révolver</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ad3790b1" >
+        <Coords points="881,1170 884,1126 950,1126 964,1137 1181,1126 1205,1139 1507,1134 1524,1175 1516,1186 1205,1186 1104,1175 884,1183"/>
+        <Baseline points="881,1170 1524,1175"/>
+        <TextEquiv>
+          <Unicode>Méditant crime et suicide</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_27e5e69d" >
+        <Coords points="884,1216 900,1175 1101,1175 1145,1186 1269,1178 1293,1189 1499,1186 1524,1192 1529,1230 1521,1244 1453,1244 887,1225"/>
+        <Baseline points="884,1216 1529,1230"/>
+        <TextEquiv>
+          <Unicode>J&#39;hésitais sur la manière</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_917fb924" >
+        <Coords points="878,1268 884,1225 1002,1236 1117,1227 1271,1241 1450,1236 1475,1244 1480,1282 1472,1310 1323,1307 1310,1296 1290,1307 1225,1282 1131,1290 1117,1279 964,1279 953,1290 936,1277 914,1299 881,1299"/>
+        <Baseline points="878,1268 1480,1282"/>
+        <TextEquiv>
+          <Unicode>Dont j&#39;allais me venger</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_77f66c9e" >
+        <Coords points="1002,1326 1010,1282 1225,1282 1230,1326 1214,1334 1008,1332"/>
+        <Baseline points="1002,1326 1230,1326"/>
+        <TextEquiv>
+          <Unicode>Et juger</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b3477e19" >
+        <Coords points="999,1376 1010,1329 1263,1329 1280,1376 1244,1395 1225,1384 1200,1400 1005,1381"/>
+        <Baseline points="999,1376 1280,1376"/>
+        <TextEquiv>
+          <Unicode>La perfide</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b620b663" >
+        <Coords points="1016,1527 1021,1461 1093,1477 1128,1466 1150,1480 1225,1483 1225,1571 1197,1571 1175,1551 1106,1551 1079,1571 1052,1571 1021,1551"/>
+        <Baseline points="1016,1527 1230,1527"/>
+        <TextEquiv>
+          <Unicode>_Refrain</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_24475a8e" >
+        <Coords points="873,1645 878,1576 925,1598 975,1590 1049,1601 1112,1590 1172,1601 1214,1579 1329,1598 1367,1582 1395,1604 1425,1606 1466,1584 1518,1587 1546,1595 1551,1656 1540,1667 1392,1672 1321,1658 1263,1669 1216,1667 1208,1656 1101,1667 999,1653 895,1664 876,1653"/>
+        <Baseline points="873,1645 1551,1656"/>
+        <TextEquiv>
+          <Unicode>La Clef des Songes m&#39;a dit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a4d2d4e5" >
+        <Coords points="796,1741 799,1697 859,1708 931,1694 991,1711 1348,1708 1356,1719 1475,1705 1494,1719 1502,1755 1420,1768 1343,1757 1222,1766 1208,1755 1101,1763 1060,1752 939,1760 799,1749"/>
+        <Baseline points="796,1741 1502,1755"/>
+        <TextEquiv>
+          <Unicode>Le lendemain après un&#39; nuit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0022683c" >
+        <Coords points="944,1702 950,1656 1365,1664 1370,1702 1365,1716 950,1705"/>
+        <Baseline points="944,1702 1370,1702"/>
+        <TextEquiv>
+          <Unicode>Dans son langage</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c39bbafd" >
+        <Coords points="796,1796 807,1752 1030,1763 1126,1752 1161,1766 1236,1766 1252,1755 1266,1766 1337,1757 1354,1768 1518,1757 1524,1807 1502,1823 1477,1812 1428,1837 1384,1834 1340,1807 1164,1815 1150,1804 1117,1815 1043,1804 988,1832 972,1818 961,1829 799,1829"/>
+        <Baseline points="796,1796 1524,1807"/>
+        <TextEquiv>
+          <Unicode>De cauch&#39;mar et de carnages</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fce38b81" >
+        <Coords points="1049,1848 1052,1807 1329,1807 1345,1854 1304,1867 1148,1856 1052,1864"/>
+        <Baseline points="1049,1848 1345,1854"/>
+        <TextEquiv>
+          <Unicode>Bon présage</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3a85398e" >
+        <Coords points="1046,1895 1052,1864 1148,1856 1164,1867 1378,1862 1392,1870 1398,1903 1376,1919 1049,1906"/>
+        <Baseline points="1046,1895 1398,1903"/>
+        <TextEquiv>
+          <Unicode>- l&#39;encornage</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e24a3906" >
+        <Coords points="1049,1947 1052,1903 1131,1919 1222,1906 1340,1928 1345,1955 1274,1969 1227,1955 1153,1966 1142,1952 1117,1963 1052,1952"/>
+        <Baseline points="1049,1947 1345,1955"/>
+        <TextEquiv>
+          <Unicode>Bon présage</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a8ae3d7c" >
+        <Coords points="1060,1996 1065,1966 1123,1966 1142,1952 1159,1966 1230,1955 1280,1972 1312,1958 1378,1972 1398,1958 1439,1958 1444,2007 1436,2027 1370,2027 1323,2007 1255,2018 1205,2005 1172,2018 1156,2007 1142,2016 1063,2002"/>
+        <Baseline points="1060,1996 1444,2007"/>
+        <TextEquiv>
+          <Unicode>- Rêver d&#39;cage</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bf6cd52b" >
+        <Coords points="865,2092 870,2035 997,2049 1032,2038 1054,2057 1087,2060 1323,2062 1431,2046 1453,2060 1518,2062 1532,2049 1568,2046 1601,2062 1628,2046 1705,2046 1722,2103 1713,2117 1510,2117 1450,2106 1304,2114 1249,2103 1087,2112 1068,2101 867,2101"/>
+        <Baseline points="865,2092 1722,2103"/>
+        <TextEquiv>
+          <Unicode>Oui l&#39;amour le bonheur cette nuit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b8222a97" >
+        <Coords points="1049,2049 1054,2002 1150,2016 1214,2005 1252,2018 1326,2007 1343,2013 1348,2057 1293,2068 1052,2057"/>
+        <Baseline points="1049,2049 1348,2057"/>
+        <TextEquiv>
+          <Unicode>Bon présage</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cefbfdbb" >
+        <Coords points="870,2147 873,2101 1266,2114 1365,2106 1387,2117 1540,2109 1551,2120 1686,2112 1711,2120 1719,2161 1551,2169 1378,2156 873,2158"/>
+        <Baseline points="870,2147 1719,2161"/>
+        <TextEquiv>
+          <Unicode>Sont venus te bercer dans ton lit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_41863a44" >
+        <Coords points="917,2194 920,2158 933,2153 1063,2153 1082,2164 1222,2156 1244,2167 1403,2158 1447,2169 1543,2161 1560,2169 1568,2205 1551,2216 1409,2216 920,2202"/>
+        <Baseline points="917,2194 1568,2205"/>
+        <TextEquiv>
+          <Unicode>Ecoute la Clef des Songes</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3cdf4133" >
+        <Coords points="917,2246 920,2202 1098,2202 1137,2213 1546,2213 1560,2216 1568,2255 1543,2266 920,2257"/>
+        <Baseline points="917,2246 1568,2255"/>
+        <TextEquiv>
+          <Unicode>Et pardonne les mensonges</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6169c918" >
+        <Coords points="914,2296 922,2255 1123,2266 1153,2255 1266,2255 1301,2268 1381,2257 1453,2268 1461,2304 917,2304"/>
+        <Baseline points="914,2296 1461,2304"/>
+        <TextEquiv>
+          <Unicode>Pardonne à l&#39;instant.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9383aa3c" >
+        <Coords points="867,2345 873,2298 917,2309 980,2309 997,2298 1043,2312 1150,2312 1194,2301 1225,2315 1266,2307 1433,2318 1461,2304 1516,2318 1549,2304 1612,2315 1634,2307 1672,2320 1697,2312 1711,2320 1716,2359 1708,2395 1617,2395 1590,2389 1568,2367 1524,2386 1505,2367 1477,2381 1442,2367 1400,2384 1381,2370 1351,2381 1304,2362 1271,2364 1247,2389 1208,2389 1123,2384 1093,2359 1054,2359 1030,2375 986,2356 870,2356"/>
+        <Baseline points="867,2345 1716,2359"/>
+        <TextEquiv>
+          <Unicode>Car demain il n&#39;serait plus temps</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

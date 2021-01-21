@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-01-21T14:28:28.163775+00:00</Created>
+    <LastChange>2021-01-21T14:28:28.163797+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="8_62d69_default.jpg" imageWidth="3307" imageHeight="4935">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_290743fb" >
+        <Coords points="1287,308 1295,267 1373,246 1427,242 1468,267 1476,308 1443,329 1349,316 1295,329"/>
+        <Baseline points="1287,308 1476,308"/>
+        <TextEquiv>
+          <Unicode>- 7 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_36654e16" >
+        <Coords points="740,600 744,542 777,518 958,542 1015,514 1085,530 1127,514 1184,534 1258,518 1287,538 1320,514 1349,534 1575,534 1587,588 1579,616 1517,629 1094,620 748,637"/>
+        <Baseline points="740,600 1587,588"/>
+        <TextEquiv>
+          <Unicode>_B) _protection _initiale :</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7b365f4f" >
+        <Coords points="744,793 748,736 797,719 834,736 1028,736 1048,719 1365,736 1468,715 1550,732 1743,732 1781,715 1822,732 1871,715 1900,732 2036,732 2060,715 2089,732 2192,732 2426,711 2887,727 2916,711 2928,781 2887,801 748,801"/>
+        <Baseline points="744,793 2928,781"/>
+        <TextEquiv>
+          <Unicode>Ces travaux de protection (reliure, doublage, désinfection) sur</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_27f04fb4" >
+        <Coords points="579,900 592,838 810,847 1011,830 1451,847 1501,826 1554,843 1686,843 1727,826 1834,843 1871,826 1892,843 2031,822 2114,838 2237,838 2262,822 2328,838 2352,818 2377,834 2648,822 2780,834 2792,880 2764,900 584,908"/>
+        <Baseline points="579,900 2792,880"/>
+        <TextEquiv>
+          <Unicode>les acquisitions récentes ont pu être menés cette année de façon</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9a6cb63d" >
+        <Coords points="575,999 588,933 876,933 917,949 1044,933 1192,949 1225,933 1307,949 1349,933 1443,945 1464,929 1509,945 1727,929 1760,945 1859,945 1875,929 1900,945 1994,929 2081,945 2105,929 2615,941 2685,925 2706,941 2846,941 2858,987 2846,1007 579,1003"/>
+        <Baseline points="575,999 2858,987"/>
+        <TextEquiv>
+          <Unicode>à peu près satisfaisante, y compris dans le cas du département des</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e426bde5" >
+        <Coords points="575,1102 579,1048 608,1036 1180,1048 1345,1032 1781,1044 1966,1028 2365,1040 2747,1024 3002,1036 3014,1085 2994,1106 579,1106"/>
+        <Baseline points="575,1102 3014,1085"/>
+        <TextEquiv>
+          <Unicode>imprimés dont les besoins sont beaucoup plus considérables qu&#39;ailleurs.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5fcb385d" >
+        <Coords points="571,1200 596,1135 719,1151 769,1135 1336,1151 1435,1147 1451,1130 1501,1147 1530,1130 1554,1147 1579,1130 1661,1147 1686,1130 1715,1147 1764,1130 1834,1147 2036,1147 2056,1130 2179,1147 2208,1130 2237,1147 2254,1130 2393,1143 2410,1126 2443,1143 2504,1126 2554,1143 3031,1130 3080,1143 3093,1188 3072,1209 579,1209"/>
+        <Baseline points="571,1200 3093,1188"/>
+        <TextEquiv>
+          <Unicode>L&#39;atelier du département des Périodiques et l&#39;annexe de la rue Montbauron</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_96ca2d04" >
+        <Coords points="575,1303 592,1237 736,1254 830,1237 1065,1254 1085,1237 1143,1254 1159,1233 1188,1250 1320,1233 1743,1250 1846,1229 1896,1246 1999,1229 2019,1246 2274,1246 2291,1229 2377,1225 2406,1241 2550,1225 2636,1225 2657,1241 2895,1229 2928,1287 2899,1307 579,1311"/>
+        <Baseline points="575,1303 2928,1287"/>
+        <TextEquiv>
+          <Unicode>à Versailles ont procédé au doublage de 32 192 feuillets, désinfecté</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_992f5864" >
+        <Coords points="579,1402 584,1348 600,1340 723,1340 740,1357 777,1340 818,1361 917,1357 937,1340 1036,1361 1118,1340 1159,1361 1262,1361 1382,1336 1402,1353 1427,1336 1447,1357 1480,1336 1591,1336 1616,1357 1715,1336 1809,1357 1953,1344 2011,1357 2064,1340 2081,1357 2105,1336 2130,1357 2179,1357 2389,1336 2546,1353 2566,1332 2759,1353 2858,1332 2986,1353 2998,1390 2945,1414 2764,1414 2727,1398 2685,1414 2558,1398 2504,1414 2299,1414 2258,1398 2085,1418 1924,1402 1908,1418 1702,1418 1649,1402 1575,1418 1451,1402 1349,1422 1270,1422 1254,1406 1225,1422 871,1422 834,1406 818,1422 752,1406 625,1422 588,1406"/>
+        <Baseline points="579,1402 2998,1390"/>
+        <TextEquiv>
+          <Unicode>60m3 de collection, relié 5412 volumes, monté sur onglets 5751 numéros</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c1029dbd" >
+        <Coords points="579,1509 584,1459 604,1447 1127,1459 1143,1443 1604,1455 1768,1439 2282,1451 2319,1435 2706,1435 2842,1443 2862,1492 2838,1513 2430,1501 2274,1517 1887,1505 1715,1521 584,1517"/>
+        <Baseline points="579,1509 2862,1492"/>
+        <TextEquiv>
+          <Unicode>du Journal officiel. Si les crédits n&#39;ont pas augmenté par rapport</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5226d44d" >
+        <Coords points="575,1607 592,1546 1340,1558 1373,1542 2126,1554 2237,1538 2739,1538 2916,1550 2928,1595 2883,1616 579,1612"/>
+        <Baseline points="575,1607 2928,1595"/>
+        <TextEquiv>
+          <Unicode>à l&#39;an passé, ils ont néanmoins permis de faire face aux principales</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8e52f781" >
+        <Coords points="579,1710 584,1661 604,1649 1110,1661 1143,1645 1706,1657 1719,1640 2274,1653 2286,1636 2722,1636 2850,1649 2862,1694 2850,1714 584,1719"/>
+        <Baseline points="579,1710 2862,1694"/>
+        <TextEquiv>
+          <Unicode>nécessités. Les départements spécialisés ont pu également procéder</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_88c6b18c" >
+        <Coords points="575,1809 596,1747 1353,1760 1390,1743 2114,1756 2142,1739 2866,1743 2920,1747 2932,1797 2887,1817 579,1817"/>
+        <Baseline points="575,1809 2932,1797"/>
+        <TextEquiv>
+          <Unicode>à la reliure de leurs ouvrages et à l&#39;acquisition du matériel annexe</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b6a6f0b9" >
+        <Coords points="579,1912 588,1862 616,1846 686,1862 892,1862 917,1846 1229,1858 1246,1842 1270,1858 1312,1842 1402,1858 1476,1842 1493,1858 1620,1842 1855,1858 2068,1838 2089,1854 2472,1854 2496,1834 2537,1850 2603,1834 2681,1850 2710,1834 3117,1850 3130,1895 3101,1924 2578,1912 2488,1928 1982,1916 1826,1932 588,1932"/>
+        <Baseline points="579,1912 3130,1895"/>
+        <TextEquiv>
+          <Unicode>de conservation (boitiers, étuis, plaques d&#39;altuglass...). La Bibliothèque</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_63d8850e" >
+        <Coords points="579,2015 584,1965 604,1953 1238,1965 1336,1949 2068,1961 2110,1945 2788,1945 2854,1957 2866,2002 2805,2023 584,2019"/>
+        <Baseline points="579,2015 2866,2002"/>
+        <TextEquiv>
+          <Unicode>de l&#39;Arsenal a commencé, elle aussi, à résorber son retard dans le</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0ff3d0e7" >
+        <Coords points="579,2117 584,2064 600,2056 1164,2068 1180,2052 1715,2064 1793,2048 2385,2060 2513,2043 2916,2043 2986,2056 2998,2101 2961,2126 588,2126"/>
+        <Baseline points="579,2117 2998,2101"/>
+        <TextEquiv>
+          <Unicode>domaine de la reliure, tandis que le département des Arts du spectacle</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ba1113d6" >
+        <Coords points="575,2220 579,2167 604,2154 1316,2167 1414,2150 2064,2163 2188,2146 2698,2146 2813,2150 2825,2208 2813,2224 579,2224"/>
+        <Baseline points="575,2220 2825,2208"/>
+        <TextEquiv>
+          <Unicode>a réalisé de manière satisfaisante l&#39;entoilage de ses collections</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4b3d1654" >
+        <Coords points="575,2323 579,2274 608,2257 999,2274 1028,2257 1143,2270 1168,2253 1369,2253 1406,2270 1460,2253 1476,2270 1579,2270 1616,2253 1649,2270 1665,2253 1760,2265 1805,2249 1904,2265 1941,2249 1986,2265 2019,2249 2060,2265 2134,2249 2163,2265 2356,2265 2595,2245 2620,2261 2949,2261 2961,2307 2920,2331 579,2331"/>
+        <Baseline points="575,2323 2961,2307"/>
+        <TextEquiv>
+          <Unicode>d&#39;affiches et la reliure de ses ouvrages. Enfin le nombre des volumes</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_53612ea1" >
+        <Coords points="579,2422 584,2377 612,2360 629,2377 662,2360 851,2377 1061,2360 1114,2377 1147,2356 1287,2372 1542,2356 1567,2372 1653,2372 1748,2368 1764,2352 1793,2368 1809,2352 1842,2368 1896,2352 1945,2368 2007,2368 2023,2352 2052,2368 2192,2368 2266,2348 2303,2364 2369,2364 2385,2348 2426,2364 2480,2348 2504,2364 2755,2348 2784,2364 2796,2405 2784,2430 584,2430"/>
+        <Baseline points="579,2422 2796,2405"/>
+        <TextEquiv>
+          <Unicode>reliés cette année au département des Imprimés est passé de 6616</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_aa2da996" >
+        <Coords points="579,2529 588,2463 797,2463 818,2479 859,2463 941,2479 1020,2459 1139,2475 1172,2459 1373,2475 1579,2455 1645,2471 1665,2455 1719,2471 1900,2471 1994,2467 2011,2451 2299,2467 2546,2446 2566,2463 2784,2463 2796,2508 2755,2537 2546,2537 2529,2520 2463,2537 1970,2529 1900,2545 1715,2545 1686,2529 1637,2545 1538,2529 1419,2545 1089,2533 1020,2553 966,2537 941,2553 867,2537 814,2553 584,2537"/>
+        <Baseline points="579,2529 2796,2508"/>
+        <TextEquiv>
+          <Unicode>à 7672, en dépit de la défection d&#39;un certain nombre de relieurs</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a71d8106" >
+        <Coords points="579,2627 584,2578 625,2562 1065,2562 1081,2578 1176,2562 1209,2578 1258,2557 1279,2574 1373,2574 1398,2557 1476,2557 1493,2574 1530,2557 1579,2574 1698,2574 1719,2557 1846,2574 1871,2557 1929,2574 2019,2553 2036,2570 2410,2570 2439,2553 2488,2570 2521,2553 2603,2570 2615,2615 2603,2660 2537,2648 2517,2669 2332,2669 2286,2636 2233,2648 2175,2632 2011,2632 1982,2652 1937,2640 1883,2673 1743,2673 1637,2636 1579,2660 1546,2636 1484,2652 1464,2636 1398,2652 1361,2636 1254,2677 1159,2660 1143,2677 1114,2652 1089,2664 1044,2644 958,2673 892,2648 843,2660 826,2644 715,2640 682,2664 584,2640"/>
+        <Baseline points="579,2627 2615,2615"/>
+        <TextEquiv>
+          <Unicode>extérieurs. Le bilan est donc satisfaisant sur ce chapitre.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9e35b23f" >
+        <Coords points="2599,4684 2607,4638 2735,4614 2784,4647 2825,4647 2833,4692 2821,4729 2718,4733 2669,4708 2603,4725"/>
+        <Baseline points="2599,4684 2833,4692"/>
+        <TextEquiv>
+          <Unicode>.../...</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

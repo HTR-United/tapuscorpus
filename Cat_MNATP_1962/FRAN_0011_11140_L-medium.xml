@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-01-21T14:36:57.281101+00:00</Created>
+    <LastChange>2021-01-21T14:36:57.281123+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="FRAN_0011_11140_L-medium.jpg" imageWidth="2000" imageHeight="1580">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_0637957f" >
+        <Coords points="306,185 309,150 330,150 330,194 309,202"/>
+        <Baseline points="308,186 334,186"/>
+        <TextEquiv>
+          <Unicode>1</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c455272b" >
+        <Coords points="666,181 669,155 694,158 694,190 669,193"/>
+        <Baseline points="667,182 697,182"/>
+        <TextEquiv>
+          <Unicode>2</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7f5fc6eb" >
+        <Coords points="927,177 930,152 945,147 969,152 969,189 964,185 944,190 930,184"/>
+        <Baseline points="928,179 973,179"/>
+        <TextEquiv>
+          <Unicode>3</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0eebfa05" >
+        <Coords points="1361,177 1363,127 1399,131 1401,177 1384,188 1363,188"/>
+        <Baseline points="1362,178 1403,178"/>
+        <TextEquiv>
+          <Unicode>4</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d21890ca" >
+        <Coords points="1741,173 1744,154 1785,151 1785,185 1744,177"/>
+        <Baseline points="1743,174 1788,174"/>
+        <TextEquiv>
+          <Unicode>5</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ddadf6a1" >
+        <Coords points="147,325 152,294 202,298 214,290 222,297 243,298 258,290 266,298 326,298 341,289 359,294 371,288 383,297 409,285 494,285 496,326 484,334 454,329 428,334 407,329 343,334 306,329 284,334 272,329 260,334 175,334 159,329 148,334"/>
+        <Baseline points="148,326 498,327"/>
+        <TextEquiv>
+          <Unicode>N-E,D,Cap Ste Marie</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8c3748c2" >
+        <Coords points="150,354 151,333 160,327 175,334 256,335 332,329 371,337 383,330 408,335 457,330 463,335 467,358 455,367 438,364 425,371 409,363 400,372 372,372 361,360 333,369 322,366 316,371 275,371 259,362 237,359 216,366 205,359 187,359 177,367 151,359"/>
+        <Baseline points="150,354 467,358"/>
+        <TextEquiv>
+          <Unicode>(enreg.à Meteghan)</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fdc2ee7f" >
+        <Coords points="151,385 154,359 176,366 194,359 213,366 229,359 270,366 270,396 231,391 204,396 154,393"/>
+        <Baseline points="151,385 272,385"/>
+        <TextEquiv>
+          <Unicode>5.8.62</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fe9ffa3f" >
+        <Coords points="550,326 553,285 579,301 596,297 608,285 628,285 633,290 638,287 650,294 691,294 704,285 725,285 752,301 777,298 791,285 808,285 832,301 873,301 895,285 932,285 960,293 981,290 996,301 1026,301 1028,327 1023,347 996,351 980,344 969,351 942,350 915,335 881,335 862,342 856,337 827,335 803,347 778,342 748,351 670,346 665,350 636,335 602,343 588,335 552,341"/>
+        <Baseline points="551,327 1029,328"/>
+        <TextEquiv>
+          <Unicode>Bm 104,62.35.858 1 v.p.h.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_53d77f57" >
+        <Coords points="1065,327 1068,294 1138,298 1148,292 1160,294 1169,287 1176,292 1185,287 1239,287 1277,298 1296,298 1308,289 1326,298 1371,298 1395,288 1422,298 1462,293 1490,298 1496,292 1508,298 1515,293 1517,327 1515,337 1425,337 1411,330 1388,337 1358,337 1353,331 1325,337 1313,330 1266,337 1222,337 1205,330 1181,337 1171,330 1068,330"/>
+        <Baseline points="1067,328 1519,329"/>
+        <TextEquiv>
+          <Unicode>Information sur le terme:</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1b011999" >
+        <Coords points="1080,352 1083,329 1168,334 1210,330 1214,351 1210,362 1172,367 1162,363 1134,368 1126,363 1115,368 1081,368"/>
+        <Baseline points="1080,352 1181,358 1214,351"/>
+        <TextEquiv>
+          <Unicode>&quot;frimas&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cd8c4cad" >
+        <Coords points="1613,326 1615,297 1654,297 1667,289 1690,297 1699,290 1745,288 1762,298 1776,290 1814,298 1826,289 1847,298 1877,289 1881,329 1877,338 1848,344 1841,338 1828,338 1812,347 1795,342 1766,347 1737,337 1707,348 1691,338 1681,348 1615,348"/>
+        <Baseline points="1613,326 1881,329"/>
+        <TextEquiv>
+          <Unicode>COMEAU,Wilfred</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d93047cf" >
+        <Coords points="748,442 749,410 765,410 779,398 807,409 810,450 779,454 750,445"/>
+        <Baseline points="748,442 812,439"/>
+        <TextEquiv>
+          <Unicode>859</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e260f92f" >
+        <Coords points="748,496 750,466 812,471 811,509 790,509 781,501 749,502"/>
+        <Baseline points="748,496 815,499"/>
+        <TextEquiv>
+          <Unicode>860</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d8a0e25c" >
+        <Coords points="1073,443 1075,409 1084,408 1139,408 1160,417 1188,417 1204,409 1217,416 1226,409 1243,416 1258,409 1292,416 1300,409 1328,406 1342,416 1366,406 1383,416 1466,416 1529,408 1542,413 1555,406 1591,414 1603,405 1617,410 1625,405 1661,405 1665,439 1661,446 1631,452 1617,448 1608,456 1602,451 1584,456 1574,448 1562,455 1542,446 1498,451 1486,446 1475,452 1462,448 1440,458 1304,458 1271,447 1256,459 1220,450 1210,459 1193,448 1162,448 1151,456 1123,448 1108,454 1100,448 1075,448"/>
+        <Baseline points="1073,443 1665,439"/>
+        <TextEquiv>
+          <Unicode>Information sur le terme: &quot;dégras&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_79af8eac" >
+        <Coords points="748,555 750,527 807,527 806,567 774,574 750,563"/>
+        <Baseline points="748,555 810,555"/>
+        <TextEquiv>
+          <Unicode>861</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ad09a57b" >
+        <Coords points="1073,501 1075,466 1144,466 1164,475 1192,475 1201,466 1210,475 1221,470 1245,475 1252,468 1268,475 1310,464 1329,474 1359,464 1399,464 1417,474 1484,472 1490,467 1511,472 1529,463 1553,463 1559,470 1570,464 1583,472 1617,464 1631,472 1658,468 1666,497 1662,502 1628,504 1623,509 1612,502 1595,509 1545,509 1533,501 1515,501 1503,506 1444,505 1437,510 1396,502 1370,509 1334,502 1320,510 1259,505 1241,509 1227,504 1220,509 1198,504 1188,510 1164,504 1147,512 1075,512"/>
+        <Baseline points="1073,501 1666,497"/>
+        <TextEquiv>
+          <Unicode>Information sur le terme: &quot;dérive&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_df134989" >
+        <Coords points="1073,558 1075,529 1094,525 1104,530 1113,524 1143,524 1176,533 1192,524 1201,530 1214,524 1237,524 1245,530 1287,531 1303,522 1318,522 1328,531 1353,531 1359,525 1371,531 1399,531 1408,522 1463,531 1521,530 1527,525 1538,530 1562,530 1569,525 1590,530 1606,521 1636,521 1671,530 1675,554 1671,572 1595,572 1584,563 1577,567 1571,562 1552,571 1533,567 1521,572 1505,564 1426,568 1413,563 1380,574 1358,574 1346,566 1338,574 1321,568 1289,572 1276,564 1256,571 1238,564 1218,571 1175,564 1144,564 1137,570 1085,564 1075,570"/>
+        <Baseline points="1073,558 1675,554"/>
+        <TextEquiv>
+          <Unicode>Information sur le terme: &quot;.épaler&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>
