@@ -47,16 +47,16 @@ This dataset was built by Alix Chagué (@alix-tz).
 This dataset was built and is maintained by Alix Chagué (@alix-tz). The original works and their digitization are all copyright-free, but properly annotating a corpus takes time and is a task that should be recognized. If you use any item from this corpus of ground truth, cite the dataset using the following information:
 
 ```
-name: "Tapuscorpus"
+name: 'Tapuscorpus'
 url: 'https://github.com/HTR-United/tapuscorpus'
 author: 'Alix Chagué'
 month: 'janv'
 year: '2021'
 version: '{any version}'
 description: 'Ground Truth dataset for French typewritten OCR (20th century documents)'
-language: French
-time: 1900-1999
-hands: 12
+language: 'French'
+time: '1900-1999'
+hands: '12'
 license:
     - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
 format: PAGE-XML
