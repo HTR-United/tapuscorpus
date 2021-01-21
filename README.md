@@ -10,17 +10,17 @@ Ground Truth dataset for French typewritten OCR
 **86 pairs of images and PAGE XML files divided into 9 sub-corpus.**
 
 
-| # | name | nb img | GT for seg | GT for trans |
-| --- | :---- | :---: | :---: | :---: |
-| 1 | 3vagues_Bordes_nd | (15) | y | y |
-| 2 | Cat_MNATP_1962| (14) | n | y |
-| 3 | Desnos_Divers_1922-1945 | (14) | y | y |
-| 4 | Jardin_Toussaint_nd | (12) | y | y |
-| 5 | Journal_Trépond_nd | (9) | y | y |
-| 6 | Lettre_Delatre_Foley_nd | (4) | y | y |
-| 7 | Parallélisme_Jammes_1929| (6) |y | y | 
-| 8 | Poesie_Pau_1962 | (2) | y | y |
-| 9 | Rapport_BNF_1984 | (10) | y | y |
+| # | name | nb of images | GT for segmenter? | GT for recognizer? | link(s) to source images | 
+| --- | :---- | :---: | :---: | :---: | ---: | 
+| 1 | 3vagues_Bordes_nd | (15) | y | y | https://gallica.bnf.fr/ark:/12148/btv1b52502601r/manifest.json |
+| 2 | Cat_MNATP_1962| (14) | n | y | https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_050603/c-2cfmj84sh--fdjfx0b91tk6 |
+| 3 | Desnos_Divers_1922-1945 | (14) | y | y | http://bljd.sorbonne.fr/ark:/naan/a011441804309XrO1fa/e3ff656f45 , http://bljd.sorbonne.fr/ark:/naan/a011441804309Dy4ooR/8f9020bc6e , http://bljd.sorbonne.fr/ark:/naan/a01144180430809P21l/036952bd71 , http://bljd.sorbonne.fr/ark:/naan/a0114418043093CzACj/ae2ff446cd |
+| 4 | Jardin_Toussaint_nd | (12) | y | y | https://gallica.bnf.fr/ark:/12148/btv1b10581912k/manifest.json |
+| 5 | Journal_Trépond_nd | (9) | y | y | https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_050082/c-65dxt4cy4--yqhpaasluvz1 |
+| 6 | Lettre_Delatre_Foley_nd | (4) | y | y | https://gallica.bnf.fr/ark:/12148/btv1b525062185/manifest.json |
+| 7 | Parallélisme_Jammes_1929| (6) |y | y | https://gallica.bnf.fr/ark:/12148/btv1b10583038c/manifest.json |
+| 8 | Poesie_Pau_1962 | (2) | y | y | https://gallica.bnf.fr/ark:/12148/btv1b10583138r/manifest.json |
+| 9 | Rapport_BNF_1984 | (10) | y | y | https://gallica.bnf.fr/ark:/12148/btv1b53097347b/manifest.json |
 
 - (3): images are blurred (low quality), but readable none the less.
 
