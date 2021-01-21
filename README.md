@@ -38,6 +38,33 @@ Crossed out words are not rendered:
 Any portion of text that is not type-written is transcribed as a series of `~~~` (always 3). There are as many repetition of `~~~` (with a space between each instance) as there are words.
 
 
+## Citation
+
+This dataset was built by Alix Chagué (@alix-tz).
+
+### How to cite
+
+This dataset was built and is maintained by Alix Chagué (@alix-tz). The original works and their digitization are all copyright-free, but properly annotating a corpus takes time and is a task that should be recognized. If you use any item from this corpus of ground truth, cite the dataset using the following information:
+
+```
+name: "Tapuscorpus"
+url: 'https://github.com/HTR-United/tapuscorpus'
+author: 'Alix Chagué'
+month: 'janv'
+year: '2021'
+version: '{any version}'
+description: 'Ground Truth dataset for French typewritten OCR (20th century documents)'
+language: French
+time: 1900-1999
+hands: 12
+license:
+    - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+format: PAGE-XML
+volume:
+    - {count: "86", metric: pages}
+```
+
+
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
