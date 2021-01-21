@@ -38,11 +38,7 @@ Crossed out words are not rendered:
 Any portion of text that is not type-written is transcribed as a series of `~~~` (always 3). There are as many repetition of `~~~` (with a space between each instance) as there are words.
 
 
-## Citation
-
-This dataset was built by Alix Chagué (@alix-tz).
-
-### How to cite
+## How to cite
 
 This dataset was built and is maintained by Alix Chagué (@alix-tz). The original works and their digitization are all copyright-free, but properly annotating a corpus takes time and is a task that should be recognized. If you use any item from this corpus of ground truth, cite the dataset using the following information:
 
