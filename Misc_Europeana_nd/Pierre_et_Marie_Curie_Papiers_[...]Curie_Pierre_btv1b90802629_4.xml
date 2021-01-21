@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-01-21T19:45:05.449433+00:00</Created>
+    <LastChange>2021-01-21T19:45:05.449454+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Pierre_et_Marie_Curie_Papiers_[...]Curie_Pierre_btv1b90802629_4.jpeg" imageWidth="1024" imageHeight="1409">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_306e98b8" >
+        <Coords points="285,138 284,110 315,115 339,105 355,109 375,103 382,109 396,103 426,103 429,138 421,133 418,139 405,140 395,135 388,139 378,136 298,150 287,144"/>
+        <Baseline points="285,138 430,125"/>
+        <TextEquiv>
+          <Unicode>~~~ ~~~</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3bcc9774" >
+        <Coords points="575,138 577,124 595,119 604,124 618,118 618,144 603,140 594,149 577,150"/>
+        <Baseline points="575,138 621,138"/>
+        <TextEquiv>
+          <Unicode>- 1 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_431ae28d" >
+        <Coords points="419,165 420,132 438,132 455,124 473,130 481,123 543,132 543,184 499,193 448,193 440,185 420,184"/>
+        <Baseline points="420,166 548,167"/>
+        <TextEquiv>
+          <Unicode>~~~</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fae8d634" >
+        <Coords points="560,166 564,150 602,146 611,151 652,146 664,151 667,166 659,177 642,172 614,177 607,172 597,176 590,171 562,171"/>
+        <Baseline points="561,167 668,167"/>
+        <TextEquiv>
+          <Unicode>INTRODUCTION</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_598ade34" >
+        <Coords points="830,169 834,153 846,158 844,178 831,177"/>
+        <Baseline points="831,170 849,172"/>
+        <TextEquiv>
+          <Unicode>1</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e337f5f8" >
+        <Coords points="366,238 371,219 515,218 530,223 546,221 551,216 583,216 595,223 610,216 631,216 683,221 709,217 731,224 736,219 751,223 757,218 768,223 791,223 796,218 811,224 850,221 853,241 843,248 800,245 792,248 778,244 770,248 736,244 692,248 671,243 656,247 632,243 617,247 541,243 529,247 495,241 461,246 443,241 399,246 388,241 384,246 367,246"/>
+        <Baseline points="366,238 853,241"/>
+        <TextEquiv>
+          <Unicode>Ce livre est l&#39;exposé de leçons professées à la Sorbonne</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a21fad3a" >
+        <Coords points="333,270 334,252 345,250 391,250 399,254 414,250 463,254 536,250 542,254 590,254 602,248 648,248 654,253 674,248 690,253 829,251 850,253 853,267 847,274 598,271 588,275 334,275"/>
+        <Baseline points="333,270 853,267"/>
+        <TextEquiv>
+          <Unicode>pendant plusieurs années et modifiées chaque année de maniè-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2015438b" >
+        <Coords points="332,295 334,281 380,281 389,277 402,281 460,281 465,277 489,281 503,277 510,282 665,278 688,284 701,279 724,284 729,279 737,284 755,284 759,279 822,284 832,279 861,284 864,299 860,305 853,301 844,306 831,301 795,306 715,306 710,301 691,306 651,305 645,300 636,305 628,300 594,305 588,300 578,305 510,305 472,299 465,304 446,299 333,302"/>
+        <Baseline points="332,295 864,299"/>
+        <TextEquiv>
+          <Unicode>re à tenir compte des progrès essentiels de la science. Bien</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_67c2a274" >
+        <Coords points="333,326 339,308 547,307 834,308 861,311 864,326 850,331 540,327 335,331"/>
+        <Baseline points="333,326 864,326"/>
+        <TextEquiv>
+          <Unicode>que ces progrès doivent sans aucun doute poursuivre leur évo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ddd63124" >
+        <Coords points="334,348 358,359 375,354 407,359 423,354 428,359 443,354 479,359 509,359 515,354 521,359 778,354 782,365 778,369 335,368"/>
+        <Baseline points="335,349 355,356 366,367 443,367 453,359 468,359 475,366 783,366"/>
+        <TextEquiv>
+          <Unicode>~~~ ~~~ ~~~ ~~~ ~~~ ~~~ ~~~ ~~~ ~~~ ~~~</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e04b6f93" >
+        <Coords points="337,349 342,340 400,341 411,334 423,341 470,335 487,342 544,344 563,339 582,344 631,339 657,345 662,340 684,344 699,339 753,345 763,339 841,339 849,354 816,355 810,360 790,355 702,354 684,358 675,367 593,366 574,355 560,366 507,365 500,358 486,355 457,359 441,354 430,359 423,353 407,358 400,351 393,356 375,354 364,361 349,354 338,355"/>
+        <Baseline points="338,351 355,352 377,352 416,352 451,351 497,351 785,354 850,355"/>
+        <TextEquiv>
+          <Unicode>lution, il paraît possible de résumer la plupart des connais</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0c5895c6" >
+        <Coords points="504,340 506,331 515,327 730,327 778,331 782,339 755,344 506,342"/>
+        <Baseline points="504,340 782,339"/>
+        <TextEquiv>
+          <Unicode>~~~ ~~~ ~~~ ~~~ ~~~ ~~~</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_430f2c73" >
+        <Coords points="333,383 338,367 596,371 832,366 861,369 865,381 857,388 733,388 706,383 672,388 627,383 610,388 557,385 502,389 489,385 469,389 460,385 443,389 439,385 427,389 409,385 385,389 361,385 345,389 334,385"/>
+        <Baseline points="333,383 865,381"/>
+        <TextEquiv>
+          <Unicode>sances principales dans le domains considéré, sous une forme</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3dde5f30" >
+        <Coords points="331,409 332,396 344,394 836,394 860,395 864,410 826,415 744,412 739,416 723,412 713,416 690,412 682,416 659,412 640,416 332,414"/>
+        <Baseline points="332,410 865,411"/>
+        <TextEquiv>
+          <Unicode>devenue classique et ne pouvant subit en un temps prochain de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2cce3754" >
+        <Coords points="558,437 563,421 587,427 591,422 620,427 627,421 695,421 712,427 735,421 740,427 859,427 863,439 824,441 818,446 785,441 743,446 710,440 703,445 681,440 675,446 560,442"/>
+        <Baseline points="560,438 864,440"/>
+        <TextEquiv>
+          <Unicode>Tel est le but de cet ouvrage des-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f5251af1" >
+        <Coords points="333,468 334,454 344,450 853,450 857,466 852,474 334,472"/>
+        <Baseline points="333,468 857,466"/>
+        <TextEquiv>
+          <Unicode>tiné à ceux qui désirent se familiariser avec les sujets qui</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0b7fabfa" >
+        <Coords points="331,499 332,483 340,481 472,483 484,479 489,483 539,483 546,479 557,483 583,477 598,482 636,482 641,477 667,482 674,477 695,482 743,476 748,481 804,479 837,481 840,494 837,501 825,503 804,503 798,499 745,499 739,503 711,504 696,500 669,504 584,501 570,506 556,501 535,501 529,506 514,501 457,501 448,507 332,503"/>
+        <Baseline points="331,499 840,494"/>
+        <TextEquiv>
+          <Unicode>y sont traités, non pas dans leurs détails, mais seulement</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8ae5c74b" >
+        <Coords points="333,524 334,511 340,509 400,511 406,507 428,511 434,506 448,506 472,513 489,513 499,507 513,513 524,507 563,507 578,513 582,527 459,531 428,526 418,530 379,530 374,526 368,530 334,530"/>
+        <Baseline points="333,524 582,527"/>
+        <TextEquiv>
+          <Unicode>dans leurs lignes générales.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d4215439" >
+        <Coords points="690,534 692,510 699,506 716,510 738,506 776,510 778,534 772,538 692,535"/>
+        <Baseline points="690,534 778,534"/>
+        <TextEquiv>
+          <Unicode>~~~ ~~~</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_863798e7" >
+        <Coords points="360,557 361,531 442,531 452,541 638,541 650,531 665,530 678,540 701,535 725,538 732,534 748,540 797,540 806,530 825,530 834,540 865,540 868,551 865,562 846,556 796,556 780,562 740,556 731,562 681,562 665,556 654,563 631,557 621,562 607,558 602,563 574,563 560,557 533,563 509,557 480,563 470,558 398,563 385,557 361,563"/>
+        <Baseline points="361,558 418,554 870,553"/>
+        <TextEquiv>
+          <Unicode>La première partie de ces leçons comporte ~~~ étude des ions</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_751ccb8d" >
+        <Coords points="553,569 555,557 574,560 574,572 555,571"/>
+        <Baseline points="553,569 576,569"/>
+        <TextEquiv>
+          <Unicode>~~~</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1be49921" >
+        <Coords points="795,568 797,558 806,555 846,558 849,568 797,571"/>
+        <Baseline points="795,568 849,568"/>
+        <TextEquiv>
+          <Unicode>~~~</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_285deb61" >
+        <Coords points="332,584 333,570 342,565 356,571 386,565 393,572 402,567 434,571 456,565 475,572 499,568 513,571 526,565 575,571 589,564 596,570 622,564 643,571 652,564 685,563 721,569 732,564 738,570 861,570 865,581 853,589 824,583 813,589 752,589 745,584 697,589 686,584 665,590 623,585 578,590 571,584 533,584 508,591 490,587 477,591 467,585 457,591 439,585 425,591 418,587 403,591 398,585 333,591"/>
+        <Baseline points="332,584 865,581"/>
+        <TextEquiv>
+          <Unicode>formés dans les gaz,ainsi que celle des électrons,puis cel-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9c35349a" >
+        <Coords points="535,597 537,585 581,583 581,601 537,599"/>
+        <Baseline points="535,597 583,597"/>
+        <TextEquiv>
+          <Unicode>~~~</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c7d5e7c3" >
+        <Coords points="332,614 333,598 340,595 381,594 392,601 400,595 419,598 427,594 435,599 465,592 488,597 517,595 522,599 584,599 615,594 644,596 649,591 663,598 726,598 764,591 770,596 863,597 866,609 863,617 817,617 807,612 799,617 753,617 742,612 730,618 636,618 611,614 598,619 567,615 547,619 531,615 486,615 463,621 361,616 334,619"/>
+        <Baseline points="332,614 866,609"/>
+        <TextEquiv>
+          <Unicode>le des rayons qui sont ~~~ quand les gaz, sous faible densi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9a45eb64" >
+        <Coords points="335,642 337,623 434,629 492,623 519,629 539,623 561,628 662,622 670,628 703,628 731,627 740,621 753,627 765,621 776,625 811,621 818,627 885,627 888,638 884,646 868,649 776,649 766,642 755,649 740,642 704,642 694,650 661,650 652,645 645,650 522,645 504,651 481,651 466,644 358,644 347,650 337,646"/>
+        <Baseline points="335,642 888,638"/>
+        <TextEquiv>
+          <Unicode>té, sont traversés par un courant électrique. La deuxième par</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_717da07b" >
+        <Coords points="349,656 351,645 360,642 454,645 457,655 454,659 351,658"/>
+        <Baseline points="349,656 457,655"/>
+        <TextEquiv>
+          <Unicode>~~~ ~~~</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_757877d0" >
+        <Coords points="339,671 340,658 360,656 457,658 493,651 514,658 535,654 556,657 562,652 574,658 584,651 597,657 610,650 630,656 644,650 652,655 682,650 689,656 699,656 705,650 744,650 753,657 762,652 775,657 786,650 793,655 805,650 814,655 838,652 857,657 860,669 858,678 758,675 743,681 731,675 602,675 597,681 571,678 544,685 341,683"/>
+        <Baseline points="339,671 860,669"/>
+        <TextEquiv>
+          <Unicode>tie comporte l&#39;étude des radioéléments et des rayons qu&#39;ils</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_430ef456" >
+        <Coords points="334,700 340,684 419,689 421,700 419,706 337,704"/>
+        <Baseline points="334,700 421,700"/>
+        <TextEquiv>
+          <Unicode>émettent.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_82e639ba" >
+        <Coords points="368,726 371,709 382,713 408,709 414,715 429,709 440,716 462,716 476,708 512,708 521,715 557,710 570,715 589,713 597,706 608,712 615,708 621,713 634,706 649,713 689,713 751,706 758,712 783,712 798,705 840,711 844,725 839,731 825,729 818,735 798,729 756,737 744,732 729,736 722,730 690,738 585,731 515,732 510,737 479,736 474,740 369,740"/>
+        <Baseline points="369,727 421,731 481,727 576,731 845,726"/>
+        <TextEquiv>
+          <Unicode>Cette association n&#39;est point fortuite ; elle est moti</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_73b6dd30" >
+        <Coords points="520,743 522,731 627,732 632,733 635,743 522,745"/>
+        <Baseline points="520,743 635,743"/>
+        <TextEquiv>
+          <Unicode>~~~</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5f383b0a" >
+        <Coords points="335,758 337,740 396,745 419,740 436,745 587,745 638,744 648,739 699,744 757,739 799,744 819,739 849,744 852,756 840,763 790,759 770,764 763,759 735,764 715,759 690,764 672,759 609,764 595,759 589,764 562,765 501,765 493,760 479,765 409,765 403,760 349,765 337,760"/>
+        <Baseline points="335,758 852,756"/>
+        <TextEquiv>
+          <Unicode>vée par l&#39;analogie extrêmement étroite qui existe entre les</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_72cc1779" >
+        <Coords points="335,786 341,767 356,773 371,773 376,767 400,773 432,773 438,769 442,773 531,773 539,769 555,773 561,767 585,772 609,767 615,773 663,773 669,767 683,767 689,773 759,773 782,767 809,772 814,767 825,773 843,771 845,786 831,794 778,794 773,790 732,790 726,794 699,790 692,794 645,794 641,790 614,790 609,794 522,794 516,790 503,794 430,794 412,790 401,794 338,793"/>
+        <Baseline points="335,786 845,786"/>
+        <TextEquiv>
+          <Unicode>radiations des corps radioactifs et celles qui sont émises</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9c9bfbc2" >
+        <Coords points="335,817 337,796 364,801 380,801 386,796 401,801 413,796 429,801 497,801 526,794 543,799 556,796 562,800 576,794 593,794 598,800 644,800 652,794 672,800 686,794 695,800 706,796 717,799 726,793 744,799 762,793 829,799 849,794 854,799 883,799 886,813 883,819 860,820 769,820 763,814 755,820 610,816 337,819"/>
+        <Baseline points="335,817 886,813"/>
+        <TextEquiv>
+          <Unicode>lors du passage du courant dans les gaz raréfiés, analogie qui</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e08807dc" >
+        <Coords points="325,846 326,834 356,830 415,834 427,830 524,828 542,833 548,828 563,833 578,828 583,833 597,827 625,827 631,832 641,827 662,832 669,827 684,832 861,828 870,830 873,841 871,846 857,845 851,850 612,847 573,852 564,847 526,852 510,847 494,852 462,847 432,848 425,853 412,848 376,853 365,848 354,853 349,848 327,848"/>
+        <Baseline points="325,846 873,841"/>
+        <TextEquiv>
+          <Unicode>est mise en évidence d&#39;une manière de plus en plus complète,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cd692440" >
+        <Coords points="333,873 337,854 347,859 371,859 375,854 384,859 457,859 469,854 487,859 500,854 601,859 605,853 618,858 624,853 634,858 640,853 647,858 704,858 709,853 721,858 739,858 744,853 756,858 796,858 802,853 833,858 844,853 849,858 873,858 877,871 874,877 787,877 771,881 706,881 702,877 691,881 661,877 655,881 627,878 589,882 335,880"/>
+        <Baseline points="333,873 877,871"/>
+        <TextEquiv>
+          <Unicode>ç mesure que s&#39;étend la documentation expérimentale. Il n&#39;est</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a248770b" >
+        <Coords points="335,902 339,884 359,888 382,884 409,884 414,888 462,884 472,888 481,884 489,888 509,882 537,887 645,882 657,887 685,881 696,886 773,881 778,886 857,886 860,899 849,906 338,905"/>
+        <Baseline points="335,902 860,899"/>
+        <TextEquiv>
+          <Unicode>pas douteux aujourd&#39;hui qu&#39;il n&#39;existe aucune différence es-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c418afc7" >
+        <Coords points="342,931 344,909 508,907 528,907 539,918 568,914 590,919 605,911 645,918 663,911 671,917 681,907 695,917 704,912 715,917 849,914 852,926 843,934 712,935 697,931 692,935 671,936 649,931 634,936 628,931 616,936 598,932 528,933 523,938 519,933 477,933 470,939 462,933 426,933 367,938 356,934 345,940"/>
+        <Baseline points="344,932 354,931 484,934 853,927"/>
+        <TextEquiv>
+          <Unicode>sentielle de nature entre les rayons émis dans les deux cas</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_469ddcaf" >
+        <Coords points="356,945 358,934 372,933 704,933 731,935 735,944 358,946"/>
+        <Baseline points="356,945 735,944"/>
+        <TextEquiv>
+          <Unicode>~~~ ~~~ ~~~ ~~~ ~~~ ~~~ ~~~ ~~~</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fce63877" >
+        <Coords points="339,961 340,946 499,949 544,945 668,948 820,944 840,947 844,958 841,1009 829,1018 817,1010 809,1015 797,1009 780,1018 701,1018 691,1009 670,1010 664,1016 654,1010 632,1019 611,1013 604,1018 595,1009 570,1009 556,1019 524,1019 512,1009 481,1010 466,1019 454,1010 418,1015 409,1010 356,1010 348,1018 341,1015"/>
+        <Baseline points="339,961 844,958"/>
+        <TextEquiv>
+          <Unicode>considérés , seul, le mode de production se présente d&#39;une</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

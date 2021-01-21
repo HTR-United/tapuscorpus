@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-01-21T19:45:05.255153+00:00</Created>
+    <LastChange>2021-01-21T19:45:05.255175+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Fonds_Oulipo_Dossiers_mensuels_de_[...]_btv1b10010116f_22.jpeg" imageWidth="1024" imageHeight="1332">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_fe2dce71" >
+        <Coords points="942,67 944,44 967,49 979,38 996,41 997,82 964,82 945,75"/>
+        <Baseline points="942,67 999,65"/>
+        <TextEquiv>
+          <Unicode>016</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9e1711c8" >
+        <Coords points="252,333 252,303 287,300 292,330 270,339 253,334"/>
+        <Baseline points="252,333 292,330"/>
+        <TextEquiv>
+          <Unicode>XI</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_237b2748" >
+        <Coords points="308,331 310,316 334,308 343,316 358,310 363,315 382,310 387,316 413,316 423,308 449,308 457,316 472,316 482,309 494,313 502,308 526,308 554,309 557,331 528,339 516,334 503,339 428,334 397,339 366,335 327,339 310,335"/>
+        <Baseline points="308,331 557,331"/>
+        <TextEquiv>
+          <Unicode>l&#39;offense alarme hélée</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9f710257" >
+        <Coords points="315,362 316,348 326,342 398,348 405,341 417,346 436,341 442,347 493,347 496,360 490,369 427,368 417,364 404,370 395,365 385,365 379,370 367,365 343,370 335,365 316,365"/>
+        <Baseline points="315,362 496,360"/>
+        <TextEquiv>
+          <Unicode>réside et dresse</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_252b1b61" >
+        <Coords points="315,392 317,375 336,370 362,375 380,370 392,375 419,368 426,374 454,369 459,375 466,370 485,375 493,368 516,368 529,374 543,368 548,374 556,370 563,375 599,375 601,392 599,402 570,402 560,397 540,402 528,397 515,402 495,397 457,402 445,398 435,402 365,402 358,397 317,400"/>
+        <Baseline points="315,392 601,392"/>
+        <TextEquiv>
+          <Unicode>les citronniers rafale mis</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bacf9d1f" >
+        <Coords points="315,421 317,405 325,401 447,405 462,400 483,405 499,400 508,405 534,400 541,405 576,401 604,406 638,401 648,406 665,401 677,406 711,406 716,401 740,406 767,401 782,406 795,401 800,406 816,401 838,404 840,424 829,431 785,431 774,427 763,431 746,427 740,431 721,431 717,427 696,427 691,431 660,431 655,427 641,431 631,427 578,431 560,426 543,430 534,426 523,430 513,427 467,430 463,426 316,429"/>
+        <Baseline points="315,421 840,424"/>
+        <TextEquiv>
+          <Unicode>toussez trains pénis en prix d&#39;entrée danse entre</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c985050e" >
+        <Coords points="315,453 316,436 323,434 337,438 428,438 445,434 489,438 514,434 518,438 584,435 606,439 633,435 730,439 745,435 753,439 756,456 750,462 740,458 721,462 701,462 697,458 685,462 675,458 648,458 644,462 623,458 548,462 524,457 514,461 490,461 484,457 316,460"/>
+        <Baseline points="315,453 756,456"/>
+        <TextEquiv>
+          <Unicode>pèle chique art nié l&#39;hydre effet sentait</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7a186834" >
+        <Coords points="314,487 318,470 352,467 365,471 374,467 385,471 393,466 404,470 415,466 423,470 459,469 463,485 459,489 315,487"/>
+        <Baseline points="314,487 463,485"/>
+        <TextEquiv>
+          <Unicode>marbre à nous</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_14d9885f" >
+        <Coords points="314,515 315,497 322,496 329,501 372,501 380,496 400,501 436,496 455,500 470,496 475,500 484,497 509,502 526,499 603,502 609,497 648,497 655,501 668,497 698,498 703,517 664,522 315,518"/>
+        <Baseline points="314,515 703,517"/>
+        <TextEquiv>
+          <Unicode>tends ta main riez court peau d&#39;elle</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3a61fc65" >
+        <Coords points="314,547 315,530 330,527 365,533 370,528 380,533 393,527 415,533 478,533 487,528 497,533 515,532 520,527 530,532 544,531 549,526 581,532 595,531 600,526 628,526 635,532 690,532 694,545 690,552 315,550"/>
+        <Baseline points="314,547 694,545"/>
+        <TextEquiv>
+          <Unicode>très ample eunuque à vêpres hirsute</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_12af5c2b" >
+        <Coords points="312,577 314,563 332,559 338,563 352,558 360,563 370,563 376,558 412,558 417,563 430,563 436,558 443,563 448,559 458,563 475,558 482,563 586,563 593,558 614,558 619,563 646,559 675,563 680,558 714,563 721,559 745,563 747,577 745,588 715,588 705,581 698,586 690,581 655,581 641,588 631,581 603,587 581,582 575,588 550,588 541,581 512,588 483,588 472,581 443,583 438,588 370,587 365,582 333,588 327,583 314,584"/>
+        <Baseline points="312,577 747,577"/>
+        <TextEquiv>
+          <Unicode>mont dit mont deux pas narine air d&#39;anis</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4273d19d" >
+        <Coords points="312,608 314,590 318,588 378,594 388,594 396,588 470,594 480,588 492,594 494,608 485,614 472,610 447,614 434,610 428,614 400,610 319,614 314,610"/>
+        <Baseline points="312,608 494,608"/>
+        <TextEquiv>
+          <Unicode>milice taire coi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f6c98b74" >
+        <Coords points="239,698 242,677 284,674 284,700 242,707"/>
+        <Baseline points="239,698 286,698"/>
+        <TextEquiv>
+          <Unicode>XII</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b0674564" >
+        <Coords points="309,697 312,677 338,677 346,682 362,682 370,677 428,682 447,677 466,678 474,683 539,683 545,678 556,678 565,683 585,683 587,699 584,707 576,702 528,707 483,702 427,705 419,701 402,705 310,703"/>
+        <Baseline points="309,697 587,699"/>
+        <TextEquiv>
+          <Unicode>l&#39;oeuf en selle armez les</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2fb2855b" >
+        <Coords points="313,728 314,711 326,707 345,707 349,711 375,707 380,712 394,707 448,707 453,711 462,707 466,711 500,711 504,725 482,734 442,734 433,730 409,734 392,729 314,731"/>
+        <Baseline points="313,728 504,725"/>
+        <TextEquiv>
+          <Unicode>saisie traîtresse</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_df00e5d0" >
+        <Coords points="312,758 317,739 359,742 375,738 422,742 433,738 475,738 479,742 577,738 581,742 617,742 619,758 598,764 550,764 536,760 527,764 474,760 462,764 314,761"/>
+        <Baseline points="312,758 619,758"/>
+        <TextEquiv>
+          <Unicode>les litres aux nerfs infamie</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_29f0b100" >
+        <Coords points="308,788 310,772 320,768 327,772 398,772 404,767 463,767 468,772 486,769 494,773 512,768 528,773 540,768 591,773 679,769 695,774 761,774 768,770 804,769 814,774 837,772 839,791 836,799 816,793 753,794 748,799 644,792 627,792 621,798 543,798 538,793 520,798 508,792 439,796 309,793"/>
+        <Baseline points="308,788 839,791"/>
+        <TextEquiv>
+          <Unicode>tu sais trempe et nie sans prudent trou tant sang</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0658fbf5" >
+        <Coords points="306,818 308,804 323,804 334,796 352,796 363,804 380,796 393,803 415,796 426,804 442,804 453,796 469,796 476,803 498,796 504,801 548,798 556,805 568,805 575,799 586,804 614,801 620,805 667,801 691,805 694,820 670,823 664,829 656,824 627,824 621,830 591,824 578,829 569,823 549,823 540,829 519,824 507,830 485,823 474,829 458,824 437,828 430,823 307,829"/>
+        <Baseline points="306,818 694,820"/>
+        <TextEquiv>
+          <Unicode>pêche Icare né gui très fesse entré</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e38bbc74" >
+        <Coords points="312,850 314,835 350,836 358,831 389,836 399,831 410,836 435,831 450,836 480,833 489,836 492,850 475,859 367,859 362,854 342,859 337,854 314,854"/>
+        <Baseline points="312,850 492,850"/>
+        <TextEquiv>
+          <Unicode>mare bras nouent</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4b7e1707" >
+        <Coords points="310,880 313,862 347,865 353,860 384,865 403,865 414,860 476,860 482,865 529,865 537,860 586,865 591,860 618,860 656,865 658,880 649,890 633,890 628,885 609,890 588,885 573,890 462,890 457,885 448,890 376,890 372,885 362,890 346,885 322,890 313,885"/>
+        <Baseline points="310,880 658,880"/>
+        <TextEquiv>
+          <Unicode>tente amarrée cours d&#39;eau d&#39;aile</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ed03a004" >
+        <Coords points="312,911 316,890 324,894 366,894 370,890 379,894 412,890 427,894 476,890 488,894 497,890 504,894 528,891 533,895 537,891 600,891 610,895 625,891 689,895 699,891 718,895 720,913 717,923 694,923 681,917 668,923 659,919 651,923 645,919 625,923 544,919 519,923 512,917 488,922 483,916 467,922 460,916 446,922 428,916 418,922 400,922 392,916 340,916 335,922 313,917"/>
+        <Baseline points="312,911 720,913"/>
+        <TextEquiv>
+          <Unicode>treize ans lune en cas vais pire soute</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d34f1a0d" >
+        <Coords points="309,940 310,922 439,922 450,926 468,922 567,922 580,927 613,927 621,923 681,927 698,923 701,943 693,951 683,946 651,946 646,951 618,946 599,951 568,945 453,950 435,944 410,949 397,944 383,949 310,944"/>
+        <Baseline points="309,940 701,943"/>
+        <TextEquiv>
+          <Unicode>Condé ment de paix mariné nerf damné</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3d22c2ef" >
+        <Coords points="312,974 314,957 330,955 504,955 519,957 521,974 498,986 492,982 484,986 435,986 413,977 342,977 325,986 314,985"/>
+        <Baseline points="312,974 521,974"/>
+        <TextEquiv>
+          <Unicode>qui lisse tord quoi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-01-21T19:45:04.835671+00:00</Created>
+    <LastChange>2021-01-21T19:45:04.835702+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="[10_lettres_autographes_signées_d&#39;A_[...]Gaillard-Chapelle_A_btv1b530544928_9.jpeg" imageWidth="1024" imageHeight="1312">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_6d6fbb08" >
+        <Coords points="118,144 119,113 125,115 130,111 159,114 168,121 205,112 215,121 226,121 239,112 253,112 264,120 285,110 309,110 319,120 346,120 350,142 342,151 270,147 265,151 225,153 213,148 201,153 196,148 180,148 172,153 143,153 119,148"/>
+        <Baseline points="118,144 350,142"/>
+        <TextEquiv>
+          <Unicode>A.GAILLARD-CHAPELLE</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0a8eab1f" >
+        <Coords points="142,181 144,156 230,156 246,161 256,157 271,161 315,158 321,161 323,181 321,185 144,182"/>
+        <Baseline points="142,181 323,181"/>
+        <TextEquiv>
+          <Unicode>Chef Machiniste</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a5825330" >
+        <Coords points="120,198 122,184 130,180 144,185 229,182 254,186 361,181 368,186 370,201 364,208 324,207 315,212 307,206 294,213 270,206 258,212 231,205 222,209 212,206 169,212 121,208"/>
+        <Baseline points="120,198 370,201"/>
+        <TextEquiv>
+          <Unicode>Constructeur Scénique</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b71e4487" >
+        <Coords points="129,237 130,220 141,217 262,217 282,221 316,217 361,221 364,239 130,241"/>
+        <Baseline points="129,237 364,239"/>
+        <TextEquiv>
+          <Unicode>32 ,rue des Agnettes</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_93e31fcc" >
+        <Coords points="166,256 167,240 235,238 315,240 321,259 278,266 274,263 256,278 229,277 220,270 203,277 167,274"/>
+        <Baseline points="166,256 321,259"/>
+        <TextEquiv>
+          <Unicode>_GENNEVILLIERS</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_29dca792" >
+        <Coords points="481,238 482,220 504,220 521,214 573,214 589,221 608,215 618,221 652,217 666,221 672,217 690,221 693,240 690,247 658,247 654,251 563,247 506,250 482,246"/>
+        <Baseline points="482,239 694,241"/>
+        <TextEquiv>
+          <Unicode>GENNEVILLIER, le</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e4da7c35" >
+        <Coords points="269,277 270,261 312,259 318,254 327,260 347,254 358,260 362,275 352,283 271,282"/>
+        <Baseline points="269,277 362,275"/>
+        <TextEquiv>
+          <Unicode>(Seine)</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_099b0c6b" >
+        <Coords points="118,312 119,291 180,289 227,294 237,288 245,293 259,288 266,295 300,295 316,288 339,293 351,288 356,294 366,291 369,314 356,324 344,320 318,324 306,320 228,324 220,319 214,324 175,320 119,324"/>
+        <Baseline points="118,312 369,314"/>
+        <TextEquiv>
+          <Unicode>Tél. : Grésillons 17-42</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_595ef1d0" >
+        <Coords points="129,372 130,356 137,350 154,355 192,350 198,356 234,356 250,349 354,355 357,370 354,382 329,380 313,387 298,378 294,382 287,378 261,378 241,389 175,389 155,379 130,379"/>
+        <Baseline points="129,372 357,370"/>
+        <TextEquiv>
+          <Unicode>_Quelques _références</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_81197c9e" >
+        <Coords points="61,405 62,376 112,376 135,384 147,380 155,388 180,390 198,385 215,393 259,388 265,393 282,390 288,394 308,385 323,393 334,390 340,394 354,387 362,391 377,388 401,394 404,407 393,414 352,410 345,414 335,410 319,414 297,414 291,410 280,414 214,413 201,408 124,408 113,413 62,410"/>
+        <Baseline points="61,405 404,407"/>
+        <TextEquiv>
+          <Unicode>Ex-Chef des Bouffes Parisiens</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6078652d" >
+        <Coords points="86,427 90,408 108,413 124,408 132,413 149,407 182,412 199,407 206,425 203,429 87,429"/>
+        <Baseline points="86,427 206,425"/>
+        <TextEquiv>
+          <Unicode>de l&#39;Odéon</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f3104616" >
+        <Coords points="86,446 88,430 94,428 214,431 226,425 240,431 277,431 288,427 306,431 347,428 361,419 452,419 455,446 88,446"/>
+        <Baseline points="86,446 455,446"/>
+        <TextEquiv>
+          <Unicode>du Théâtre des Arts (Don Rouché)</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8e9b74a4" >
+        <Coords points="86,465 88,449 101,447 433,448 459,450 461,465 459,473 413,472 404,477 359,477 355,473 341,477 334,473 305,476 293,471 246,477 224,477 215,471 190,475 178,471 160,475 144,471 130,475 88,473"/>
+        <Baseline points="86,465 461,465"/>
+        <TextEquiv>
+          <Unicode>du Gd Théâtre des Champs-Elysées</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_870e6157" >
+        <Coords points="62,502 66,479 124,481 129,485 155,485 161,481 173,485 188,479 206,485 212,479 225,478 236,484 273,484 280,479 289,484 387,484 390,500 388,507 330,507 318,502 308,507 64,507"/>
+        <Baseline points="62,502 390,500"/>
+        <TextEquiv>
+          <Unicode>Constructeur des répertoires</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e922cdfb" >
+        <Coords points="86,522 88,504 100,509 134,504 148,509 160,502 178,508 202,504 208,509 216,504 234,509 264,505 305,509 313,504 335,509 359,505 367,509 374,505 387,509 451,509 464,502 498,502 501,522 498,528 450,528 441,523 434,528 343,528 339,523 332,528 309,528 305,523 274,528 117,523 111,528 88,528"/>
+        <Baseline points="86,522 501,522"/>
+        <TextEquiv>
+          <Unicode>du Théâtre Mogador (Cora Laparcerie)</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e94ee074" >
+        <Coords points="86,542 91,524 123,523 297,524 308,526 310,542 307,546 88,543"/>
+        <Baseline points="86,542 310,542"/>
+        <TextEquiv>
+          <Unicode>du Théâtre des Arts</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_66f5abdf" >
+        <Coords points="86,559 92,543 291,545 295,546 297,559 268,564 88,561"/>
+        <Baseline points="86,559 297,559"/>
+        <TextEquiv>
+          <Unicode>de l&#39;Opéra de Lyon</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0c5fa947" >
+        <Coords points="86,578 87,561 265,564 297,557 321,557 327,563 342,557 366,557 370,561 387,557 394,564 406,557 427,557 437,563 454,557 479,557 482,580 479,588 463,584 459,589 433,583 410,588 399,583 381,589 346,589 329,583 319,589 308,583 218,583 211,588 110,583 87,588"/>
+        <Baseline points="86,578 482,580"/>
+        <TextEquiv>
+          <Unicode>de la Salle des Fêtes de Montreuil</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8febfeb5" >
+        <Coords points="278,615 281,595 293,593 309,601 317,599 321,603 326,599 330,604 334,601 348,605 351,618 346,624 280,619"/>
+        <Baseline points="278,615 351,618"/>
+        <TextEquiv>
+          <Unicode>etc...</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>
