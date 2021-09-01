@@ -1,5 +1,4 @@
-[![CC BY 4.0][cc-by-shield]][cc-by]
-
+[![CC BY 4.0][cc-by-shield]][cc-by] ![Lines Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/4347188370a0daf230c7acfbe6b17449/raw/tapuscorpus_lines.json) ![Chars Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/4347188370a0daf230c7acfbe6b17449/raw/tapuscorpus_chars.json) ![Region Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/4347188370a0daf230c7acfbe6b17449/raw/tapuscorpus_regions.json)
 
 # TAPUSCORPUS
 ## Description
