@@ -1,0 +1,26 @@
+title : 'tapuscorpus'
+url: 'https://github.com/HTR-United/tapuscorpus.git'
+project-name: 'HTR-United'
+project-website: 'https://htr-united.github.io/'
+authors:
+    - name: 'Chagué'
+      surname: 'Alix'
+      roles:
+      - 'transcriber'
+      - 'project-manager'
+description: 'Various French typewritten documents from the 20th century'
+language: 'français'
+#other-languages:
+#    - "Optional"
+script: 'Latin'
+script-type: 'only-typed'
+time: 1900--1999
+hands: 
+    - count: '1-per-folder'
+      precision: 'exact'
+license:
+    - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+format: 'Page-XML'
+volume:
+    - {count: "4115", metric: "lines"}
+    - {count: "150", metric: "pages"}
