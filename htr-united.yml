@@ -1,3 +1,4 @@
+schema: "https://htr-united.github.io/2021-10-15/schema.json"
 title : 'tapuscorpus'
 url: 'https://github.com/HTR-United/tapuscorpus.git'
 project-name: 'HTR-United'
@@ -9,18 +10,21 @@ authors:
       - 'transcriber'
       - 'project-manager'
 description: 'Various French typewritten documents from the 20th century'
-language: 'français'
-#other-languages:
-#    - "Optional"
-script: 'Latin'
+language: 
+    - 'fra'
+script: 
+    - 'Latn'
 script-type: 'only-typed'
-time: 1900--1999
+time: 
+    notBefore: "1900"
+    notAfter: "1999"
 hands: 
-    - count: '1-per-folder'
-      precision: 'exact'
+    count: '1-per-folder'
+    precision: 'exact'
 license:
     - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
 format: 'Page-XML'
 volume:
-    - {count: "4115", metric: "lines"}
-    - {count: "150", metric: "pages"}
+    - {count: 4115, metric: "lines"}
+    - {count: 150, metric: "pages"}
+    - {count: 126189, metric: "characters"}
