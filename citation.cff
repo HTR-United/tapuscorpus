@@ -5,7 +5,7 @@ authors:
   given-names: "Alix"
   orcid: "https://orcid.org/0000-0002-0136-4434"
 title: "tapuscorpus"
-version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2021-09-01
+version: 1.0
+doi: 10.5072/zenodo.977649 
+date-released: 2021-12-07
 url: "https://github.com/HTR-United/tapuscorpus"
