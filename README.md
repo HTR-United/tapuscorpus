@@ -1,4 +1,7 @@
-[![CC BY 4.0][cc-by-shield]][cc-by] ![Lines Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/4347188370a0daf230c7acfbe6b17449/raw/tapuscorpus_lines.json) ![Chars Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/4347188370a0daf230c7acfbe6b17449/raw/tapuscorpus_chars.json) ![Region Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/4347188370a0daf230c7acfbe6b17449/raw/tapuscorpus_regions.json)
+[![CC BY 4.0][cc-by-shield]][cc-by] [![DOI](https://sandbox.zenodo.org/badge/331648244.svg)](https://sandbox.zenodo.org/badge/latestdoi/331648244)
+
+
+![Lines Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/4347188370a0daf230c7acfbe6b17449/raw/tapuscorpus_lines.json) ![Chars Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/4347188370a0daf230c7acfbe6b17449/raw/tapuscorpus_chars.json) ![Region Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/4347188370a0daf230c7acfbe6b17449/raw/tapuscorpus_regions.json)
 
 # TAPUSCORPUS
 ## Description
