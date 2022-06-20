@@ -1,9 +1,11 @@
+# TAPUSCORPUS
+
 [![CC BY 4.0][cc-by-shield]][cc-by] [![DOI](https://sandbox.zenodo.org/badge/331648244.svg)](https://sandbox.zenodo.org/badge/latestdoi/331648244)
 
 
-![Lines Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/4347188370a0daf230c7acfbe6b17449/raw/tapuscorpus_lines.json) ![Chars Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/4347188370a0daf230c7acfbe6b17449/raw/tapuscorpus_chars.json) ![Region Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/4347188370a0daf230c7acfbe6b17449/raw/tapuscorpus_regions.json)
+<!-- updated by workflow -->
+![Files Badges](badges/files.svg)  ![Regions Badges](badges/regions.svg)  ![Lines Badges](badges/lines.svg)  ![Chars Badges](badges/characters.svg)
 
-# TAPUSCORPUS
 ## Description
 Ground Truth dataset for French typewritten OCR
 

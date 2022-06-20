@@ -1,41 +1,44 @@
-schema: "https://htr-united.github.io/schema/2021-10-15/schema.json"
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: Tapus Corpus
-url: 'https://github.com/HTR-United/tapuscorpus'
-project-name: >
-    HTR-United
-project-website: 'https://htr-united.github.io/'
+url: https://github.com/HTR-United/tapuscorpus
+project-name: 'HTR-United
+
+  '
+project-website: https://htr-united.github.io/
 authors:
-    - name: 'Chagué'
-      surname: 'Alix'
-      roles:
-      - 'transcriber'
-      - 'project-manager'
-description: >
-  Ground truth based on a variety of French typewritten documents from the 20th century. Contains exerpts plays, poems, letters and administrative reports.
+- name: "Chagu\xE9"
+  surname: Alix
+  roles:
+  - transcriber
+  - project-manager
+description: 'Ground truth based on a variety of French typewritten documents from
+  the 20th century. Contains exerpts plays, poems, letters and administrative reports.'
 language:
-  - fra
-script: 
-  - Latn
-script-type: 'only-typed'
-time: 
-  notBefore: "1900"
-  notAfter: "1999"
-hands: 
-  count: '1-per-folder'
-  precision: 'exact'
+- fra
+script:
+- iso: Latn
+script-type: only-typed
+time:
+  notBefore: '1900'
+  notAfter: '1999'
+hands:
+  count: 1-per-folder
+  precision: exact
 license:
-  - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
-format: 'Page-XML'
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+format: Page-XML
 volume:
-  - metric: 'pages'
-    count: 150
-  - metric: 'lines'
-    count: 4115
-  - metric: 'characters'
-    count: 126189
+- metric: pages
+  count: 150
+- metric: lines
+  count: 4115
+- metric: characters
+  count: 126189
 sources:
-  - reference: 'Chagué, A. (2021). Tapuscorpus (Version 1.0) [Computer software]. https://doi.org/10.5072/zenodo.977649'
-    link: ''
-citation-file-link: 'https://github.com/HTR-United/tapuscorpus/raw/main/citation.cff'
-transcription-guidelines: >
-    See README in repository.
+- reference: "Chagu\xE9, A. (2021). Tapuscorpus (Version 1.0) [Computer software].\
+    \ https://doi.org/10.5072/zenodo.977649"
+  link: ''
+citation-file-link: https://github.com/HTR-United/tapuscorpus/raw/main/citation.cff
+transcription-guidelines: 'See README in repository.'
+production-software: eScriptorium + Kraken
