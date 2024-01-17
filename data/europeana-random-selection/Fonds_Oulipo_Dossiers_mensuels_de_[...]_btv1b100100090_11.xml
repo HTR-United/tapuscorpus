@@ -1,178 +1,342 @@
-<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
-  <Metadata>
-	<Creator>escriptorium</Creator>
-	<Created>2021-01-21T19:45:05.353118+00:00</Created>
-    <LastChange>2021-01-21T19:45:05.353140+00:00</LastChange>
-  </Metadata>
-  <Page imageFilename="Fonds_Oulipo_Dossiers_mensuels_de_[...]_btv1b100100090_11.jpeg" imageWidth="1024" imageHeight="1337">
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Fonds_Oulipo_Dossiers_mensuels_de_[...]_btv1b100100090_11.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10358" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT10357" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10356" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10355" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10354" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10353" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4055" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/><OtherTag ID="LT4057" LABEL="DefaultLine:Typewritten" DESCRIPTION="line type DefaultLine:Typewritten"/><OtherTag ID="LT4056" LABEL="DefaultLine:Handwritten" DESCRIPTION="line type DefaultLine:Handwritten"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1024"
+          HEIGHT="1337"
+          PHYSICAL_IMG_NR="44"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1024"
+                  HEIGHT="1337">
+        
+        <TextBlock HPOS="106"
+                   VPOS="119"
+                   WIDTH="898"
+                   HEIGHT="694"
+                   ID="eSc_textblock_59f2d1c6"
+                   TAGREFS="BT10353">
+          <Shape><Polygon POINTS="106 813 106 119 1004 119 1004 813"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d22310db"
+                    TAGREFS="LT4057"
+                    BASELINE="490 159 537 155" 
+                    HPOS="490"
+                    VPOS="137"
+                    WIDTH="44"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="490 159 490 137 532 138 534 169 522 163 515 170 508 164 492 164"/></Shape>
+	    <String CONTENT="-4-"
+                    HPOS="490"
+                    VPOS="137"
+                    WIDTH="44"
+                    HEIGHT="33"></String>
+          </TextLine>
 
-    
+          
+          
+          <TextLine ID="eSc_line_b6b798d7"
+                    TAGREFS="LT4057"
+                    BASELINE="207 225 759 221" 
+                    HPOS="207"
+                    VPOS="194"
+                    WIDTH="552"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="207 225 208 197 213 202 219 198 233 202 242 196 255 202 265 196 278 202 285 196 294 200 298 196 334 196 342 201 347 196 363 196 369 202 384 202 391 194 402 201 424 201 432 196 463 201 471 194 535 199 549 196 553 200 573 194 586 200 603 200 609 194 622 200 680 200 685 196 691 200 739 196 746 200 755 196 759 221 747 233 718 227 698 227 691 233 667 233 659 227 617 227 611 232 603 228 563 228 542 235 525 235 515 228 499 235 471 230 422 235 415 228 405 228 382 236 355 230 340 235 294 236 287 231 268 236 260 229 244 233 209 229"/></Shape>
+	    <String CONTENT="Sur ces paroles d&#x27;espoir, la séance est levée."
+                    HPOS="207"
+                    VPOS="194"
+                    WIDTH="552"
+                    HEIGHT="42"></String>
+          </TextLine>
 
-    
-    <TextRegion id="eSc_dummyblock_">
-    
-    
-      <TextLine id="eSc_line_8b19934f" >
-        <Coords points="934,69 937,51 944,43 960,43 971,54 983,50 993,54 992,82 966,85 950,75 935,75"/>
-        <Baseline points="934,69 996,71"/>
-        <TextEquiv>
-          <Unicode>011</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_7841680e"
+                    TAGREFS="LT4057"
+                    BASELINE="208 266 593 266" 
+                    HPOS="208"
+                    VPOS="245"
+                    WIDTH="385"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="208 266 210 245 222 245 231 251 280 250 295 245 305 249 325 245 332 251 366 251 373 245 387 245 394 251 410 245 444 251 469 251 480 245 514 251 521 245 547 245 552 250 566 247 579 251 591 245 593 266 589 274 505 271 482 277 470 271 463 277 435 271 415 277 391 272 369 277 210 272"/></Shape>
+	    <String CONTENT="La prochaine réunion aura lieu :"
+                    HPOS="208"
+                    VPOS="245"
+                    WIDTH="385"
+                    HEIGHT="32"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_d22310db" >
-        <Coords points="490,159 490,137 532,138 534,169 522,163 515,170 508,164 492,164"/>
-        <Baseline points="490,159 537,155"/>
-        <TextEquiv>
-          <Unicode>-4-</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_c58ef820"
+                    TAGREFS="LT4057"
+                    BASELINE="208 308 569 308" 
+                    HPOS="208"
+                    VPOS="281"
+                    WIDTH="361"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="208 308 210 285 241 287 290 281 299 286 367 282 391 286 398 281 408 287 550 282 567 287 569 308 567 318 480 311 454 318 425 311 414 318 394 318 387 311 366 316 349 311 300 313 294 318 239 311 230 318 210 318"/></Shape>
+	    <String CONTENT="LE JEUDI 17 AOUT, à 18 HEURES,"
+                    HPOS="208"
+                    VPOS="281"
+                    WIDTH="361"
+                    HEIGHT="37"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_b6b798d7" >
-        <Coords points="207,225 208,197 213,202 219,198 233,202 242,196 255,202 265,196 278,202 285,196 294,200 298,196 334,196 342,201 347,196 363,196 369,202 384,202 391,194 402,201 424,201 432,196 463,201 471,194 535,199 549,196 553,200 573,194 586,200 603,200 609,194 622,200 680,200 685,196 691,200 739,196 746,200 755,196 759,221 747,233 718,227 698,227 691,233 667,233 659,227 617,227 611,232 603,228 563,228 542,235 525,235 515,228 499,235 471,230 422,235 415,228 405,228 382,236 355,230 340,235 294,236 287,231 268,236 260,229 244,233 209,229"/>
-        <Baseline points="207,225 759,221"/>
-        <TextEquiv>
-          <Unicode>Sur ces paroles d&#39;espoir, la séance est levée.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_1ccaa32e"
+                    TAGREFS="LT4057"
+                    BASELINE="138 372 443 374" 
+                    HPOS="138"
+                    VPOS="350"
+                    WIDTH="305"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="138 372 141 353 190 350 200 355 435 354 440 355 443 374 437 379 406 376 377 377 372 382 359 377 354 382 335 382 329 377 269 381 261 376 254 381 229 376 225 381 213 375 197 381 174 375 147 379 139 375"/></Shape>
+	    <String CONTENT="et de Chronomie, sis au"
+                    HPOS="138"
+                    VPOS="350"
+                    WIDTH="305"
+                    HEIGHT="32"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_7841680e" >
-        <Coords points="208,266 210,245 222,245 231,251 280,250 295,245 305,249 325,245 332,251 366,251 373,245 387,245 394,251 410,245 444,251 469,251 480,245 514,251 521,245 547,245 552,250 566,247 579,251 591,245 593,266 589,274 505,271 482,277 470,271 463,277 435,271 415,277 391,272 369,277 210,272"/>
-        <Baseline points="208,266 593,266"/>
-        <TextEquiv>
-          <Unicode>La prochaine réunion aura lieu :</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_8c2d0e42"
+                    TAGREFS="LT4057"
+                    BASELINE="209 348 949 352" 
+                    HPOS="209"
+                    VPOS="323"
+                    WIDTH="740"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="209 348 213 325 219 329 251 329 269 323 284 324 289 329 316 329 322 324 332 329 359 329 367 323 376 329 387 329 394 323 410 323 416 329 451 326 456 330 480 330 484 326 491 330 498 324 515 324 529 330 550 324 564 324 572 330 621 329 634 324 658 330 697 330 704 325 724 325 737 332 779 332 794 325 803 332 833 327 880 330 892 325 920 330 925 325 946 325 949 352 941 359 909 354 901 358 856 354 845 359 830 354 811 354 805 359 769 359 756 354 740 354 733 359 716 354 684 358 677 353 655 353 648 358 630 358 623 353 608 357 557 353 545 358 531 358 524 353 505 358 467 358 452 352 400 352 395 356 338 353 327 357 305 353 298 357 274 356 269 352 211 354"/></Shape>
+	    <String CONTENT="dans les jardins du Régent de Stratégie et Tactique Scacchiale"
+                    HPOS="209"
+                    VPOS="323"
+                    WIDTH="740"
+                    HEIGHT="36"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_c58ef820" >
-        <Coords points="208,308 210,285 241,287 290,281 299,286 367,282 391,286 398,281 408,287 550,282 567,287 569,308 567,318 480,311 454,318 425,311 414,318 394,318 387,311 366,316 349,311 300,313 294,318 239,311 230,318 210,318"/>
-        <Baseline points="208,308 569,308"/>
-        <TextEquiv>
-          <Unicode>LE JEUDI 17 AOUT, à 18 HEURES,</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_92a628b0"
+                    TAGREFS="LT4057"
+                    BASELINE="208 404 981 404" 
+                    HPOS="208"
+                    VPOS="378"
+                    WIDTH="773"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="208 404 210 386 219 378 241 386 280 386 288 379 300 386 346 386 361 379 368 385 386 379 407 386 417 379 425 386 434 381 443 386 457 386 467 379 475 386 504 386 521 378 533 386 548 386 559 379 568 386 613 386 625 378 641 378 648 384 661 378 673 386 683 379 713 386 725 378 744 383 912 378 920 385 937 379 947 386 963 386 971 381 978 386 981 404 978 414 968 421 941 421 930 412 888 412 870 421 839 418 827 412 803 412 787 421 773 416 761 421 749 412 671 421 661 421 650 412 630 420 615 414 600 421 532 421 515 412 498 412 491 417 483 412 470 412 456 421 434 421 424 412 401 412 391 420 382 412 318 412 300 420 277 420 266 414 255 420 210 418"/></Shape>
+	    <String CONTENT="23 route de la Reine (rez-de-chaussée à droite), BOULOGNE (Seine)"
+                    HPOS="208"
+                    VPOS="378"
+                    WIDTH="773"
+                    HEIGHT="43"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_1ccaa32e" >
-        <Coords points="138,372 141,353 190,350 200,355 435,354 440,355 443,374 437,379 406,376 377,377 372,382 359,377 354,382 335,382 329,377 269,381 261,376 254,381 229,376 225,381 213,375 197,381 174,375 147,379 139,375"/>
-        <Baseline points="138,372 443,374"/>
-        <TextEquiv>
-          <Unicode>et de Chronomie, sis au</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_e3cd7731"
+                    TAGREFS="LT4057"
+                    BASELINE="596 509 970 511" 
+                    HPOS="596"
+                    VPOS="483"
+                    WIDTH="374"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="596 509 598 483 607 491 650 491 656 485 664 491 683 491 690 484 717 491 725 483 755 483 763 491 788 492 797 492 805 484 812 489 825 484 844 492 865 490 871 484 929 491 957 489 968 492 970 511 967 515 944 515 938 520 925 514 908 514 902 520 878 520 872 514 865 520 854 520 849 514 807 514 790 520 757 513 737 514 733 519 713 513 693 519 661 519 654 513 597 519"/></Shape>
+	    <String CONTENT="Pour le Secrétaire D. Définitif"
+                    HPOS="596"
+                    VPOS="483"
+                    WIDTH="374"
+                    HEIGHT="37"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_8c2d0e42" >
-        <Coords points="209,348 213,325 219,329 251,329 269,323 284,324 289,329 316,329 322,324 332,329 359,329 367,323 376,329 387,329 394,323 410,323 416,329 451,326 456,330 480,330 484,326 491,330 498,324 515,324 529,330 550,324 564,324 572,330 621,329 634,324 658,330 697,330 704,325 724,325 737,332 779,332 794,325 803,332 833,327 880,330 892,325 920,330 925,325 946,325 949,352 941,359 909,354 901,358 856,354 845,359 830,354 811,354 805,359 769,359 756,354 740,354 733,359 716,354 684,358 677,353 655,353 648,358 630,358 623,353 608,357 557,353 545,358 531,358 524,353 505,358 467,358 452,352 400,352 395,356 338,353 327,357 305,353 298,357 274,356 269,352 211,354"/>
-        <Baseline points="209,348 949,352"/>
-        <TextEquiv>
-          <Unicode>dans les jardins du Régent de Stratégie et Tactique Scacchiale</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_347c102e"
+                    TAGREFS="LT4057"
+                    BASELINE="652 541 912 543" 
+                    HPOS="652"
+                    VPOS="521"
+                    WIDTH="260"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="652 541 654 524 658 523 782 521 797 525 829 522 837 527 895 522 909 527 912 543 899 545 892 552 881 552 872 545 859 552 778 545 753 551 736 544 709 545 698 551 685 547 654 551"/></Shape>
+	    <String CONTENT="Thier Marchant, S.P."
+                    HPOS="652"
+                    VPOS="521"
+                    WIDTH="260"
+                    HEIGHT="31"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_92a628b0" >
-        <Coords points="208,404 210,386 219,378 241,386 280,386 288,379 300,386 346,386 361,379 368,385 386,379 407,386 417,379 425,386 434,381 443,386 457,386 467,379 475,386 504,386 521,378 533,386 548,386 559,379 568,386 613,386 625,378 641,378 648,384 661,378 673,386 683,379 713,386 725,378 744,383 912,378 920,385 937,379 947,386 963,386 971,381 978,386 981,404 978,414 968,421 941,421 930,412 888,412 870,421 839,418 827,412 803,412 787,421 773,416 761,421 749,412 671,421 661,421 650,412 630,420 615,414 600,421 532,421 515,412 498,412 491,417 483,412 470,412 456,421 434,421 424,412 401,412 391,420 382,412 318,412 300,420 277,420 266,414 255,420 210,418"/>
-        <Baseline points="208,404 981,404"/>
-        <TextEquiv>
-          <Unicode>23 route de la Reine (rez-de-chaussée à droite), BOULOGNE (Seine)</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_0d503490"
+                    TAGREFS="LT4057"
+                    BASELINE="134 649 264 651" 
+                    HPOS="134"
+                    VPOS="606"
+                    WIDTH="130"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="134 649 137 606 169 606 201 621 213 621 223 611 240 611 251 621 261 621 264 651 256 665 135 666"/></Shape>
+	    <String CONTENT="_Communiqué"
+                    HPOS="134"
+                    VPOS="606"
+                    WIDTH="130"
+                    HEIGHT="60"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_e3cd7731" >
-        <Coords points="596,509 598,483 607,491 650,491 656,485 664,491 683,491 690,484 717,491 725,483 755,483 763,491 788,492 797,492 805,484 812,489 825,484 844,492 865,490 871,484 929,491 957,489 968,492 970,511 967,515 944,515 938,520 925,514 908,514 902,520 878,520 872,514 865,520 854,520 849,514 807,514 790,520 757,513 737,514 733,519 713,513 693,519 661,519 654,513 597,519"/>
-        <Baseline points="596,509 970,511"/>
-        <TextEquiv>
-          <Unicode>Pour le Secrétaire D. Définitif</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_900af336"
+                    TAGREFS="LT4057"
+                    BASELINE="206 680 958 678" 
+                    HPOS="206"
+                    VPOS="649"
+                    WIDTH="752"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="206 680 208 661 269 661 276 657 300 660 323 650 372 652 381 660 392 659 402 650 510 650 521 658 535 659 548 654 556 660 579 661 595 655 602 657 609 650 627 660 645 656 677 660 793 660 802 652 830 652 836 657 851 649 872 649 886 660 954 660 958 678 950 685 836 685 821 680 806 685 775 680 678 685 667 680 620 680 612 685 578 686 559 686 554 681 525 681 517 686 498 681 488 686 459 686 453 681 405 681 397 686 392 681 281 681 271 686 265 681 208 681"/></Shape>
+	    <String CONTENT="A la suite d&#x27;un voeu (et pour remplir dignement les fonxions de"
+                    HPOS="206"
+                    VPOS="649"
+                    WIDTH="752"
+                    HEIGHT="37"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_347c102e" >
-        <Coords points="652,541 654,524 658,523 782,521 797,525 829,522 837,527 895,522 909,527 912,543 899,545 892,552 881,552 872,545 859,552 778,545 753,551 736,544 709,545 698,551 685,547 654,551"/>
-        <Baseline points="652,541 912,543"/>
-        <TextEquiv>
-          <Unicode>Thier Marchant, S.P.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_d5dd6f8c"
+                    TAGREFS="LT4057"
+                    BASELINE="138 698 922 700" 
+                    HPOS="138"
+                    VPOS="681"
+                    WIDTH="784"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="138 698 140 684 149 682 528 681 537 686 919 684 922 700 894 706 541 706 492 701 140 705"/></Shape>
+	    <String CONTENT="sa charge), le Secrétaire Provisoire a décidé d&#x27;adhérer à la Ligue"
+                    HPOS="138"
+                    VPOS="681"
+                    WIDTH="784"
+                    HEIGHT="25"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_0d503490" >
-        <Coords points="134,649 137,606 169,606 201,621 213,621 223,611 240,611 251,621 261,621 264,651 256,665 135,666"/>
-        <Baseline points="134,649 264,651"/>
-        <TextEquiv>
-          <Unicode>_Communiqué</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_12437f81"
+                    TAGREFS="LT4057"
+                    BASELINE="137 719 948 721" 
+                    HPOS="137"
+                    VPOS="704"
+                    WIDTH="811"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="137 719 139 707 144 704 537 704 543 708 924 705 944 708 948 721 930 728 899 728 893 724 866 728 844 724 767 724 761 728 751 724 738 728 699 724 674 728 623 728 617 724 509 727 495 723 463 727 410 727 403 723 378 727 359 723 348 727 322 723 310 727 139 725"/></Shape>
+	    <String CONTENT="Antialcoolique. Il a l&#x27;intention de créer, avec les deux autres mem-"
+                    HPOS="137"
+                    VPOS="704"
+                    WIDTH="811"
+                    HEIGHT="24"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_900af336" >
-        <Coords points="206,680 208,661 269,661 276,657 300,660 323,650 372,652 381,660 392,659 402,650 510,650 521,658 535,659 548,654 556,660 579,661 595,655 602,657 609,650 627,660 645,656 677,660 793,660 802,652 830,652 836,657 851,649 872,649 886,660 954,660 958,678 950,685 836,685 821,680 806,685 775,680 678,685 667,680 620,680 612,685 578,686 559,686 554,681 525,681 517,686 498,681 488,686 459,686 453,681 405,681 397,686 392,681 281,681 271,686 265,681 208,681"/>
-        <Baseline points="206,680 958,678"/>
-        <TextEquiv>
-          <Unicode>A la suite d&#39;un voeu (et pour remplir dignement les fonxions de</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_d45fbccd"
+                    TAGREFS="LT4057"
+                    BASELINE="137 743 900 743" 
+                    HPOS="137"
+                    VPOS="725"
+                    WIDTH="763"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="137 743 139 726 210 729 215 725 264 725 268 729 285 725 294 729 305 725 336 729 354 725 377 729 385 725 403 729 427 725 453 725 459 729 472 725 498 725 502 729 543 729 552 725 562 729 581 725 618 725 623 729 650 725 658 729 688 725 720 729 738 729 743 725 785 729 794 725 814 729 831 725 866 729 882 725 896 729 900 743 896 754 885 762 874 755 866 762 842 762 832 753 812 758 798 752 779 754 768 764 681 764 661 753 637 752 582 764 570 758 552 762 545 756 535 756 527 764 470 763 459 757 454 762 420 764 386 750 350 754 345 748 139 748"/></Shape>
+	    <String CONTENT="bres prohibiteurs (A.M. Schmidt et Latis), la Sous-Commission de"
+                    HPOS="137"
+                    VPOS="725"
+                    WIDTH="763"
+                    HEIGHT="39"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_d5dd6f8c" >
-        <Coords points="138,698 140,684 149,682 528,681 537,686 919,684 922,700 894,706 541,706 492,701 140,705"/>
-        <Baseline points="138,698 922,700"/>
-        <TextEquiv>
-          <Unicode>sa charge), le Secrétaire Provisoire a décidé d&#39;adhérer à la Ligue</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_70db60a8"
+                    TAGREFS="LT4057"
+                    BASELINE="138 763 355 766" 
+                    HPOS="138"
+                    VPOS="745"
+                    WIDTH="217"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="138 763 140 745 209 745 226 749 268 745 272 749 326 746 332 750 352 750 355 766 352 777 318 777 295 791 265 789 250 783 223 786 213 776 198 776 186 785 163 788 139 777"/></Shape>
+	    <String CONTENT="l&#x27;OuLiPo minérale."
+                    HPOS="138"
+                    VPOS="745"
+                    WIDTH="217"
+                    HEIGHT="46"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_12437f81" >
-        <Coords points="137,719 139,707 144,704 537,704 543,708 924,705 944,708 948,721 930,728 899,728 893,724 866,728 844,724 767,724 761,728 751,724 738,728 699,724 674,728 623,728 617,724 509,727 495,723 463,727 410,727 403,723 378,727 359,723 348,727 322,723 310,727 139,725"/>
-        <Baseline points="137,719 948,721"/>
-        <TextEquiv>
-          <Unicode>Antialcoolique. Il a l&#39;intention de créer, avec les deux autres mem-</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="912"
+                   VPOS="22"
+                   WIDTH="100"
+                   HEIGHT="69"
+                   ID="eSc_textblock_391e1cc5"
+                   TAGREFS="BT10356">
+          <Shape><Polygon POINTS="912 91 912 22 1012 22 1012 91"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_eb1378e1"
+                    TAGREFS="LT4056"
+                    BASELINE="966 45 1007 43" 
+                    HPOS="962"
+                    VPOS="24"
+                    WIDTH="44"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="964 44 964 53 998 57 999 57 1000 57 1001 57 1001 56 1006 51 1006 42 1002 24 962 25 964 44"/></Shape>
+	    <String CONTENT="~~~"
+                    HPOS="962"
+                    VPOS="24"
+                    WIDTH="44"
+                    HEIGHT="33"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_d45fbccd" >
-        <Coords points="137,743 139,726 210,729 215,725 264,725 268,729 285,725 294,729 305,725 336,729 354,725 377,729 385,725 403,729 427,725 453,725 459,729 472,725 498,725 502,729 543,729 552,725 562,729 581,725 618,725 623,729 650,725 658,729 688,725 720,729 738,729 743,725 785,729 794,725 814,729 831,725 866,729 882,725 896,729 900,743 896,754 885,762 874,755 866,762 842,762 832,753 812,758 798,752 779,754 768,764 681,764 661,753 637,752 582,764 570,758 552,762 545,756 535,756 527,764 470,763 459,757 454,762 420,764 386,750 350,754 345,748 139,748"/>
-        <Baseline points="137,743 900,743"/>
-        <TextEquiv>
-          <Unicode>bres prohibiteurs (A.M. Schmidt et Latis), la Sous-Commission de</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_8b19934f"
+                    TAGREFS="LT4057"
+                    BASELINE="934 69 996 71" 
+                    HPOS="934"
+                    VPOS="43"
+                    WIDTH="59"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="934 69 937 51 944 43 960 43 971 54 983 50 993 54 992 82 966 85 950 75 935 75"/></Shape>
+	    <String CONTENT="011"
+                    HPOS="934"
+                    VPOS="43"
+                    WIDTH="59"
+                    HEIGHT="42"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_70db60a8" >
-        <Coords points="138,763 140,745 209,745 226,749 268,745 272,749 326,746 332,750 352,750 355,766 352,777 318,777 295,791 265,789 250,783 223,786 213,776 198,776 186,785 163,788 139,777"/>
-        <Baseline points="138,763 355,766"/>
-        <TextEquiv>
-          <Unicode>l&#39;OuLiPo minérale.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+        </TextBlock>
+        
 
-    
-    </TextRegion>
-    
-  </Page>
-</PcGts>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

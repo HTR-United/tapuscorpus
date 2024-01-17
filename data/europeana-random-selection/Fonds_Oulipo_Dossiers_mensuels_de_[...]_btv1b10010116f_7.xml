@@ -1,428 +1,740 @@
-<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
-  <Metadata>
-	<Creator>escriptorium</Creator>
-	<Created>2021-01-21T19:45:05.217886+00:00</Created>
-    <LastChange>2021-01-21T19:45:05.217908+00:00</LastChange>
-  </Metadata>
-  <Page imageFilename="Fonds_Oulipo_Dossiers_mensuels_de_[...]_btv1b10010116f_7.jpeg" imageWidth="1024" imageHeight="1306">
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Fonds_Oulipo_Dossiers_mensuels_de_[...]_btv1b10010116f_7.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10358" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT10357" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10356" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10355" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10354" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10353" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4055" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/><OtherTag ID="LT4057" LABEL="DefaultLine:Typewritten" DESCRIPTION="line type DefaultLine:Typewritten"/><OtherTag ID="LT4056" LABEL="DefaultLine:Handwritten" DESCRIPTION="line type DefaultLine:Handwritten"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1024"
+          HEIGHT="1306"
+          PHYSICAL_IMG_NR="34"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1024"
+                  HEIGHT="1306">
+        
+        <TextBlock HPOS="114"
+                   VPOS="61"
+                   WIDTH="868"
+                   HEIGHT="1189"
+                   ID="eSc_textblock_935da23b"
+                   TAGREFS="BT10353">
+          <Shape><Polygon POINTS="114 61 114 1250 982 1250 982 61"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_41b0123e"
+                    TAGREFS="LT4057"
+                    BASELINE="372 134 619 134" 
+                    HPOS="372"
+                    VPOS="112"
+                    WIDTH="247"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="372 134 374 116 436 117 454 112 508 117 592 112 617 117 619 134 602 144 588 139 546 139 541 144 520 139 506 139 497 144 479 144 473 139 460 144 421 144 417 140 391 144 374 139"/></Shape>
+	    <String CONTENT="BULLETIN DE SOUSCRIPTION"
+                    HPOS="372"
+                    VPOS="112"
+                    WIDTH="247"
+                    HEIGHT="32"></String>
+          </TextLine>
 
-    
+          
+          
+          <TextLine ID="eSc_line_08f2c605"
+                    TAGREFS="LT4057"
+                    BASELINE="157 175 843 171" 
+                    HPOS="157"
+                    VPOS="149"
+                    WIDTH="686"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="157 175 160 155 165 152 176 157 190 151 205 155 216 151 257 155 260 152 271 157 325 156 337 152 344 157 366 157 423 152 474 156 482 150 512 156 532 150 539 156 573 156 581 150 596 153 613 149 623 149 630 155 693 155 704 149 717 149 727 155 744 149 754 155 777 155 791 149 803 155 839 155 843 171 825 186 794 186 788 181 778 186 753 182 711 186 703 178 685 177 679 181 667 177 659 186 632 180 624 186 569 187 559 177 552 181 534 178 522 182 517 178 498 183 492 179 486 185 479 178 464 178 447 185 436 177 385 177 369 178 359 187 351 182 307 182 298 187 266 183 261 178 208 178 192 185 179 178 160 178"/></Shape>
+	    <String CONTENT="à adresse _exclusivement à Monsieur Paul Fallet, Trésorier de l&#x27;AFSOA"
+                    HPOS="157"
+                    VPOS="149"
+                    WIDTH="686"
+                    HEIGHT="38"></String>
+          </TextLine>
 
-    
-    <TextRegion id="eSc_dummyblock_">
-    
-    
-      <TextLine id="eSc_line_41b0123e" >
-        <Coords points="372,134 374,116 436,117 454,112 508,117 592,112 617,117 619,134 602,144 588,139 546,139 541,144 520,139 506,139 497,144 479,144 473,139 460,144 421,144 417,140 391,144 374,139"/>
-        <Baseline points="372,134 619,134"/>
-        <TextEquiv>
-          <Unicode>BULLETIN DE SOUSCRIPTION</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_11ac42cd"
+                    TAGREFS="LT4057"
+                    BASELINE="156 196 406 193" 
+                    HPOS="156"
+                    VPOS="176"
+                    WIDTH="250"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="156 196 162 178 177 178 188 188 206 179 233 183 247 177 261 178 266 183 318 187 321 182 343 186 347 181 360 186 370 176 403 176 406 193 404 205 368 204 360 200 322 204 307 200 294 206 278 206 273 201 241 201 236 205 199 200 159 202"/></Shape>
+	    <String CONTENT="24, rue Malar, Paris VII°"
+                    HPOS="156"
+                    VPOS="176"
+                    WIDTH="250"
+                    HEIGHT="30"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_08f2c605" >
-        <Coords points="157,175 160,155 165,152 176,157 190,151 205,155 216,151 257,155 260,152 271,157 325,156 337,152 344,157 366,157 423,152 474,156 482,150 512,156 532,150 539,156 573,156 581,150 596,153 613,149 623,149 630,155 693,155 704,149 717,149 727,155 744,149 754,155 777,155 791,149 803,155 839,155 843,171 825,186 794,186 788,181 778,186 753,182 711,186 703,178 685,177 679,181 667,177 659,186 632,180 624,186 569,187 559,177 552,181 534,178 522,182 517,178 498,183 492,179 486,185 479,178 464,178 447,185 436,177 385,177 369,178 359,187 351,182 307,182 298,187 266,183 261,178 208,178 192,185 179,178 160,178"/>
-        <Baseline points="157,175 843,171"/>
-        <TextEquiv>
-          <Unicode>à adresse _exclusivement à Monsieur Paul Fallet, Trésorier de l&#39;AFSOA</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_785cf9f8"
+                    TAGREFS="LT4057"
+                    BASELINE="157 232 302 235" 
+                    HPOS="157"
+                    VPOS="212"
+                    WIDTH="145"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="157 232 160 212 188 222 232 220 239 213 259 213 264 218 270 213 281 213 290 223 300 223 302 235 299 241 279 241 271 249 238 249 232 242 221 241 196 248 174 241 159 242"/></Shape>
+	    <String CONTENT="Je soussigné :"
+                    HPOS="157"
+                    VPOS="212"
+                    WIDTH="145"
+                    HEIGHT="37"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_11ac42cd" >
-        <Coords points="156,196 162,178 177,178 188,188 206,179 233,183 247,177 261,178 266,183 318,187 321,182 343,186 347,181 360,186 370,176 403,176 406,193 404,205 368,204 360,200 322,204 307,200 294,206 278,206 273,201 241,201 236,205 199,200 159,202"/>
-        <Baseline points="156,196 406,193"/>
-        <TextEquiv>
-          <Unicode>24, rue Malar, Paris VII°</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_6edafc65"
+                    TAGREFS="LT4057"
+                    BASELINE="156 264 198 264" 
+                    HPOS="156"
+                    VPOS="243"
+                    WIDTH="40"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="156 264 159 243 196 249 196 273 159 273"/></Shape>
+	    <String CONTENT="Nom"
+                    HPOS="156"
+                    VPOS="243"
+                    WIDTH="40"
+                    HEIGHT="30"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_785cf9f8" >
-        <Coords points="157,232 160,212 188,222 232,220 239,213 259,213 264,218 270,213 281,213 290,223 300,223 302,235 299,241 279,241 271,249 238,249 232,242 221,241 196,248 174,241 159,242"/>
-        <Baseline points="157,232 302,235"/>
-        <TextEquiv>
-          <Unicode>Je soussigné :</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_d6534614"
+                    TAGREFS="LT4057"
+                    BASELINE="156 296 236 292" 
+                    HPOS="156"
+                    VPOS="274"
+                    WIDTH="78"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="156 296 159 275 233 274 234 301 184 297 167 303 159 298"/></Shape>
+	    <String CONTENT="Adresse"
+                    HPOS="156"
+                    VPOS="274"
+                    WIDTH="78"
+                    HEIGHT="29"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_6edafc65" >
-        <Coords points="156,264 159,243 196,249 196,273 159,273"/>
-        <Baseline points="156,264 198,264"/>
-        <TextEquiv>
-          <Unicode>Nom</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_3490db45"
+                    TAGREFS="LT4057"
+                    BASELINE="157 352 839 350" 
+                    HPOS="157"
+                    VPOS="325"
+                    WIDTH="682"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="157 352 160 331 177 326 203 335 251 335 262 330 287 335 293 329 309 335 335 330 362 335 385 329 394 333 405 326 429 326 436 334 490 335 504 327 518 331 528 325 580 325 600 333 629 325 638 331 659 328 671 334 677 329 681 333 689 325 713 334 740 329 765 334 784 325 788 329 806 326 818 333 836 334 839 350 836 356 159 354"/></Shape>
+	    <String CONTENT="désire recevoir, dès parution, le disque RENAISSANCE DE L&#x27;ORGUE N°2,"
+                    HPOS="157"
+                    VPOS="325"
+                    WIDTH="682"
+                    HEIGHT="31"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_d6534614" >
-        <Coords points="156,296 159,275 233,274 234,301 184,297 167,303 159,298"/>
-        <Baseline points="156,296 236,292"/>
-        <TextEquiv>
-          <Unicode>Adresse</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_b610195f"
+                    TAGREFS="LT4057"
+                    BASELINE="159 374 838 371" 
+                    HPOS="159"
+                    VPOS="353"
+                    WIDTH="679"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="159 374 161 359 166 355 185 360 202 355 208 360 225 355 238 360 251 355 263 360 297 355 354 360 359 355 610 359 642 353 660 358 690 353 797 358 814 353 835 358 838 371 835 376 161 375"/></Shape>
+	    <String CONTENT="comprenant l&#x27;OEUVRE POUR ORGUE de BRUHNS et les SIX CHORALS de HANFF,"
+                    HPOS="159"
+                    VPOS="353"
+                    WIDTH="679"
+                    HEIGHT="23"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_3490db45" >
-        <Coords points="157,352 160,331 177,326 203,335 251,335 262,330 287,335 293,329 309,335 335,330 362,335 385,329 394,333 405,326 429,326 436,334 490,335 504,327 518,331 528,325 580,325 600,333 629,325 638,331 659,328 671,334 677,329 681,333 689,325 713,334 740,329 765,334 784,325 788,329 806,326 818,333 836,334 839,350 836,356 159,354"/>
-        <Baseline points="157,352 839,350"/>
-        <TextEquiv>
-          <Unicode>désire recevoir, dès parution, le disque RENAISSANCE DE L&#39;ORGUE N°2,</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_945d898d"
+                    TAGREFS="LT4057"
+                    BASELINE="160 393 862 389" 
+                    HPOS="160"
+                    VPOS="373"
+                    WIDTH="702"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="160 393 162 376 313 379 335 375 509 378 571 374 686 377 856 373 862 389 859 399 846 403 776 403 770 399 744 401 738 397 734 401 713 399 686 404 612 399 589 404 567 400 530 404 526 400 506 402 498 398 470 404 457 398 449 405 424 405 403 399 376 402 371 397 358 405 349 400 302 403 294 398 161 400"/></Shape>
+	    <String CONTENT="interprétés par MICHEL CHAPUIS à l&#x27;orgue Kern de l&#x27;église Saint Maximin"
+                    HPOS="160"
+                    VPOS="373"
+                    WIDTH="702"
+                    HEIGHT="32"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_b610195f" >
-        <Coords points="159,374 161,359 166,355 185,360 202,355 208,360 225,355 238,360 251,355 263,360 297,355 354,360 359,355 610,359 642,353 660,358 690,353 797,358 814,353 835,358 838,371 835,376 161,375"/>
-        <Baseline points="159,374 838,371"/>
-        <TextEquiv>
-          <Unicode>comprenant l&#39;OEUVRE POUR ORGUE de BRUHNS et les SIX CHORALS de HANFF,</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_eb11dc18"
+                    TAGREFS="LT4057"
+                    BASELINE="157 414 301 414" 
+                    HPOS="157"
+                    VPOS="396"
+                    WIDTH="144"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="157 414 160 399 188 400 192 396 211 400 288 397 299 400 301 414 286 422 160 419"/></Shape>
+	    <String CONTENT="de Thionville."
+                    HPOS="157"
+                    VPOS="396"
+                    WIDTH="144"
+                    HEIGHT="26"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_945d898d" >
-        <Coords points="160,393 162,376 313,379 335,375 509,378 571,374 686,377 856,373 862,389 859,399 846,403 776,403 770,399 744,401 738,397 734,401 713,399 686,404 612,399 589,404 567,400 530,404 526,400 506,402 498,398 470,404 457,398 449,405 424,405 403,399 376,402 371,397 358,405 349,400 302,403 294,398 161,400"/>
-        <Baseline points="160,393 862,389"/>
-        <TextEquiv>
-          <Unicode>interprétés par MICHEL CHAPUIS à l&#39;orgue Kern de l&#39;église Saint Maximin</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_1f552b2e"
+                    TAGREFS="LT4057"
+                    BASELINE="489 441 940 441" 
+                    HPOS="489"
+                    VPOS="420"
+                    WIDTH="451"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="489 441 491 425 505 421 512 427 576 427 583 420 606 420 611 424 632 420 667 424 684 420 690 426 708 420 716 425 725 420 742 420 754 427 769 427 775 421 788 427 861 427 878 420 916 421 924 427 936 421 940 441 932 451 922 447 899 451 894 446 860 446 847 451 819 446 812 451 777 451 768 446 735 446 726 451 709 446 681 446 675 451 654 447 645 451 617 451 611 446 590 451 491 450"/></Shape>
+	    <String CONTENT="Ma souscription porte sur ..... exemplaires"
+                    HPOS="489"
+                    VPOS="420"
+                    WIDTH="451"
+                    HEIGHT="31"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_eb11dc18" >
-        <Coords points="157,414 160,399 188,400 192,396 211,400 288,397 299,400 301,414 286,422 160,419"/>
-        <Baseline points="157,414 301,414"/>
-        <TextEquiv>
-          <Unicode>de Thionville.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_aa7f20fb"
+                    TAGREFS="LT4057"
+                    BASELINE="157 471 871 469" 
+                    HPOS="157"
+                    VPOS="448"
+                    WIDTH="714"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="157 471 160 449 189 453 203 449 248 449 254 453 266 449 286 449 290 453 459 453 472 449 512 453 563 449 581 452 595 448 600 452 613 448 624 452 635 448 662 452 710 448 721 452 753 448 759 452 868 452 871 469 866 474 571 471 514 475 472 472 160 475"/></Shape>
+	    <String CONTENT="Par la même occasion, je serais heureux de recevoir aux mêmes conditions"
+                    HPOS="157"
+                    VPOS="448"
+                    WIDTH="714"
+                    HEIGHT="27"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_1f552b2e" >
-        <Coords points="489,441 491,425 505,421 512,427 576,427 583,420 606,420 611,424 632,420 667,424 684,420 690,426 708,420 716,425 725,420 742,420 754,427 769,427 775,421 788,427 861,427 878,420 916,421 924,427 936,421 940,441 932,451 922,447 899,451 894,446 860,446 847,451 819,446 812,451 777,451 768,446 735,446 726,451 709,446 681,446 675,451 654,447 645,451 617,451 611,446 590,451 491,450"/>
-        <Baseline points="489,441 940,441"/>
-        <TextEquiv>
-          <Unicode>Ma souscription porte sur ..... exemplaires</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_a003e8ba"
+                    TAGREFS="LT4057"
+                    BASELINE="159 490 901 490" 
+                    HPOS="159"
+                    VPOS="473"
+                    WIDTH="742"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="159 490 161 477 166 475 210 477 221 473 228 477 263 477 277 473 283 477 387 477 399 473 405 477 465 477 472 473 482 477 564 477 571 473 594 477 614 477 618 473 637 477 676 477 685 473 709 477 714 473 779 473 788 477 825 473 835 477 876 473 898 475 901 490 898 497 857 497 845 491 787 491 757 497 721 493 690 497 685 491 666 497 614 497 599 491 543 497 527 491 501 491 488 497 465 493 450 497 434 493 325 497 301 491 290 497 246 497 237 491 223 497 206 491 193 497 161 497"/></Shape>
+	    <String CONTENT="dans la limite des disponibilités, le premier disque RENAISSANCE DE L&#x27;ORGUE"
+                    HPOS="159"
+                    VPOS="473"
+                    WIDTH="742"
+                    HEIGHT="24"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_aa7f20fb" >
-        <Coords points="157,471 160,449 189,453 203,449 248,449 254,453 266,449 286,449 290,453 459,453 472,449 512,453 563,449 581,452 595,448 600,452 613,448 624,452 635,448 662,452 710,448 721,452 753,448 759,452 868,452 871,469 866,474 571,471 514,475 472,472 160,475"/>
-        <Baseline points="157,471 871,469"/>
-        <TextEquiv>
-          <Unicode>Par la même occasion, je serais heureux de recevoir aux mêmes conditions</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_161126df"
+                    TAGREFS="LT4057"
+                    BASELINE="159 511 850 509" 
+                    HPOS="159"
+                    VPOS="493"
+                    WIDTH="691"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="159 511 161 497 174 496 488 497 503 493 838 493 847 496 850 509 847 519 812 519 789 513 772 513 764 519 720 513 693 519 644 519 638 513 623 519 593 519 580 512 559 518 545 512 486 516 480 512 409 516 398 513 391 519 372 512 348 516 323 512 259 512 253 516 248 512 160 514"/></Shape>
+	    <String CONTENT="comprenant les NOELS FRANCAIS DU XVIIIè SIECLE, enregistrés par MICHEL"
+                    HPOS="159"
+                    VPOS="493"
+                    WIDTH="691"
+                    HEIGHT="26"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_a003e8ba" >
-        <Coords points="159,490 161,477 166,475 210,477 221,473 228,477 263,477 277,473 283,477 387,477 399,473 405,477 465,477 472,473 482,477 564,477 571,473 594,477 614,477 618,473 637,477 676,477 685,473 709,477 714,473 779,473 788,477 825,473 835,477 876,473 898,475 901,490 898,497 857,497 845,491 787,491 757,497 721,493 690,497 685,491 666,497 614,497 599,491 543,497 527,491 501,491 488,497 465,493 450,497 434,493 325,497 301,491 290,497 246,497 237,491 223,497 206,491 193,497 161,497"/>
-        <Baseline points="159,490 901,490"/>
-        <TextEquiv>
-          <Unicode>dans la limite des disponibilités, le premier disque RENAISSANCE DE L&#39;ORGUE</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_d356030f"
+                    TAGREFS="LT4057"
+                    BASELINE="156 532 575 532" 
+                    HPOS="156"
+                    VPOS="514"
+                    WIDTH="419"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="156 532 159 515 164 514 515 514 573 515 575 532 568 543 534 537 514 543 507 536 486 543 464 543 450 536 429 540 418 537 411 541 376 541 366 537 356 543 335 543 331 538 326 543 295 543 277 536 159 540"/></Shape>
+	    <String CONTENT="CHAPUIS sur l&#x27;orgue Koenig de Sarre-Union."
+                    HPOS="156"
+                    VPOS="514"
+                    WIDTH="419"
+                    HEIGHT="29"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_161126df" >
-        <Coords points="159,511 161,497 174,496 488,497 503,493 838,493 847,496 850,509 847,519 812,519 789,513 772,513 764,519 720,513 693,519 644,519 638,513 623,519 593,519 580,512 559,518 545,512 486,516 480,512 409,516 398,513 391,519 372,512 348,516 323,512 259,512 253,516 248,512 160,514"/>
-        <Baseline points="159,511 850,509"/>
-        <TextEquiv>
-          <Unicode>comprenant les NOELS FRANCAIS DU XVIIIè SIECLE, enregistrés par MICHEL</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_4c66a38e"
+                    TAGREFS="LT4057"
+                    BASELINE="489 560 713 560" 
+                    HPOS="489"
+                    VPOS="538"
+                    WIDTH="224"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="489 560 491 541 529 544 538 538 553 544 575 544 581 538 587 543 593 538 602 543 620 538 625 543 645 539 653 544 692 538 711 544 713 560 711 565 693 565 688 571 636 567 627 571 620 565 607 571 558 567 544 571 508 567 491 570"/></Shape>
+	    <String CONTENT="Ma commande porte sur"
+                    HPOS="489"
+                    VPOS="538"
+                    WIDTH="224"
+                    HEIGHT="33"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_d356030f" >
-        <Coords points="156,532 159,515 164,514 515,514 573,515 575,532 568,543 534,537 514,543 507,536 486,543 464,543 450,536 429,540 418,537 411,541 376,541 366,537 356,543 335,543 331,538 326,543 295,543 277,536 159,540"/>
-        <Baseline points="156,532 575,532"/>
-        <TextEquiv>
-          <Unicode>CHAPUIS sur l&#39;orgue Koenig de Sarre-Union.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_1ca9d9cf"
+                    TAGREFS="LT4057"
+                    BASELINE="758 559 940 559" 
+                    HPOS="758"
+                    VPOS="537"
+                    WIDTH="182"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="758 559 760 547 817 547 824 541 856 537 891 541 931 537 937 543 940 559 937 575 928 570 913 581 861 581 851 572 842 568 836 571 830 565 814 565 806 572 787 565 760 570"/></Shape>
+	    <String CONTENT="..... exemplaires"
+                    HPOS="758"
+                    VPOS="537"
+                    WIDTH="182"
+                    HEIGHT="44"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_4c66a38e" >
-        <Coords points="489,560 491,541 529,544 538,538 553,544 575,544 581,538 587,543 593,538 602,543 620,538 625,543 645,539 653,544 692,538 711,544 713,560 711,565 693,565 688,571 636,567 627,571 620,565 607,571 558,567 544,571 508,567 491,570"/>
-        <Baseline points="489,560 713,560"/>
-        <TextEquiv>
-          <Unicode>Ma commande porte sur</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_f74b835f"
+                    TAGREFS="LT4057"
+                    BASELINE="159 589 812 587" 
+                    HPOS="159"
+                    VPOS="568"
+                    WIDTH="653"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="159 589 162 570 369 573 374 569 380 573 387 569 496 572 506 568 517 572 730 572 735 568 766 572 786 568 790 572 809 572 812 587 805 593 160 593"/></Shape>
+	    <String CONTENT="Je joins au présent bulletin le réglement de ma commande totale et"
+                    HPOS="159"
+                    VPOS="568"
+                    WIDTH="653"
+                    HEIGHT="25"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_1ca9d9cf" >
-        <Coords points="758,559 760,547 817,547 824,541 856,537 891,541 931,537 937,543 940,559 937,575 928,570 913,581 861,581 851,572 842,568 836,571 830,565 814,565 806,572 787,565 760,570"/>
-        <Baseline points="758,559 940,559"/>
-        <TextEquiv>
-          <Unicode>..... exemplaires</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_3b241a57"
+                    TAGREFS="LT4057"
+                    BASELINE="159 610 872 608" 
+                    HPOS="159"
+                    VPOS="592"
+                    WIDTH="713"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="159 610 161 595 175 593 504 596 534 592 856 592 869 595 872 608 870 620 733 620 723 613 710 620 631 620 626 615 613 620 605 615 533 620 526 614 494 619 486 612 461 617 454 612 427 612 420 618 408 612 386 618 381 612 356 617 348 612 340 617 332 612 299 612 290 617 284 612 257 612 251 618 232 612 171 617 161 612"/></Shape>
+	    <String CONTENT="ajoute les frais de port et emballage tels qu&#x27;indiqués au bas du présent"
+                    HPOS="159"
+                    VPOS="592"
+                    WIDTH="713"
+                    HEIGHT="28"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_f74b835f" >
-        <Coords points="159,589 162,570 369,573 374,569 380,573 387,569 496,572 506,568 517,572 730,572 735,568 766,572 786,568 790,572 809,572 812,587 805,593 160,593"/>
-        <Baseline points="159,589 812,587"/>
-        <TextEquiv>
-          <Unicode>Je joins au présent bulletin le réglement de ma commande totale et</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_c5cb5886"
+                    TAGREFS="LT4057"
+                    BASELINE="157 630 516 630" 
+                    HPOS="157"
+                    VPOS="613"
+                    WIDTH="359"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="157 630 161 613 489 613 514 617 516 630 514 635 160 635"/></Shape>
+	    <String CONTENT="bulletin. Mon réglement s&#x27;effectue :"
+                    HPOS="157"
+                    VPOS="613"
+                    WIDTH="359"
+                    HEIGHT="22"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_3b241a57" >
-        <Coords points="159,610 161,595 175,593 504,596 534,592 856,592 869,595 872,608 870,620 733,620 723,613 710,620 631,620 626,615 613,620 605,615 533,620 526,614 494,619 486,612 461,617 454,612 427,612 420,618 408,612 386,618 381,612 356,617 348,612 340,617 332,612 299,612 290,617 284,612 257,612 251,618 232,612 171,617 161,612"/>
-        <Baseline points="159,610 872,608"/>
-        <TextEquiv>
-          <Unicode>ajoute les frais de port et emballage tels qu&#39;indiqués au bas du présent</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_87ee5a99"
+                    TAGREFS="LT4057"
+                    BASELINE="159 660 785 657" 
+                    HPOS="159"
+                    VPOS="633"
+                    WIDTH="626"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="159 660 162 635 198 639 213 635 238 639 248 635 352 639 357 635 391 638 395 634 409 638 456 638 465 634 479 638 493 634 501 638 532 638 541 634 574 638 586 633 639 637 685 637 692 633 708 637 773 637 779 633 785 657 783 669 759 669 754 664 741 669 675 669 653 663 629 669 623 663 615 668 604 661 584 661 576 670 561 666 547 670 534 664 505 668 498 663 494 668 477 669 468 663 455 668 441 662 395 662 380 668 375 663 337 668 317 664 310 669 256 663 233 668 225 664 221 669 206 663 161 666"/></Shape>
+	    <String CONTENT="(1) par chèque bancaire - par chèque postal - par mandat-lettre"
+                    HPOS="159"
+                    VPOS="633"
+                    WIDTH="626"
+                    HEIGHT="37"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_c5cb5886" >
-        <Coords points="157,630 161,613 489,613 514,617 516,630 514,635 160,635"/>
-        <Baseline points="157,630 516,630"/>
-        <TextEquiv>
-          <Unicode>bulletin. Mon réglement s&#39;effectue :</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_80e8f53d"
+                    TAGREFS="LT4057"
+                    BASELINE="194 686 517 688" 
+                    HPOS="194"
+                    VPOS="664"
+                    WIDTH="323"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="194 686 198 668 284 670 302 664 310 670 334 666 367 671 403 666 472 666 514 671 517 688 514 707 501 707 489 697 469 697 457 705 447 705 442 699 435 706 419 698 411 706 397 707 384 697 344 697 326 706 290 706 282 697 274 705 266 697 251 703 246 697 196 696"/></Shape>
+	    <String CONTENT="établi à l&#x27;ordre de l&#x27;A.F.S.O.A."
+                    HPOS="194"
+                    VPOS="664"
+                    WIDTH="323"
+                    HEIGHT="43"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_87ee5a99" >
-        <Coords points="159,660 162,635 198,639 213,635 238,639 248,635 352,639 357,635 391,638 395,634 409,638 456,638 465,634 479,638 493,634 501,638 532,638 541,634 574,638 586,633 639,637 685,637 692,633 708,637 773,637 779,633 785,657 783,669 759,669 754,664 741,669 675,669 653,663 629,669 623,663 615,668 604,661 584,661 576,670 561,666 547,670 534,664 505,668 498,663 494,668 477,669 468,663 455,668 441,662 395,662 380,668 375,663 337,668 317,664 310,669 256,663 233,668 225,664 221,669 206,663 161,666"/>
-        <Baseline points="159,660 785,657"/>
-        <TextEquiv>
-          <Unicode>(1) par chèque bancaire - par chèque postal - par mandat-lettre</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_8b060d04"
+                    TAGREFS="LT4057"
+                    BASELINE="656 778 756 775" 
+                    HPOS="656"
+                    VPOS="747"
+                    WIDTH="96"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="656 778 657 747 688 747 697 755 725 755 735 747 742 755 752 755 752 785 723 789 715 784 698 790 657 785"/></Shape>
+	    <String CONTENT="Signature"
+                    HPOS="656"
+                    VPOS="747"
+                    WIDTH="96"
+                    HEIGHT="43"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_80e8f53d" >
-        <Coords points="194,686 198,668 284,670 302,664 310,670 334,666 367,671 403,666 472,666 514,671 517,688 514,707 501,707 489,697 469,697 457,705 447,705 442,699 435,706 419,698 411,706 397,707 384,697 344,697 326,706 290,706 282,697 274,705 266,697 251,703 246,697 196,696"/>
-        <Baseline points="194,686 517,688"/>
-        <TextEquiv>
-          <Unicode>établi à l&#39;ordre de l&#39;A.F.S.O.A.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_1e93f7fa"
+                    TAGREFS="LT4057"
+                    BASELINE="155 817 545 817" 
+                    HPOS="155"
+                    VPOS="771"
+                    WIDTH="390"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="155 817 157 794 176 794 181 789 200 794 222 778 242 785 270 771 277 771 298 785 312 779 317 782 327 771 401 771 428 794 453 794 460 790 470 794 529 794 535 787 543 790 545 817 543 828 510 823 495 828 406 828 401 823 359 823 348 828 157 826"/></Shape>
+	    <String CONTENT="L&#x27;A.F.S.O.A. rappelle à ses adhérents :"
+                    HPOS="155"
+                    VPOS="771"
+                    WIDTH="390"
+                    HEIGHT="57"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_8b060d04" >
-        <Coords points="656,778 657,747 688,747 697,755 725,755 735,747 742,755 752,755 752,785 723,789 715,784 698,790 657,785"/>
-        <Baseline points="656,778 756,775"/>
-        <TextEquiv>
-          <Unicode>Signature</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_9ef006c0"
+                    TAGREFS="LT4057"
+                    BASELINE="236 843 763 843" 
+                    HPOS="236"
+                    VPOS="823"
+                    WIDTH="527"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="236 843 239 828 258 827 403 830 471 824 492 830 547 830 557 826 573 829 582 823 666 823 673 830 678 826 720 830 749 824 761 827 763 843 754 849 729 851 238 849"/></Shape>
+	    <String CONTENT="- que chaque exemplaire est fourni au prix de 25.00 F"
+                    HPOS="236"
+                    VPOS="823"
+                    WIDTH="527"
+                    HEIGHT="28"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_1e93f7fa" >
-        <Coords points="155,817 157,794 176,794 181,789 200,794 222,778 242,785 270,771 277,771 298,785 312,779 317,782 327,771 401,771 428,794 453,794 460,790 470,794 529,794 535,787 543,790 545,817 543,828 510,823 495,828 406,828 401,823 359,823 348,828 157,826"/>
-        <Baseline points="155,817 545,817"/>
-        <TextEquiv>
-          <Unicode>L&#39;A.F.S.O.A. rappelle à ses adhérents :</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_9c214509"
+                    TAGREFS="LT4057"
+                    BASELINE="237 866 813 866" 
+                    HPOS="237"
+                    VPOS="848"
+                    WIDTH="576"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="237 866 239 852 342 848 801 848 811 852 813 866 810 873 796 869 787 873 649 873 642 868 630 872 617 868 611 873 569 873 559 868 529 868 517 873 508 868 498 872 485 868 469 872 429 868 420 873 384 868 352 873 325 868 275 868 266 872 239 868"/></Shape>
+	    <String CONTENT="- que le disque RENAISSANCE DE L&#x27;ORGUE N° 2 est prévu pour"
+                    HPOS="237"
+                    VPOS="848"
+                    WIDTH="576"
+                    HEIGHT="25"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_9ef006c0" >
-        <Coords points="236,843 239,828 258,827 403,830 471,824 492,830 547,830 557,826 573,829 582,823 666,823 673,830 678,826 720,830 749,824 761,827 763,843 754,849 729,851 238,849"/>
-        <Baseline points="236,843 763,843"/>
-        <TextEquiv>
-          <Unicode>- que chaque exemplaire est fourni au prix de 25.00 F</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_e55767ab"
+                    TAGREFS="LT4057"
+                    BASELINE="253 888 567 884" 
+                    HPOS="253"
+                    VPOS="868"
+                    WIDTH="314"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="253 888 254 873 267 869 356 873 375 869 428 872 557 868 564 871 567 884 564 893 518 888 505 893 477 889 461 894 433 894 425 889 412 893 408 889 364 888 274 889 254 895"/></Shape>
+	    <String CONTENT="paraître courant septembre 1970"
+                    HPOS="253"
+                    VPOS="868"
+                    WIDTH="314"
+                    HEIGHT="27"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_9c214509" >
-        <Coords points="237,866 239,852 342,848 801,848 811,852 813,866 810,873 796,869 787,873 649,873 642,868 630,872 617,868 611,873 569,873 559,868 529,868 517,873 508,868 498,872 485,868 469,872 429,868 420,873 384,868 352,873 325,868 275,868 266,872 239,868"/>
-        <Baseline points="237,866 813,866"/>
-        <TextEquiv>
-          <Unicode>- que le disque RENAISSANCE DE L&#39;ORGUE N° 2 est prévu pour</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_a60edaa2"
+                    TAGREFS="LT4057"
+                    BASELINE="237 913 848 916" 
+                    HPOS="237"
+                    VPOS="891"
+                    WIDTH="611"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="237 913 238 898 345 898 355 891 368 898 405 895 442 900 497 898 507 892 530 892 535 897 590 892 611 898 630 892 639 898 653 895 661 901 673 901 683 893 693 897 700 893 725 893 733 901 742 901 751 893 765 893 771 898 790 893 845 893 848 916 845 921 819 917 786 917 782 921 773 917 763 921 754 917 742 921 701 917 697 921 677 917 648 920 643 916 533 916 516 920 476 920 471 916 442 920 413 915 404 919 385 915 371 919 252 919 238 915"/></Shape>
+	    <String CONTENT="- que la présente souscription sera close de 31 décembre 1970,"
+                    HPOS="237"
+                    VPOS="891"
+                    WIDTH="611"
+                    HEIGHT="30"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_e55767ab" >
-        <Coords points="253,888 254,873 267,869 356,873 375,869 428,872 557,868 564,871 567,884 564,893 518,888 505,893 477,889 461,894 433,894 425,889 412,893 408,889 364,888 274,889 254,895"/>
-        <Baseline points="253,888 567,884"/>
-        <TextEquiv>
-          <Unicode>paraître courant septembre 1970</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_b2a5460d"
+                    TAGREFS="LT4057"
+                    BASELINE="254 933 833 935" 
+                    HPOS="254"
+                    VPOS="917"
+                    WIDTH="579"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="254 933 256 921 281 919 411 921 417 917 446 921 465 917 469 921 509 921 543 917 561 921 615 918 622 922 820 918 830 922 833 935 830 940 256 938"/></Shape>
+	    <String CONTENT="date à laquelle le disque RENAISSANCE DE L&#x27;ORGUE N° 2 sera"
+                    HPOS="254"
+                    VPOS="917"
+                    WIDTH="579"
+                    HEIGHT="23"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_a60edaa2" >
-        <Coords points="237,913 238,898 345,898 355,891 368,898 405,895 442,900 497,898 507,892 530,892 535,897 590,892 611,898 630,892 639,898 653,895 661,901 673,901 683,893 693,897 700,893 725,893 733,901 742,901 751,893 765,893 771,898 790,893 845,893 848,916 845,921 819,917 786,917 782,921 773,917 763,921 754,917 742,921 701,917 697,921 677,917 648,920 643,916 533,916 516,920 476,920 471,916 442,920 413,915 404,919 385,915 371,919 252,919 238,915"/>
-        <Baseline points="237,913 848,916"/>
-        <TextEquiv>
-          <Unicode>- que la présente souscription sera close de 31 décembre 1970,</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_7994b2a3"
+                    TAGREFS="LT4057"
+                    BASELINE="256 954 810 952" 
+                    HPOS="256"
+                    VPOS="937"
+                    WIDTH="554"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="256 954 257 939 529 941 566 937 794 939 807 940 810 952 803 958 540 955 527 959 257 959"/></Shape>
+	    <String CONTENT="commercialisé au prix de 37.00 F. Ce prix est d&#x27;ailleurs"
+                    HPOS="256"
+                    VPOS="937"
+                    WIDTH="554"
+                    HEIGHT="22"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_b2a5460d" >
-        <Coords points="254,933 256,921 281,919 411,921 417,917 446,921 465,917 469,921 509,921 543,917 561,921 615,918 622,922 820,918 830,922 833,935 830,940 256,938"/>
-        <Baseline points="254,933 833,935"/>
-        <TextEquiv>
-          <Unicode>date à laquelle le disque RENAISSANCE DE L&#39;ORGUE N° 2 sera</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_19759400"
+                    TAGREFS="LT4057"
+                    BASELINE="254 974 842 974" 
+                    HPOS="254"
+                    VPOS="957"
+                    WIDTH="588"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="254 974 258 960 272 957 289 962 301 957 317 962 373 962 389 957 395 962 411 962 416 957 513 957 525 962 535 957 562 957 567 962 583 957 632 962 648 957 661 962 729 957 734 962 745 957 756 962 811 962 815 957 838 957 842 974 831 979 257 979"/></Shape>
+	    <String CONTENT="celui du disque RENAISSANCE DE L&#x27;ORGUE N° 1 actuellement et"
+                    HPOS="254"
+                    VPOS="957"
+                    WIDTH="588"
+                    HEIGHT="22"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_7994b2a3" >
-        <Coords points="256,954 257,939 529,941 566,937 794,939 807,940 810,952 803,958 540,955 527,959 257,959"/>
-        <Baseline points="256,954 810,952"/>
-        <TextEquiv>
-          <Unicode>commercialisé au prix de 37.00 F. Ce prix est d&#39;ailleurs</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_dd875616"
+                    TAGREFS="LT4057"
+                    BASELINE="254 994 833 994" 
+                    HPOS="254"
+                    VPOS="978"
+                    WIDTH="579"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="254 994 257 981 263 978 812 978 830 979 833 994 831 1006 820 1006 802 994 787 1002 772 1001 766 1006 697 1006 692 1002 687 1006 655 1006 632 994 620 999 591 996 586 1002 579 998 573 1002 543 995 530 1000 512 1000 506 995 483 1002 478 996 466 999 459 994 446 1000 441 994 428 999 385 996 374 1002 367 996 330 994 323 1001 309 1002 305 998 279 1000 270 995 262 1000 257 995"/></Shape>
+	    <String CONTENT="c&#x27;est à titre tout à fait exceptionnel que nous pouvons le"
+                    HPOS="254"
+                    VPOS="978"
+                    WIDTH="579"
+                    HEIGHT="28"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_19759400" >
-        <Coords points="254,974 258,960 272,957 289,962 301,957 317,962 373,962 389,957 395,962 411,962 416,957 513,957 525,962 535,957 562,957 567,962 583,957 632,962 648,957 661,962 729,957 734,962 745,957 756,962 811,962 815,957 838,957 842,974 831,979 257,979"/>
-        <Baseline points="254,974 842,974"/>
-        <TextEquiv>
-          <Unicode>celui du disque RENAISSANCE DE L&#39;ORGUE N° 1 actuellement et</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_ee99634e"
+                    TAGREFS="LT4057"
+                    BASELINE="253 1015 654 1015" 
+                    HPOS="253"
+                    VPOS="998"
+                    WIDTH="401"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="253 1015 256 1002 272 998 284 1002 320 1002 327 998 339 1002 358 998 366 1002 391 1002 398 998 432 1002 453 1002 457 998 471 1002 504 998 549 998 555 1002 636 998 652 1002 654 1015 652 1019 610 1018 605 1023 587 1017 549 1023 518 1021 513 1017 498 1023 481 1023 477 1018 413 1023 409 1018 381 1017 357 1017 351 1023 326 1017 256 1023"/></Shape>
+	    <String CONTENT="proposer plus haut aux conditions AFSOA."
+                    HPOS="253"
+                    VPOS="998"
+                    WIDTH="401"
+                    HEIGHT="25"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_dd875616" >
-        <Coords points="254,994 257,981 263,978 812,978 830,979 833,994 831,1006 820,1006 802,994 787,1002 772,1001 766,1006 697,1006 692,1002 687,1006 655,1006 632,994 620,999 591,996 586,1002 579,998 573,1002 543,995 530,1000 512,1000 506,995 483,1002 478,996 466,999 459,994 446,1000 441,994 428,999 385,996 374,1002 367,996 330,994 323,1001 309,1002 305,998 279,1000 270,995 262,1000 257,995"/>
-        <Baseline points="254,994 833,994"/>
-        <TextEquiv>
-          <Unicode>c&#39;est à titre tout à fait exceptionnel que nous pouvons le</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_9285554f"
+                    TAGREFS="LT4057"
+                    BASELINE="238 1040 726 1042" 
+                    HPOS="238"
+                    VPOS="1024"
+                    WIDTH="488"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="238 1040 240 1028 356 1028 362 1024 410 1028 437 1024 486 1029 513 1029 517 1025 558 1029 688 1025 695 1029 710 1025 724 1029 726 1042 723 1048 713 1049 239 1044"/></Shape>
+	    <String CONTENT="- que les frais de port et emballage se montent à"
+                    HPOS="238"
+                    VPOS="1024"
+                    WIDTH="488"
+                    HEIGHT="25"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_ee99634e" >
-        <Coords points="253,1015 256,1002 272,998 284,1002 320,1002 327,998 339,1002 358,998 366,1002 391,1002 398,998 432,1002 453,1002 457,998 471,1002 504,998 549,998 555,1002 636,998 652,1002 654,1015 652,1019 610,1018 605,1023 587,1017 549,1023 518,1021 513,1017 498,1023 481,1023 477,1018 413,1023 409,1018 381,1017 357,1017 351,1023 326,1017 256,1023"/>
-        <Baseline points="253,1015 654,1015"/>
-        <TextEquiv>
-          <Unicode>proposer plus haut aux conditions AFSOA.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_83187672"
+                    TAGREFS="LT4057"
+                    BASELINE="254 1061 693 1064" 
+                    HPOS="254"
+                    VPOS="1045"
+                    WIDTH="439"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="254 1061 256 1045 392 1045 401 1050 684 1048 690 1051 693 1064 683 1068 547 1068 541 1064 401 1067 374 1063 256 1066"/></Shape>
+	    <String CONTENT="4.00 F pour tout envoi de un ou deux disques"
+                    HPOS="254"
+                    VPOS="1045"
+                    WIDTH="439"
+                    HEIGHT="23"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_9285554f" >
-        <Coords points="238,1040 240,1028 356,1028 362,1024 410,1028 437,1024 486,1029 513,1029 517,1025 558,1029 688,1025 695,1029 710,1025 724,1029 726,1042 723,1048 713,1049 239,1044"/>
-        <Baseline points="238,1040 726,1042"/>
-        <TextEquiv>
-          <Unicode>- que les frais de port et emballage se montent à</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_c37d2f64"
+                    TAGREFS="LT4057"
+                    BASELINE="254 1083 715 1083" 
+                    HPOS="254"
+                    VPOS="1067"
+                    WIDTH="461"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="254 1083 260 1067 713 1067 715 1083 709 1088 257 1087"/></Shape>
+	    <String CONTENT="6.00 F pour tout envoi de trois à cinq disques"
+                    HPOS="254"
+                    VPOS="1067"
+                    WIDTH="461"
+                    HEIGHT="21"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_83187672" >
-        <Coords points="254,1061 256,1045 392,1045 401,1050 684,1048 690,1051 693,1064 683,1068 547,1068 541,1064 401,1067 374,1063 256,1066"/>
-        <Baseline points="254,1061 693,1064"/>
-        <TextEquiv>
-          <Unicode>4.00 F pour tout envoi de un ou deux disques</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_e2a30690"
+                    TAGREFS="LT4057"
+                    BASELINE="253 1103 693 1103" 
+                    HPOS="253"
+                    VPOS="1086"
+                    WIDTH="440"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="253 1103 259 1086 318 1086 322 1090 398 1086 412 1090 431 1086 440 1090 478 1090 485 1086 501 1090 522 1090 527 1086 531 1090 547 1090 552 1086 614 1090 619 1086 624 1090 639 1086 649 1090 691 1090 693 1103 691 1111 653 1111 647 1105 636 1110 608 1105 600 1111 544 1105 462 1105 452 1111 434 1105 371 1105 337 1111 318 1111 310 1105 256 1106"/></Shape>
+	    <String CONTENT="7.00 F pour tout envoi de six à huit disques"
+                    HPOS="253"
+                    VPOS="1086"
+                    WIDTH="440"
+                    HEIGHT="25"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_c37d2f64" >
-        <Coords points="254,1083 260,1067 713,1067 715,1083 709,1088 257,1087"/>
-        <Baseline points="254,1083 715,1083"/>
-        <TextEquiv>
-          <Unicode>6.00 F pour tout envoi de trois à cinq disques</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_c7a42c96"
+                    TAGREFS="LT4057"
+                    BASELINE="754 1081 852 1083" 
+                    HPOS="754"
+                    VPOS="1060"
+                    WIDTH="96"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="754 1081 757 1060 763 1064 808 1060 813 1065 850 1060 849 1093 831 1089 824 1093 803 1088 779 1092 756 1089"/></Shape>
+	    <String CONTENT="en France"
+                    HPOS="754"
+                    VPOS="1060"
+                    WIDTH="96"
+                    HEIGHT="33"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_c7a42c96" >
-        <Coords points="754,1081 757,1060 763,1064 808,1060 813,1065 850,1060 849,1093 831,1089 824,1093 803,1088 779,1092 756,1089"/>
-        <Baseline points="754,1081 852,1083"/>
-        <TextEquiv>
-          <Unicode>en France</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_1992dada"
+                    TAGREFS="LT4057"
+                    BASELINE="252 1132 697 1130" 
+                    HPOS="252"
+                    VPOS="1113"
+                    WIDTH="445"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="252 1132 253 1114 468 1117 479 1113 645 1113 693 1116 697 1130 695 1146 681 1149 631 1149 611 1136 595 1149 534 1149 510 1136 462 1141 407 1138 399 1146 392 1138 379 1142 346 1137 318 1146 307 1139 301 1144 287 1146 274 1140 262 1142 254 1137"/></Shape>
+	    <String CONTENT="9.00 F pour tout envoi de un et deux disques"
+                    HPOS="252"
+                    VPOS="1113"
+                    WIDTH="445"
+                    HEIGHT="36"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_e2a30690" >
-        <Coords points="253,1103 259,1086 318,1086 322,1090 398,1086 412,1090 431,1086 440,1090 478,1090 485,1086 501,1090 522,1090 527,1086 531,1090 547,1090 552,1086 614,1090 619,1086 624,1090 639,1086 649,1090 691,1090 693,1103 691,1111 653,1111 647,1105 636,1110 608,1105 600,1111 544,1105 462,1105 452,1111 434,1105 371,1105 337,1111 318,1111 310,1105 256,1106"/>
-        <Baseline points="253,1103 693,1103"/>
-        <TextEquiv>
-          <Unicode>7.00 F pour tout envoi de six à huit disques</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_83c2071c"
+                    TAGREFS="LT4057"
+                    BASELINE="752 1132 880 1132" 
+                    HPOS="752"
+                    VPOS="1113"
+                    WIDTH="128"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="752 1132 754 1113 871 1114 878 1116 880 1132 878 1141 863 1138 857 1143 823 1143 818 1138 781 1143 773 1138 754 1138"/></Shape>
+	    <String CONTENT="à &#x27;étranger"
+                    HPOS="752"
+                    VPOS="1113"
+                    WIDTH="128"
+                    HEIGHT="30"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_1992dada" >
-        <Coords points="252,1132 253,1114 468,1117 479,1113 645,1113 693,1116 697,1130 695,1146 681,1149 631,1149 611,1136 595,1149 534,1149 510,1136 462,1141 407,1138 399,1146 392,1138 379,1142 346,1137 318,1146 307,1139 301,1144 287,1146 274,1140 262,1142 254,1137"/>
-        <Baseline points="252,1132 697,1130"/>
-        <TextEquiv>
-          <Unicode>9.00 F pour tout envoi de un et deux disques</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_c7ec9932"
+                    TAGREFS="LT4057"
+                    BASELINE="155 1201 476 1201" 
+                    HPOS="155"
+                    VPOS="1174"
+                    WIDTH="321"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="155 1201 157 1180 165 1174 196 1181 206 1174 221 1174 229 1183 249 1180 256 1174 264 1174 273 1183 344 1183 362 1174 382 1174 401 1183 422 1178 448 1181 456 1174 473 1174 476 1201 473 1215 417 1209 379 1210 373 1215 352 1215 345 1209 334 1214 317 1210 311 1215 284 1215 275 1210 262 1214 254 1209 241 1210 236 1215 209 1215 197 1209 171 1214 157 1210"/></Shape>
+	    <String CONTENT="(1) Rayer les mentions inutiles."
+                    HPOS="155"
+                    VPOS="1174"
+                    WIDTH="321"
+                    HEIGHT="41"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_83c2071c" >
-        <Coords points="752,1132 754,1113 871,1114 878,1116 880,1132 878,1141 863,1138 857,1143 823,1143 818,1138 781,1143 773,1138 754,1138"/>
-        <Baseline points="752,1132 880,1132"/>
-        <TextEquiv>
-          <Unicode>à &#39;étranger</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+        </TextBlock>
+        
 
-    
-    
-      <TextLine id="eSc_line_c7ec9932" >
-        <Coords points="155,1201 157,1180 165,1174 196,1181 206,1174 221,1174 229,1183 249,1180 256,1174 264,1174 273,1183 344,1183 362,1174 382,1174 401,1183 422,1178 448,1181 456,1174 473,1174 476,1201 473,1215 417,1209 379,1210 373,1215 352,1215 345,1209 334,1214 317,1210 311,1215 284,1215 275,1210 262,1214 254,1209 241,1210 236,1215 209,1215 197,1209 171,1214 157,1210"/>
-        <Baseline points="155,1201 476,1201"/>
-        <TextEquiv>
-          <Unicode>(1) Rayer les mentions inutiles.</Unicode>
-        </TextEquiv>
-      </TextLine>
-
-    
-    </TextRegion>
-    
-  </Page>
-</PcGts>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

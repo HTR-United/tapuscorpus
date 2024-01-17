@@ -1,158 +1,291 @@
-<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
-  <Metadata>
-	<Creator>escriptorium</Creator>
-	<Created>2021-01-21T19:45:05.370070+00:00</Created>
-    <LastChange>2021-01-21T19:45:05.370092+00:00</LastChange>
-  </Metadata>
-  <Page imageFilename="Jean_Giono_Colline_I_Manuscrit_[...]Giono_Jean_btv1b10515727p_319.jpeg" imageWidth="1024" imageHeight="1371">
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Jean_Giono_Colline_I_Manuscrit_[...]Giono_Jean_btv1b10515727p_319.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10358" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT10357" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10356" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10355" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10354" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10353" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4055" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/><OtherTag ID="LT4057" LABEL="DefaultLine:Typewritten" DESCRIPTION="line type DefaultLine:Typewritten"/><OtherTag ID="LT4056" LABEL="DefaultLine:Handwritten" DESCRIPTION="line type DefaultLine:Handwritten"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1024"
+          HEIGHT="1371"
+          PHYSICAL_IMG_NR="46"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1024"
+                  HEIGHT="1371">
+        
+        <TextBlock HPOS="157"
+                   VPOS="74"
+                   WIDTH="808"
+                   HEIGHT="525"
+                   ID="eSc_textblock_3e030d9c"
+                   TAGREFS="BT10353">
+          <Shape><Polygon POINTS="157 74 157 599 965 599 965 74"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_84e5b5dd"
+                    TAGREFS="LT4057"
+                    BASELINE="180 114 945 101" 
+                    HPOS="180"
+                    VPOS="78"
+                    WIDTH="765"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="180 114 182 92 203 90 214 90 221 97 233 91 264 91 269 95 308 93 317 87 325 92 349 87 364 94 388 87 409 91 413 86 456 92 466 87 474 92 498 87 514 92 525 84 533 91 553 86 595 91 664 90 672 84 693 89 724 89 730 84 744 87 749 83 781 87 805 82 852 85 886 78 931 78 941 85 945 101 940 108 856 107 849 114 811 110 805 115 749 111 736 116 677 116 668 111 621 117 604 111 571 118 563 111 532 111 526 116 390 114 370 115 363 121 312 123 297 123 290 117 284 122 211 124 182 119"/></Shape>
+	    <String CONTENT="Une jeune fille vétue de bure violine , un chapeau de paille enfoncé"
+                    HPOS="180"
+                    VPOS="78"
+                    WIDTH="765"
+                    HEIGHT="46"></String>
+          </TextLine>
 
-    
+          
+          
+          <TextLine ID="eSc_line_66a6a7d4"
+                    TAGREFS="LT4057"
+                    BASELINE="182 151 901 140" 
+                    HPOS="182"
+                    VPOS="118"
+                    WIDTH="719"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="182 151 185 131 216 129 224 134 238 134 253 130 306 132 316 127 324 133 381 126 396 132 425 125 469 124 484 129 491 124 569 129 592 123 665 126 701 122 755 126 858 124 865 118 877 124 898 124 901 140 893 146 852 145 845 151 828 153 779 153 765 146 736 147 731 151 705 147 699 153 686 147 668 155 643 151 584 156 561 151 536 157 513 150 505 157 427 158 411 151 386 157 379 153 325 153 314 161 297 155 288 161 268 161 261 154 237 159 226 155 219 161 184 161"/></Shape>
+	    <String CONTENT="sur les yeux et d&#x27;où s&#x27;échappent , raide comme des osiers , des"
+                    HPOS="182"
+                    VPOS="118"
+                    WIDTH="719"
+                    HEIGHT="43"></String>
+          </TextLine>
 
-    
-    <TextRegion id="eSc_dummyblock_">
-    
-    
-      <TextLine id="eSc_line_14a6db58" >
-        <Coords points="907,58 909,37 952,35 950,68 909,66"/>
-        <Baseline points="907,58 954,58"/>
-        <TextEquiv>
-          <Unicode>158</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_b068b5cd"
+                    TAGREFS="LT4057"
+                    BASELINE="182 190 691 181" 
+                    HPOS="182"
+                    VPOS="159"
+                    WIDTH="509"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="182 190 184 171 242 172 259 171 266 164 273 167 308 163 345 163 352 170 363 170 384 163 426 165 444 161 452 165 476 161 498 167 507 162 552 166 593 159 600 165 688 164 691 181 642 189 563 186 548 194 532 187 520 194 501 188 497 194 481 195 449 195 440 190 417 196 339 193 334 197 324 191 313 193 309 198 272 198 260 191 242 199 184 193"/></Shape>
+	    <String CONTENT="cheveus chatain clair huilés de brillantine ."
+                    HPOS="182"
+                    VPOS="159"
+                    WIDTH="509"
+                    HEIGHT="40"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_84e5b5dd" >
-        <Coords points="180,114 182,92 203,90 214,90 221,97 233,91 264,91 269,95 308,93 317,87 325,92 349,87 364,94 388,87 409,91 413,86 456,92 466,87 474,92 498,87 514,92 525,84 533,91 553,86 595,91 664,90 672,84 693,89 724,89 730,84 744,87 749,83 781,87 805,82 852,85 886,78 931,78 941,85 945,101 940,108 856,107 849,114 811,110 805,115 749,111 736,116 677,116 668,111 621,117 604,111 571,118 563,111 532,111 526,116 390,114 370,115 363,121 312,123 297,123 290,117 284,122 211,124 182,119"/>
-        <Baseline points="180,114 945,101"/>
-        <TextEquiv>
-          <Unicode>Une jeune fille vétue de bure violine , un chapeau de paille enfoncé</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_86a7f69e"
+                    TAGREFS="LT4057"
+                    BASELINE="460 218 627 218" 
+                    HPOS="460"
+                    VPOS="198"
+                    WIDTH="167"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="460 218 468 198 483 198 489 204 494 198 513 204 611 201 625 204 627 218 625 223 592 227 462 226"/></Shape>
+	    <String CONTENT="++++++++++++++"
+                    HPOS="460"
+                    VPOS="198"
+                    WIDTH="167"
+                    HEIGHT="29"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_66a6a7d4" >
-        <Coords points="182,151 185,131 216,129 224,134 238,134 253,130 306,132 316,127 324,133 381,126 396,132 425,125 469,124 484,129 491,124 569,129 592,123 665,126 701,122 755,126 858,124 865,118 877,124 898,124 901,140 893,146 852,145 845,151 828,153 779,153 765,146 736,147 731,151 705,147 699,153 686,147 668,155 643,151 584,156 561,151 536,157 513,150 505,157 427,158 411,151 386,157 379,153 325,153 314,161 297,155 288,161 268,161 261,154 237,159 226,155 219,161 184,161"/>
-        <Baseline points="182,151 901,140"/>
-        <TextEquiv>
-          <Unicode>sur les yeux et d&#39;où s&#39;échappent , raide comme des osiers , des</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_42f9aa34"
+                    TAGREFS="LT4057"
+                    BASELINE="182 263 858 252" 
+                    HPOS="182"
+                    VPOS="229"
+                    WIDTH="676"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="182 263 184 238 200 244 237 244 248 237 258 243 288 244 294 237 330 242 336 236 379 237 385 242 413 236 425 242 449 242 470 241 477 234 489 239 545 233 552 239 572 239 616 231 629 236 648 231 652 236 710 237 731 229 741 229 748 236 757 230 774 236 828 230 833 235 854 234 858 252 854 260 828 257 812 265 796 261 788 266 712 259 706 266 693 267 673 259 654 259 633 260 628 266 610 261 587 269 544 263 505 263 494 268 466 263 449 269 419 269 396 263 371 269 358 265 349 271 341 265 321 266 314 274 277 269 250 275 229 275 218 269 185 273"/></Shape>
+	    <String CONTENT="La longue couleuvre du vent lutte avec l&#x27;oiseau de l&#x27;orage ."
+                    HPOS="182"
+                    VPOS="229"
+                    WIDTH="676"
+                    HEIGHT="46"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_b068b5cd" >
-        <Coords points="182,190 184,171 242,172 259,171 266,164 273,167 308,163 345,163 352,170 363,170 384,163 426,165 444,161 452,165 476,161 498,167 507,162 552,166 593,159 600,165 688,164 691,181 642,189 563,186 548,194 532,187 520,194 501,188 497,194 481,195 449,195 440,190 417,196 339,193 334,197 324,191 313,193 309,198 272,198 260,191 242,199 184,193"/>
-        <Baseline points="182,190 691,181"/>
-        <TextEquiv>
-          <Unicode>cheveus chatain clair huilés de brillantine .</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_34e8e28c"
+                    TAGREFS="LT4057"
+                    BASELINE="461 294 632 294" 
+                    HPOS="460"
+                    VPOS="275"
+                    WIDTH="172"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="460 293 462 275 629 275 632 293 629 306 606 306 597 298 570 298 553 305 534 297 507 297 499 301 491 297 477 306 462 299"/></Shape>
+	    <String CONTENT="++++++++++++++"
+                    HPOS="460"
+                    VPOS="275"
+                    WIDTH="172"
+                    HEIGHT="31"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_42f9aa34" >
-        <Coords points="182,263 184,238 200,244 237,244 248,237 258,243 288,244 294,237 330,242 336,236 379,237 385,242 413,236 425,242 449,242 470,241 477,234 489,239 545,233 552,239 572,239 616,231 629,236 648,231 652,236 710,237 731,229 741,229 748,236 757,230 774,236 828,230 833,235 854,234 858,252 854,260 828,257 812,265 796,261 788,266 712,259 706,266 693,267 673,259 654,259 633,260 628,266 610,261 587,269 544,263 505,263 494,268 466,263 449,269 419,269 396,263 371,269 358,265 349,271 341,265 321,266 314,274 277,269 250,275 229,275 218,269 185,273"/>
-        <Baseline points="182,263 858,252"/>
-        <TextEquiv>
-          <Unicode>La longue couleuvre du vent lutte avec l&#39;oiseau de l&#39;orage .</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_779baece"
+                    TAGREFS="LT4057"
+                    BASELINE="184 334 949 323" 
+                    HPOS="184"
+                    VPOS="301"
+                    WIDTH="765"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="184 334 186 311 205 316 236 311 248 317 261 313 306 316 313 310 324 310 331 317 355 311 373 316 422 316 430 311 436 316 457 316 466 308 481 308 490 315 521 315 529 309 538 315 557 315 571 307 587 314 608 314 613 309 619 314 641 314 670 313 676 308 701 313 732 303 741 308 770 303 795 311 828 303 835 309 865 309 878 301 910 301 917 308 946 308 949 323 946 330 928 330 921 335 914 330 873 330 852 338 833 331 811 331 795 339 728 334 718 338 710 333 701 339 670 340 662 333 642 338 625 334 613 340 529 335 489 343 441 337 405 338 392 345 344 345 337 339 312 339 305 346 186 342"/></Shape>
+	    <String CONTENT="Deux homme a longues moustaches noires -- des frères , sans doute-"
+                    HPOS="184"
+                    VPOS="301"
+                    WIDTH="765"
+                    HEIGHT="45"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_86a7f69e" >
-        <Coords points="460,218 468,198 483,198 489,204 494,198 513,204 611,201 625,204 627,218 625,223 592,227 462,226"/>
-        <Baseline points="460,218 627,218"/>
-        <TextEquiv>
-          <Unicode>++++++++++++++</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_b56aeb28"
+                    TAGREFS="LT4057"
+                    BASELINE="184 375 929 363" 
+                    HPOS="184"
+                    VPOS="342"
+                    WIDTH="745"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="184 375 185 356 202 353 221 359 276 354 289 358 302 353 308 358 320 354 385 357 396 349 452 356 476 348 507 348 517 355 529 347 546 354 569 354 580 347 600 353 614 353 620 347 652 353 667 345 708 349 729 343 755 343 760 348 776 345 782 350 812 345 829 349 838 342 859 348 864 343 873 348 915 345 925 348 929 363 923 371 860 375 804 370 793 377 782 377 777 371 728 371 722 378 624 379 619 374 565 380 558 374 546 379 526 374 521 379 474 377 469 381 454 375 427 382 394 377 373 383 321 378 300 385 284 379 257 380 251 386 242 381 226 386 214 380 203 386 186 385"/></Shape>
+	    <String CONTENT="qui se sont retrouvés , ont bu le rhum de l&#x27;amitié et , maintenant"
+                    HPOS="184"
+                    VPOS="342"
+                    WIDTH="745"
+                    HEIGHT="44"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_779baece" >
-        <Coords points="184,334 186,311 205,316 236,311 248,317 261,313 306,316 313,310 324,310 331,317 355,311 373,316 422,316 430,311 436,316 457,316 466,308 481,308 490,315 521,315 529,309 538,315 557,315 571,307 587,314 608,314 613,309 619,314 641,314 670,313 676,308 701,313 732,303 741,308 770,303 795,311 828,303 835,309 865,309 878,301 910,301 917,308 946,308 949,323 946,330 928,330 921,335 914,330 873,330 852,338 833,331 811,331 795,339 728,334 718,338 710,333 701,339 670,340 662,333 642,338 625,334 613,340 529,335 489,343 441,337 405,338 392,345 344,345 337,339 312,339 305,346 186,342"/>
-        <Baseline points="184,334 949,323"/>
-        <TextEquiv>
-          <Unicode>Deux homme a longues moustaches noires -- des frères , sans doute-</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_e42a3fe6"
+                    TAGREFS="LT4057"
+                    BASELINE="185 412 917 403" 
+                    HPOS="185"
+                    VPOS="381"
+                    WIDTH="732"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="185 412 187 395 194 394 214 396 237 389 246 396 275 396 283 388 315 388 321 394 337 388 350 395 368 387 386 387 393 394 412 394 421 387 433 394 457 394 478 387 497 393 509 386 526 393 545 388 556 391 563 385 573 389 634 391 668 386 788 388 795 382 806 382 813 389 852 388 859 381 888 381 894 388 914 388 917 403 914 409 893 413 886 409 826 409 788 414 777 410 689 411 682 417 641 418 598 414 396 420 373 415 310 421 299 415 291 421 276 417 269 422 264 417 186 419"/></Shape>
+	    <String CONTENT="sur le point du départ , s&#x27;embrassent de deux bons baiser sur les"
+                    HPOS="185"
+                    VPOS="381"
+                    WIDTH="732"
+                    HEIGHT="41"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_34e8e28c" >
-        <Coords points="460,293 462,275 629,275 632,293 629,306 606,306 597,298 570,298 553,305 534,297 507,297 499,301 491,297 477,306 462,299"/>
-        <Baseline points="461,294 632,294"/>
-        <TextEquiv>
-          <Unicode>++++++++++++++</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_b180eb59"
+                    TAGREFS="LT4057"
+                    BASELINE="185 451 939 444" 
+                    HPOS="185"
+                    VPOS="422"
+                    WIDTH="754"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="185 451 192 428 213 434 266 434 273 428 304 433 310 427 326 433 340 433 348 427 400 427 419 433 425 428 464 426 525 426 536 431 621 426 654 430 790 426 803 429 813 422 845 422 851 428 936 428 939 444 936 455 929 457 900 457 892 450 856 450 845 457 818 450 810 458 795 451 748 451 732 457 694 451 682 458 654 452 633 459 598 458 593 453 585 458 577 453 561 460 505 459 496 453 474 458 446 455 435 461 424 457 408 459 403 454 381 461 371 457 341 461 333 455 300 455 280 462 243 462 238 458 227 462 220 457 206 462 187 457"/></Shape>
+	    <String CONTENT="joues . De la porte , celui qui part parle encore . Celui qui reste"
+                    HPOS="185"
+                    VPOS="422"
+                    WIDTH="754"
+                    HEIGHT="40"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_b56aeb28" >
-        <Coords points="184,375 185,356 202,353 221,359 276,354 289,358 302,353 308,358 320,354 385,357 396,349 452,356 476,348 507,348 517,355 529,347 546,354 569,354 580,347 600,353 614,353 620,347 652,353 667,345 708,349 729,343 755,343 760,348 776,345 782,350 812,345 829,349 838,342 859,348 864,343 873,348 915,345 925,348 929,363 923,371 860,375 804,370 793,377 782,377 777,371 728,371 722,378 624,379 619,374 565,380 558,374 546,379 526,374 521,379 474,377 469,381 454,375 427,382 394,377 373,383 321,378 300,385 284,379 257,380 251,386 242,381 226,386 214,380 203,386 186,385"/>
-        <Baseline points="184,375 929,363"/>
-        <TextEquiv>
-          <Unicode>qui se sont retrouvés , ont bu le rhum de l&#39;amitié et , maintenant</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_5da378e1"
+                    TAGREFS="LT4057"
+                    BASELINE="185 487 908 485" 
+                    HPOS="185"
+                    VPOS="462"
+                    WIDTH="723"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="185 487 187 469 202 466 282 469 293 463 338 463 348 468 373 463 380 469 430 469 475 463 484 469 491 463 536 469 565 468 572 462 601 462 608 468 697 468 702 462 734 468 810 468 838 462 851 468 905 468 908 485 900 491 860 488 837 494 821 488 762 493 729 488 717 494 697 488 667 488 661 494 635 490 629 494 594 494 576 488 546 495 528 491 499 495 480 490 467 495 458 490 425 490 419 495 352 495 346 490 318 494 310 490 293 495 285 490 253 490 244 495 218 495 212 490 187 495"/></Shape>
+	    <String CONTENT="le dos a la moleskine de la banquette , fait Oui de la tète et"
+                    HPOS="185"
+                    VPOS="462"
+                    WIDTH="723"
+                    HEIGHT="33"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_e42a3fe6" >
-        <Coords points="185,412 187,395 194,394 214,396 237,389 246,396 275,396 283,388 315,388 321,394 337,388 350,395 368,387 386,387 393,394 412,394 421,387 433,394 457,394 478,387 497,393 509,386 526,393 545,388 556,391 563,385 573,389 634,391 668,386 788,388 795,382 806,382 813,389 852,388 859,381 888,381 894,388 914,388 917,403 914,409 893,413 886,409 826,409 788,414 777,410 689,411 682,417 641,418 598,414 396,420 373,415 310,421 299,415 291,421 276,417 269,422 264,417 186,419"/>
-        <Baseline points="185,412 917,403"/>
-        <TextEquiv>
-          <Unicode>sur le point du départ , s&#39;embrassent de deux bons baiser sur les</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_0dabc620"
+                    TAGREFS="LT4057"
+                    BASELINE="186 526 921 524" 
+                    HPOS="186"
+                    VPOS="502"
+                    WIDTH="735"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="186 526 188 507 245 509 251 504 273 508 299 503 309 508 341 503 396 509 420 503 435 509 488 509 494 503 512 503 516 508 550 509 590 508 604 502 662 502 684 508 789 508 797 502 819 508 829 502 856 508 915 506 921 524 917 530 869 528 860 534 814 534 804 530 796 534 773 534 768 530 732 534 724 527 661 528 654 534 618 534 613 530 576 534 553 527 532 532 528 528 512 535 502 530 460 530 452 535 396 535 390 530 377 535 357 528 243 528 235 535 228 531 206 535 188 530"/></Shape>
+	    <String CONTENT="regarde d&#x27;un bon regard luisant . Quand l&#x27;autre a disparu dans la"
+                    HPOS="186"
+                    VPOS="502"
+                    WIDTH="735"
+                    HEIGHT="33"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_b180eb59" >
-        <Coords points="185,451 192,428 213,434 266,434 273,428 304,433 310,427 326,433 340,433 348,427 400,427 419,433 425,428 464,426 525,426 536,431 621,426 654,430 790,426 803,429 813,422 845,422 851,428 936,428 939,444 936,455 929,457 900,457 892,450 856,450 845,457 818,450 810,458 795,451 748,451 732,457 694,451 682,458 654,452 633,459 598,458 593,453 585,458 577,453 561,460 505,459 496,453 474,458 446,455 435,461 424,457 408,459 403,454 381,461 371,457 341,461 333,455 300,455 280,462 243,462 238,458 227,462 220,457 206,462 187,457"/>
-        <Baseline points="185,451 939,444"/>
-        <TextEquiv>
-          <Unicode>joues . De la porte , celui qui part parle encore . Celui qui reste</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_52c58c59"
+                    TAGREFS="LT4057"
+                    BASELINE="185 564 908 562" 
+                    HPOS="185"
+                    VPOS="539"
+                    WIDTH="723"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="185 564 187 540 213 540 218 544 233 540 242 547 266 547 274 540 292 540 300 547 322 547 341 540 357 540 364 547 379 541 387 547 419 547 426 541 433 547 483 547 491 540 509 540 516 547 544 547 612 544 618 539 636 546 651 539 677 540 683 546 712 546 721 539 745 543 769 540 777 546 852 539 889 540 905 546 908 562 905 586 888 572 873 580 857 579 849 587 801 574 772 581 753 572 728 572 723 576 710 572 700 578 658 572 626 587 545 588 497 588 486 578 467 586 436 586 432 581 426 584 413 573 397 586 376 573 298 576 286 584 269 573 254 582 235 583 221 573 187 576"/></Shape>
+	    <String CONTENT="pluie , il avale son verre d&#x27;un coup puis il reste là , immobile"
+                    HPOS="185"
+                    VPOS="539"
+                    WIDTH="723"
+                    HEIGHT="49"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_5da378e1" >
-        <Coords points="185,487 187,469 202,466 282,469 293,463 338,463 348,468 373,463 380,469 430,469 475,463 484,469 491,463 536,469 565,468 572,462 601,462 608,468 697,468 702,462 734,468 810,468 838,462 851,468 905,468 908,485 900,491 860,488 837,494 821,488 762,493 729,488 717,494 697,488 667,488 661,494 635,490 629,494 594,494 576,488 546,495 528,491 499,495 480,490 467,495 458,490 425,490 419,495 352,495 346,490 318,494 310,490 293,495 285,490 253,490 244,495 218,495 212,490 187,495"/>
-        <Baseline points="185,487 908,485"/>
-        <TextEquiv>
-          <Unicode>le dos a la moleskine de la banquette , fait Oui de la tète et</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="878"
+                   VPOS="23"
+                   WIDTH="87"
+                   HEIGHT="49"
+                   ID="eSc_textblock_5d5e8875"
+                   TAGREFS="BT10356">
+          <Shape><Polygon POINTS="879 23 878 70 965 72 965 23"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_14a6db58"
+                    TAGREFS="LT4057"
+                    BASELINE="907 58 954 58" 
+                    HPOS="907"
+                    VPOS="35"
+                    WIDTH="45"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="907 58 909 37 952 35 950 68 909 66"/></Shape>
+	    <String CONTENT="158"
+                    HPOS="907"
+                    VPOS="35"
+                    WIDTH="45"
+                    HEIGHT="33"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_0dabc620" >
-        <Coords points="186,526 188,507 245,509 251,504 273,508 299,503 309,508 341,503 396,509 420,503 435,509 488,509 494,503 512,503 516,508 550,509 590,508 604,502 662,502 684,508 789,508 797,502 819,508 829,502 856,508 915,506 921,524 917,530 869,528 860,534 814,534 804,530 796,534 773,534 768,530 732,534 724,527 661,528 654,534 618,534 613,530 576,534 553,527 532,532 528,528 512,535 502,530 460,530 452,535 396,535 390,530 377,535 357,528 243,528 235,535 228,531 206,535 188,530"/>
-        <Baseline points="186,526 921,524"/>
-        <TextEquiv>
-          <Unicode>regarde d&#39;un bon regard luisant . Quand l&#39;autre a disparu dans la</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+        </TextBlock>
+        
 
-    
-    
-      <TextLine id="eSc_line_52c58c59" >
-        <Coords points="185,564 187,540 213,540 218,544 233,540 242,547 266,547 274,540 292,540 300,547 322,547 341,540 357,540 364,547 379,541 387,547 419,547 426,541 433,547 483,547 491,540 509,540 516,547 544,547 612,544 618,539 636,546 651,539 677,540 683,546 712,546 721,539 745,543 769,540 777,546 852,539 889,540 905,546 908,562 905,586 888,572 873,580 857,579 849,587 801,574 772,581 753,572 728,572 723,576 710,572 700,578 658,572 626,587 545,588 497,588 486,578 467,586 436,586 432,581 426,584 413,573 397,586 376,573 298,576 286,584 269,573 254,582 235,583 221,573 187,576"/>
-        <Baseline points="185,564 908,562"/>
-        <TextEquiv>
-          <Unicode>pluie , il avale son verre d&#39;un coup puis il reste là , immobile</Unicode>
-        </TextEquiv>
-      </TextLine>
-
-    
-    </TextRegion>
-    
-  </Page>
-</PcGts>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

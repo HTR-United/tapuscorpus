@@ -1,498 +1,859 @@
-<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
-  <Metadata>
-	<Creator>escriptorium</Creator>
-	<Created>2021-01-21T19:45:05.231420+00:00</Created>
-    <LastChange>2021-01-21T19:45:05.231442+00:00</LastChange>
-  </Metadata>
-  <Page imageFilename="Fonds_Oulipo_Dossiers_mensuels_de_[...]_btv1b10010116f_13.jpeg" imageWidth="1024" imageHeight="1334">
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Fonds_Oulipo_Dossiers_mensuels_de_[...]_btv1b10010116f_13.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10358" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT10357" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10356" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10355" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10354" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10353" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4055" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/><OtherTag ID="LT4057" LABEL="DefaultLine:Typewritten" DESCRIPTION="line type DefaultLine:Typewritten"/><OtherTag ID="LT4056" LABEL="DefaultLine:Handwritten" DESCRIPTION="line type DefaultLine:Handwritten"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1024"
+          HEIGHT="1334"
+          PHYSICAL_IMG_NR="35"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1024"
+                  HEIGHT="1334">
+        
+        <TextBlock HPOS="57"
+                   VPOS="93"
+                   WIDTH="931"
+                   HEIGHT="1184"
+                   ID="eSc_textblock_b8603388"
+                   TAGREFS="BT10353">
+          <Shape><Polygon POINTS="57 93 57 1277 988 1277 988 93"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b370f953"
+                    TAGREFS="LT4057"
+                    BASELINE="130 157 888 161" 
+                    HPOS="130"
+                    VPOS="131"
+                    WIDTH="758"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="130 157 132 137 206 137 213 132 224 137 251 137 260 131 306 131 312 135 320 132 325 137 344 132 351 137 398 132 405 138 465 138 474 132 489 138 504 132 511 138 519 132 533 138 622 138 635 132 650 140 674 140 690 133 700 133 706 138 721 133 764 133 772 140 786 140 796 133 812 133 821 138 841 134 849 140 886 135 888 161 885 171 848 168 842 163 822 175 716 175 710 171 691 171 683 164 674 171 658 172 635 162 627 168 609 162 599 168 584 163 570 174 517 174 505 164 500 168 481 162 468 172 442 162 392 162 383 166 370 161 356 171 350 165 341 171 326 161 305 161 296 168 280 161 250 161 230 167 209 162 194 170 170 163 161 168 150 161 132 164"/></Shape>
+	    <String CONTENT="ASSOCIATION FRANCAISE POUR LA SAUVEGARDE"
+                    HPOS="130"
+                    VPOS="131"
+                    WIDTH="758"
+                    HEIGHT="44"></String>
+          </TextLine>
 
-    
+          
+          
+          <TextLine ID="eSc_line_136cf146"
+                    TAGREFS="LT4057"
+                    BASELINE="348 216 671 218" 
+                    HPOS="348"
+                    VPOS="190"
+                    WIDTH="323"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="348 216 349 191 425 190 435 197 454 196 460 201 469 196 480 203 527 198 542 204 561 200 574 204 597 200 607 204 668 202 671 218 668 231 647 231 634 224 584 224 564 231 537 225 501 230 484 224 445 230 430 223 398 229 384 223 376 230 365 230 349 224"/></Shape>
+	    <String CONTENT="DE L&#x27;ORGUE ANCIEN"
+                    HPOS="348"
+                    VPOS="190"
+                    WIDTH="323"
+                    HEIGHT="41"></String>
+          </TextLine>
 
-    
-    <TextRegion id="eSc_dummyblock_">
-    
-    
-      <TextLine id="eSc_line_b370f953" >
-        <Coords points="130,157 132,137 206,137 213,132 224,137 251,137 260,131 306,131 312,135 320,132 325,137 344,132 351,137 398,132 405,138 465,138 474,132 489,138 504,132 511,138 519,132 533,138 622,138 635,132 650,140 674,140 690,133 700,133 706,138 721,133 764,133 772,140 786,140 796,133 812,133 821,138 841,134 849,140 886,135 888,161 885,171 848,168 842,163 822,175 716,175 710,171 691,171 683,164 674,171 658,172 635,162 627,168 609,162 599,168 584,163 570,174 517,174 505,164 500,168 481,162 468,172 442,162 392,162 383,166 370,161 356,171 350,165 341,171 326,161 305,161 296,168 280,161 250,161 230,167 209,162 194,170 170,163 161,168 150,161 132,164"/>
-        <Baseline points="130,157 888,161"/>
-        <TextEquiv>
-          <Unicode>ASSOCIATION FRANCAISE POUR LA SAUVEGARDE</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_a74a6371"
+                    TAGREFS="LT4057"
+                    BASELINE="501 299 515 299" 
+                    HPOS="501"
+                    VPOS="273"
+                    WIDTH="12"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="501 299 503 274 512 273 513 307 503 309"/></Shape>
+	    <String CONTENT="I"
+                    HPOS="501"
+                    VPOS="273"
+                    WIDTH="12"
+                    HEIGHT="36"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_136cf146" >
-        <Coords points="348,216 349,191 425,190 435,197 454,196 460,201 469,196 480,203 527,198 542,204 561,200 574,204 597,200 607,204 668,202 671,218 668,231 647,231 634,224 584,224 564,231 537,225 501,230 484,224 445,230 430,223 398,229 384,223 376,230 365,230 349,224"/>
-        <Baseline points="348,216 671,218"/>
-        <TextEquiv>
-          <Unicode>DE L&#39;ORGUE ANCIEN</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_be9ecb92"
+                    TAGREFS="LT4057"
+                    BASELINE="110 335 897 341" 
+                    HPOS="110"
+                    VPOS="312"
+                    WIDTH="787"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="110 335 112 315 125 312 141 317 160 312 168 320 231 320 246 313 271 321 293 319 300 313 365 321 379 313 392 321 410 314 426 322 485 322 492 316 506 322 529 314 550 322 583 323 604 315 635 316 640 321 699 315 719 323 776 316 791 324 799 320 804 324 828 324 840 316 851 323 883 324 893 317 897 341 893 356 774 356 761 347 741 354 700 344 673 353 658 345 644 355 635 355 619 343 601 351 590 346 578 353 550 344 539 354 525 345 505 342 468 354 458 354 449 346 429 346 415 353 404 345 359 341 337 341 329 346 311 341 291 346 277 341 244 346 231 340 200 345 185 341 145 346 133 340 112 343"/></Shape>
+	    <String CONTENT="Nous sommes heureux de vous adresse ci-dessous le calendrier des concerts que"
+                    HPOS="110"
+                    VPOS="312"
+                    WIDTH="787"
+                    HEIGHT="44"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_a74a6371" >
-        <Coords points="501,299 503,274 512,273 513,307 503,309"/>
-        <Baseline points="501,299 515,299"/>
-        <TextEquiv>
-          <Unicode>I</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_f42f15dd"
+                    TAGREFS="LT4057"
+                    BASELINE="112 359 394 359" 
+                    HPOS="112"
+                    VPOS="342"
+                    WIDTH="282"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="112 359 114 344 121 342 141 342 145 346 175 342 197 346 220 342 239 342 243 346 360 342 392 346 394 359 392 370 380 377 370 369 358 371 348 366 309 366 300 373 283 366 267 377 246 369 236 375 216 377 202 366 183 377 158 377 146 370 137 377 114 377"/></Shape>
+	    <String CONTENT="nos amis nous ont annoncés :"
+                    HPOS="112"
+                    VPOS="342"
+                    WIDTH="282"
+                    HEIGHT="35"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_be9ecb92" >
-        <Coords points="110,335 112,315 125,312 141,317 160,312 168,320 231,320 246,313 271,321 293,319 300,313 365,321 379,313 392,321 410,314 426,322 485,322 492,316 506,322 529,314 550,322 583,323 604,315 635,316 640,321 699,315 719,323 776,316 791,324 799,320 804,324 828,324 840,316 851,323 883,324 893,317 897,341 893,356 774,356 761,347 741,354 700,344 673,353 658,345 644,355 635,355 619,343 601,351 590,346 578,353 550,344 539,354 525,345 505,342 468,354 458,354 449,346 429,346 415,353 404,345 359,341 337,341 329,346 311,341 291,346 277,341 244,346 231,340 200,345 185,341 145,346 133,340 112,343"/>
-        <Baseline points="110,335 897,341"/>
-        <TextEquiv>
-          <Unicode>Nous sommes heureux de vous adresse ci-dessous le calendrier des concerts que</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_d2924c5d"
+                    TAGREFS="LT4057"
+                    BASELINE="190 424 313 429" 
+                    HPOS="190"
+                    VPOS="406"
+                    WIDTH="123"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="190 424 192 412 222 409 254 414 261 409 277 411 283 406 290 411 311 407 313 429 310 436 301 436 289 449 267 441 253 448 230 445 217 434 191 434"/></Shape>
+	    <String CONTENT="- lundi 6 -"
+                    HPOS="190"
+                    VPOS="406"
+                    WIDTH="123"
+                    HEIGHT="43"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_f42f15dd" >
-        <Coords points="112,359 114,344 121,342 141,342 145,346 175,342 197,346 220,342 239,342 243,346 360,342 392,346 394,359 392,370 380,377 370,369 358,371 348,366 309,366 300,373 283,366 267,377 246,369 236,375 216,377 202,366 183,377 158,377 146,370 137,377 114,377"/>
-        <Baseline points="112,359 394,359"/>
-        <TextEquiv>
-          <Unicode>nos amis nous ont annoncés :</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_63aaa67d"
+                    TAGREFS="LT4057"
+                    BASELINE="468 399 547 401" 
+                    HPOS="468"
+                    VPOS="374"
+                    WIDTH="77"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="468 399 470 381 517 382 525 374 545 376 543 409 469 409"/></Shape>
+	    <String CONTENT="_JUILLET"
+                    HPOS="468"
+                    VPOS="374"
+                    WIDTH="77"
+                    HEIGHT="35"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_63aaa67d" >
-        <Coords points="468,399 470,381 517,382 525,374 545,376 543,409 469,409"/>
-        <Baseline points="468,399 547,401"/>
-        <TextEquiv>
-          <Unicode>_JUILLET</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_5836478c"
+                    TAGREFS="LT4057"
+                    BASELINE="365 429 595 429" 
+                    HPOS="365"
+                    VPOS="407"
+                    WIDTH="230"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="365 429 368 407 378 412 421 407 428 413 454 407 469 413 544 410 554 413 568 409 593 413 595 429 592 434 368 432"/></Shape>
+	    <String CONTENT="St Jean de Luz - 21 h."
+                    HPOS="365"
+                    VPOS="407"
+                    WIDTH="230"
+                    HEIGHT="27"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_d2924c5d" >
-        <Coords points="190,424 192,412 222,409 254,414 261,409 277,411 283,406 290,411 311,407 313,429 310,436 301,436 289,449 267,441 253,448 230,445 217,434 191,434"/>
-        <Baseline points="190,424 313,429"/>
-        <TextEquiv>
-          <Unicode>- lundi 6 -</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_7004537a"
+                    TAGREFS="LT4057"
+                    BASELINE="191 475 313 479" 
+                    HPOS="191"
+                    VPOS="456"
+                    WIDTH="122"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="191 475 193 461 220 456 229 461 273 459 286 464 311 464 313 479 294 484 284 482 277 488 264 480 245 484 229 481 224 485 203 481 192 485"/></Shape>
+	    <String CONTENT="- mardi 7 -"
+                    HPOS="191"
+                    VPOS="456"
+                    WIDTH="122"
+                    HEIGHT="32"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_5836478c" >
-        <Coords points="365,429 368,407 378,412 421,407 428,413 454,407 469,413 544,410 554,413 568,409 593,413 595,429 592,434 368,432"/>
-        <Baseline points="365,429 595,429"/>
-        <TextEquiv>
-          <Unicode>St Jean de Luz - 21 h.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_0b3664f3"
+                    TAGREFS="LT4057"
+                    BASELINE="366 448 488 451" 
+                    HPOS="366"
+                    VPOS="432"
+                    WIDTH="122"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="366 448 368 434 439 432 448 436 484 434 488 451 463 460 433 454 426 459 368 455"/></Shape>
+	    <String CONTENT="André Isoir"
+                    HPOS="366"
+                    VPOS="432"
+                    WIDTH="122"
+                    HEIGHT="28"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_0b3664f3" >
-        <Coords points="366,448 368,434 439,432 448,436 484,434 488,451 463,460 433,454 426,459 368,455"/>
-        <Baseline points="366,448 488,451"/>
-        <TextEquiv>
-          <Unicode>André Isoir</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_16daecca"
+                    TAGREFS="LT4057"
+                    BASELINE="365 476 674 482" 
+                    HPOS="365"
+                    VPOS="455"
+                    WIDTH="309"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="365 476 368 461 405 456 480 461 491 455 500 462 542 456 557 464 582 458 594 464 659 459 664 465 672 464 674 482 659 491 651 486 629 491 597 484 560 492 489 490 470 482 379 485 366 481"/></Shape>
+	    <String CONTENT="Biarritz (Ste Eugénie) - 21 h."
+                    HPOS="365"
+                    VPOS="455"
+                    WIDTH="309"
+                    HEIGHT="37"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_7004537a" >
-        <Coords points="191,475 193,461 220,456 229,461 273,459 286,464 311,464 313,479 294,484 284,482 277,488 264,480 245,484 229,481 224,485 203,481 192,485"/>
-        <Baseline points="191,475 313,479"/>
-        <TextEquiv>
-          <Unicode>- mardi 7 -</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_689a4115"
+                    TAGREFS="LT4057"
+                    BASELINE="366 499 486 501" 
+                    HPOS="366"
+                    VPOS="482"
+                    WIDTH="120"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="366 499 368 485 373 483 419 482 428 486 481 484 486 501 469 506 395 502 368 505"/></Shape>
+	    <String CONTENT="André Isoir"
+                    HPOS="366"
+                    VPOS="482"
+                    WIDTH="120"
+                    HEIGHT="24"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_16daecca" >
-        <Coords points="365,476 368,461 405,456 480,461 491,455 500,462 542,456 557,464 582,458 594,464 659,459 664,465 672,464 674,482 659,491 651,486 629,491 597,484 560,492 489,490 470,482 379,485 366,481"/>
-        <Baseline points="365,476 674,482"/>
-        <TextEquiv>
-          <Unicode>Biarritz (Ste Eugénie) - 21 h.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_1974690a"
+                    TAGREFS="LT4057"
+                    BASELINE="190 528 343 528" 
+                    HPOS="190"
+                    VPOS="506"
+                    WIDTH="153"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="190 528 192 513 203 513 213 506 236 513 246 508 263 513 275 506 294 511 307 508 315 513 341 513 343 528 336 533 292 539 212 539 203 532 192 532"/></Shape>
+	    <String CONTENT="- mercredi 8 -"
+                    HPOS="190"
+                    VPOS="506"
+                    WIDTH="153"
+                    HEIGHT="33"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_689a4115" >
-        <Coords points="366,499 368,485 373,483 419,482 428,486 481,484 486,501 469,506 395,502 368,505"/>
-        <Baseline points="366,499 486,501"/>
-        <TextEquiv>
-          <Unicode>André Isoir</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_57a8bf36"
+                    TAGREFS="LT4057"
+                    BASELINE="364 528 614 531" 
+                    HPOS="364"
+                    VPOS="504"
+                    WIDTH="250"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="364 528 366 512 376 506 384 512 409 512 414 506 442 504 454 511 464 508 472 513 493 513 502 505 528 505 538 514 553 514 560 508 598 506 612 514 614 531 609 536 590 532 578 536 538 532 532 536 470 532 449 535 442 531 420 534 411 530 388 534 365 530"/></Shape>
+	    <String CONTENT="Dax (Cathédrale) - 21 h."
+                    HPOS="364"
+                    VPOS="504"
+                    WIDTH="250"
+                    HEIGHT="32"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_1974690a" >
-        <Coords points="190,528 192,513 203,513 213,506 236,513 246,508 263,513 275,506 294,511 307,508 315,513 341,513 343,528 336,533 292,539 212,539 203,532 192,532"/>
-        <Baseline points="190,528 343,528"/>
-        <TextEquiv>
-          <Unicode>- mercredi 8 -</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_a98baa97"
+                    TAGREFS="LT4057"
+                    BASELINE="190 576 331 579" 
+                    HPOS="190"
+                    VPOS="546"
+                    WIDTH="141"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="190 576 192 561 223 561 235 550 245 554 260 546 296 548 313 562 329 562 331 579 327 583 291 588 286 584 282 589 263 589 252 583 247 588 226 583 211 588 201 582 191 586"/></Shape>
+	    <String CONTENT="- samedi 11 -"
+                    HPOS="190"
+                    VPOS="546"
+                    WIDTH="141"
+                    HEIGHT="43"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_57a8bf36" >
-        <Coords points="364,528 366,512 376,506 384,512 409,512 414,506 442,504 454,511 464,508 472,513 493,513 502,505 528,505 538,514 553,514 560,508 598,506 612,514 614,531 609,536 590,532 578,536 538,532 532,536 470,532 449,535 442,531 420,534 411,530 388,534 365,530"/>
-        <Baseline points="364,528 614,531"/>
-        <TextEquiv>
-          <Unicode>Dax (Cathédrale) - 21 h.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_f9184e35"
+                    TAGREFS="LT4057"
+                    BASELINE="365 551 486 551" 
+                    HPOS="365"
+                    VPOS="533"
+                    WIDTH="121"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="365 551 368 536 373 533 478 535 484 536 486 551 479 556 368 553"/></Shape>
+	    <String CONTENT="André Isoir"
+                    HPOS="365"
+                    VPOS="533"
+                    WIDTH="121"
+                    HEIGHT="23"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_f9184e35" >
-        <Coords points="365,551 368,536 373,533 478,535 484,536 486,551 479,556 368,553"/>
-        <Baseline points="365,551 486,551"/>
-        <TextEquiv>
-          <Unicode>André Isoir</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_38e84057"
+                    TAGREFS="LT4057"
+                    BASELINE="365 579 722 581" 
+                    HPOS="365"
+                    VPOS="556"
+                    WIDTH="357"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="365 579 366 563 375 556 392 563 408 563 415 556 426 562 435 556 453 563 484 563 499 556 513 563 564 559 572 564 592 564 601 558 632 563 638 558 649 558 661 564 674 558 683 564 719 564 722 581 714 586 698 582 552 586 533 581 528 585 470 585 458 581 448 585 408 585 401 581 378 585 366 581"/></Shape>
+	    <String CONTENT="Souvigny (Eglise Prieurale) - 21 h."
+                    HPOS="365"
+                    VPOS="556"
+                    WIDTH="357"
+                    HEIGHT="30"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_a98baa97" >
-        <Coords points="190,576 192,561 223,561 235,550 245,554 260,546 296,548 313,562 329,562 331,579 327,583 291,588 286,584 282,589 263,589 252,583 247,588 226,583 211,588 201,582 191,586"/>
-        <Baseline points="190,576 331,579"/>
-        <TextEquiv>
-          <Unicode>- samedi 11 -</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_b5ffe438"
+                    TAGREFS="LT4057"
+                    BASELINE="192 626 354 629" 
+                    HPOS="192"
+                    VPOS="599"
+                    WIDTH="162"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="192 626 193 610 223 599 230 605 243 603 257 610 266 610 280 600 300 600 312 611 351 611 354 629 351 640 340 643 330 643 323 636 295 636 274 643 263 635 193 642"/></Shape>
+	    <String CONTENT="- vendredi 24 -"
+                    HPOS="192"
+                    VPOS="599"
+                    WIDTH="162"
+                    HEIGHT="44"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_38e84057" >
-        <Coords points="365,579 366,563 375,556 392,563 408,563 415,556 426,562 435,556 453,563 484,563 499,556 513,563 564,559 572,564 592,564 601,558 632,563 638,558 649,558 661,564 674,558 683,564 719,564 722,581 714,586 698,582 552,586 533,581 528,585 470,585 458,581 448,585 408,585 401,581 378,585 366,581"/>
-        <Baseline points="365,579 722,581"/>
-        <TextEquiv>
-          <Unicode>Souvigny (Eglise Prieurale) - 21 h.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_b0c7b6cd"
+                    TAGREFS="LT4057"
+                    BASELINE="365 600 831 603" 
+                    HPOS="365"
+                    VPOS="580"
+                    WIDTH="466"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="365 600 372 582 382 586 395 586 402 581 410 586 451 586 458 580 479 586 504 582 531 588 595 588 612 583 621 588 644 581 655 588 667 582 674 586 720 589 730 582 742 586 750 581 824 581 831 603 828 611 807 612 366 609"/></Shape>
+	    <String CONTENT="Henri Legras (orgue) - Chantal Tyrode (chant)."
+                    HPOS="365"
+                    VPOS="580"
+                    WIDTH="466"
+                    HEIGHT="32"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_b0c7b6cd" >
-        <Coords points="365,600 372,582 382,586 395,586 402,581 410,586 451,586 458,580 479,586 504,582 531,588 595,588 612,583 621,588 644,581 655,588 667,582 674,586 720,589 730,582 742,586 750,581 824,581 831,603 828,611 807,612 366,609"/>
-        <Baseline points="365,600 831,603"/>
-        <TextEquiv>
-          <Unicode>Henri Legras (orgue) - Chantal Tyrode (chant).</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_0f8dbc4a"
+                    TAGREFS="LT4057"
+                    BASELINE="360 629 702 631" 
+                    HPOS="360"
+                    VPOS="609"
+                    WIDTH="342"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="360 629 362 614 379 610 425 614 454 609 519 609 539 615 562 611 620 611 624 615 684 611 700 615 702 631 699 636 678 632 623 632 615 636 486 631 460 635 446 631 424 635 361 634"/></Shape>
+	    <String CONTENT="Lannion (St Jean du Baly) - 21 h."
+                    HPOS="360"
+                    VPOS="609"
+                    WIDTH="342"
+                    HEIGHT="27"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_b5ffe438" >
-        <Coords points="192,626 193,610 223,599 230,605 243,603 257,610 266,610 280,600 300,600 312,611 351,611 354,629 351,640 340,643 330,643 323,636 295,636 274,643 263,635 193,642"/>
-        <Baseline points="192,626 354,629"/>
-        <TextEquiv>
-          <Unicode>- vendredi 24 -</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_bfcc97cd"
+                    TAGREFS="LT4057"
+                    BASELINE="189 675 322 679" 
+                    HPOS="189"
+                    VPOS="660"
+                    WIDTH="133"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="189 675 191 663 277 660 294 665 320 665 322 679 309 684 254 685 190 681"/></Shape>
+	    <String CONTENT="- lundi 27 -"
+                    HPOS="189"
+                    VPOS="660"
+                    WIDTH="133"
+                    HEIGHT="25"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_0f8dbc4a" >
-        <Coords points="360,629 362,614 379,610 425,614 454,609 519,609 539,615 562,611 620,611 624,615 684,611 700,615 702,631 699,636 678,632 623,632 615,636 486,631 460,635 446,631 424,635 361,634"/>
-        <Baseline points="360,629 702,631"/>
-        <TextEquiv>
-          <Unicode>Lannion (St Jean du Baly) - 21 h.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_1690c494"
+                    TAGREFS="LT4057"
+                    BASELINE="366 650 823 652" 
+                    HPOS="366"
+                    VPOS="632"
+                    WIDTH="457"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="366 650 368 636 372 634 426 636 444 632 450 636 490 636 495 632 513 636 551 632 561 636 647 633 651 638 702 638 721 633 816 633 823 652 806 665 787 664 780 669 747 664 742 669 653 669 647 663 622 669 594 655 559 655 534 663 505 655 472 655 459 662 426 664 395 663 385 655 368 658"/></Shape>
+	    <String CONTENT="André Isoir (orgue) - M. Giboureau (hautbois)"
+                    HPOS="366"
+                    VPOS="632"
+                    WIDTH="457"
+                    HEIGHT="37"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_1690c494" >
-        <Coords points="366,650 368,636 372,634 426,636 444,632 450,636 490,636 495,632 513,636 551,632 561,636 647,633 651,638 702,638 721,633 816,633 823,652 806,665 787,664 780,669 747,664 742,669 653,669 647,663 622,669 594,655 559,655 534,663 505,655 472,655 459,662 426,664 395,663 385,655 368,658"/>
-        <Baseline points="366,650 823,652"/>
-        <TextEquiv>
-          <Unicode>André Isoir (orgue) - M. Giboureau (hautbois)</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_b9fa9310"
+                    TAGREFS="LT4057"
+                    BASELINE="363 678 613 680" 
+                    HPOS="363"
+                    VPOS="661"
+                    WIDTH="250"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="363 678 364 665 371 661 390 665 481 661 498 665 529 662 535 667 610 663 613 680 610 687 559 682 491 687 475 681 382 685 364 681"/></Shape>
+	    <String CONTENT="Dieppe (St Rémi) - 18 h."
+                    HPOS="363"
+                    VPOS="661"
+                    WIDTH="250"
+                    HEIGHT="26"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_bfcc97cd" >
-        <Coords points="189,675 191,663 277,660 294,665 320,665 322,679 309,684 254,685 190,681"/>
-        <Baseline points="189,675 322,679"/>
-        <TextEquiv>
-          <Unicode>- lundi 27 -</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_1257f2f9"
+                    TAGREFS="LT4057"
+                    BASELINE="366 699 658 701" 
+                    HPOS="366"
+                    VPOS="683"
+                    WIDTH="292"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="366 699 372 683 513 688 654 683 658 701 648 707 617 708 469 703 368 707"/></Shape>
+	    <String CONTENT="Raphaëlle Garreau de Labarre"
+                    HPOS="366"
+                    VPOS="683"
+                    WIDTH="292"
+                    HEIGHT="25"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_b9fa9310" >
-        <Coords points="363,678 364,665 371,661 390,665 481,661 498,665 529,662 535,667 610,663 613,680 610,687 559,682 491,687 475,681 382,685 364,681"/>
-        <Baseline points="363,678 613,680"/>
-        <TextEquiv>
-          <Unicode>Dieppe (St Rémi) - 18 h.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_e0de9067"
+                    TAGREFS="LT4057"
+                    BASELINE="189 728 319 728" 
+                    HPOS="189"
+                    VPOS="707"
+                    WIDTH="130"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="189 728 191 714 241 715 259 707 292 707 301 715 316 713 319 728 292 739 277 734 272 739 266 733 260 739 215 739 204 732 191 732"/></Shape>
+	    <String CONTENT="- mardi 28 -"
+                    HPOS="189"
+                    VPOS="707"
+                    WIDTH="130"
+                    HEIGHT="32"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_1257f2f9" >
-        <Coords points="366,699 372,683 513,688 654,683 658,701 648,707 617,708 469,703 368,707"/>
-        <Baseline points="366,699 658,701"/>
-        <TextEquiv>
-          <Unicode>Raphaëlle Garreau de Labarre</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_11294e73"
+                    TAGREFS="LT4057"
+                    BASELINE="365 729 603 732" 
+                    HPOS="365"
+                    VPOS="708"
+                    WIDTH="238"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="365 729 370 708 384 715 423 715 431 708 444 708 466 717 517 712 530 718 550 710 569 710 574 715 583 710 591 718 600 718 603 732 595 737 560 738 555 733 450 737 443 732 376 735 366 731"/></Shape>
+	    <String CONTENT="Berne (Munster) - 21 h."
+                    HPOS="365"
+                    VPOS="708"
+                    WIDTH="238"
+                    HEIGHT="30"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_e0de9067" >
-        <Coords points="189,728 191,714 241,715 259,707 292,707 301,715 316,713 319,728 292,739 277,734 272,739 266,733 260,739 215,739 204,732 191,732"/>
-        <Baseline points="189,728 319,728"/>
-        <TextEquiv>
-          <Unicode>- mardi 28 -</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_ab99d48f"
+                    TAGREFS="LT4057"
+                    BASELINE="189 777 317 780" 
+                    HPOS="189"
+                    VPOS="757"
+                    WIDTH="128"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="189 777 191 763 246 764 255 757 274 757 292 758 300 765 315 763 317 780 294 783 283 793 255 784 247 789 216 785 210 791 190 791"/></Shape>
+	    <String CONTENT="- jeudi 30 -"
+                    HPOS="189"
+                    VPOS="757"
+                    WIDTH="128"
+                    HEIGHT="36"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_11294e73" >
-        <Coords points="365,729 370,708 384,715 423,715 431,708 444,708 466,717 517,712 530,718 550,710 569,710 574,715 583,710 591,718 600,718 603,732 595,737 560,738 555,733 450,737 443,732 376,735 366,731"/>
-        <Baseline points="365,729 603,732"/>
-        <TextEquiv>
-          <Unicode>Berne (Munster) - 21 h.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_f5913412"
+                    TAGREFS="LT4057"
+                    BASELINE="365 751 485 751" 
+                    HPOS="365"
+                    VPOS="733"
+                    WIDTH="120"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="365 751 372 733 483 737 485 751 482 757 368 754"/></Shape>
+	    <String CONTENT="André Isoir"
+                    HPOS="365"
+                    VPOS="733"
+                    WIDTH="120"
+                    HEIGHT="24"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_f5913412" >
-        <Coords points="365,751 372,733 483,737 485,751 482,757 368,754"/>
-        <Baseline points="365,751 485,751"/>
-        <TextEquiv>
-          <Unicode>André Isoir</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_d60605bf"
+                    TAGREFS="LT4057"
+                    BASELINE="364 778 475 780" 
+                    HPOS="364"
+                    VPOS="759"
+                    WIDTH="111"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="364 778 365 764 409 759 424 765 471 763 475 780 465 787 365 783"/></Shape>
+	    <String CONTENT="Roquemaure"
+                    HPOS="364"
+                    VPOS="759"
+                    WIDTH="111"
+                    HEIGHT="28"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_ab99d48f" >
-        <Coords points="189,777 191,763 246,764 255,757 274,757 292,758 300,765 315,763 317,780 294,783 283,793 255,784 247,789 216,785 210,791 190,791"/>
-        <Baseline points="189,777 317,780"/>
-        <TextEquiv>
-          <Unicode>- jeudi 30 -</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_ff5c1baa"
+                    TAGREFS="LT4057"
+                    BASELINE="365 798 905 801" 
+                    HPOS="365"
+                    VPOS="775"
+                    WIDTH="540"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="365 798 366 782 470 783 482 777 500 777 538 783 545 775 593 780 598 784 628 777 648 784 661 777 692 777 708 784 727 785 743 779 760 780 766 785 790 779 803 785 823 785 832 778 873 778 885 785 901 780 905 801 880 814 866 808 841 807 832 811 823 805 818 811 783 810 770 817 749 810 738 817 719 811 700 815 689 807 673 815 651 808 644 814 628 810 619 815 545 815 528 803 439 803 425 810 418 805 366 803"/></Shape>
+	    <String CONTENT="Francis Chapelet (Récital donné dans le cadre du Fes-"
+                    HPOS="365"
+                    VPOS="775"
+                    WIDTH="540"
+                    HEIGHT="42"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_d60605bf" >
-        <Coords points="364,778 365,764 409,759 424,765 471,763 475,780 465,787 365,783"/>
-        <Baseline points="364,778 475,780"/>
-        <TextEquiv>
-          <Unicode>Roquemaure</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_afb5ab01"
+                    TAGREFS="LT4057"
+                    BASELINE="365 822 534 822" 
+                    HPOS="365"
+                    VPOS="804"
+                    WIDTH="169"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="365 822 368 808 376 804 524 804 532 808 534 822 532 835 492 832 486 838 456 833 445 842 426 837 419 842 368 844"/></Shape>
+	    <String CONTENT="tival d&#x27;Avignon)"
+                    HPOS="365"
+                    VPOS="804"
+                    WIDTH="169"
+                    HEIGHT="40"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_ff5c1baa" >
-        <Coords points="365,798 366,782 470,783 482,777 500,777 538,783 545,775 593,780 598,784 628,777 648,784 661,777 692,777 708,784 727,785 743,779 760,780 766,785 790,779 803,785 823,785 832,778 873,778 885,785 901,780 905,801 880,814 866,808 841,807 832,811 823,805 818,811 783,810 770,817 749,810 738,817 719,811 700,815 689,807 673,815 651,808 644,814 628,810 619,815 545,815 528,803 439,803 425,810 418,805 366,803"/>
-        <Baseline points="365,798 905,801"/>
-        <TextEquiv>
-          <Unicode>Francis Chapelet (Récital donné dans le cadre du Fes-</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_94530019"
+                    TAGREFS="LT4057"
+                    BASELINE="465 923 511 923" 
+                    HPOS="465"
+                    VPOS="896"
+                    WIDTH="44"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="465 923 468 900 509 896 508 932 468 931"/></Shape>
+	    <String CONTENT="_AOUT"
+                    HPOS="465"
+                    VPOS="896"
+                    WIDTH="44"
+                    HEIGHT="36"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_afb5ab01" >
-        <Coords points="365,822 368,808 376,804 524,804 532,808 534,822 532,835 492,832 486,838 456,833 445,842 426,837 419,842 368,844"/>
-        <Baseline points="365,822 534,822"/>
-        <TextEquiv>
-          <Unicode>tival d&#39;Avignon)</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_aefb26b4"
+                    TAGREFS="LT4057"
+                    BASELINE="186 956 387 959" 
+                    HPOS="185"
+                    VPOS="936"
+                    WIDTH="201"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="185 954 186 944 200 946 219 936 241 936 246 942 257 939 291 943 301 939 307 947 322 939 333 940 339 946 383 948 386 958 383 963 359 963 346 970 322 972 285 968 262 971 256 966 241 969 233 962 186 969"/></Shape>
+	    <String CONTENT="- 1ère quinzaine -"
+                    HPOS="185"
+                    VPOS="936"
+                    WIDTH="201"
+                    HEIGHT="36"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_94530019" >
-        <Coords points="465,923 468,900 509,896 508,932 468,931"/>
-        <Baseline points="465,923 511,923"/>
-        <TextEquiv>
-          <Unicode>_AOUT</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_4eabdb01"
+                    TAGREFS="LT4057"
+                    BASELINE="366 979 773 982" 
+                    HPOS="365"
+                    VPOS="956"
+                    WIDTH="407"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="365 978 366 963 448 964 472 962 482 956 489 962 517 966 537 960 543 966 575 963 583 957 597 957 608 964 619 957 643 967 659 966 668 958 710 958 716 963 731 960 740 966 748 958 769 958 772 981 764 987 743 984 737 989 665 989 652 983 613 988 585 982 550 988 535 988 529 982 494 987 463 987 456 982 431 986 425 981 404 987 366 984"/></Shape>
+	    <String CONTENT="Semur en Auxois (Côte d&#x27;Or) - Collégiale"
+                    HPOS="365"
+                    VPOS="956"
+                    WIDTH="407"
+                    HEIGHT="33"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_aefb26b4" >
-        <Coords points="185,954 186,944 200,946 219,936 241,936 246,942 257,939 291,943 301,939 307,947 322,939 333,940 339,946 383,948 386,958 383,963 359,963 346,970 322,972 285,968 262,971 256,966 241,969 233,962 186,969"/>
-        <Baseline points="186,956 387,959"/>
-        <TextEquiv>
-          <Unicode>- 1ère quinzaine -</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_da7dbc0a"
+                    TAGREFS="LT4057"
+                    BASELINE="365 999 612 1001" 
+                    HPOS="365"
+                    VPOS="983"
+                    WIDTH="247"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="365 999 366 987 372 983 479 983 490 988 607 987 612 1001 595 1007 366 1004"/></Shape>
+	    <String CONTENT="1° Concert à 2 clavecins"
+                    HPOS="365"
+                    VPOS="983"
+                    WIDTH="247"
+                    HEIGHT="24"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_4eabdb01" >
-        <Coords points="365,978 366,963 448,964 472,962 482,956 489,962 517,966 537,960 543,966 575,963 583,957 597,957 608,964 619,957 643,967 659,966 668,958 710,958 716,963 731,960 740,966 748,958 769,958 772,981 764,987 743,984 737,989 665,989 652,983 613,988 585,982 550,988 535,988 529,982 494,987 463,987 456,982 431,986 425,981 404,987 366,984"/>
-        <Baseline points="366,979 773,982"/>
-        <TextEquiv>
-          <Unicode>Semur en Auxois (Côte d&#39;Or) - Collégiale</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_1d88b747"
+                    TAGREFS="LT4057"
+                    BASELINE="364 1038 653 1043" 
+                    HPOS="364"
+                    VPOS="1021"
+                    WIDTH="289"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="364 1038 366 1021 385 1021 391 1027 404 1021 425 1028 455 1028 460 1023 481 1029 551 1026 565 1030 581 1024 609 1030 643 1027 651 1030 653 1043 647 1051 621 1051 533 1049 519 1043 481 1048 469 1042 424 1048 410 1042 365 1041"/></Shape>
+	    <String CONTENT="2° Concert chant et clavecin"
+                    HPOS="364"
+                    VPOS="1021"
+                    WIDTH="289"
+                    HEIGHT="30"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_da7dbc0a" >
-        <Coords points="365,999 366,987 372,983 479,983 490,988 607,987 612,1001 595,1007 366,1004"/>
-        <Baseline points="365,999 612,1001"/>
-        <TextEquiv>
-          <Unicode>1° Concert à 2 clavecins</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_361c733c"
+                    TAGREFS="LT4057"
+                    BASELINE="413 1020 714 1022" 
+                    HPOS="413"
+                    VPOS="1002"
+                    WIDTH="301"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="413 1020 415 1004 435 1008 473 1002 485 1008 514 1003 521 1008 561 1004 564 1009 620 1009 631 1003 708 1003 714 1022 702 1028 414 1026"/></Shape>
+	    <String CONTENT="René Delosme et J.C. Duperon"
+                    HPOS="413"
+                    VPOS="1002"
+                    WIDTH="301"
+                    HEIGHT="26"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_361c733c" >
-        <Coords points="413,1020 415,1004 435,1008 473,1002 485,1008 514,1003 521,1008 561,1004 564,1009 620,1009 631,1003 708,1003 714,1022 702,1028 414,1026"/>
-        <Baseline points="413,1020 714,1022"/>
-        <TextEquiv>
-          <Unicode>René Delosme et J.C. Duperon</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_342246fc"
+                    TAGREFS="LT4057"
+                    BASELINE="186 1087 339 1090" 
+                    HPOS="186"
+                    VPOS="1061"
+                    WIDTH="150"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="186 1087 189 1062 197 1070 212 1063 230 1070 240 1067 250 1071 283 1071 295 1061 336 1061 335 1103 289 1104 279 1097 266 1103 236 1096 187 1098"/></Shape>
+	    <String CONTENT="- du 4 au 13 -"
+                    HPOS="186"
+                    VPOS="1061"
+                    WIDTH="150"
+                    HEIGHT="43"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_1d88b747" >
-        <Coords points="364,1038 366,1021 385,1021 391,1027 404,1021 425,1028 455,1028 460,1023 481,1029 551,1026 565,1030 581,1024 609,1030 643,1027 651,1030 653,1043 647,1051 621,1051 533,1049 519,1043 481,1048 469,1042 424,1048 410,1042 365,1041"/>
-        <Baseline points="364,1038 653,1043"/>
-        <TextEquiv>
-          <Unicode>2° Concert chant et clavecin</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_7574af9e"
+                    TAGREFS="LT4057"
+                    BASELINE="364 1062 554 1062" 
+                    HPOS="364"
+                    VPOS="1044"
+                    WIDTH="190"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="364 1062 366 1048 373 1044 545 1048 552 1049 554 1062 552 1070 491 1066 483 1069 474 1064 440 1070 418 1064 384 1066 380 1070 366 1067"/></Shape>
+	    <String CONTENT="3° Récital d&#x27;orgue"
+                    HPOS="364"
+                    VPOS="1044"
+                    WIDTH="190"
+                    HEIGHT="26"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_7574af9e" >
-        <Coords points="364,1062 366,1048 373,1044 545,1048 552,1049 554,1062 552,1070 491,1066 483,1069 474,1064 440,1070 418,1064 384,1066 380,1070 366,1067"/>
-        <Baseline points="364,1062 554,1062"/>
-        <TextEquiv>
-          <Unicode>3° Récital d&#39;orgue</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_1edd85c4"
+                    TAGREFS="LT4057"
+                    BASELINE="362 1089 881 1093" 
+                    HPOS="362"
+                    VPOS="1067"
+                    WIDTH="519"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="362 1089 363 1072 472 1073 482 1068 494 1074 531 1074 535 1070 557 1074 568 1069 611 1074 619 1067 630 1073 641 1068 653 1074 667 1067 698 1067 710 1076 727 1073 733 1067 749 1067 764 1072 777 1068 872 1068 878 1072 881 1093 875 1099 777 1099 717 1094 628 1098 611 1093 494 1097 363 1092"/></Shape>
+	    <String CONTENT="4 concerts pour orgue et trompette avec le concours"
+                    HPOS="362"
+                    VPOS="1067"
+                    WIDTH="519"
+                    HEIGHT="32"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_342246fc" >
-        <Coords points="186,1087 189,1062 197,1070 212,1063 230,1070 240,1067 250,1071 283,1071 295,1061 336,1061 335,1103 289,1104 279,1097 266,1103 236,1096 187,1098"/>
-        <Baseline points="186,1087 339,1090"/>
-        <TextEquiv>
-          <Unicode>- du 4 au 13 -</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_f01976f4"
+                    TAGREFS="LT4057"
+                    BASELINE="363 1110 871 1115" 
+                    HPOS="363"
+                    VPOS="1094"
+                    WIDTH="508"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="363 1110 364 1098 374 1096 490 1094 495 1099 856 1098 868 1099 871 1115 868 1123 855 1129 767 1129 748 1120 740 1125 734 1120 722 1121 713 1128 696 1120 669 1128 661 1121 638 1123 628 1119 595 1127 573 1119 505 1125 494 1118 485 1125 474 1120 463 1126 452 1117 364 1117"/></Shape>
+	    <String CONTENT="de Francis Chapelet à travers le département de la"
+                    HPOS="363"
+                    VPOS="1094"
+                    WIDTH="508"
+                    HEIGHT="35"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_1edd85c4" >
-        <Coords points="362,1089 363,1072 472,1073 482,1068 494,1074 531,1074 535,1070 557,1074 568,1069 611,1074 619,1067 630,1073 641,1068 653,1074 667,1067 698,1067 710,1076 727,1073 733,1067 749,1067 764,1072 777,1068 872,1068 878,1072 881,1093 875,1099 777,1099 717,1094 628,1098 611,1093 494,1097 363,1092"/>
-        <Baseline points="362,1089 881,1093"/>
-        <TextEquiv>
-          <Unicode>4 concerts pour orgue et trompette avec le concours</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_aa150805"
+                    TAGREFS="LT4057"
+                    BASELINE="185 1158 316 1160" 
+                    HPOS="185"
+                    VPOS="1135"
+                    WIDTH="131"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="185 1158 187 1142 211 1145 224 1136 252 1135 263 1136 274 1145 284 1138 295 1146 314 1143 316 1160 313 1166 294 1166 283 1176 264 1171 231 1175 223 1168 213 1171 186 1165"/></Shape>
+	    <String CONTENT="- samedi 8 -"
+                    HPOS="185"
+                    VPOS="1135"
+                    WIDTH="131"
+                    HEIGHT="41"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_f01976f4" >
-        <Coords points="363,1110 364,1098 374,1096 490,1094 495,1099 856,1098 868,1099 871,1115 868,1123 855,1129 767,1129 748,1120 740,1125 734,1120 722,1121 713,1128 696,1120 669,1128 661,1121 638,1123 628,1119 595,1127 573,1119 505,1125 494,1118 485,1125 474,1120 463,1126 452,1117 364,1117"/>
-        <Baseline points="363,1110 871,1115"/>
-        <TextEquiv>
-          <Unicode>de Francis Chapelet à travers le département de la</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_eba19fae"
+                    TAGREFS="LT4057"
+                    BASELINE="362 1133 460 1133" 
+                    HPOS="362"
+                    VPOS="1116"
+                    WIDTH="98"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="362 1133 364 1118 369 1116 458 1118 460 1133 458 1141 451 1143 432 1138 421 1143 364 1138"/></Shape>
+	    <String CONTENT="Dordogne."
+                    HPOS="362"
+                    VPOS="1116"
+                    WIDTH="98"
+                    HEIGHT="27"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_eba19fae" >
-        <Coords points="362,1133 364,1118 369,1116 458,1118 460,1133 458,1141 451,1143 432,1138 421,1143 364,1138"/>
-        <Baseline points="362,1133 460,1133"/>
-        <TextEquiv>
-          <Unicode>Dordogne.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_0fd0dd2e"
+                    TAGREFS="LT4057"
+                    BASELINE="362 1159 719 1162" 
+                    HPOS="362"
+                    VPOS="1139"
+                    WIDTH="357"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="362 1159 363 1139 378 1140 383 1146 402 1146 410 1140 415 1146 446 1146 452 1140 481 1139 508 1140 518 1147 535 1140 557 1140 563 1147 601 1148 615 1141 637 1141 643 1148 675 1142 683 1148 716 1148 719 1162 712 1169 693 1165 681 1169 667 1165 601 1169 540 1168 532 1163 517 1168 456 1162 442 1167 363 1163"/></Shape>
+	    <String CONTENT="Souvigny (Eglise Prieurale) - 21 h."
+                    HPOS="362"
+                    VPOS="1139"
+                    WIDTH="357"
+                    HEIGHT="30"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_aa150805" >
-        <Coords points="185,1158 187,1142 211,1145 224,1136 252,1135 263,1136 274,1145 284,1138 295,1146 314,1143 316,1160 313,1166 294,1166 283,1176 264,1171 231,1175 223,1168 213,1171 186,1165"/>
-        <Baseline points="185,1158 316,1160"/>
-        <TextEquiv>
-          <Unicode>- samedi 8 -</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_c747d65e"
+                    TAGREFS="LT4057"
+                    BASELINE="363 1180 810 1185" 
+                    HPOS="363"
+                    VPOS="1163"
+                    WIDTH="447"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="363 1180 365 1167 375 1163 411 1168 458 1163 475 1169 587 1166 590 1170 611 1170 615 1166 641 1166 645 1170 661 1170 665 1166 679 1170 727 1167 731 1171 751 1171 757 1167 790 1171 801 1167 808 1171 810 1185 798 1193 611 1192 603 1187 567 1191 561 1186 555 1190 530 1186 522 1191 515 1186 491 1186 484 1191 455 1185 413 1189 364 1186"/></Shape>
+	    <String CONTENT="Michel Chapuis (orgue) - Else Muhl (soprano)"
+                    HPOS="363"
+                    VPOS="1163"
+                    WIDTH="447"
+                    HEIGHT="30"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_0fd0dd2e" >
-        <Coords points="362,1159 363,1139 378,1140 383,1146 402,1146 410,1140 415,1146 446,1146 452,1140 481,1139 508,1140 518,1147 535,1140 557,1140 563,1147 601,1148 615,1141 637,1141 643,1148 675,1142 683,1148 716,1148 719,1162 712,1169 693,1165 681,1169 667,1165 601,1169 540,1168 532,1163 517,1168 456,1162 442,1167 363,1163"/>
-        <Baseline points="362,1159 719,1162"/>
-        <TextEquiv>
-          <Unicode>Souvigny (Eglise Prieurale) - 21 h.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_39aaee53"
+                    TAGREFS="LT4057"
+                    BASELINE="363 1200 560 1202" 
+                    HPOS="363"
+                    VPOS="1185"
+                    WIDTH="197"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="363 1200 364 1189 372 1185 379 1189 411 1189 418 1185 435 1189 451 1185 462 1190 551 1187 560 1202 554 1208 364 1203"/></Shape>
+	    <String CONTENT="Eric Marion (Ténor)"
+                    HPOS="363"
+                    VPOS="1185"
+                    WIDTH="197"
+                    HEIGHT="23"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_c747d65e" >
-        <Coords points="363,1180 365,1167 375,1163 411,1168 458,1163 475,1169 587,1166 590,1170 611,1170 615,1166 641,1166 645,1170 661,1170 665,1166 679,1170 727,1167 731,1171 751,1171 757,1167 790,1171 801,1167 808,1171 810,1185 798,1193 611,1192 603,1187 567,1191 561,1186 555,1190 530,1186 522,1191 515,1186 491,1186 484,1191 455,1185 413,1189 364,1186"/>
-        <Baseline points="363,1180 810,1185"/>
-        <TextEquiv>
-          <Unicode>Michel Chapuis (orgue) - Else Muhl (soprano)</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_6f132d60"
+                    TAGREFS="LT4057"
+                    BASELINE="363 1221 879 1226" 
+                    HPOS="363"
+                    VPOS="1201"
+                    WIDTH="516"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="363 1221 365 1205 472 1207 482 1202 500 1208 557 1208 563 1201 582 1201 589 1207 619 1202 630 1209 652 1209 658 1203 662 1207 674 1202 749 1202 762 1207 852 1203 860 1210 877 1210 879 1226 873 1235 851 1230 846 1235 817 1232 807 1237 786 1230 757 1238 714 1237 709 1231 691 1237 667 1232 661 1237 647 1232 622 1237 609 1232 572 1235 549 1227 519 1227 500 1235 473 1226 364 1226"/></Shape>
+	    <String CONTENT="Récital donné dans le cadre du Festival de Chateloy"
+                    HPOS="363"
+                    VPOS="1201"
+                    WIDTH="516"
+                    HEIGHT="37"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_39aaee53" >
-        <Coords points="363,1200 364,1189 372,1185 379,1189 411,1189 418,1185 435,1189 451,1185 462,1190 551,1187 560,1202 554,1208 364,1203"/>
-        <Baseline points="363,1200 560,1202"/>
-        <TextEquiv>
-          <Unicode>Eric Marion (Ténor)</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_414a2516"
+                    TAGREFS="LT4057"
+                    BASELINE="363 1241 489 1245" 
+                    HPOS="363"
+                    VPOS="1225"
+                    WIDTH="126"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="363 1241 364 1228 404 1225 411 1229 475 1227 485 1230 489 1245 485 1257 448 1257 430 1249 406 1255 391 1248 364 1251"/></Shape>
+	    <String CONTENT="et Souvigny."
+                    HPOS="363"
+                    VPOS="1225"
+                    WIDTH="126"
+                    HEIGHT="32"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_6f132d60" >
-        <Coords points="363,1221 365,1205 472,1207 482,1202 500,1208 557,1208 563,1201 582,1201 589,1207 619,1202 630,1209 652,1209 658,1203 662,1207 674,1202 749,1202 762,1207 852,1203 860,1210 877,1210 879,1226 873,1235 851,1230 846,1235 817,1232 807,1237 786,1230 757,1238 714,1237 709,1231 691,1237 667,1232 661,1237 647,1232 622,1237 609,1232 572,1235 549,1227 519,1227 500,1235 473,1226 364,1226"/>
-        <Baseline points="363,1221 879,1226"/>
-        <TextEquiv>
-          <Unicode>Récital donné dans le cadre du Festival de Chateloy</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+        </TextBlock>
+        
 
-    
-    
-      <TextLine id="eSc_line_414a2516" >
-        <Coords points="363,1241 364,1228 404,1225 411,1229 475,1227 485,1230 489,1245 485,1257 448,1257 430,1249 406,1255 391,1248 364,1251"/>
-        <Baseline points="363,1241 489,1245"/>
-        <TextEquiv>
-          <Unicode>et Souvigny.</Unicode>
-        </TextEquiv>
-      </TextLine>
-
-    
-    </TextRegion>
-    
-  </Page>
-</PcGts>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

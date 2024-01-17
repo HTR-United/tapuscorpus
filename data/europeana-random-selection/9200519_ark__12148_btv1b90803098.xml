@@ -1,88 +1,172 @@
-<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
-  <Metadata>
-	<Creator>escriptorium</Creator>
-	<Created>2021-01-21T19:45:05.063041+00:00</Created>
-    <LastChange>2021-01-21T19:45:05.063064+00:00</LastChange>
-  </Metadata>
-  <Page imageFilename="9200519_ark__12148_btv1b90803098.jpeg" imageWidth="4526" imageHeight="6569">
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>9200519_ark__12148_btv1b90803098.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10358" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT10357" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10356" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10355" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10354" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10353" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4055" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/><OtherTag ID="LT4057" LABEL="DefaultLine:Typewritten" DESCRIPTION="line type DefaultLine:Typewritten"/><OtherTag ID="LT4056" LABEL="DefaultLine:Handwritten" DESCRIPTION="line type DefaultLine:Handwritten"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4526"
+          HEIGHT="6569"
+          PHYSICAL_IMG_NR="21"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4526"
+                  HEIGHT="6569">
+        
+        <TextBlock HPOS="653"
+                   VPOS="1082"
+                   WIDTH="2544"
+                   HEIGHT="2857"
+                   ID="eSc_textblock_2a36c9fe"
+                   TAGREFS="BT10353">
+          <Shape><Polygon POINTS="653 1082 653 3939 3197 3939 3197 1082"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fec58ee8"
+                    TAGREFS="LT4057"
+                    BASELINE="827 1264 2246 1275" 
+                    HPOS="827"
+                    VPOS="1138"
+                    WIDTH="1419"
+                    HEIGHT="219">
+            <Shape><Polygon POINTS="827 1264 838 1187 920 1138 1063 1160 1128 1144 1199 1198 1298 1182 1353 1138 1490 1138 1561 1204 1610 1176 1665 1204 1813 1176 1895 1204 1934 1171 2065 1204 2191 1193 2235 1204 2246 1275 2230 1324 2071 1308 1961 1357 1786 1357 1687 1308 1561 1308 1408 1352 1139 1352 1063 1302 832 1302"/></Shape>
+	    <String CONTENT="Nouvelles acquisitions françaises."
+                    HPOS="827"
+                    VPOS="1138"
+                    WIDTH="1419"
+                    HEIGHT="219"></String>
+          </TextLine>
 
-    
+          
+          
+          <TextLine ID="eSc_line_56d99a37"
+                    TAGREFS="LT4057"
+                    BASELINE="1819 2780 2378 2791" 
+                    HPOS="1819"
+                    VPOS="2676"
+                    WIDTH="559"
+                    HEIGHT="143">
+            <Shape><Polygon POINTS="1819 2780 1830 2698 2120 2676 2219 2709 2367 2698 2378 2791 2295 2819 2071 2791 1961 2819 1824 2808"/></Shape>
+	    <String CONTENT="MARIE CURIE"
+                    HPOS="1819"
+                    VPOS="2676"
+                    WIDTH="559"
+                    HEIGHT="143"></String>
+          </TextLine>
 
-    
-    <TextRegion id="eSc_dummyblock_">
-    
-    
-      <TextLine id="eSc_line_fec58ee8" >
-        <Coords points="827,1264 838,1187 920,1138 1063,1160 1128,1144 1199,1198 1298,1182 1353,1138 1490,1138 1561,1204 1610,1176 1665,1204 1813,1176 1895,1204 1934,1171 2065,1204 2191,1193 2235,1204 2246,1275 2230,1324 2071,1308 1961,1357 1786,1357 1687,1308 1561,1308 1408,1352 1139,1352 1063,1302 832,1302"/>
-        <Baseline points="827,1264 2246,1275"/>
-        <TextEquiv>
-          <Unicode>Nouvelles acquisitions françaises.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_43a89b6a"
+                    TAGREFS="LT4057"
+                    BASELINE="1534 3153 2690 3164" 
+                    HPOS="1534"
+                    VPOS="3060"
+                    WIDTH="1156"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="1534 3153 1539 3076 2049 3081 2098 3060 2230 3087 2317 3065 2394 3087 2673 3065 2690 3164 2602 3185 1539 3164"/></Shape>
+	    <String CONTENT="Documents et Correspondance"
+                    HPOS="1534"
+                    VPOS="3060"
+                    WIDTH="1156"
+                    HEIGHT="125"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_56d99a37" >
-        <Coords points="1819,2780 1830,2698 2120,2676 2219,2709 2367,2698 2378,2791 2295,2819 2071,2791 1961,2819 1824,2808"/>
-        <Baseline points="1819,2780 2378,2791"/>
-        <TextEquiv>
-          <Unicode>MARIE CURIE</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_4d298712"
+                    TAGREFS="LT4057"
+                    BASELINE="1539 3273 2816 3295" 
+                    HPOS="1539"
+                    VPOS="3185"
+                    WIDTH="1277"
+                    HEIGHT="148">
+            <Shape><Polygon POINTS="1539 3273 1545 3202 1605 3207 1632 3185 1693 3207 2361 3196 2569 3224 2684 3202 2799 3224 2816 3295 2684 3333 2515 3333 2465 3306 2180 3322 2120 3300 2087 3322 1994 3300 1950 3322 1720 3300 1627 3317 1605 3295 1545 3317"/></Shape>
+	    <String CONTENT="concernant le 25° anniversaire"
+                    HPOS="1539"
+                    VPOS="3185"
+                    WIDTH="1277"
+                    HEIGHT="148"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_43a89b6a" >
-        <Coords points="1534,3153 1539,3076 2049,3081 2098,3060 2230,3087 2317,3065 2394,3087 2673,3065 2690,3164 2602,3185 1539,3164"/>
-        <Baseline points="1534,3153 2690,3164"/>
-        <TextEquiv>
-          <Unicode>Documents et Correspondance</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_6556ec7a"
+                    TAGREFS="LT4057"
+                    BASELINE="1539 3399 2657 3415" 
+                    HPOS="1539"
+                    VPOS="3317"
+                    WIDTH="1118"
+                    HEIGHT="159">
+            <Shape><Polygon POINTS="1539 3399 1545 3322 1753 3339 1813 3317 1917 3344 2093 3322 2241 3344 2284 3322 2334 3350 2361 3328 2427 3350 2509 3328 2641 3350 2657 3415 2624 3448 2394 3443 2306 3465 2093 3437 2038 3476 1917 3476 1780 3432 1736 3470 1671 3448 1643 3470 1545 3470"/></Shape>
+	    <String CONTENT="de la découverte du Radium"
+                    HPOS="1539"
+                    VPOS="3317"
+                    WIDTH="1118"
+                    HEIGHT="159"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_4d298712" >
-        <Coords points="1539,3273 1545,3202 1605,3207 1632,3185 1693,3207 2361,3196 2569,3224 2684,3202 2799,3224 2816,3295 2684,3333 2515,3333 2465,3306 2180,3322 2120,3300 2087,3322 1994,3300 1950,3322 1720,3300 1627,3317 1605,3295 1545,3317"/>
-        <Baseline points="1539,3273 2816,3295"/>
-        <TextEquiv>
-          <Unicode>concernant le 25° anniversaire</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_4864c3cf"
+                    TAGREFS="LT4057"
+                    BASELINE="1906 3689 2399 3689" 
+                    HPOS="1906"
+                    VPOS="3607"
+                    WIDTH="493"
+                    HEIGHT="170">
+            <Shape><Polygon POINTS="1906 3689 1917 3623 1956 3607 2383 3618 2399 3689 2389 3777 2301 3777 2202 3722 2021 3727 1917 3777"/></Shape>
+	    <String CONTENT="1923 - 1924"
+                    HPOS="1906"
+                    VPOS="3607"
+                    WIDTH="493"
+                    HEIGHT="170"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_6556ec7a" >
-        <Coords points="1539,3399 1545,3322 1753,3339 1813,3317 1917,3344 2093,3322 2241,3344 2284,3322 2334,3350 2361,3328 2427,3350 2509,3328 2641,3350 2657,3415 2624,3448 2394,3443 2306,3465 2093,3437 2038,3476 1917,3476 1780,3432 1736,3470 1671,3448 1643,3470 1545,3470"/>
-        <Baseline points="1539,3399 2657,3415"/>
-        <TextEquiv>
-          <Unicode>de la découverte du Radium</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3481"
+                   VPOS="5179"
+                   WIDTH="562"
+                   HEIGHT="308"
+                   ID="eSc_textblock_f52553e4"
+                   TAGREFS="BT10357">
+          <Shape><Polygon POINTS="3481 5179 3481 5487 4043 5481 4043 5179"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7c6dc33b"
+                    TAGREFS="LT4057"
+                    BASELINE="3572 5359 3895 5359" 
+                    HPOS="3572"
+                    VPOS="5255"
+                    WIDTH="312"
+                    HEIGHT="158">
+            <Shape><Polygon POINTS="3572 5359 3583 5277 3758 5288 3884 5255 3879 5408 3747 5413 3720 5386 3638 5386 3583 5413"/></Shape>
+	    <String CONTENT="281 ff."
+                    HPOS="3572"
+                    VPOS="5255"
+                    WIDTH="312"
+                    HEIGHT="158"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_4864c3cf" >
-        <Coords points="1906,3689 1917,3623 1956,3607 2383,3618 2399,3689 2389,3777 2301,3777 2202,3722 2021,3727 1917,3777"/>
-        <Baseline points="1906,3689 2399,3689"/>
-        <TextEquiv>
-          <Unicode>1923 - 1924</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+        </TextBlock>
+        
 
-    
-    
-      <TextLine id="eSc_line_7c6dc33b" >
-        <Coords points="3572,5359 3583,5277 3758,5288 3884,5255 3879,5408 3747,5413 3720,5386 3638,5386 3583,5413"/>
-        <Baseline points="3572,5359 3895,5359"/>
-        <TextEquiv>
-          <Unicode>281 ff.</Unicode>
-        </TextEquiv>
-      </TextLine>
-
-    
-    </TextRegion>
-    
-  </Page>
-</PcGts>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

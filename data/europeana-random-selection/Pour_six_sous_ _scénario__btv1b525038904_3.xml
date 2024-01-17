@@ -1,48 +1,114 @@
-<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
-  <Metadata>
-	<Creator>escriptorium</Creator>
-	<Created>2021-01-21T19:45:05.485971+00:00</Created>
-    <LastChange>2021-01-21T19:45:05.485993+00:00</LastChange>
-  </Metadata>
-  <Page imageFilename="Pour_six_sous_ _scénario__btv1b525038904_3.jpeg" imageWidth="1024" imageHeight="1333">
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Pour_six_sous_ _scénario__btv1b525038904_3.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10358" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT10357" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10356" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10355" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10354" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10353" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4055" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/><OtherTag ID="LT4057" LABEL="DefaultLine:Typewritten" DESCRIPTION="line type DefaultLine:Typewritten"/><OtherTag ID="LT4056" LABEL="DefaultLine:Handwritten" DESCRIPTION="line type DefaultLine:Handwritten"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1024"
+          HEIGHT="1333"
+          PHYSICAL_IMG_NR="58"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1024"
+                  HEIGHT="1333">
+        
+        <TextBlock HPOS="178"
+                   VPOS="158"
+                   WIDTH="717"
+                   HEIGHT="107"
+                   ID="eSc_textblock_30c3d4b5"
+                   TAGREFS="BT10353">
+          <Shape><Polygon POINTS="178 158 178 265 895 265 895 158"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_bb4b8959"
+                    TAGREFS="LT4057"
+                    BASELINE="398 179 527 179" 
+                    HPOS="396"
+                    VPOS="157"
+                    WIDTH="129"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="396 178 399 162 403 161 414 163 430 157 442 163 464 163 475 157 498 163 504 157 523 157 525 178 521 188 513 184 506 189 465 189 449 183 440 187 434 183 399 183"/></Shape>
+	    <String CONTENT="&quot; Final &quot;"
+                    HPOS="396"
+                    VPOS="157"
+                    WIDTH="129"
+                    HEIGHT="32"></String>
+          </TextLine>
 
-    
+          
+          
+          <TextLine ID="eSc_line_72aff4a2"
+                    TAGREFS="LT4057"
+                    BASELINE="216 218 873 224" 
+                    HPOS="216"
+                    VPOS="188"
+                    WIDTH="657"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="216 218 219 195 225 194 242 203 253 198 284 203 299 194 319 201 336 191 353 194 363 204 395 204 404 197 412 201 434 191 461 203 482 201 495 205 506 195 531 198 543 188 610 188 639 189 659 206 675 201 698 206 716 201 726 206 742 205 757 195 778 205 806 205 818 197 831 203 844 197 858 203 867 198 871 202 873 224 868 237 843 232 827 233 814 241 798 233 786 237 779 231 750 231 730 243 717 233 680 234 673 229 649 236 629 233 611 243 595 243 579 228 551 228 537 243 523 238 512 243 503 236 481 242 365 242 344 227 331 234 312 234 304 226 290 235 255 226 237 238 225 233 217 241"/></Shape>
+	    <String CONTENT="La façade d&#x27;un pharmacien où tous entrent se faire signe."
+                    HPOS="216"
+                    VPOS="188"
+                    WIDTH="657"
+                    HEIGHT="55"></String>
+          </TextLine>
 
-    
-    <TextRegion id="eSc_dummyblock_">
-    
-    
-      <TextLine id="eSc_line_59e13cf1" >
-        <Coords points="440,123 440,104 453,105 455,101 472,98 474,131 442,128"/>
-        <Baseline points="440,123 476,121"/>
-        <TextEquiv>
-          <Unicode>-2-</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="413"
+                   VPOS="97"
+                   WIDTH="76"
+                   HEIGHT="43"
+                   ID="eSc_textblock_d08da667"
+                   TAGREFS="BT10356">
+          <Shape><Polygon POINTS="413 97 413 140 489 140 489 97"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_59e13cf1"
+                    TAGREFS="LT4057"
+                    BASELINE="440 123 476 121" 
+                    HPOS="440"
+                    VPOS="98"
+                    WIDTH="34"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="440 123 440 104 453 105 455 101 472 98 474 131 442 128"/></Shape>
+	    <String CONTENT="-2-"
+                    HPOS="440"
+                    VPOS="98"
+                    WIDTH="34"
+                    HEIGHT="33"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_72aff4a2" >
-        <Coords points="216,218 219,195 225,194 242,203 253,198 284,203 299,194 319,201 336,191 353,194 363,204 395,204 404,197 412,201 434,191 461,203 482,201 495,205 506,195 531,198 543,188 610,188 639,189 659,206 675,201 698,206 716,201 726,206 742,205 757,195 778,205 806,205 818,197 831,203 844,197 858,203 867,198 871,202 873,224 868,237 843,232 827,233 814,241 798,233 786,237 779,231 750,231 730,243 717,233 680,234 673,229 649,236 629,233 611,243 595,243 579,228 551,228 537,243 523,238 512,243 503,236 481,242 365,242 344,227 331,234 312,234 304,226 290,235 255,226 237,238 225,233 217,241"/>
-        <Baseline points="216,218 873,224"/>
-        <TextEquiv>
-          <Unicode>La façade d&#39;un pharmacien où tous entrent se faire signe.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="533"
+                   VPOS="82"
+                   WIDTH="165"
+                   HEIGHT="127"
+                   ID="eSc_textblock_e339a3cf"
+                   TAGREFS="BT10354">
+          <Shape><Polygon POINTS="533 82 533 209 698 209 698 82"/></Shape>
+          
+        </TextBlock>
+        
 
-    
-    
-      <TextLine id="eSc_line_bb4b8959" >
-        <Coords points="396,178 399,162 403,161 414,163 430,157 442,163 464,163 475,157 498,163 504,157 523,157 525,178 521,188 513,184 506,189 465,189 449,183 440,187 434,183 399,183"/>
-        <Baseline points="398,179 527,179"/>
-        <TextEquiv>
-          <Unicode>&quot; Final &quot;</Unicode>
-        </TextEquiv>
-      </TextLine>
-
-    
-    </TextRegion>
-    
-  </Page>
-</PcGts>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

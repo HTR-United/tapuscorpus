@@ -1,128 +1,250 @@
-<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
-  <Metadata>
-	<Creator>escriptorium</Creator>
-	<Created>2021-01-21T19:45:05.196232+00:00</Created>
-    <LastChange>2021-01-21T19:45:05.196253+00:00</LastChange>
-  </Metadata>
-  <Page imageFilename="Capucin_sans_le_vouloir_ _[...]_btv1b52505123m_3.jpeg" imageWidth="1024" imageHeight="1333">
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Capucin_sans_le_vouloir_ _[...]_btv1b52505123m_3.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10358" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT10357" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10356" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10355" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10354" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10353" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4055" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/><OtherTag ID="LT4057" LABEL="DefaultLine:Typewritten" DESCRIPTION="line type DefaultLine:Typewritten"/><OtherTag ID="LT4056" LABEL="DefaultLine:Handwritten" DESCRIPTION="line type DefaultLine:Handwritten"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1024"
+          HEIGHT="1333"
+          PHYSICAL_IMG_NR="32"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1024"
+                  HEIGHT="1333">
+        
+        <TextBlock HPOS="120"
+                   VPOS="129"
+                   WIDTH="883"
+                   HEIGHT="592"
+                   ID="eSc_textblock_62a76f48"
+                   TAGREFS="BT10353">
+          <Shape><Polygon POINTS="809 139 928 227 1003 272 1003 721 121 721 120 422 435 426 426 293 426 291 155 296 158 129 197 129"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c6cdf320"
+                    TAGREFS="LT4057"
+                    BASELINE="462 158 482 162 493 159 589 159" 
+                    HPOS="461"
+                    VPOS="138"
+                    WIDTH="127"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="461 157 463 138 471 143 499 143 504 138 560 143 570 138 585 143 588 158 584 167 572 167 564 161 551 167 462 161"/></Shape>
+	    <String CONTENT="V Tableau"
+                    HPOS="461"
+                    VPOS="138"
+                    WIDTH="127"
+                    HEIGHT="29"></String>
+          </TextLine>
 
-    
+          
+          
+          <TextLine ID="eSc_line_5405b17e"
+                    TAGREFS="LT4057"
+                    BASELINE="205 217 455 215" 
+                    HPOS="205"
+                    VPOS="192"
+                    WIDTH="250"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="205 217 207 193 240 193 249 201 259 197 290 201 294 196 303 201 315 195 327 199 340 192 351 197 370 192 382 198 408 194 414 199 440 194 452 197 455 215 452 225 428 221 422 225 335 223 313 227 306 221 265 221 257 227 245 221 206 225"/></Shape>
+	    <String CONTENT="La rue ( ad libitum )"
+                    HPOS="205"
+                    VPOS="192"
+                    WIDTH="250"
+                    HEIGHT="35"></String>
+          </TextLine>
 
-    
-    <TextRegion id="eSc_dummyblock_">
-    
-    
-      <TextLine id="eSc_line_670297a0" >
-        <Coords points="503,79 506,62 531,63 544,56 567,62 564,87 537,92 504,86"/>
-        <Baseline points="504,81 569,85"/>
-        <TextEquiv>
-          <Unicode>( 3 )</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_b186506e"
+                    TAGREFS="LT4057"
+                    BASELINE="205 274 967 279" 
+                    HPOS="205"
+                    VPOS="247"
+                    WIDTH="762"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="205 274 210 247 242 257 255 253 284 257 294 249 340 247 378 258 394 249 404 254 422 248 431 255 441 251 454 258 466 258 485 248 505 248 524 259 563 259 572 254 608 259 619 252 632 259 653 256 662 261 712 261 726 253 736 258 746 251 798 251 823 255 832 262 859 257 875 262 880 256 898 262 909 254 929 252 950 262 965 262 967 279 946 286 937 283 928 291 913 285 903 291 846 291 833 283 819 287 813 282 760 288 749 282 719 282 704 289 680 282 592 288 582 282 553 281 538 287 524 283 514 288 506 281 498 286 484 279 452 287 439 279 393 282 385 287 372 281 364 286 329 286 312 281 284 285 277 279 265 279 257 286 243 286 236 281 226 286 207 286"/></Shape>
+	    <String CONTENT="Course de Jean-Pierre poursuivi par une nuée de gamins moqueurs."
+                    HPOS="205"
+                    VPOS="247"
+                    WIDTH="762"
+                    HEIGHT="44"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_c6cdf320" >
-        <Coords points="461,157 463,138 471,143 499,143 504,138 560,143 570,138 585,143 588,158 584,167 572,167 564,161 551,167 462,161"/>
-        <Baseline points="462,158 482,162 493,159 589,159"/>
-        <TextEquiv>
-          <Unicode>V Tableau</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_f51d43fc"
+                    TAGREFS="LT4057"
+                    BASELINE="459 389 599 393" 
+                    HPOS="459"
+                    VPOS="367"
+                    WIDTH="140"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="459 389 461 372 471 375 480 369 508 376 524 367 552 367 557 373 577 368 587 377 595 376 599 393 594 401 582 397 569 407 535 396 460 405"/></Shape>
+	    <String CONTENT="VI Tableau"
+                    HPOS="459"
+                    VPOS="367"
+                    WIDTH="140"
+                    HEIGHT="40"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_5405b17e" >
-        <Coords points="205,217 207,193 240,193 249,201 259,197 290,201 294,196 303,201 315,195 327,199 340,192 351,197 370,192 382,198 408,194 414,199 440,194 452,197 455,215 452,225 428,221 422,225 335,223 313,227 306,221 265,221 257,227 245,221 206,225"/>
-        <Baseline points="205,217 455,215"/>
-        <TextEquiv>
-          <Unicode>La rue ( ad libitum )</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_ddc837bf"
+                    TAGREFS="LT4057"
+                    BASELINE="204 447 525 450" 
+                    HPOS="204"
+                    VPOS="425"
+                    WIDTH="321"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="204 447 207 428 221 431 236 425 299 426 312 432 381 432 392 426 418 426 435 427 442 433 466 433 472 427 490 433 513 429 523 433 525 450 513 462 492 462 482 455 421 462 411 454 403 458 396 454 364 454 354 459 334 454 317 460 277 453 255 453 243 459 214 459 205 454"/></Shape>
+	    <String CONTENT="La boutique du charbonnier."
+                    HPOS="204"
+                    VPOS="425"
+                    WIDTH="321"
+                    HEIGHT="37"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_b186506e" >
-        <Coords points="205,274 210,247 242,257 255,253 284,257 294,249 340,247 378,258 394,249 404,254 422,248 431,255 441,251 454,258 466,258 485,248 505,248 524,259 563,259 572,254 608,259 619,252 632,259 653,256 662,261 712,261 726,253 736,258 746,251 798,251 823,255 832,262 859,257 875,262 880,256 898,262 909,254 929,252 950,262 965,262 967,279 946,286 937,283 928,291 913,285 903,291 846,291 833,283 819,287 813,282 760,288 749,282 719,282 704,289 680,282 592,288 582,282 553,281 538,287 524,283 514,288 506,281 498,286 484,279 452,287 439,279 393,282 385,287 372,281 364,286 329,286 312,281 284,285 277,279 265,279 257,286 243,286 236,281 226,286 207,286"/>
-        <Baseline points="205,274 967,279"/>
-        <TextEquiv>
-          <Unicode>Course de Jean-Pierre poursuivi par une nuée de gamins moqueurs.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_26d916d0"
+                    TAGREFS="LT4057"
+                    BASELINE="204 505 923 509" 
+                    HPOS="204"
+                    VPOS="482"
+                    WIDTH="719"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="204 505 206 485 211 483 219 489 236 484 249 487 254 483 273 489 292 489 316 482 334 489 344 485 369 489 390 484 398 490 449 486 455 489 460 485 468 490 493 486 524 490 537 483 563 483 575 490 590 492 651 492 665 484 684 490 696 485 706 490 716 484 728 490 743 486 756 493 790 485 839 488 846 493 870 486 898 492 920 488 923 509 920 518 898 513 870 513 861 517 826 513 797 518 779 513 740 517 731 512 706 512 697 517 670 512 647 517 634 513 621 517 577 517 564 512 543 515 523 510 501 516 483 516 478 510 453 516 445 512 415 516 384 509 373 515 346 515 336 509 322 514 304 514 300 509 266 515 244 510 235 515 206 513"/></Shape>
+	    <String CONTENT="Jean-Pierre arrive chez lui, il tombe désolé dans les bras de"
+                    HPOS="204"
+                    VPOS="482"
+                    WIDTH="719"
+                    HEIGHT="36"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_f51d43fc" >
-        <Coords points="459,389 461,372 471,375 480,369 508,376 524,367 552,367 557,373 577,368 587,377 595,376 599,393 594,401 582,397 569,407 535,396 460,405"/>
-        <Baseline points="459,389 599,393"/>
-        <TextEquiv>
-          <Unicode>VI Tableau</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_f18cfda0"
+                    TAGREFS="LT4057"
+                    BASELINE="145 544 959 548" 
+                    HPOS="145"
+                    VPOS="518"
+                    WIDTH="814"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="145 544 147 519 158 518 180 525 203 525 212 519 235 527 272 527 284 519 340 518 356 528 364 524 370 528 428 528 434 523 444 528 456 528 463 523 474 528 481 524 500 528 513 519 548 519 563 520 580 529 637 529 643 524 650 529 686 529 721 520 754 530 777 526 816 530 838 522 868 522 882 527 897 522 921 522 929 527 950 522 956 525 959 548 936 556 889 550 758 556 740 552 728 555 721 549 684 555 644 555 627 549 609 555 574 555 564 549 549 553 543 548 514 554 489 553 483 548 458 548 449 554 369 554 349 547 312 547 305 553 286 548 257 553 249 547 231 553 196 553 191 548 183 553 172 548 147 553"/></Shape>
+	    <String CONTENT="Jeannette, mais elle ne le reconnait pas et appelle - Au fond le beau"
+                    HPOS="145"
+                    VPOS="518"
+                    WIDTH="814"
+                    HEIGHT="38"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_ddc837bf" >
-        <Coords points="204,447 207,428 221,431 236,425 299,426 312,432 381,432 392,426 418,426 435,427 442,433 466,433 472,427 490,433 513,429 523,433 525,450 513,462 492,462 482,455 421,462 411,454 403,458 396,454 364,454 354,459 334,454 317,460 277,453 255,453 243,459 214,459 205,454"/>
-        <Baseline points="204,447 525,450"/>
-        <TextEquiv>
-          <Unicode>La boutique du charbonnier.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_28d174ec"
+                    TAGREFS="LT4057"
+                    BASELINE="145 583 937 586" 
+                    HPOS="145"
+                    VPOS="562"
+                    WIDTH="792"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="145 583 147 567 163 563 168 567 206 562 220 567 242 567 253 562 270 567 284 562 337 567 365 562 389 567 409 562 424 568 444 568 454 563 472 563 482 568 558 568 571 563 653 568 670 563 684 569 698 566 727 569 734 564 766 564 772 569 779 566 850 569 869 564 875 568 881 565 905 569 919 564 933 568 937 586 933 594 912 595 885 590 862 595 855 589 841 589 834 595 741 595 728 589 680 595 659 594 652 588 625 593 611 588 584 593 553 588 545 594 505 594 491 588 465 594 441 594 426 588 383 593 376 587 342 587 323 593 286 593 272 587 265 593 255 593 250 587 226 587 217 593 207 587 194 593 147 590"/></Shape>
+	    <String CONTENT="et gigantesque gendarme parait stupéfait de l&#x27;audace du capucin, il"
+                    HPOS="145"
+                    VPOS="562"
+                    WIDTH="792"
+                    HEIGHT="33"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_26d916d0" >
-        <Coords points="204,505 206,485 211,483 219,489 236,484 249,487 254,483 273,489 292,489 316,482 334,489 344,485 369,489 390,484 398,490 449,486 455,489 460,485 468,490 493,486 524,490 537,483 563,483 575,490 590,492 651,492 665,484 684,490 696,485 706,490 716,484 728,490 743,486 756,493 790,485 839,488 846,493 870,486 898,492 920,488 923,509 920,518 898,513 870,513 861,517 826,513 797,518 779,513 740,517 731,512 706,512 697,517 670,512 647,517 634,513 621,517 577,517 564,512 543,515 523,510 501,516 483,516 478,510 453,516 445,512 415,516 384,509 373,515 346,515 336,509 322,514 304,514 300,509 266,515 244,510 235,515 206,513"/>
-        <Baseline points="204,505 923,509"/>
-        <TextEquiv>
-          <Unicode>Jean-Pierre arrive chez lui, il tombe désolé dans les bras de</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_9c20c814"
+                    TAGREFS="LT4057"
+                    BASELINE="146 618 958 626" 
+                    HPOS="146"
+                    VPOS="595"
+                    WIDTH="812"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="146 618 150 595 160 603 241 603 257 598 263 604 324 604 332 599 386 604 394 597 406 597 420 603 444 598 456 605 506 606 550 606 559 600 570 606 577 602 589 605 609 600 619 607 627 603 639 606 652 599 693 599 712 606 738 600 751 608 776 602 820 600 843 605 855 602 859 606 927 602 933 607 955 608 958 626 955 635 940 629 921 629 911 635 843 635 791 628 774 634 768 628 730 634 717 627 683 627 673 632 642 627 633 633 612 633 591 627 587 632 534 632 524 626 510 626 503 632 471 626 452 630 440 625 398 625 382 630 373 624 351 624 345 628 339 624 316 628 289 624 269 629 252 623 214 623 202 628 156 628 148 623"/></Shape>
+	    <String CONTENT="lui administre une volée de manche à balai et le poursuit à l&#x27;aide de"
+                    HPOS="146"
+                    VPOS="595"
+                    WIDTH="812"
+                    HEIGHT="40"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_f18cfda0" >
-        <Coords points="145,544 147,519 158,518 180,525 203,525 212,519 235,527 272,527 284,519 340,518 356,528 364,524 370,528 428,528 434,523 444,528 456,528 463,523 474,528 481,524 500,528 513,519 548,519 563,520 580,529 637,529 643,524 650,529 686,529 721,520 754,530 777,526 816,530 838,522 868,522 882,527 897,522 921,522 929,527 950,522 956,525 959,548 936,556 889,550 758,556 740,552 728,555 721,549 684,555 644,555 627,549 609,555 574,555 564,549 549,553 543,548 514,554 489,553 483,548 458,548 449,554 369,554 349,547 312,547 305,553 286,548 257,553 249,547 231,553 196,553 191,548 183,553 172,548 147,553"/>
-        <Baseline points="145,544 959,548"/>
-        <TextEquiv>
-          <Unicode>Jeannette, mais elle ne le reconnait pas et appelle - Au fond le beau</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_aeb4c272"
+                    TAGREFS="LT4057"
+                    BASELINE="143 658 955 665" 
+                    HPOS="143"
+                    VPOS="636"
+                    WIDTH="812"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="143 658 145 637 171 642 182 636 195 636 202 642 221 636 276 643 289 637 325 637 334 643 394 638 412 644 482 644 489 638 509 638 515 644 564 639 574 645 625 640 631 645 682 646 740 645 749 640 757 646 771 646 817 640 875 647 883 642 951 647 955 665 951 684 915 672 892 672 878 678 859 672 842 676 836 673 822 683 802 677 772 680 752 672 733 672 720 678 671 678 654 669 533 674 524 680 504 668 466 668 453 676 412 668 394 679 305 679 296 674 269 678 191 678 179 674 171 678 145 677"/></Shape>
+	    <String CONTENT="projectiles dont la propre marchandise de Jean-Pierre fait les frais."
+                    HPOS="143"
+                    VPOS="636"
+                    WIDTH="812"
+                    HEIGHT="48"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_28d174ec" >
-        <Coords points="145,583 147,567 163,563 168,567 206,562 220,567 242,567 253,562 270,567 284,562 337,567 365,562 389,567 409,562 424,568 444,568 454,563 472,563 482,568 558,568 571,563 653,568 670,563 684,569 698,566 727,569 734,564 766,564 772,569 779,566 850,569 869,564 875,568 881,565 905,569 919,564 933,568 937,586 933,594 912,595 885,590 862,595 855,589 841,589 834,595 741,595 728,589 680,595 659,594 652,588 625,593 611,588 584,593 553,588 545,594 505,594 491,588 465,594 441,594 426,588 383,593 376,587 342,587 323,593 286,593 272,587 265,593 255,593 250,587 226,587 217,593 207,587 194,593 147,590"/>
-        <Baseline points="145,583 937,586"/>
-        <TextEquiv>
-          <Unicode>et gigantesque gendarme parait stupéfait de l&#39;audace du capucin, il</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="476"
+                   VPOS="49"
+                   WIDTH="127"
+                   HEIGHT="54"
+                   ID="eSc_textblock_3bf86060"
+                   TAGREFS="BT10356">
+          <Shape><Polygon POINTS="476 49 476 103 603 103 603 49"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_670297a0"
+                    TAGREFS="LT4057"
+                    BASELINE="504 81 569 85" 
+                    HPOS="503"
+                    VPOS="56"
+                    WIDTH="64"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="503 79 506 62 531 63 544 56 567 62 564 87 537 92 504 86"/></Shape>
+	    <String CONTENT="( 3 )"
+                    HPOS="503"
+                    VPOS="56"
+                    WIDTH="64"
+                    HEIGHT="36"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_9c20c814" >
-        <Coords points="146,618 150,595 160,603 241,603 257,598 263,604 324,604 332,599 386,604 394,597 406,597 420,603 444,598 456,605 506,606 550,606 559,600 570,606 577,602 589,605 609,600 619,607 627,603 639,606 652,599 693,599 712,606 738,600 751,608 776,602 820,600 843,605 855,602 859,606 927,602 933,607 955,608 958,626 955,635 940,629 921,629 911,635 843,635 791,628 774,634 768,628 730,634 717,627 683,627 673,632 642,627 633,633 612,633 591,627 587,632 534,632 524,626 510,626 503,632 471,626 452,630 440,625 398,625 382,630 373,624 351,624 345,628 339,624 316,628 289,624 269,629 252,623 214,623 202,628 156,628 148,623"/>
-        <Baseline points="146,618 958,626"/>
-        <TextEquiv>
-          <Unicode>lui administre une volée de manche à balai et le poursuit à l&#39;aide de</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="226"
+                   VPOS="278"
+                   WIDTH="168"
+                   HEIGHT="148"
+                   ID="eSc_textblock_dcab0fc6"
+                   TAGREFS="BT10354">
+          <Shape><Polygon POINTS="226 426 226 278 394 278 394 426"/></Shape>
+          
+        </TextBlock>
+        
 
-    
-    
-      <TextLine id="eSc_line_aeb4c272" >
-        <Coords points="143,658 145,637 171,642 182,636 195,636 202,642 221,636 276,643 289,637 325,637 334,643 394,638 412,644 482,644 489,638 509,638 515,644 564,639 574,645 625,640 631,645 682,646 740,645 749,640 757,646 771,646 817,640 875,647 883,642 951,647 955,665 951,684 915,672 892,672 878,678 859,672 842,676 836,673 822,683 802,677 772,680 752,672 733,672 720,678 671,678 654,669 533,674 524,680 504,668 466,668 453,676 412,668 394,679 305,679 296,674 269,678 191,678 179,674 171,678 145,677"/>
-        <Baseline points="143,658 955,665"/>
-        <TextEquiv>
-          <Unicode>projectiles dont la propre marchandise de Jean-Pierre fait les frais.</Unicode>
-        </TextEquiv>
-      </TextLine>
-
-    
-    </TextRegion>
-    
-  </Page>
-</PcGts>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

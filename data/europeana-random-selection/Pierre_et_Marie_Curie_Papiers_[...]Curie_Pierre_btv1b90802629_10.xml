@@ -1,398 +1,865 @@
-<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
-  <Metadata>
-	<Creator>escriptorium</Creator>
-	<Created>2021-01-21T19:45:05.462510+00:00</Created>
-    <LastChange>2021-01-21T19:45:05.462531+00:00</LastChange>
-  </Metadata>
-  <Page imageFilename="Pierre_et_Marie_Curie_Papiers_[...]Curie_Pierre_btv1b90802629_10.jpeg" imageWidth="1024" imageHeight="1414">
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Pierre_et_Marie_Curie_Papiers_[...]Curie_Pierre_btv1b90802629_10.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10358" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT10357" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10356" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10355" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10354" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10353" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4055" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/><OtherTag ID="LT4057" LABEL="DefaultLine:Typewritten" DESCRIPTION="line type DefaultLine:Typewritten"/><OtherTag ID="LT4056" LABEL="DefaultLine:Handwritten" DESCRIPTION="line type DefaultLine:Handwritten"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1024"
+          HEIGHT="1414"
+          PHYSICAL_IMG_NR="56"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1024"
+                  HEIGHT="1414">
+        
+        <TextBlock HPOS="258"
+                   VPOS="122"
+                   WIDTH="152"
+                   HEIGHT="47"
+                   ID="eSc_textblock_ef85a91c"
+                   TAGREFS="BT10357">
+          <Shape><Polygon POINTS="258 122 258 169 410 169 410 122"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a0f65f80"
+                    TAGREFS="LT4056"
+                    BASELINE="286 143 370 148" 
+                    HPOS="282"
+                    VPOS="122"
+                    WIDTH="86"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="367 122 355 122 351 122 329 127 304 122 296 122 285 122 285 142 282 177 366 177 368 147 368 122 367 122"/></Shape>
+	    <String CONTENT="~~~"
+                    HPOS="282"
+                    VPOS="122"
+                    WIDTH="86"
+                    HEIGHT="55"></String>
+          </TextLine>
 
-    
+          
+          
+          <TextLine ID="eSc_line_e0cd4ba3"
+                    TAGREFS="LT4057"
+                    BASELINE="372 151 406 149" 
+                    HPOS="367"
+                    VPOS="109"
+                    WIDTH="38"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="371 150 372 169 405 167 405 148 401 114 367 109 371 150"/></Shape>
+	    <String CONTENT="⟦III⟧"
+                    HPOS="367"
+                    VPOS="109"
+                    WIDTH="38"
+                    HEIGHT="60"></String>
+          </TextLine>
 
-    
-    <TextRegion id="eSc_dummyblock_">
-    
-    
-      <TextLine id="eSc_line_60a9dd9b" >
-        <Coords points="769,113 775,93 795,93 785,128 769,123"/>
-        <Baseline points="770,114 793,120"/>
-        <TextEquiv>
-          <Unicode>~~~</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="266"
+                   VPOS="131"
+                   WIDTH="608"
+                   HEIGHT="874"
+                   ID="eSc_textblock_fa81be08"
+                   TAGREFS="BT10353">
+          <Shape><Polygon POINTS="874 1005 874 190 764 183 765 136 412 131 408 190 266 190 266 1005"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_81a27de7"
+                    TAGREFS="LT4057"
+                    BASELINE="418 154 759 158" 
+                    HPOS="417"
+                    VPOS="123"
+                    WIDTH="341"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="417 153 419 124 501 123 516 135 532 130 544 139 588 140 642 140 658 130 674 140 688 141 725 127 743 139 756 137 758 157 747 164 707 161 692 166 661 160 632 166 600 160 593 167 552 161 516 166 509 159 499 163 473 159 465 164 418 162"/></Shape>
+	    <String CONTENT="MESURE DE COURANT DANS LES GAZ IONISES."
+                    HPOS="417"
+                    VPOS="123"
+                    WIDTH="341"
+                    HEIGHT="44"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_8cf5ede1" >
-        <Coords points="513,127 513,88 542,94 553,94 567,86 578,89 580,131 553,136 543,128 514,129"/>
-        <Baseline points="514,128 584,124"/>
-        <TextEquiv>
-          <Unicode>- 22 -</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_57d85233"
+                    TAGREFS="LT4056"
+                    BASELINE="297 227 359 227" 
+                    HPOS="296"
+                    VPOS="199"
+                    WIDTH="62"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="296 241 358 238 358 226 358 202 296 199 296 226"/></Shape>
+	    <String CONTENT="~~~ ~~~"
+                    HPOS="296"
+                    VPOS="199"
+                    WIDTH="62"
+                    HEIGHT="42"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_a0f65f80" >
-        <Coords points="285,142 289,109 340,116 368,114 364,175 334,170 320,174 315,169 308,174 285,173"/>
-        <Baseline points="286,143 370,149"/>
-        <TextEquiv>
-          <Unicode>~~~</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_a0321665"
+                    TAGREFS="LT4057"
+                    BASELINE="363 227 833 225" 
+                    HPOS="361"
+                    VPOS="197"
+                    WIDTH="470"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="362 226 362 240 830 233 831 223 828 205 643 206 631 202 618 197 617 197 616 197 615 197 613 197 613 199 610 202 605 206 591 201 580 199 579 199 578 199 577 199 576 199 573 201 565 208 529 208 477 201 460 199 419 199 418 199 417 199 415 199 415 200 414 200 410 205 361 200 362 226"/></Shape>
+	    <String CONTENT="_Type _d&#x27;appareillage-. L&#x27;intensité du courant au tra-"
+                    HPOS="361"
+                    VPOS="197"
+                    WIDTH="470"
+                    HEIGHT="43"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_81a27de7" >
-        <Coords points="417,153 419,124 501,123 516,135 532,130 544,139 588,140 642,140 658,130 674,140 688,141 725,127 743,139 756,137 758,157 747,164 707,161 692,166 661,160 632,166 600,160 593,167 552,161 516,166 509,159 499,163 473,159 465,164 418,162"/>
-        <Baseline points="418,154 759,158"/>
-        <TextEquiv>
-          <Unicode>MESURE DE COURANT DANS LES GAZ IONISES.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_212fd31e"
+                    TAGREFS="LT4057"
+                    BASELINE="297 254 833 256" 
+                    HPOS="296"
+                    VPOS="235"
+                    WIDTH="535"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="296 253 299 242 318 235 332 242 347 242 353 236 375 242 420 242 432 236 471 235 498 242 505 235 525 240 532 235 557 235 577 243 589 239 596 243 626 243 641 236 659 243 677 239 694 243 701 238 728 243 741 243 750 236 771 236 789 243 811 239 817 243 829 241 831 255 811 262 745 258 736 263 666 258 651 263 565 263 546 256 540 261 531 256 298 260"/></Shape>
+	    <String CONTENT="vers d&#x27;un gaz ionisé peut varier entre des limites considéra-"
+                    HPOS="296"
+                    VPOS="235"
+                    WIDTH="535"
+                    HEIGHT="28"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_ae8c64d3" >
-        <Coords points="804,174 815,154 823,161 813,187 802,186"/>
-        <Baseline points="805,175 820,181"/>
-        <TextEquiv>
-          <Unicode>7</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_efc94df0"
+                    TAGREFS="LT4057"
+                    BASELINE="303 283 843 285" 
+                    HPOS="302"
+                    VPOS="268"
+                    WIDTH="540"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="302 282 305 269 315 268 349 268 360 274 481 274 489 269 498 274 531 274 572 268 622 268 626 273 653 268 666 274 695 268 704 274 723 269 749 274 820 272 840 274 842 283 801 294 761 294 745 287 719 293 710 287 695 292 652 288 641 293 579 287 564 294 559 289 509 293 501 287 470 293 446 289 437 294 384 294 374 289 358 293 353 288 332 294 326 288 321 293 304 289"/></Shape>
+	    <String CONTENT="bles) ⟦et conformément à cette circonstance, d⟧es appareils ⟦⟧"
+                    HPOS="302"
+                    VPOS="268"
+                    WIDTH="540"
+                    HEIGHT="26"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_57d85233" >
-        <Coords points="296,226 298,202 324,207 331,202 379,202 388,210 411,210 420,202 435,207 456,202 480,210 490,206 527,213 562,213 578,202 585,209 592,206 602,212 617,201 631,201 642,212 662,212 668,206 682,212 704,212 712,206 721,212 744,212 750,206 771,205 788,206 794,212 824,207 831,223 828,230 807,234 571,230 534,235 298,235"/>
-        <Baseline points="297,227 833,225"/>
-        <TextEquiv>
-          <Unicode>~~~ ~~~ _Type _d&#39;appareillage-. L&#39;intensité du courant au tra-</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_e5656949"
+                    TAGREFS="LT4056"
+                    BASELINE="362 271 550 267" 
+                    HPOS="361"
+                    VPOS="255"
+                    WIDTH="188"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="361 269 366 256 374 261 411 261 423 255 470 260 523 256 545 259 549 266 544 272 362 272"/></Shape>
+	    <String CONTENT="~~~ ~~~ ~~~ ~~~"
+                    HPOS="361"
+                    VPOS="255"
+                    WIDTH="188"
+                    HEIGHT="17"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_212fd31e" >
-        <Coords points="296,253 299,242 318,235 332,242 347,242 353,236 375,242 420,242 432,236 471,235 498,242 505,235 525,240 532,235 557,235 577,243 589,239 596,243 626,243 641,236 659,243 677,239 694,243 701,238 728,243 741,243 750,236 771,236 789,243 811,239 817,243 829,241 831,255 811,262 745,258 736,263 666,258 651,263 565,263 546,256 540,261 531,256 298,260"/>
-        <Baseline points="297,254 833,256"/>
-        <TextEquiv>
-          <Unicode>vers d&#39;un gaz ionisé peut varier entre des limites considéra-</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_dadb9ca7"
+                    TAGREFS="LT4056"
+                    BASELINE="749 269 827 269" 
+                    HPOS="748"
+                    VPOS="261"
+                    WIDTH="78"
+                    HEIGHT="14">
+            <Shape><Polygon POINTS="748 268 750 263 821 261 826 268 816 275 750 275"/></Shape>
+	    <String CONTENT="~~~"
+                    HPOS="748"
+                    VPOS="261"
+                    WIDTH="78"
+                    HEIGHT="14"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_e5656949" >
-        <Coords points="361,269 366,256 374,261 411,261 423,255 470,260 523,256 545,259 549,266 544,272 362,272"/>
-        <Baseline points="362,271 550,267"/>
-        <TextEquiv>
-          <Unicode>~~~ ~~~ ~~~ ~~~</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_7e308b19"
+                    TAGREFS="LT4057"
+                    BASELINE="303 313 646 313" 
+                    HPOS="302"
+                    VPOS="293"
+                    WIDTH="343"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="302 312 307 293 342 301 370 301 377 294 393 301 438 300 448 294 457 300 464 293 498 293 504 299 530 301 546 293 583 293 591 301 609 296 643 301 645 312 643 318 622 318 613 324 598 319 555 324 537 318 513 318 506 324 461 318 424 324 399 322 394 318 375 324 353 324 348 319 305 324"/></Shape>
+	    <String CONTENT="⟦lisés peuvent être⟧ de type différents."
+                    HPOS="302"
+                    VPOS="293"
+                    WIDTH="343"
+                    HEIGHT="31"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_efc94df0" >
-        <Coords points="302,282 305,269 315,268 349,268 360,274 481,274 489,269 498,274 531,274 572,268 622,268 626,273 653,268 666,274 695,268 704,274 723,269 749,274 820,272 840,274 842,283 801,294 761,294 745,287 719,293 710,287 695,292 652,288 641,293 579,287 564,294 559,289 509,293 501,287 470,293 446,289 437,294 384,294 374,289 358,293 353,288 332,294 326,288 321,293 304,289"/>
-        <Baseline points="303,283 843,285"/>
-        <TextEquiv>
-          <Unicode>bles) et conformément à cette circonstance, des appareils ~~~</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_89cd220d"
+                    TAGREFS="LT4056"
+                    BASELINE="393 295 442 296" 
+                    HPOS="391"
+                    VPOS="283"
+                    WIDTH="50"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="427 283 415 283 404 283 392 283 392 294 391 301 440 300 441 295 440 283 439 283"/></Shape>
+	    <String CONTENT="~~~"
+                    HPOS="391"
+                    VPOS="283"
+                    WIDTH="50"
+                    HEIGHT="18"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_dadb9ca7" >
-        <Coords points="748,268 750,263 821,261 826,268 816,275 750,275"/>
-        <Baseline points="749,269 827,269"/>
-        <TextEquiv>
-          <Unicode>~~~</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_9fc9941f"
+                    TAGREFS="LT4057"
+                    BASELINE="338 338 826 342" 
+                    HPOS="337"
+                    VPOS="321"
+                    WIDTH="487"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="337 337 339 324 379 321 542 321 582 326 702 322 718 327 807 324 822 327 824 341 791 349 736 349 724 345 710 349 698 344 677 348 663 344 616 348 573 342 491 347 444 341 338 345"/></Shape>
+	    <String CONTENT="Les courants transportés dans la décharge disruptive, ⟦peu⟧"
+                    HPOS="337"
+                    VPOS="321"
+                    WIDTH="487"
+                    HEIGHT="28"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_7e308b19" >
-        <Coords points="302,312 307,293 342,301 370,301 377,294 393,301 438,300 448,294 457,300 464,293 498,293 504,299 530,301 546,293 583,293 591,301 609,296 643,301 645,312 643,318 622,318 613,324 598,319 555,324 537,318 513,318 506,324 461,318 424,324 399,322 394,318 375,324 353,324 348,319 305,324"/>
-        <Baseline points="303,313 646,313"/>
-        <TextEquiv>
-          <Unicode>lisés peuvent être de type différents.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_31b5228c"
+                    TAGREFS="LT4057"
+                    BASELINE="293 369 837 371" 
+                    HPOS="292"
+                    VPOS="348"
+                    WIDTH="544"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="292 368 294 354 322 348 406 348 414 354 440 354 445 349 450 354 467 354 473 348 480 354 499 354 505 348 572 354 578 348 604 348 610 354 637 349 646 354 697 354 712 348 724 354 817 354 834 349 836 369 829 377 785 372 777 377 723 377 718 372 705 377 681 372 672 377 657 372 649 377 595 377 583 372 546 372 490 372 485 377 478 372 466 377 430 377 425 372 418 377 400 372 368 377 360 372 355 377 302 377 293 372"/></Shape>
+	    <String CONTENT="⟦vent atteindre une grande intensité, par exemple⟧ sous la forme"
+                    HPOS="292"
+                    VPOS="348"
+                    WIDTH="544"
+                    HEIGHT="29"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_9fc9941f" >
-        <Coords points="337,337 339,324 379,321 542,321 582,326 702,322 718,327 807,324 822,327 824,341 791,349 736,349 724,345 710,349 698,344 677,348 663,344 616,348 573,342 491,347 444,341 338,345"/>
-        <Baseline points="338,338 826,342"/>
-        <TextEquiv>
-          <Unicode>Les courants transportés dans la décharge disruptive, peu</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_fc4094fb"
+                    TAGREFS="LT4057"
+                    BASELINE="301 396 843 397" 
+                    HPOS="300"
+                    VPOS="379"
+                    WIDTH="542"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="300 395 302 380 311 379 335 379 341 385 355 379 372 384 378 379 399 379 412 385 423 379 443 381 448 387 478 387 483 382 489 387 591 387 603 379 651 379 658 385 664 380 675 386 683 381 688 386 695 382 711 387 727 380 742 387 775 387 784 379 800 386 830 379 840 380 842 395 834 405 722 405 717 400 702 405 643 405 629 400 605 405 583 400 572 405 559 400 522 405 492 400 458 405 302 400"/></Shape>
+	    <String CONTENT="d&#x27;arc électrique ⟦on les⟧ mesurée ⟦en ce cas,⟧ avec des ampèremè-"
+                    HPOS="300"
+                    VPOS="379"
+                    WIDTH="542"
+                    HEIGHT="26"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_31b5228c" >
-        <Coords points="292,368 294,354 322,348 406,348 414,354 440,354 445,349 450,354 467,354 473,348 480,354 499,354 505,348 572,354 578,348 604,348 610,354 637,349 646,354 697,354 712,348 724,354 817,354 834,349 836,369 829,377 785,372 777,377 723,377 718,372 705,377 681,372 672,377 657,372 649,377 595,377 583,372 546,372 490,372 485,377 478,372 466,377 430,377 425,372 418,377 400,372 368,377 360,372 355,377 302,377 293,372"/>
-        <Baseline points="293,369 837,371"/>
-        <TextEquiv>
-          <Unicode>vent atteindre une grande intensité, par exemple sous la forme</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_d904a034"
+                    TAGREFS="LT4056"
+                    BASELINE="448 384 481 383 604 380" 
+                    HPOS="446"
+                    VPOS="369"
+                    WIDTH="157"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="599 369 588 369 576 369 564 369 552 369 540 369 529 369 517 369 505 369 493 369 481 369 470 369 458 369 446 369 447 382 447 390 573 394 575 394 576 394 603 385 603 379 600 369 599 369"/></Shape>
+	    <String CONTENT="~~~ ~~~ ~~~"
+                    HPOS="446"
+                    VPOS="369"
+                    WIDTH="157"
+                    HEIGHT="25"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_fc4094fb" >
-        <Coords points="300,395 302,380 311,379 335,379 341,385 355,379 372,384 378,379 399,379 412,385 423,379 443,381 448,387 478,387 483,382 489,387 591,387 603,379 651,379 658,385 664,380 675,386 683,381 688,386 695,382 711,387 727,380 742,387 775,387 784,379 800,386 830,379 840,380 842,395 834,405 722,405 717,400 702,405 643,405 629,400 605,405 583,400 572,405 559,400 522,405 492,400 458,405 302,400"/>
-        <Baseline points="301,396 843,397"/>
-        <TextEquiv>
-          <Unicode>d&#39;arc électrique ~~~ on les mesurée en ce cas, avec des ampèremè-</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_bd0ea8b9"
+                    TAGREFS="LT4057"
+                    BASELINE="303 422 850 428" 
+                    HPOS="302"
+                    VPOS="406"
+                    WIDTH="547"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="302 421 305 410 500 411 522 406 526 412 622 407 632 413 662 413 668 408 691 413 790 410 795 414 800 410 841 410 847 413 849 427 843 433 796 432 790 437 736 431 631 435 566 430 560 434 536 434 517 428 509 433 487 428 477 433 468 428 452 433 374 432 370 427 360 432 353 427 341 432 304 432"/></Shape>
+	    <String CONTENT="tres. ⟦Les courants d&#x27;intensité plus faibles comme ceux qui pas-⟧"
+                    HPOS="302"
+                    VPOS="406"
+                    WIDTH="547"
+                    HEIGHT="31"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_d904a034" >
-        <Coords points="448,382 450,353 468,354 476,349 493,354 504,348 522,353 538,348 576,352 599,346 603,379 590,387 450,387"/>
-        <Baseline points="449,384 604,380"/>
-        <TextEquiv>
-          <Unicode>~~~ ~~~ ~~~</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_ac9d7a52"
+                    TAGREFS="LT4057"
+                    BASELINE="301 453 824 459" 
+                    HPOS="300"
+                    VPOS="432"
+                    WIDTH="523"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="300 452 301 433 371 437 379 432 406 438 434 433 484 438 497 433 513 439 615 434 666 440 710 440 719 435 734 441 751 437 765 441 784 437 820 441 823 458 817 465 801 461 789 467 771 463 721 467 704 461 677 466 669 459 657 459 648 466 622 466 609 458 572 458 565 463 551 458 534 463 527 458 481 457 467 464 405 464 375 458 361 463 312 457 301 460"/></Shape>
+	    <String CONTENT="⟦sent dans la décharge sous forme d&#x27;étiencelle, sont mesurés a⟧"
+                    HPOS="300"
+                    VPOS="432"
+                    WIDTH="523"
+                    HEIGHT="35"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_bd0ea8b9" >
-        <Coords points="302,421 305,410 500,411 522,406 526,412 622,407 632,413 662,413 668,408 691,413 790,410 795,414 800,410 841,410 847,413 849,427 843,433 796,432 790,437 736,431 631,435 566,430 560,434 536,434 517,428 509,433 487,428 477,433 468,428 452,433 374,432 370,427 360,432 353,427 341,432 304,432"/>
-        <Baseline points="303,422 850,428"/>
-        <TextEquiv>
-          <Unicode>tres. Les courants d&#39;intensité plus faibles comme ceux qui pas-</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_5c09932e"
+                    TAGREFS="LT4056"
+                    BASELINE="305 468 332 468" 
+                    HPOS="304"
+                    VPOS="458"
+                    WIDTH="24"
+                    HEIGHT="15">
+            <Shape><Polygon POINTS="304 467 306 458 328 459 328 473 306 472"/></Shape>
+	    <String CONTENT="~~~"
+                    HPOS="304"
+                    VPOS="458"
+                    WIDTH="24"
+                    HEIGHT="15"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_ac9d7a52" >
-        <Coords points="300,452 301,433 371,437 379,432 406,438 434,433 484,438 497,433 513,439 615,434 666,440 710,440 719,435 734,441 751,437 765,441 784,437 820,441 823,458 817,465 801,461 789,467 771,463 721,467 704,461 677,466 669,459 657,459 648,466 622,466 609,458 572,458 565,463 551,458 534,463 527,458 481,457 467,464 405,464 375,458 361,463 312,457 301,460"/>
-        <Baseline points="301,453 824,459"/>
-        <TextEquiv>
-          <Unicode>sent dans la décharge sous forme d&#39;étiencelle, sont mesurés a</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_266150e0"
+                    TAGREFS="LT4057"
+                    BASELINE="301 480 535 480" 
+                    HPOS="300"
+                    VPOS="463"
+                    WIDTH="234"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="300 479 302 463 333 463 339 468 354 464 360 470 380 465 451 470 529 466 534 479 524 487 506 489 499 484 491 489 453 484 440 489 366 489 353 484 302 487"/></Shape>
+	    <String CONTENT="⟦vec⟧ des milliampèremètres."
+                    HPOS="300"
+                    VPOS="463"
+                    WIDTH="234"
+                    HEIGHT="26"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_5c09932e" >
-        <Coords points="304,467 306,458 328,459 328,473 306,472"/>
-        <Baseline points="305,468 332,468"/>
-        <TextEquiv>
-          <Unicode>~~~</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_66d06114"
+                    TAGREFS="LT4057"
+                    BASELINE="316 514 841 514" 
+                    HPOS="315"
+                    VPOS="491"
+                    WIDTH="525"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="315 513 318 493 324 491 465 491 481 492 489 499 549 499 555 494 564 499 589 494 625 499 664 491 679 492 689 499 705 491 724 499 736 492 747 499 767 492 777 499 837 499 840 513 817 522 800 517 780 522 699 522 694 517 681 522 547 522 533 517 318 522"/></Shape>
+	    <String CONTENT="⟦Quand la différence de potentiel utilisé est élevée, ces⟧"
+                    HPOS="315"
+                    VPOS="491"
+                    WIDTH="525"
+                    HEIGHT="31"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_266150e0" >
-        <Coords points="300,479 302,463 333,463 339,468 354,464 360,470 380,465 451,470 529,466 534,479 524,487 506,489 499,484 491,489 453,484 440,489 366,489 353,484 302,487"/>
-        <Baseline points="301,480 535,480"/>
-        <TextEquiv>
-          <Unicode>~~~ des milliampèremètres.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_5bbd15e8"
+                    TAGREFS="LT4057"
+                    BASELINE="293 539 745 541" 
+                    HPOS="292"
+                    VPOS="520"
+                    WIDTH="452"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="292 538 293 522 375 525 405 520 414 525 444 525 478 520 507 525 530 522 536 526 563 522 596 526 670 526 675 522 702 526 712 522 717 526 734 526 738 522 744 540 741 546 717 547 529 547 500 543 293 546"/></Shape>
+	    <String CONTENT="⟦appareils doivent recevoir un isolement suffisant.⟧"
+                    HPOS="292"
+                    VPOS="520"
+                    WIDTH="452"
+                    HEIGHT="27"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_66d06114" >
-        <Coords points="315,513 318,493 324,491 465,491 481,492 489,499 549,499 555,494 564,499 589,494 625,499 664,491 679,492 689,499 705,491 724,499 736,492 747,499 767,492 777,499 837,499 840,513 817,522 800,517 780,522 699,522 694,517 681,522 547,522 533,517 318,522"/>
-        <Baseline points="316,514 841,514"/>
-        <TextEquiv>
-          <Unicode>Quand la différence de potentiel utilisé est élevée, ces</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_5ad65fc4"
+                    TAGREFS="LT4057"
+                    BASELINE="334 572 841 570" 
+                    HPOS="333"
+                    VPOS="551"
+                    WIDTH="507"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="333 571 335 553 361 552 435 552 443 557 447 552 459 557 478 552 504 552 509 557 537 552 553 557 570 552 582 557 605 552 630 556 635 551 646 556 671 556 677 551 698 556 781 556 785 551 818 556 836 551 840 569 834 577 334 576"/></Shape>
+	    <String CONTENT="Les courants que l&#x27;on peut faire passer dans un gaz ionisé"
+                    HPOS="333"
+                    VPOS="551"
+                    WIDTH="507"
+                    HEIGHT="26"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_5bbd15e8" >
-        <Coords points="292,538 293,522 375,525 405,520 414,525 444,525 478,520 507,525 530,522 536,526 563,522 596,526 670,526 675,522 702,526 712,522 717,526 734,526 738,522 744,540 741,546 717,547 529,547 500,543 293,546"/>
-        <Baseline points="293,539 745,541"/>
-        <TextEquiv>
-          <Unicode>appareils doivent recevoir un isolement suffisant.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_f382167c"
+                    TAGREFS="LT4057"
+                    BASELINE="293 598 833 598" 
+                    HPOS="292"
+                    VPOS="578"
+                    WIDTH="539"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="292 597 294 584 307 578 378 578 384 583 418 579 430 584 483 578 496 584 533 578 559 583 569 578 608 584 618 579 721 584 738 578 752 584 829 584 831 597 829 608 794 608 789 603 781 608 694 608 684 603 659 606 624 600 606 608 542 600 531 608 501 600 428 600 423 605 401 602 391 606 380 600 314 600 305 605 294 600"/></Shape>
+	    <String CONTENT="par une radiation, sans le secours de la décharge disruptive,"
+                    HPOS="292"
+                    VPOS="578"
+                    WIDTH="539"
+                    HEIGHT="30"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_5ad65fc4" >
-        <Coords points="333,571 335,553 361,552 435,552 443,557 447,552 459,557 478,552 504,552 509,557 537,552 553,557 570,552 582,557 605,552 630,556 635,551 646,556 671,556 677,551 698,556 781,556 785,551 818,556 836,551 840,569 834,577 334,576"/>
-        <Baseline points="334,572 841,570"/>
-        <TextEquiv>
-          <Unicode>Les courants que l&#39;on peut faire passer dans un gaz ionisé</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_4725f801"
+                    TAGREFS="LT4057"
+                    BASELINE="301 623 839 627" 
+                    HPOS="300"
+                    VPOS="606"
+                    WIDTH="538"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="300 622 302 611 335 611 342 606 349 611 362 606 373 611 437 612 556 612 570 608 582 613 612 609 653 609 659 613 684 609 707 615 719 610 820 612 836 615 838 626 835 632 818 635 782 631 760 636 678 635 665 630 570 635 557 629 543 633 538 629 512 629 504 633 483 633 477 629 453 633 391 629 301 632"/></Shape>
+	    <String CONTENT="ont généralement une faible intensité. On peut les mesure a-"
+                    HPOS="300"
+                    VPOS="606"
+                    WIDTH="538"
+                    HEIGHT="30"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_f382167c" >
-        <Coords points="292,597 294,584 307,578 378,578 384,583 418,579 430,584 483,578 496,584 533,578 559,583 569,578 608,584 618,579 721,584 738,578 752,584 829,584 831,597 829,608 794,608 789,603 781,608 694,608 684,603 659,606 624,600 606,608 542,600 531,608 501,600 428,600 423,605 401,602 391,606 380,600 314,600 305,605 294,600"/>
-        <Baseline points="293,598 833,598"/>
-        <TextEquiv>
-          <Unicode>par une radiation, sans le secours de la décharge disruptive,</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_3b3d88d3"
+                    TAGREFS="LT4057"
+                    BASELINE="297 651 549 656 849 660" 
+                    HPOS="295"
+                    VPOS="628"
+                    WIDTH="553"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="662 641 650 641 638 641 626 641 615 641 603 641 591 641 590 639 575 639 562 635 542 630 540 630 539 630 518 635 506 637 484 635 430 628 428 628 427 628 405 633 400 635 296 633 296 650 295 661 846 664 848 659 848 638 767 633 765 633 764 633 754 637 744 639 731 637 710 632 709 632 708 632 699 636 696 638 686 636 668 632 662 641"/></Shape>
+	    <String CONTENT="vers des galvanomètres sensibles, ⟦pour des⟧ intensités de l&#x27;ordre"
+                    HPOS="295"
+                    VPOS="628"
+                    WIDTH="553"
+                    HEIGHT="36"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_4725f801" >
-        <Coords points="300,622 302,611 335,611 342,606 349,611 362,606 373,611 437,612 556,612 570,608 582,613 612,609 653,609 659,613 684,609 707,615 719,610 820,612 836,615 838,626 835,632 818,635 782,631 760,636 678,635 665,630 570,635 557,629 543,633 538,629 512,629 504,633 483,633 477,629 453,633 391,629 301,632"/>
-        <Baseline points="301,623 839,627"/>
-        <TextEquiv>
-          <Unicode>ont généralement une faible intensité. On peut les mesure a-</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_45e953ed"
+                    TAGREFS="LT4056"
+                    BASELINE="590 641 665 641" 
+                    HPOS="589"
+                    VPOS="629"
+                    WIDTH="75"
+                    HEIGHT="17">
+            <Shape><Polygon POINTS="589 639 598 629 642 629 662 632 664 639 656 646 591 644"/></Shape>
+	    <String CONTENT="~~~"
+                    HPOS="589"
+                    VPOS="629"
+                    WIDTH="75"
+                    HEIGHT="17"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_3b3d88d3" >
-        <Coords points="296,651 298,639 318,636 325,641 339,635 351,641 372,641 378,635 399,642 405,637 430,642 452,635 465,643 520,643 532,636 552,644 575,644 584,637 595,644 616,645 658,645 665,638 681,638 695,645 708,639 724,644 762,639 774,648 783,641 802,641 807,645 811,641 826,645 836,641 844,643 848,659 757,665 736,661 727,665 710,661 688,664 676,659 669,664 663,659 612,664 579,658 570,663 533,663 507,657 480,657 476,662 440,657 298,659"/>
-        <Baseline points="297,652 849,660"/>
-        <TextEquiv>
-          <Unicode>vers des galvanomètres sensibles, pour des intensités de l&#39;ordre</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_aae9ad15"
+                    TAGREFS="LT4057"
+                    BASELINE="297 683 820 686" 
+                    HPOS="296"
+                    VPOS="663"
+                    WIDTH="522"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="296 682 302 665 321 671 333 666 341 671 378 671 398 663 433 670 443 665 460 669 471 663 476 669 496 670 516 664 534 672 549 668 578 672 592 665 641 665 651 670 658 666 663 671 671 666 682 671 736 671 745 666 776 672 784 665 816 665 818 685 298 686"/></Shape>
+	    <String CONTENT="de 10 ampères ; mais, le plus souvent, on les mesure ⟦avec⟧"
+                    HPOS="296"
+                    VPOS="663"
+                    WIDTH="522"
+                    HEIGHT="23"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_45e953ed" >
-        <Coords points="589,639 598,629 642,629 662,632 664,639 656,646 591,644"/>
-        <Baseline points="590,641 665,641"/>
-        <TextEquiv>
-          <Unicode>~~~</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_dc304741"
+                    TAGREFS="LT4056"
+                    BASELINE="344 672 367 672" 
+                    HPOS="342"
+                    VPOS="656"
+                    WIDTH="24"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="342 671 342 677 365 678 366 671 366 656 342 656 342 671"/></Shape>
+	    <String CONTENT="~~~"
+                    HPOS="342"
+                    VPOS="656"
+                    WIDTH="24"
+                    HEIGHT="22"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_aae9ad15" >
-        <Coords points="296,682 302,665 321,671 333,666 341,671 378,671 398,663 433,670 443,665 460,669 471,663 476,669 496,670 516,664 534,672 549,668 578,672 592,665 641,665 651,670 658,666 663,671 671,666 682,671 736,671 745,666 776,672 784,665 816,665 818,685 298,686"/>
-        <Baseline points="297,683 820,686"/>
-        <TextEquiv>
-          <Unicode>de 10 ampères ; mais, le plus souvent, on les mesure avec</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_709d6ae2"
+                    TAGREFS="LT4056"
+                    BASELINE="789 675 849 675" 
+                    HPOS="788"
+                    VPOS="659"
+                    WIDTH="60"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="788 674 790 662 814 659 846 663 848 674 846 682 790 677"/></Shape>
+	    <String CONTENT="~~~"
+                    HPOS="788"
+                    VPOS="659"
+                    WIDTH="60"
+                    HEIGHT="23"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_709d6ae2" >
-        <Coords points="788,674 790,662 814,659 846,663 848,674 846,682 790,677"/>
-        <Baseline points="789,675 849,675"/>
-        <TextEquiv>
-          <Unicode>~~~</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_2ba5489f"
+                    TAGREFS="LT4056"
+                    BASELINE="315 700 569 696" 
+                    HPOS="314"
+                    VPOS="683"
+                    WIDTH="253"
+                    HEIGHT="18">
+            <Shape><Polygon POINTS="314 699 318 684 339 689 344 684 354 688 380 683 403 683 410 688 459 683 564 685 567 695 560 699 315 701"/></Shape>
+	    <String CONTENT="~~~ ~~~ ~~~ ~~~ ~~~ ~~~"
+                    HPOS="314"
+                    VPOS="683"
+                    WIDTH="253"
+                    HEIGHT="18"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_2ba5489f" >
-        <Coords points="314,699 318,684 339,689 344,684 354,688 380,683 403,683 410,688 459,683 564,685 567,695 560,699 315,701"/>
-        <Baseline points="315,700 569,696"/>
-        <TextEquiv>
-          <Unicode>~~~ ~~~ ~~~ ~~~ ~~~ ~~~</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_ab163c26"
+                    TAGREFS="LT4057"
+                    BASELINE="293 713 839 713" 
+                    HPOS="292"
+                    VPOS="697"
+                    WIDTH="546"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="292 712 294 701 302 697 836 698 838 712 836 719 816 724 806 718 796 723 761 723 748 717 731 725 697 716 688 724 625 718 620 723 608 719 576 725 534 725 520 717 500 724 479 716 400 716 372 723 355 716 333 716 326 723 294 716"/></Shape>
+	    <String CONTENT="⟦des dispositifs d&#x27;électrométrie⟧ qui permettent d&#x27;atteindre des"
+                    HPOS="292"
+                    VPOS="697"
+                    WIDTH="546"
+                    HEIGHT="28"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_ab163c26" >
-        <Coords points="292,712 294,701 302,697 836,698 838,712 836,719 816,724 806,718 796,723 761,723 748,717 731,725 697,716 688,724 625,718 620,723 608,719 576,725 534,725 520,717 500,724 479,716 400,716 372,723 355,716 333,716 326,723 294,716"/>
-        <Baseline points="293,713 839,713"/>
-        <TextEquiv>
-          <Unicode>des dispositifs d&#39;électrométrie qui permettent d&#39;atteindre des</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_f6225d3b"
+                    TAGREFS="LT4057"
+                    BASELINE="298 738 782 742" 
+                    HPOS="295"
+                    VPOS="719"
+                    WIDTH="486"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="567 727 556 727 544 727 538 721 491 721 485 729 473 729 461 729 454 719 296 719 296 737 295 748 778 749 781 741 780 723 571 721 567 727"/></Shape>
+	    <String CONTENT="itensités entre 10 et 10 amp. et même au dessous."
+                    HPOS="295"
+                    VPOS="719"
+                    WIDTH="486"
+                    HEIGHT="30"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_f6225d3b" >
-        <Coords points="300,737 302,725 334,722 348,728 360,721 371,725 412,721 418,727 494,722 532,724 539,729 572,729 578,723 600,722 608,729 635,725 639,730 653,723 678,730 707,723 750,730 757,724 778,730 781,741 777,745 745,743 725,748 709,743 698,748 629,748 610,742 603,747 577,747 572,742 542,742 537,747 489,742 450,745 443,741 433,745 301,745"/>
-        <Baseline points="301,738 782,742"/>
-        <TextEquiv>
-          <Unicode>itensités entre 10 et 10 amp. et même au dessous.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_f0c5b5f6"
+                    TAGREFS="LT4056"
+                    BASELINE="463 729 488 729" 
+                    HPOS="461"
+                    VPOS="714"
+                    WIDTH="26"
+                    HEIGHT="22">
+            <Shape><Polygon POINTS="473 714 461 714 461 728 461 736 487 736 487 728 487 714 485 714"/></Shape>
+	    <String CONTENT="~~~"
+                    HPOS="461"
+                    VPOS="714"
+                    WIDTH="26"
+                    HEIGHT="22"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_948927a3" >
-        <Coords points="333,765 334,749 344,755 399,755 405,749 419,749 428,755 460,756 470,750 480,756 493,750 514,756 525,750 556,756 584,750 600,757 645,752 668,757 697,751 711,758 735,752 750,758 797,754 803,758 827,758 830,770 827,776 789,780 707,780 699,775 334,775"/>
-        <Baseline points="334,767 831,771"/>
-        <TextEquiv>
-          <Unicode>Dans un dispositif électromètrique destiné à cet usage il</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_762498b1"
+                    TAGREFS="LT4056"
+                    BASELINE="544 726 570 727" 
+                    HPOS="543"
+                    VPOS="714"
+                    WIDTH="26"
+                    HEIGHT="23">
+            <Shape><Polygon POINTS="555 714 543 714 543 725 543 737 555 737 566 737 569 737 569 725 567 714 566 714"/></Shape>
+	    <String CONTENT="~~~"
+                    HPOS="543"
+                    VPOS="714"
+                    WIDTH="26"
+                    HEIGHT="23"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_38c0393a" >
-        <Coords points="300,800 302,789 375,789 387,780 433,782 446,776 498,783 505,778 518,782 560,777 567,785 586,780 605,789 633,781 650,785 666,780 677,783 685,777 709,787 728,785 735,778 765,783 776,778 782,784 798,785 810,777 826,781 828,802 822,810 803,805 761,811 749,802 691,802 677,809 661,802 645,807 638,802 576,805 557,801 547,809 537,809 530,802 511,805 506,801 463,801 451,810 361,810 349,801 301,803"/>
-        <Baseline points="301,801 829,803"/>
-        <TextEquiv>
-          <Unicode>convient de distinguer deux parties essentielle : l&#39;_appareil</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_948927a3"
+                    TAGREFS="LT4057"
+                    BASELINE="334 767 831 771" 
+                    HPOS="333"
+                    VPOS="749"
+                    WIDTH="497"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="333 765 334 749 344 755 399 755 405 749 419 749 428 755 460 756 470 750 480 756 493 750 514 756 525 750 556 756 584 750 600 757 645 752 668 757 697 751 711 758 735 752 750 758 797 754 803 758 827 758 830 770 827 776 789 780 707 780 699 775 334 775"/></Shape>
+	    <String CONTENT="Dans un dispositif ⟦électromètrique⟧ destiné à cet usage il"
+                    HPOS="333"
+                    VPOS="749"
+                    WIDTH="497"
+                    HEIGHT="31"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_82e5d563" >
-        <Coords points="295,824 298,813 315,810 448,813 472,808 486,814 576,814 661,809 675,815 702,810 751,815 764,810 811,815 830,811 841,815 843,828 840,833 815,833 804,838 796,833 757,833 747,840 665,840 643,834 637,838 596,834 582,837 549,831 491,838 478,830 465,835 434,831 428,836 405,830 387,837 296,835"/>
-        <Baseline points="295,824 843,828"/>
-        <TextEquiv>
-          <Unicode>de mesure ou électromètre, et la _chambre _d&#39;ionisation. Ainsi que</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_38c0393a"
+                    TAGREFS="LT4057"
+                    BASELINE="301 801 829 803" 
+                    HPOS="300"
+                    VPOS="776"
+                    WIDTH="528"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="300 800 302 789 375 789 387 780 433 782 446 776 498 783 505 778 518 782 560 777 567 785 586 780 605 789 633 781 650 785 666 780 677 783 685 777 709 787 728 785 735 778 765 783 776 778 782 784 798 785 810 777 826 781 828 802 822 810 803 805 761 811 749 802 691 802 677 809 661 802 645 807 638 802 576 805 557 801 547 809 537 809 530 802 511 805 506 801 463 801 451 810 361 810 349 801 301 803"/></Shape>
+	    <String CONTENT="convient de distinguer deux parties essentielle : l&#x27;_appareil"
+                    HPOS="300"
+                    VPOS="776"
+                    WIDTH="528"
+                    HEIGHT="35"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_14c8f6db" >
-        <Coords points="294,853 295,837 435,843 569,838 582,844 656,840 661,844 686,840 709,844 723,841 730,846 756,841 768,846 785,841 804,846 822,842 840,846 843,857 835,866 295,859"/>
-        <Baseline points="294,853 843,857"/>
-        <TextEquiv>
-          <Unicode>l&#39;indique son nom, cette dernière comprend le volume de gaz io-</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_82e5d563"
+                    TAGREFS="LT4057"
+                    BASELINE="295 824 843 828" 
+                    HPOS="295"
+                    VPOS="808"
+                    WIDTH="548"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="295 824 298 813 315 810 448 813 472 808 486 814 576 814 661 809 675 815 702 810 751 815 764 810 811 815 830 811 841 815 843 828 840 833 815 833 804 838 796 833 757 833 747 840 665 840 643 834 637 838 596 834 582 837 549 831 491 838 478 830 465 835 434 831 428 836 405 830 387 837 296 835"/></Shape>
+	    <String CONTENT="de mesure ⟦ou électromètre,⟧ et la _chambre _d&#x27;ionisation. Ainsi que"
+                    HPOS="295"
+                    VPOS="808"
+                    WIDTH="548"
+                    HEIGHT="32"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_09207241" >
-        <Coords points="294,882 295,867 309,866 351,869 365,864 370,869 391,869 439,864 457,869 472,864 477,869 483,866 500,870 656,866 696,871 727,867 742,871 751,867 775,871 781,867 835,867 842,886 838,890 787,889 769,894 718,894 712,889 674,889 665,894 656,888 648,893 624,888 604,893 592,888 556,893 544,888 527,893 489,888 401,891 392,887 370,891 295,891"/>
-        <Baseline points="294,882 842,886"/>
-        <TextEquiv>
-          <Unicode>nisé soumis à l&#39;expérience. Elle se compose souvent d&#39;un réci-</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_81fc833b"
+                    TAGREFS="LT4056"
+                    BASELINE="367 811 466 811" 
+                    HPOS="366"
+                    VPOS="801"
+                    WIDTH="99"
+                    HEIGHT="15">
+            <Shape><Polygon POINTS="448 801 437 801 425 801 413 801 401 801 390 801 378 801 366 801 366 810 366 816 465 816 465 810 465 801 460 801"/></Shape>
+	    <String CONTENT="~~~"
+                    HPOS="366"
+                    VPOS="801"
+                    WIDTH="99"
+                    HEIGHT="15"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_c683c183" >
-        <Coords points="294,912 295,899 313,895 380,899 385,894 414,894 421,899 470,900 555,900 570,895 589,900 595,895 644,901 655,896 663,901 695,901 699,896 712,901 815,896 818,915 785,922 731,919 705,923 657,923 643,917 470,922 408,917 355,921 341,916 337,921 295,921"/>
-        <Baseline points="294,912 818,915"/>
-        <TextEquiv>
-          <Unicode>pient métallique dans lequel pénètre une électrode supportée</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_14c8f6db"
+                    TAGREFS="LT4057"
+                    BASELINE="294 853 843 857" 
+                    HPOS="294"
+                    VPOS="837"
+                    WIDTH="549"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="294 853 295 837 435 843 569 838 582 844 656 840 661 844 686 840 709 844 723 841 730 846 756 841 768 846 785 841 804 846 822 842 840 846 843 857 835 866 295 859"/></Shape>
+	    <String CONTENT="l&#x27;indique son nom, cette dernière comprend le volume de gaz io-"
+                    HPOS="294"
+                    VPOS="837"
+                    WIDTH="549"
+                    HEIGHT="29"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_c2447fc7" >
-        <Coords points="294,943 296,923 354,928 361,923 428,923 448,928 472,923 499,928 524,923 533,928 578,928 583,923 595,928 701,928 707,923 714,928 721,923 756,928 769,923 777,928 782,923 798,923 801,943 798,959 787,960 777,968 655,968 641,962 606,965 582,954 567,954 560,961 549,953 498,953 474,968 452,968 431,959 425,963 418,956 400,954 386,954 373,963 359,953 318,953 308,960 296,955"/>
-        <Baseline points="294,943 801,943"/>
-        <TextEquiv>
-          <Unicode>par un bouchon de matière isolante. Entre le récipient et</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_09207241"
+                    TAGREFS="LT4057"
+                    BASELINE="294 882 842 886" 
+                    HPOS="294"
+                    VPOS="864"
+                    WIDTH="548"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="294 882 295 867 309 866 351 869 365 864 370 869 391 869 439 864 457 869 472 864 477 869 483 866 500 870 656 866 696 871 727 867 742 871 751 867 775 871 781 867 835 867 842 886 838 890 787 889 769 894 718 894 712 889 674 889 665 894 656 888 648 893 624 888 604 893 592 888 556 893 544 888 527 893 489 888 401 891 392 887 370 891 295 891"/></Shape>
+	    <String CONTENT="nisé soumis à l&#x27;expérience. Elle se compose souvent d&#x27;un réci-"
+                    HPOS="294"
+                    VPOS="864"
+                    WIDTH="548"
+                    HEIGHT="30"></String>
+          </TextLine>
 
-    
-    </TextRegion>
-    
-  </Page>
-</PcGts>
+          
+          
+          <TextLine ID="eSc_line_c683c183"
+                    TAGREFS="LT4057"
+                    BASELINE="294 912 818 915" 
+                    HPOS="294"
+                    VPOS="894"
+                    WIDTH="524"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="294 912 295 899 313 895 380 899 385 894 414 894 421 899 470 900 555 900 570 895 589 900 595 895 644 901 655 896 663 901 695 901 699 896 712 901 815 896 818 915 785 922 731 919 705 923 657 923 643 917 470 922 408 917 355 921 341 916 337 921 295 921"/></Shape>
+	    <String CONTENT="pient métallique dans lequel pénètre une électrode supportée"
+                    HPOS="294"
+                    VPOS="894"
+                    WIDTH="524"
+                    HEIGHT="29"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c2447fc7"
+                    TAGREFS="LT4057"
+                    BASELINE="294 943 801 943" 
+                    HPOS="294"
+                    VPOS="923"
+                    WIDTH="507"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="294 943 296 923 354 928 361 923 428 923 448 928 472 923 499 928 524 923 533 928 578 928 583 923 595 928 701 928 707 923 714 928 721 923 756 928 769 923 777 928 782 923 798 923 801 943 798 959 787 960 777 968 655 968 641 962 606 965 582 954 567 954 560 961 549 953 498 953 474 968 452 968 431 959 425 963 418 956 400 954 386 954 373 963 359 953 318 953 308 960 296 955"/></Shape>
+	    <String CONTENT="par un bouchon de matière isolante. Entre le récipient et"
+                    HPOS="294"
+                    VPOS="923"
+                    WIDTH="507"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="506"
+                   VPOS="101"
+                   WIDTH="89"
+                   HEIGHT="27"
+                   ID="eSc_textblock_33bbfeed"
+                   TAGREFS="BT10356">
+          <Shape><Polygon POINTS="506 101 506 128 595 128 595 101"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8cf5ede1"
+                    TAGREFS="LT4057"
+                    BASELINE="514 128 584 124" 
+                    HPOS="513"
+                    VPOS="86"
+                    WIDTH="67"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="513 127 513 88 542 94 553 94 567 86 578 89 580 131 553 136 543 128 514 129"/></Shape>
+	    <String CONTENT="- 22 -"
+                    HPOS="513"
+                    VPOS="86"
+                    WIDTH="67"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="752"
+                   VPOS="97"
+                   WIDTH="131"
+                   HEIGHT="52"
+                   ID="eSc_textblock_82349a3b"
+                   TAGREFS="BT10356">
+          <Shape><Polygon POINTS="752 97 752 149 883 149 883 97"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_60a9dd9b"
+                    TAGREFS="LT4056"
+                    BASELINE="770 114 793 120" 
+                    HPOS="769"
+                    VPOS="93"
+                    WIDTH="26"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="769 113 775 93 795 93 785 128 769 123"/></Shape>
+	    <String CONTENT="~~~"
+                    HPOS="769"
+                    VPOS="93"
+                    WIDTH="26"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c647eb1b"
+                    TAGREFS="LT4056"
+                    BASELINE="810 116 866 131" 
+                    HPOS="803"
+                    VPOS="88"
+                    WIDTH="71"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="803 131 860 143 864 130 874 90 816 88 809 115"/></Shape>
+	    <String CONTENT="~~~"
+                    HPOS="803"
+                    VPOS="88"
+                    WIDTH="71"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="778"
+                   VPOS="150"
+                   WIDTH="46"
+                   HEIGHT="37"
+                   ID="eSc_textblock_00c261a9"
+                   TAGREFS="BT10356">
+          <Shape><Polygon POINTS="778 150 778 187 824 187 824 150"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ae8c64d3"
+                    TAGREFS="LT4057"
+                    BASELINE="800 171 819 172" 
+                    HPOS="798"
+                    VPOS="150"
+                    WIDTH="20"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="798 170 798 183 818 181 818 170 818 152 798 150 798 170"/></Shape>
+	    <String CONTENT="7"
+                    HPOS="798"
+                    VPOS="150"
+                    WIDTH="20"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
