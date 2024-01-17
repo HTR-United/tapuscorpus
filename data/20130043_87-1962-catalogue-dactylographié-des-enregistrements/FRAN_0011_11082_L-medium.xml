@@ -1,348 +1,672 @@
-<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
-  <Metadata>
-	<Creator>escriptorium</Creator>
-	<Created>2021-01-21T14:36:57.102179+00:00</Created>
-    <LastChange>2021-01-21T14:36:57.102217+00:00</LastChange>
-  </Metadata>
-  <Page imageFilename="FRAN_0011_11082_L-medium.jpg" imageWidth="2000" imageHeight="1580">
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>FRAN_0011_11082_L-medium.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10317" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10316" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10315" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10314" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10313" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4031" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/><OtherTag ID="LT4033" LABEL="DefaultLine:Typewritten" DESCRIPTION="line type DefaultLine:Typewritten"/><OtherTag ID="LT4032" LABEL="DefaultLine:Handwritten" DESCRIPTION="line type DefaultLine:Handwritten"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2000"
+          HEIGHT="1580"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2000"
+                  HEIGHT="1580">
+        
+        <TextBlock HPOS="139"
+                   VPOS="120"
+                   WIDTH="1765"
+                   HEIGHT="1227"
+                   ID="eSc_textblock_0428ac71"
+                   TAGREFS="BT10313">
+          <Shape><Polygon POINTS="139 120 139 1347 1904 1347 1904 120"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1bf021fe"
+                    TAGREFS="LT4033"
+                    BASELINE="685 211 1251 214" 
+                    HPOS="685"
+                    VPOS="175"
+                    WIDTH="566"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="685 211 687 176 693 175 715 180 756 175 768 184 793 175 805 183 826 175 839 184 866 184 880 176 897 184 911 176 924 183 948 176 963 177 969 185 1035 185 1050 176 1144 176 1158 185 1180 185 1188 179 1212 179 1221 185 1249 180 1251 214 1247 223 1208 223 1201 217 1187 217 1180 223 1167 217 1133 223 1113 223 1102 217 1094 223 1064 223 1050 217 981 217 972 222 964 215 894 222 876 215 822 215 812 222 782 222 774 217 711 222 686 215"/></Shape>
+	    <String CONTENT="MISSION NOUVELLE - ECOSSE 1962"
+                    HPOS="685"
+                    VPOS="175"
+                    WIDTH="566"
+                    HEIGHT="48"></String>
+          </TextLine>
 
-    
+          
+          
+          <TextLine ID="eSc_line_7db75912"
+                    TAGREFS="LT4033"
+                    BASELINE="579 313 1335 318" 
+                    HPOS="579"
+                    VPOS="279"
+                    WIDTH="756"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="579 313 582 288 623 281 649 288 673 281 693 288 719 288 725 283 760 288 810 279 856 279 864 284 899 280 914 289 930 284 936 289 968 290 976 284 1006 280 1017 290 1086 290 1100 285 1106 290 1154 287 1162 292 1205 292 1217 281 1260 281 1268 287 1281 281 1297 290 1308 283 1332 290 1335 318 1320 325 1249 321 1238 326 1164 326 1155 321 1147 326 1142 319 1084 319 1077 325 1071 319 1042 325 993 319 969 325 957 318 769 323 754 317 736 322 594 322 581 317"/></Shape>
+	    <String CONTENT="Catalogue général des documents enregistrés"
+                    HPOS="579"
+                    VPOS="279"
+                    WIDTH="756"
+                    HEIGHT="47"></String>
+          </TextLine>
 
-    
-    <TextRegion id="eSc_dummyblock_">
-    
-    
-      <TextLine id="eSc_line_1bf021fe" >
-        <Coords points="685,211 687,176 693,175 715,180 756,175 768,184 793,175 805,183 826,175 839,184 866,184 880,176 897,184 911,176 924,183 948,176 963,177 969,185 1035,185 1050,176 1144,176 1158,185 1180,185 1188,179 1212,179 1221,185 1249,180 1251,214 1247,223 1208,223 1201,217 1187,217 1180,223 1167,217 1133,223 1113,223 1102,217 1094,223 1064,223 1050,217 981,217 972,222 964,215 894,222 876,215 822,215 812,222 782,222 774,217 711,222 686,215"/>
-        <Baseline points="685,211 1251,214"/>
-        <TextEquiv>
-          <Unicode>MISSION NOUVELLE - ECOSSE 1962</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_f9729c9d"
+                    TAGREFS="LT4033"
+                    BASELINE="171 397 533 401" 
+                    HPOS="171"
+                    VPOS="360"
+                    WIDTH="362"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="171 397 173 360 206 369 251 363 258 368 268 364 293 371 330 371 342 363 349 368 357 363 384 371 409 362 418 368 441 363 471 363 494 372 527 368 533 401 529 410 504 410 499 416 480 410 474 416 458 410 420 416 411 409 371 409 366 414 329 414 324 409 292 414 280 408 266 413 246 413 241 408 172 412"/></Shape>
+	    <String CONTENT="_Plan _de _présentation"
+                    HPOS="171"
+                    VPOS="360"
+                    WIDTH="362"
+                    HEIGHT="56"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_7db75912" >
-        <Coords points="579,313 582,288 623,281 649,288 673,281 693,288 719,288 725,283 760,288 810,279 856,279 864,284 899,280 914,289 930,284 936,289 968,290 976,284 1006,280 1017,290 1086,290 1100,285 1106,290 1154,287 1162,292 1205,292 1217,281 1260,281 1268,287 1281,281 1297,290 1308,283 1332,290 1335,318 1320,325 1249,321 1238,326 1164,326 1155,321 1147,326 1142,319 1084,319 1077,325 1071,319 1042,325 993,319 969,325 957,318 769,323 754,317 736,322 594,322 581,317"/>
-        <Baseline points="579,313 1335,318"/>
-        <TextEquiv>
-          <Unicode>Catalogue général des documents enregistrés</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_503c2a57"
+                    TAGREFS="LT4033"
+                    BASELINE="287 451 323 449" 
+                    HPOS="284"
+                    VPOS="418"
+                    WIDTH="38"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="285 450 285 456 321 460 322 448 318 418 284 423 285 450"/></Shape>
+	    <String CONTENT=""
+                    HPOS="284"
+                    VPOS="418"
+                    WIDTH="38"
+                    HEIGHT="42"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_f9729c9d" >
-        <Coords points="171,397 173,360 206,369 251,363 258,368 268,364 293,371 330,371 342,363 349,368 357,363 384,371 409,362 418,368 441,363 471,363 494,372 527,368 533,401 529,410 504,410 499,416 480,410 474,416 458,410 420,416 411,409 371,409 366,414 329,414 324,409 292,414 280,408 266,413 246,413 241,408 172,412"/>
-        <Baseline points="171,397 533,401"/>
-        <TextEquiv>
-          <Unicode>_Plan _de _présentation</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_8ff9af6a"
+                    TAGREFS="LT4033"
+                    BASELINE="639 451 688 449" 
+                    HPOS="637"
+                    VPOS="426"
+                    WIDTH="50"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="638 450 638 458 686 458 687 448 683 426 637 426 638 450"/></Shape>
+	    <String CONTENT=""
+                    HPOS="637"
+                    VPOS="426"
+                    WIDTH="50"
+                    HEIGHT="32"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_df6b54ce" >
-        <Coords points="1341,455 1346,431 1362,434 1358,464 1342,459"/>
-        <Baseline points="1341,455 1362,458"/>
-        <TextEquiv>
-          <Unicode>4</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_213245cc"
+                    TAGREFS="LT4033"
+                    BASELINE="903 449 947 451" 
+                    HPOS="901"
+                    VPOS="414"
+                    WIDTH="44"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="902 448 901 464 944 462 945 450 945 421 902 414 902 448"/></Shape>
+	    <String CONTENT=""
+                    HPOS="901"
+                    VPOS="414"
+                    WIDTH="44"
+                    HEIGHT="50"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_89a84a74" >
-        <Coords points="169,508 176,475 214,475 225,483 242,484 277,484 308,476 332,485 370,485 375,480 383,487 416,479 425,485 437,479 449,487 451,513 430,525 382,525 372,518 362,524 353,516 320,524 283,513 220,517 204,512 191,520 171,516"/>
-        <Baseline points="169,508 451,513"/>
-        <TextEquiv>
-          <Unicode>Lieu et date de</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_df6b54ce"
+                    TAGREFS="LT4033"
+                    BASELINE="1341 455 1362 458" 
+                    HPOS="1341"
+                    VPOS="431"
+                    WIDTH="21"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="1341 455 1346 431 1362 434 1358 464 1342 459"/></Shape>
+	    <String CONTENT="4"
+                    HPOS="1341"
+                    VPOS="431"
+                    WIDTH="21"
+                    HEIGHT="33"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_f685d6bf" >
-        <Coords points="171,542 172,516 179,513 191,518 201,513 220,518 249,512 306,517 310,539 283,551 272,545 239,553 221,553 214,546 184,551 173,547"/>
-        <Baseline points="171,542 310,539"/>
-        <TextEquiv>
-          <Unicode>récolte</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_66b9af8c"
+                    TAGREFS="LT4033"
+                    BASELINE="1728 458 1770 458" 
+                    HPOS="1727"
+                    VPOS="413"
+                    WIDTH="42"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1727 456 1727 472 1769 467 1769 456 1766 413 1727 423 1727 456"/></Shape>
+	    <String CONTENT=""
+                    HPOS="1727"
+                    VPOS="413"
+                    WIDTH="42"
+                    HEIGHT="59"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_17f99224" >
-        <Coords points="505,512 509,476 558,485 577,476 620,476 642,487 710,487 718,479 744,485 752,479 768,487 770,514 507,516"/>
-        <Baseline points="505,512 770,514"/>
-        <TextEquiv>
-          <Unicode>N° du document</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_89a84a74"
+                    TAGREFS="LT4033"
+                    BASELINE="169 508 451 513" 
+                    HPOS="169"
+                    VPOS="475"
+                    WIDTH="282"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="169 508 176 475 214 475 225 483 242 484 277 484 308 476 332 485 370 485 375 480 383 487 416 479 425 485 437 479 449 487 451 513 430 525 382 525 372 518 362 524 353 516 320 524 283 513 220 517 204 512 191 520 171 516"/></Shape>
+	    <String CONTENT="Lieu et date de"
+                    HPOS="169"
+                    VPOS="475"
+                    WIDTH="282"
+                    HEIGHT="50"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_a2a7ccfe" >
-        <Coords points="511,538 513,520 525,514 544,520 603,520 617,512 623,518 640,521 711,516 752,522 762,514 791,514 805,521 824,514 830,542 826,554 808,555 798,550 770,555 728,550 700,556 691,550 670,550 654,556 644,551 617,556 594,547 512,555"/>
-        <Baseline points="512,539 831,543"/>
-        <TextEquiv>
-          <Unicode>dans la collection</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_17f99224"
+                    TAGREFS="LT4033"
+                    BASELINE="505 512 770 514" 
+                    HPOS="505"
+                    VPOS="476"
+                    WIDTH="265"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="505 512 509 476 558 485 577 476 620 476 642 487 710 487 718 479 744 485 752 479 768 487 770 514 507 516"/></Shape>
+	    <String CONTENT="N° du document"
+                    HPOS="505"
+                    VPOS="476"
+                    WIDTH="265"
+                    HEIGHT="40"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_baab076c" >
-        <Coords points="847,512 849,485 869,485 876,479 895,484 906,477 931,477 943,484 955,477 964,483 986,479 994,487 1063,483 1061,517 976,522 911,516 880,521 868,516 848,521"/>
-        <Baseline points="848,513 1067,516"/>
-        <TextEquiv>
-          <Unicode>Matériel d&#39;</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_baab076c"
+                    TAGREFS="LT4033"
+                    BASELINE="848 513 1067 516" 
+                    HPOS="847"
+                    VPOS="477"
+                    WIDTH="216"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="847 512 849 485 869 485 876 479 895 484 906 477 931 477 943 484 955 477 964 483 986 479 994 487 1063 483 1061 517 976 522 911 516 880 521 868 516 848 521"/></Shape>
+	    <String CONTENT="Matériel d&#x27;"
+                    HPOS="847"
+                    VPOS="477"
+                    WIDTH="216"
+                    HEIGHT="45"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_25feaf8c" >
-        <Coords points="841,542 843,526 860,526 872,517 886,524 902,518 943,522 955,517 963,524 969,517 980,525 989,520 1019,522 1023,543 1019,559 1005,563 969,558 952,563 916,558 872,563 843,558"/>
-        <Baseline points="842,543 1025,545"/>
-        <TextEquiv>
-          <Unicode>exécution</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_5188877b"
+                    TAGREFS="LT4033"
+                    BASELINE="1115 516 1532 521" 
+                    HPOS="1114"
+                    VPOS="479"
+                    WIDTH="416"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1114 514 1117 485 1134 480 1155 484 1192 479 1222 489 1245 484 1305 489 1325 480 1338 488 1343 483 1363 487 1375 481 1384 491 1403 481 1430 492 1453 484 1470 491 1480 483 1495 483 1505 492 1528 491 1530 520 1527 530 1500 530 1458 549 1376 547 1349 538 1338 547 1297 546 1281 534 1264 541 1255 533 1235 530 1221 535 1209 526 1160 526 1139 537 1115 535"/></Shape>
+	    <String CONTENT="Titre ou premiers mots"
+                    HPOS="1114"
+                    VPOS="479"
+                    WIDTH="416"
+                    HEIGHT="70"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_5188877b" >
-        <Coords points="1114,514 1117,485 1134,480 1155,484 1192,479 1222,489 1245,484 1305,489 1325,480 1338,488 1343,483 1363,487 1375,481 1384,491 1403,481 1430,492 1453,484 1470,491 1480,483 1495,483 1505,492 1528,491 1530,520 1527,530 1500,530 1458,549 1376,547 1349,538 1338,547 1297,546 1281,534 1264,541 1255,533 1235,530 1221,535 1209,526 1160,526 1139,537 1115,535"/>
-        <Baseline points="1115,516 1532,521"/>
-        <TextEquiv>
-          <Unicode>Titre ou premiers mots</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_b143a69d"
+                    TAGREFS="LT4033"
+                    BASELINE="1606 521 1799 521" 
+                    HPOS="1606"
+                    VPOS="475"
+                    WIDTH="193"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1606 521 1608 480 1616 483 1627 475 1660 484 1681 476 1695 485 1797 475 1799 521 1787 529 1760 522 1753 529 1685 529 1669 524 1641 529 1633 522 1608 522"/></Shape>
+	    <String CONTENT="Exécutants"
+                    HPOS="1606"
+                    VPOS="475"
+                    WIDTH="193"
+                    HEIGHT="54"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_b143a69d" >
-        <Coords points="1606,521 1608,480 1616,483 1627,475 1660,484 1681,476 1695,485 1797,475 1799,521 1787,529 1760,522 1753,529 1685,529 1669,524 1641,529 1633,522 1608,522"/>
-        <Baseline points="1606,521 1799,521"/>
-        <TextEquiv>
-          <Unicode>Exécutants</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_f685d6bf"
+                    TAGREFS="LT4033"
+                    BASELINE="171 542 310 539" 
+                    HPOS="171"
+                    VPOS="512"
+                    WIDTH="139"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="171 542 172 516 179 513 191 518 201 513 220 518 249 512 306 517 310 539 283 551 272 545 239 553 221 553 214 546 184 551 173 547"/></Shape>
+	    <String CONTENT="récolte"
+                    HPOS="171"
+                    VPOS="512"
+                    WIDTH="139"
+                    HEIGHT="41"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_88b53fa5" >
-        <Coords points="1611,551 1612,522 1633,522 1652,530 1667,522 1681,531 1723,531 1757,522 1783,530 1820,520 1843,520 1847,549 1839,567 1811,567 1801,559 1785,567 1750,567 1744,560 1727,566 1712,559 1691,568 1673,568 1650,559 1613,559"/>
-        <Baseline points="1611,551 1847,549"/>
-        <TextEquiv>
-          <Unicode>(nom, prénom)</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_a2a7ccfe"
+                    TAGREFS="LT4033"
+                    BASELINE="512 539 831 543" 
+                    HPOS="511"
+                    VPOS="512"
+                    WIDTH="319"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="511 538 513 520 525 514 544 520 603 520 617 512 623 518 640 521 711 516 752 522 762 514 791 514 805 521 824 514 830 542 826 554 808 555 798 550 770 555 728 550 700 556 691 550 670 550 654 556 644 551 617 556 594 547 512 555"/></Shape>
+	    <String CONTENT="dans la collection"
+                    HPOS="511"
+                    VPOS="512"
+                    WIDTH="319"
+                    HEIGHT="44"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_b363e8eb" >
-        <Coords points="171,613 173,579 197,580 204,587 220,587 231,579 249,587 313,580 337,588 353,588 366,580 393,588 438,588 457,580 501,588 513,580 523,588 559,588 562,618 553,630 521,635 491,633 484,626 470,626 455,635 417,635 403,626 366,628 361,633 289,626 274,634 216,634 204,625 172,625"/>
-        <Baseline points="171,613 476,613 562,618"/>
-        <TextEquiv>
-          <Unicode>_Abréviations _employées</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_25feaf8c"
+                    TAGREFS="LT4033"
+                    BASELINE="842 543 1025 545" 
+                    HPOS="841"
+                    VPOS="517"
+                    WIDTH="182"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="841 542 843 526 860 526 872 517 886 524 902 518 943 522 955 517 963 524 969 517 980 525 989 520 1019 522 1023 543 1019 559 1005 563 969 558 952 563 916 558 872 563 843 558"/></Shape>
+	    <String CONTENT="exécution"
+                    HPOS="841"
+                    VPOS="517"
+                    WIDTH="182"
+                    HEIGHT="46"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_a9601827" >
-        <Coords points="297,671 299,639 305,645 322,639 358,646 375,638 428,638 433,643 469,638 482,646 529,646 533,672 529,683 484,685 470,699 453,692 433,699 384,699 376,692 345,699 329,683 299,683"/>
-        <Baseline points="297,671 533,672"/>
-        <TextEquiv>
-          <Unicode>Rubrique 1 :</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_88b53fa5"
+                    TAGREFS="LT4033"
+                    BASELINE="1611 551 1847 549" 
+                    HPOS="1611"
+                    VPOS="520"
+                    WIDTH="236"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="1611 551 1612 522 1633 522 1652 530 1667 522 1681 531 1723 531 1757 522 1783 530 1820 520 1843 520 1847 549 1839 567 1811 567 1801 559 1785 567 1750 567 1744 560 1727 566 1712 559 1691 568 1673 568 1650 559 1613 559"/></Shape>
+	    <String CONTENT="(nom, prénom)"
+                    HPOS="1611"
+                    VPOS="520"
+                    WIDTH="236"
+                    HEIGHT="48"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_e59656c5" >
-        <Coords points="563,671 570,643 611,646 654,638 718,647 729,638 739,647 781,647 814,638 837,647 861,639 893,639 915,649 935,639 952,649 968,649 971,675 960,680 894,682 888,676 857,682 848,676 836,682 819,675 718,680 693,675 674,679 666,674 642,679 565,674"/>
-        <Baseline points="563,671 971,675"/>
-        <TextEquiv>
-          <Unicode>Q = Province de Québec</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_b363e8eb"
+                    TAGREFS="LT4033"
+                    BASELINE="171 613 476 613 562 618" 
+                    HPOS="171"
+                    VPOS="579"
+                    WIDTH="391"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="171 613 173 579 197 580 204 587 220 587 231 579 249 587 313 580 337 588 353 588 366 580 393 588 438 588 457 580 501 588 513 580 523 588 559 588 562 618 553 630 521 635 491 633 484 626 470 626 455 635 417 635 403 626 366 628 361 633 289 626 274 634 216 634 204 625 172 625"/></Shape>
+	    <String CONTENT="_Abréviations _employées"
+                    HPOS="171"
+                    VPOS="579"
+                    WIDTH="391"
+                    HEIGHT="56"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_b400fb79" >
-        <Coords points="557,699 558,679 571,674 588,679 611,674 653,679 666,674 674,680 719,680 727,675 760,680 769,675 779,682 841,682 847,676 876,682 884,676 897,683 961,683 980,678 988,680 992,704 974,711 911,711 902,705 848,709 802,704 779,709 752,703 675,708 656,701 631,707 612,701 575,707 558,701"/>
-        <Baseline points="557,699 992,704"/>
-        <TextEquiv>
-          <Unicode>Gn = Comté de Gaspé-nord</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_a9601827"
+                    TAGREFS="LT4033"
+                    BASELINE="297 671 533 672" 
+                    HPOS="297"
+                    VPOS="638"
+                    WIDTH="236"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="297 671 299 639 305 645 322 639 358 646 375 638 428 638 433 643 469 638 482 646 529 646 533 672 529 683 484 685 470 699 453 692 433 699 384 699 376 692 345 699 329 683 299 683"/></Shape>
+	    <String CONTENT="Rubrique 1 :"
+                    HPOS="297"
+                    VPOS="638"
+                    WIDTH="236"
+                    HEIGHT="61"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_642ee00d" >
-        <Coords points="549,729 552,701 566,701 578,709 594,703 610,711 645,711 669,701 679,711 694,707 699,712 731,711 739,703 785,709 824,704 856,713 897,708 919,713 922,733 918,738 737,733 679,737 670,732 550,736"/>
-        <Baseline points="549,729 922,733"/>
-        <TextEquiv>
-          <Unicode>N-E = Nouvelle-Ecosse</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_e59656c5"
+                    TAGREFS="LT4033"
+                    BASELINE="563 671 971 675" 
+                    HPOS="563"
+                    VPOS="638"
+                    WIDTH="408"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="563 671 570 643 611 646 654 638 718 647 729 638 739 647 781 647 814 638 837 647 861 639 893 639 915 649 935 639 952 649 968 649 971 675 960 680 894 682 888 676 857 682 848 676 836 682 819 675 718 680 693 675 674 679 666 674 642 679 565 674"/></Shape>
+	    <String CONTENT="Q = Province de Québec"
+                    HPOS="563"
+                    VPOS="638"
+                    WIDTH="408"
+                    HEIGHT="44"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_b79c60ff" >
-        <Coords points="578,755 579,733 737,733 741,738 822,734 895,737 903,761 890,767 835,767 822,761 762,766 740,759 702,764 579,759"/>
-        <Baseline points="578,755 903,761"/>
-        <TextEquiv>
-          <Unicode>D = Comté de Digby</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_b400fb79"
+                    TAGREFS="LT4033"
+                    BASELINE="557 699 992 704" 
+                    HPOS="557"
+                    VPOS="674"
+                    WIDTH="435"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="557 699 558 679 571 674 588 679 611 674 653 679 666 674 674 680 719 680 727 675 760 680 769 675 779 682 841 682 847 676 876 682 884 676 897 683 961 683 980 678 988 680 992 704 974 711 911 711 902 705 848 709 802 704 779 709 752 703 675 708 656 701 631 707 612 701 575 707 558 701"/></Shape>
+	    <String CONTENT="Gn = Comté de Gaspé-nord"
+                    HPOS="557"
+                    VPOS="674"
+                    WIDTH="435"
+                    HEIGHT="37"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_4d3788f8" >
-        <Coords points="579,786 582,759 613,759 623,764 648,764 654,759 674,766 741,761 748,766 768,762 803,767 827,762 837,767 891,768 935,763 953,768 956,791 952,805 940,796 926,803 916,796 861,795 841,795 824,804 808,795 758,799 747,793 728,803 693,803 666,795 658,801 581,800"/>
-        <Baseline points="579,786 956,791"/>
-        <TextEquiv>
-          <Unicode>Y = Comté de Yarmouth</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_642ee00d"
+                    TAGREFS="LT4033"
+                    BASELINE="549 729 922 733" 
+                    HPOS="549"
+                    VPOS="701"
+                    WIDTH="373"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="549 729 552 701 566 701 578 709 594 703 610 711 645 711 669 701 679 711 694 707 699 712 731 711 739 703 785 709 824 704 856 713 897 708 919 713 922 733 918 738 737 733 679 737 670 732 550 736"/></Shape>
+	    <String CONTENT="N-E = Nouvelle-Ecosse"
+                    HPOS="549"
+                    VPOS="701"
+                    WIDTH="373"
+                    HEIGHT="37"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_003ce49f" >
-        <Coords points="288,870 289,845 309,834 339,834 357,845 378,834 396,834 401,840 480,834 488,842 503,837 512,845 532,846 565,841 586,846 600,840 608,846 728,846 747,836 768,836 783,846 801,842 812,847 831,837 851,837 859,845 880,847 891,847 909,837 920,837 932,847 980,847 1011,837 1015,874 1003,879 981,876 974,883 955,876 942,882 905,882 895,876 886,883 774,883 754,876 733,882 715,875 693,882 669,875 635,880 629,875 550,875 540,882 498,874 480,880 454,880 446,874 417,880 362,880 349,875 338,880 316,880 309,875 289,880"/>
-        <Baseline points="288,870 1015,874"/>
-        <TextEquiv>
-          <Unicode>Rubrique 2 : Bm 1 = bande magnétique n°1</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_b79c60ff"
+                    TAGREFS="LT4033"
+                    BASELINE="578 755 903 761" 
+                    HPOS="578"
+                    VPOS="733"
+                    WIDTH="325"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="578 755 579 733 737 733 741 738 822 734 895 737 903 761 890 767 835 767 822 761 762 766 740 759 702 764 579 759"/></Shape>
+	    <String CONTENT="D = Comté de Digby"
+                    HPOS="578"
+                    VPOS="733"
+                    WIDTH="325"
+                    HEIGHT="34"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_23c22347" >
-        <Coords points="545,901 548,876 559,875 584,879 592,874 629,874 640,884 696,879 712,886 739,886 753,878 772,884 785,879 819,883 827,878 942,883 955,878 969,886 981,876 1036,876 1039,905 1023,917 989,915 978,920 945,920 926,913 906,913 901,919 812,919 799,912 778,917 765,912 758,919 716,912 702,917 675,917 669,912 628,917 621,911 584,911 570,917 546,911"/>
-        <Baseline points="545,901 1039,905"/>
-        <TextEquiv>
-          <Unicode>62-35 = n° de collection ATP</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_4d3788f8"
+                    TAGREFS="LT4033"
+                    BASELINE="579 786 956 791" 
+                    HPOS="579"
+                    VPOS="759"
+                    WIDTH="377"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="579 786 582 759 613 759 623 764 648 764 654 759 674 766 741 761 748 766 768 762 803 767 827 762 837 767 891 768 935 763 953 768 956 791 952 805 940 796 926 803 916 796 861 795 841 795 824 804 808 795 758 799 747 793 728 803 693 803 666 795 658 801 581 800"/></Shape>
+	    <String CONTENT="Y = Comté de Yarmouth"
+                    HPOS="579"
+                    VPOS="759"
+                    WIDTH="377"
+                    HEIGHT="46"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_e538ed40" >
-        <Coords points="289,983 292,951 321,961 345,951 374,951 409,962 461,962 475,954 490,962 524,958 559,963 578,954 604,962 620,955 628,963 670,965 677,958 683,965 706,965 716,958 736,963 747,957 774,966 791,957 827,957 844,963 860,963 868,957 874,963 888,958 901,967 931,966 949,958 993,962 1001,967 1003,991 1000,1001 985,1001 972,994 916,1000 878,991 859,996 841,991 830,996 820,991 761,996 735,990 711,999 690,998 682,991 654,996 619,988 592,996 565,990 552,995 527,987 507,994 490,987 478,996 447,987 424,996 383,990 374,995 291,995"/>
-        <Baseline points="289,983 1003,991"/>
-        <TextEquiv>
-          <Unicode>Rubrique 3 : vf = voix chantée de femme</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_003ce49f"
+                    TAGREFS="LT4033"
+                    BASELINE="288 870 1015 874" 
+                    HPOS="288"
+                    VPOS="834"
+                    WIDTH="727"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="288 870 289 845 309 834 339 834 357 845 378 834 396 834 401 840 480 834 488 842 503 837 512 845 532 846 565 841 586 846 600 840 608 846 728 846 747 836 768 836 783 846 801 842 812 847 831 837 851 837 859 845 880 847 891 847 909 837 920 837 932 847 980 847 1011 837 1015 874 1003 879 981 876 974 883 955 876 942 882 905 882 895 876 886 883 774 883 754 876 733 882 715 875 693 882 669 875 635 880 629 875 550 875 540 882 498 874 480 880 454 880 446 874 417 880 362 880 349 875 338 880 316 880 309 875 289 880"/></Shape>
+	    <String CONTENT="Rubrique 2 : Bm 1 = bande magnétique n°1"
+                    HPOS="288"
+                    VPOS="834"
+                    WIDTH="727"
+                    HEIGHT="49"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_ded35242" >
-        <Coords points="542,1015 544,991 654,996 667,991 689,996 747,991 776,998 794,992 860,998 876,992 910,999 974,996 984,999 988,1020 973,1025 894,1025 868,1020 766,1024 745,1019 544,1019"/>
-        <Baseline points="542,1015 988,1020"/>
-        <TextEquiv>
-          <Unicode>vh = voix chantée d&#39;homme</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_23c22347"
+                    TAGREFS="LT4033"
+                    BASELINE="545 901 1039 905" 
+                    HPOS="545"
+                    VPOS="874"
+                    WIDTH="494"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="545 901 548 876 559 875 584 879 592 874 629 874 640 884 696 879 712 886 739 886 753 878 772 884 785 879 819 883 827 878 942 883 955 878 969 886 981 876 1036 876 1039 905 1023 917 989 915 978 920 945 920 926 913 906 913 901 919 812 919 799 912 778 917 765 912 758 919 716 912 702 917 675 917 669 912 628 917 621 911 584 911 570 917 546 911"/></Shape>
+	    <String CONTENT="62-35 = n° de collection ATP"
+                    HPOS="545"
+                    VPOS="874"
+                    WIDTH="494"
+                    HEIGHT="46"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_062ce265" >
-        <Coords points="542,1044 544,1023 563,1020 733,1024 743,1019 783,1025 888,1020 893,1027 943,1021 973,1027 994,1021 1003,1049 1000,1054 926,1054 888,1049 789,1053 740,1048 665,1052 544,1046"/>
-        <Baseline points="542,1044 1003,1049"/>
-        <TextEquiv>
-          <Unicode>ve = voix chantée d&#39;enfant</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_e538ed40"
+                    TAGREFS="LT4033"
+                    BASELINE="289 983 1003 991" 
+                    HPOS="289"
+                    VPOS="951"
+                    WIDTH="714"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="289 983 292 951 321 961 345 951 374 951 409 962 461 962 475 954 490 962 524 958 559 963 578 954 604 962 620 955 628 963 670 965 677 958 683 965 706 965 716 958 736 963 747 957 774 966 791 957 827 957 844 963 860 963 868 957 874 963 888 958 901 967 931 966 949 958 993 962 1001 967 1003 991 1000 1001 985 1001 972 994 916 1000 878 991 859 996 841 991 830 996 820 991 761 996 735 990 711 999 690 998 682 991 654 996 619 988 592 996 565 990 552 995 527 987 507 994 490 987 478 996 447 987 424 996 383 990 374 995 291 995"/></Shape>
+	    <String CONTENT="Rubrique 3 : vf = voix chantée de femme"
+                    HPOS="289"
+                    VPOS="951"
+                    WIDTH="714"
+                    HEIGHT="50"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_242c0515" >
-        <Coords points="527,1071 529,1052 538,1050 749,1049 986,1055 989,1077 985,1082 885,1082 873,1077 642,1079 635,1074 528,1078"/>
-        <Baseline points="527,1071 989,1077"/>
-        <TextEquiv>
-          <Unicode>vpf = voix parlée de femme</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_ded35242"
+                    TAGREFS="LT4033"
+                    BASELINE="542 1015 988 1020" 
+                    HPOS="542"
+                    VPOS="991"
+                    WIDTH="446"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="542 1015 544 991 654 996 667 991 689 996 747 991 776 998 794 992 860 998 876 992 910 999 974 996 984 999 988 1020 973 1025 894 1025 868 1020 766 1024 745 1019 544 1019"/></Shape>
+	    <String CONTENT="vh = voix chantée d&#x27;homme"
+                    HPOS="542"
+                    VPOS="991"
+                    WIDTH="446"
+                    HEIGHT="34"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_0d7ee793" >
-        <Coords points="527,1102 528,1082 544,1079 665,1082 670,1077 693,1077 698,1082 735,1078 752,1083 776,1078 822,1078 827,1083 851,1078 893,1083 952,1080 967,1083 971,1104 961,1109 528,1104"/>
-        <Baseline points="527,1102 971,1104"/>
-        <TextEquiv>
-          <Unicode>vph = voix parlée d&#39;homme</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_062ce265"
+                    TAGREFS="LT4033"
+                    BASELINE="542 1044 1003 1049" 
+                    HPOS="542"
+                    VPOS="1019"
+                    WIDTH="461"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="542 1044 544 1023 563 1020 733 1024 743 1019 783 1025 888 1020 893 1027 943 1021 973 1027 994 1021 1003 1049 1000 1054 926 1054 888 1049 789 1053 740 1048 665 1052 544 1046"/></Shape>
+	    <String CONTENT="ve = voix chantée d&#x27;enfant"
+                    HPOS="542"
+                    VPOS="1019"
+                    WIDTH="461"
+                    HEIGHT="35"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_f3bcf972" >
-        <Coords points="527,1129 529,1109 562,1107 599,1111 608,1106 631,1111 670,1104 685,1111 728,1112 807,1106 836,1113 855,1107 886,1113 906,1113 913,1107 949,1112 985,1107 989,1133 978,1138 836,1138 801,1133 686,1137 654,1132 528,1132"/>
-        <Baseline points="527,1129 989,1133"/>
-        <TextEquiv>
-          <Unicode>vpe = voix parlée d&#39;enfant</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_242c0515"
+                    TAGREFS="LT4033"
+                    BASELINE="527 1071 989 1077" 
+                    HPOS="527"
+                    VPOS="1049"
+                    WIDTH="462"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="527 1071 529 1052 538 1050 749 1049 986 1055 989 1077 985 1082 885 1082 873 1077 642 1079 635 1074 528 1078"/></Shape>
+	    <String CONTENT="vpf = voix parlée de femme"
+                    HPOS="527"
+                    VPOS="1049"
+                    WIDTH="462"
+                    HEIGHT="33"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_b441ed67" >
-        <Coords points="492,1157 494,1132 549,1137 619,1133 624,1138 646,1133 658,1138 696,1138 703,1133 708,1138 735,1134 741,1140 790,1140 797,1134 845,1140 855,1134 877,1141 911,1136 961,1136 971,1141 984,1137 988,1162 974,1167 865,1167 857,1162 741,1166 719,1161 656,1165 494,1159"/>
-        <Baseline points="492,1157 988,1162"/>
-        <TextEquiv>
-          <Unicode>frt.p = frappements de pieds</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_0d7ee793"
+                    TAGREFS="LT4033"
+                    BASELINE="527 1102 971 1104" 
+                    HPOS="527"
+                    VPOS="1077"
+                    WIDTH="444"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="527 1102 528 1082 544 1079 665 1082 670 1077 693 1077 698 1082 735 1078 752 1083 776 1078 822 1078 827 1083 851 1078 893 1083 952 1080 967 1083 971 1104 961 1109 528 1104"/></Shape>
+	    <String CONTENT="vph = voix parlée d&#x27;homme"
+                    HPOS="527"
+                    VPOS="1077"
+                    WIDTH="444"
+                    HEIGHT="32"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_f7f5d4e2" >
-        <Coords points="479,1185 482,1159 507,1165 573,1165 584,1159 591,1166 652,1161 691,1167 778,1167 794,1162 820,1169 882,1163 906,1170 952,1165 980,1170 989,1165 1001,1170 1003,1191 973,1196 748,1190 690,1194 638,1188 607,1192 583,1187 480,1191"/>
-        <Baseline points="479,1185 1003,1191"/>
-        <TextEquiv>
-          <Unicode>frt. c = frappements corporels</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_f3bcf972"
+                    TAGREFS="LT4033"
+                    BASELINE="527 1129 989 1133" 
+                    HPOS="527"
+                    VPOS="1104"
+                    WIDTH="462"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="527 1129 529 1109 562 1107 599 1111 608 1106 631 1111 670 1104 685 1111 728 1112 807 1106 836 1113 855 1107 886 1113 906 1113 913 1107 949 1112 985 1107 989 1133 978 1138 836 1138 801 1133 686 1137 654 1132 528 1132"/></Shape>
+	    <String CONTENT="vpe = voix parlée d&#x27;enfant"
+                    HPOS="527"
+                    VPOS="1104"
+                    WIDTH="462"
+                    HEIGHT="34"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_f30b3d70" >
-        <Coords points="492,1213 496,1190 545,1194 550,1188 583,1188 591,1194 629,1195 638,1190 646,1195 708,1195 715,1190 720,1195 748,1191 753,1196 862,1191 890,1198 969,1194 982,1198 986,1219 974,1224 868,1224 862,1219 761,1223 715,1217 619,1221 612,1216 494,1220"/>
-        <Baseline points="492,1213 986,1219"/>
-        <TextEquiv>
-          <Unicode>har.d = harmonica diatonique</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_b441ed67"
+                    TAGREFS="LT4033"
+                    BASELINE="492 1157 988 1162" 
+                    HPOS="492"
+                    VPOS="1132"
+                    WIDTH="496"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="492 1157 494 1132 549 1137 619 1133 624 1138 646 1133 658 1138 696 1138 703 1133 708 1138 735 1134 741 1140 790 1140 797 1134 845 1140 855 1134 877 1141 911 1136 961 1136 971 1141 984 1137 988 1162 974 1167 865 1167 857 1162 741 1166 719 1161 656 1165 494 1159"/></Shape>
+	    <String CONTENT="frt.p = frappements de pieds"
+                    HPOS="492"
+                    VPOS="1132"
+                    WIDTH="496"
+                    HEIGHT="35"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_887d9cee" >
-        <Coords points="492,1241 499,1217 530,1223 598,1223 604,1217 631,1223 642,1217 664,1224 706,1219 720,1224 743,1219 810,1224 832,1219 843,1225 905,1225 910,1220 973,1225 1000,1220 1003,1245 1000,1252 840,1252 832,1246 669,1250 628,1245 494,1249"/>
-        <Baseline points="492,1241 1003,1245"/>
-        <TextEquiv>
-          <Unicode>har.c = harminica chromatique</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_f7f5d4e2"
+                    TAGREFS="LT4033"
+                    BASELINE="479 1185 1003 1191" 
+                    HPOS="479"
+                    VPOS="1159"
+                    WIDTH="524"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="479 1185 482 1159 507 1165 573 1165 584 1159 591 1166 652 1161 691 1167 778 1167 794 1162 820 1169 882 1163 906 1170 952 1165 980 1170 989 1165 1001 1170 1003 1191 973 1196 748 1190 690 1194 638 1188 607 1192 583 1187 480 1191"/></Shape>
+	    <String CONTENT="frt. c = frappements corporels"
+                    HPOS="479"
+                    VPOS="1159"
+                    WIDTH="524"
+                    HEIGHT="37"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_3939a461" >
-        <Coords points="494,1270 495,1250 512,1246 567,1250 581,1245 586,1250 619,1252 741,1246 768,1253 865,1248 894,1254 911,1249 964,1254 971,1249 986,1254 990,1275 986,1290 978,1291 961,1291 949,1283 898,1283 888,1290 874,1283 862,1290 819,1290 805,1283 789,1290 776,1282 748,1287 732,1281 627,1289 612,1281 604,1287 538,1282 534,1286 528,1279 495,1282"/>
-        <Baseline points="494,1270 990,1275"/>
-        <TextEquiv>
-          <Unicode>acc.d = accordéon diatonique</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_f30b3d70"
+                    TAGREFS="LT4033"
+                    BASELINE="492 1213 986 1219" 
+                    HPOS="492"
+                    VPOS="1188"
+                    WIDTH="494"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="492 1213 496 1190 545 1194 550 1188 583 1188 591 1194 629 1195 638 1190 646 1195 708 1195 715 1190 720 1195 748 1191 753 1196 862 1191 890 1198 969 1194 982 1198 986 1219 974 1224 868 1224 862 1219 761 1223 715 1217 619 1221 612 1216 494 1220"/></Shape>
+	    <String CONTENT="har.d = harmonica diatonique"
+                    HPOS="492"
+                    VPOS="1188"
+                    WIDTH="494"
+                    HEIGHT="36"></String>
+          </TextLine>
 
-    
-    </TextRegion>
-    
-  </Page>
-</PcGts>
+          
+          
+          <TextLine ID="eSc_line_887d9cee"
+                    TAGREFS="LT4033"
+                    BASELINE="492 1241 1003 1245" 
+                    HPOS="492"
+                    VPOS="1217"
+                    WIDTH="511"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="492 1241 499 1217 530 1223 598 1223 604 1217 631 1223 642 1217 664 1224 706 1219 720 1224 743 1219 810 1224 832 1219 843 1225 905 1225 910 1220 973 1225 1000 1220 1003 1245 1000 1252 840 1252 832 1246 669 1250 628 1245 494 1249"/></Shape>
+	    <String CONTENT="har.c = harminica chromatique"
+                    HPOS="492"
+                    VPOS="1217"
+                    WIDTH="511"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3939a461"
+                    TAGREFS="LT4033"
+                    BASELINE="494 1270 990 1275" 
+                    HPOS="494"
+                    VPOS="1245"
+                    WIDTH="496"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="494 1270 495 1250 512 1246 567 1250 581 1245 586 1250 619 1252 741 1246 768 1253 865 1248 894 1254 911 1249 964 1254 971 1249 986 1254 990 1275 986 1290 978 1291 961 1291 949 1283 898 1283 888 1290 874 1283 862 1290 819 1290 805 1283 789 1290 776 1282 748 1287 732 1281 627 1289 612 1281 604 1287 538 1282 534 1286 528 1279 495 1282"/></Shape>
+	    <String CONTENT="acc.d = accordéon diatonique"
+                    HPOS="494"
+                    VPOS="1245"
+                    WIDTH="496"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
