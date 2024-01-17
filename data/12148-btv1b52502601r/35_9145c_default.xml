@@ -1,378 +1,682 @@
-<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
-  <Metadata>
-	<Creator>escriptorium</Creator>
-	<Created>2021-01-21T15:51:05.565399+00:00</Created>
-    <LastChange>2021-01-21T15:51:05.565421+00:00</LastChange>
-  </Metadata>
-  <Page imageFilename="35_9145c_default.jpg" imageWidth="3830" imageHeight="5307">
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>35_9145c_default.jpg</fileName>
+      <fileIdentifier>https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502601r/f36/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10352" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10351" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10350" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10349" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10348" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4054" LABEL="DefaultLine:Handwritten" DESCRIPTION="line type DefaultLine:Handwritten"/><OtherTag ID="LT4053" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/><OtherTag ID="LT4052" LABEL="DefaultLine:Typewritten" DESCRIPTION="line type DefaultLine:Typewritten"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3830"
+          HEIGHT="5307"
+          PHYSICAL_IMG_NR="35"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3830"
+                  HEIGHT="5307">
+        
+        <TextBlock HPOS="719"
+                   VPOS="592"
+                   WIDTH="2742"
+                   HEIGHT="4419"
+                   ID="eSc_textblock_05621ddc"
+                   TAGREFS="BT10348">
+          <Shape><Polygon POINTS="719 592 719 5011 3461 5011 3461 592"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_65cb04c0"
+                    TAGREFS="LT4052"
+                    BASELINE="924 729 1401 716 1976 738" 
+                    HPOS="924"
+                    VPOS="632"
+                    WIDTH="1052"
+                    HEIGHT="155">
+            <Shape><Polygon POINTS="924 729 933 663 1017 632 1034 650 1087 632 1202 667 1260 641 1291 667 1393 667 1424 636 1499 636 1530 658 1587 641 1609 667 1649 654 1671 672 1760 672 1795 641 1875 641 1910 672 1968 672 1976 738 1963 760 1901 756 1830 787 1592 787 1512 756 1468 756 1441 782 1353 782 1322 751 1273 778 1220 751 1145 747 928 765"/></Shape>
+	    <String CONTENT="_(elle _commence _à _danser)"
+                    HPOS="924"
+                    VPOS="632"
+                    WIDTH="1052"
+                    HEIGHT="155"></String>
+          </TextLine>
 
-    
+          
+          
+          <TextLine ID="eSc_line_33a3b61d"
+                    TAGREFS="LT4052"
+                    BASELINE="1322 915 2569 928" 
+                    HPOS="1322"
+                    VPOS="835"
+                    WIDTH="1247"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="1322 915 1326 857 1388 835 1472 840 1503 862 1534 835 1618 835 1649 862 1733 844 1760 866 2105 866 2136 844 2158 862 2180 844 2202 866 2352 844 2383 866 2410 849 2556 844 2569 928 2410 972 2299 941 2167 941 2109 968 1897 968 1875 950 1791 968 1738 933 1680 964 1600 933 1578 950 1525 933 1379 933 1340 950 1326 937"/></Shape>
+	    <String CONTENT="J&#x27;ai pu dans un amour coupable"
+                    HPOS="1322"
+                    VPOS="835"
+                    WIDTH="1247"
+                    HEIGHT="137"></String>
+          </TextLine>
 
-    
-    <TextRegion id="eSc_dummyblock_">
-    
-    
-      <TextLine id="eSc_line_03a5af2f" >
-        <Coords points="2914,539 2927,464 3042,473 3042,583 2923,579"/>
-        <Baseline points="2914,539 3051,539"/>
-        <TextEquiv>
-          <Unicode>28</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_3a87e0f6"
+                    TAGREFS="LT4052"
+                    BASELINE="1521 1056 2215 1056" 
+                    HPOS="1521"
+                    VPOS="977"
+                    WIDTH="694"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="1521 1056 1530 990 1578 977 1640 995 1680 977 1760 977 1777 995 2127 995 2175 977 2206 986 2215 1056 2136 1079 1530 1065"/></Shape>
+	    <String CONTENT="Me l&#x27;enchainer !"
+                    HPOS="1521"
+                    VPOS="977"
+                    WIDTH="694"
+                    HEIGHT="102"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_65cb04c0" >
-        <Coords points="924,729 933,663 1017,632 1034,650 1087,632 1202,667 1260,641 1291,667 1393,667 1424,636 1499,636 1530,658 1587,641 1609,667 1649,654 1671,672 1760,672 1795,641 1875,641 1910,672 1968,672 1976,738 1963,760 1901,756 1830,787 1592,787 1512,756 1468,756 1441,782 1353,782 1322,751 1273,778 1220,751 1145,747 928,765"/>
-        <Baseline points="924,729 1401,716 1976,738"/>
-        <TextEquiv>
-          <Unicode>_(elle _commence _à _danser)</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_034b7ebc"
+                    TAGREFS="LT4052"
+                    BASELINE="1521 1185 2003 1176" 
+                    HPOS="1521"
+                    VPOS="1114"
+                    WIDTH="482"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1521 1185 1539 1114 1631 1132 1662 1114 1937 1132 1963 1114 1990 1118 2003 1176 1959 1207 1631 1194 1574 1211 1530 1194"/></Shape>
+	    <String CONTENT="Le bercer !"
+                    HPOS="1521"
+                    VPOS="1114"
+                    WIDTH="482"
+                    HEIGHT="97"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_33a3b61d" >
-        <Coords points="1322,915 1326,857 1388,835 1472,840 1503,862 1534,835 1618,835 1649,862 1733,844 1760,866 2105,866 2136,844 2158,862 2180,844 2202,866 2352,844 2383,866 2410,849 2556,844 2569,928 2410,972 2299,941 2167,941 2109,968 1897,968 1875,950 1791,968 1738,933 1680,964 1600,933 1578,950 1525,933 1379,933 1340,950 1326,937"/>
-        <Baseline points="1322,915 2569,928"/>
-        <TextEquiv>
-          <Unicode>J&#39;ai pu dans un amour coupable</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_bbde305c"
+                    TAGREFS="LT4052"
+                    BASELINE="2520 1123 3281 1136" 
+                    HPOS="2520"
+                    VPOS="1043"
+                    WIDTH="761"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="2520 1123 2525 1061 2573 1043 2609 1074 2719 1061 2781 1079 2896 1056 2918 1079 2954 1061 3033 1079 3109 1052 3268 1052 3281 1136 3241 1171 3122 1171 3086 1149 3064 1167 3025 1145 2985 1163 2901 1145 2830 1145 2799 1167 2596 1163 2525 1141"/></Shape>
+	    <String CONTENT="(la vague de lait)"
+                    HPOS="2520"
+                    VPOS="1043"
+                    WIDTH="761"
+                    HEIGHT="128"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_3a87e0f6" >
-        <Coords points="1521,1056 1530,990 1578,977 1640,995 1680,977 1760,977 1777,995 2127,995 2175,977 2206,986 2215,1056 2136,1079 1530,1065"/>
-        <Baseline points="1521,1056 2215,1056"/>
-        <TextEquiv>
-          <Unicode>Me l&#39;enchainer !</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_6ab1eb03"
+                    TAGREFS="LT4052"
+                    BASELINE="1521 1322 2003 1309" 
+                    HPOS="1521"
+                    VPOS="1233"
+                    WIDTH="482"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="1521 1322 1525 1242 1623 1242 1667 1264 1715 1238 1742 1260 1835 1260 1963 1233 1990 1251 2003 1309 1990 1344 1892 1326 1777 1353 1751 1331 1680 1357 1600 1357 1530 1335"/></Shape>
+	    <String CONTENT="L&#x27;enivrer !"
+                    HPOS="1521"
+                    VPOS="1233"
+                    WIDTH="482"
+                    HEIGHT="124"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_bbde305c" >
-        <Coords points="2520,1123 2525,1061 2573,1043 2609,1074 2719,1061 2781,1079 2896,1056 2918,1079 2954,1061 3033,1079 3109,1052 3268,1052 3281,1136 3241,1171 3122,1171 3086,1149 3064,1167 3025,1145 2985,1163 2901,1145 2830,1145 2799,1167 2596,1163 2525,1141"/>
-        <Baseline points="2520,1123 3281,1136"/>
-        <TextEquiv>
-          <Unicode>(la vague de lait)</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_2415cc28"
+                    TAGREFS="LT4052"
+                    BASELINE="924 1516 1441 1516" 
+                    HPOS="924"
+                    VPOS="1401"
+                    WIDTH="508"
+                    HEIGHT="186">
+            <Shape><Polygon POINTS="924 1516 933 1437 981 1437 1030 1401 1141 1401 1189 1437 1313 1437 1348 1401 1432 1401 1432 1547 1300 1565 1207 1547 1149 1587 933 1587"/></Shape>
+	    <String CONTENT="_(Elle _danse)"
+                    HPOS="924"
+                    VPOS="1401"
+                    WIDTH="508"
+                    HEIGHT="186"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_034b7ebc" >
-        <Coords points="1521,1185 1539,1114 1631,1132 1662,1114 1937,1132 1963,1114 1990,1118 2003,1176 1959,1207 1631,1194 1574,1211 1530,1194"/>
-        <Baseline points="1521,1185 2003,1176"/>
-        <TextEquiv>
-          <Unicode>Le bercer !</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_60ed1a25"
+                    TAGREFS="LT4052"
+                    BASELINE="1322 1636 2556 1654" 
+                    HPOS="1322"
+                    VPOS="1565"
+                    WIDTH="1234"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="1322 1636 1326 1583 1353 1569 1388 1587 1503 1569 1539 1587 1561 1565 1627 1587 1680 1569 1742 1592 1879 1592 1941 1569 1994 1574 2016 1596 2052 1574 2255 1600 2286 1583 2405 1600 2436 1578 2481 1600 2507 1583 2543 1600 2556 1654 2534 1680 2246 1658 1941 1676 1826 1654 1782 1671 1631 1671 1592 1649 1516 1667 1375 1649 1326 1667"/></Shape>
+	    <String CONTENT="Je puis dans un baiser sauvage"
+                    HPOS="1322"
+                    VPOS="1565"
+                    WIDTH="1234"
+                    HEIGHT="115"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_6ab1eb03" >
-        <Coords points="1521,1322 1525,1242 1623,1242 1667,1264 1715,1238 1742,1260 1835,1260 1963,1233 1990,1251 2003,1309 1990,1344 1892,1326 1777,1353 1751,1331 1680,1357 1600,1357 1530,1335"/>
-        <Baseline points="1521,1322 2003,1309"/>
-        <TextEquiv>
-          <Unicode>L&#39;enivrer !</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_78d1584d"
+                    TAGREFS="LT4052"
+                    BASELINE="1516 1777 2140 1777" 
+                    HPOS="1516"
+                    VPOS="1707"
+                    WIDTH="624"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1516 1777 1525 1707 1578 1724 1839 1707 1879 1724 2003 1724 2091 1707 2131 1715 2140 1777 2060 1782 2043 1799 2016 1782 1945 1799 1848 1791 1822 1808 1733 1786 1707 1808 1578 1808 1525 1786"/></Shape>
+	    <String CONTENT="Le torturer !"
+                    HPOS="1516"
+                    VPOS="1707"
+                    WIDTH="624"
+                    HEIGHT="101"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_2415cc28" >
-        <Coords points="924,1516 933,1437 981,1437 1030,1401 1141,1401 1189,1437 1313,1437 1348,1401 1432,1401 1432,1547 1300,1565 1207,1547 1149,1587 933,1587"/>
-        <Baseline points="924,1516 1441,1516"/>
-        <TextEquiv>
-          <Unicode>_(Elle _danse)</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_84696d27"
+                    TAGREFS="LT4052"
+                    BASELINE="1516 1910 1999 1897" 
+                    HPOS="1516"
+                    VPOS="1822"
+                    WIDTH="483"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="1516 1910 1521 1822 1667 1822 1777 1861 1959 1844 1985 1853 1999 1897 1990 1932 1861 1906 1835 1937 1773 1919 1689 1937 1623 1914 1565 1941 1525 1914"/></Shape>
+	    <String CONTENT="⟦⟧ jouer !"
+                    HPOS="1516"
+                    VPOS="1822"
+                    WIDTH="483"
+                    HEIGHT="119"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_60ed1a25" >
-        <Coords points="1322,1636 1326,1583 1353,1569 1388,1587 1503,1569 1539,1587 1561,1565 1627,1587 1680,1569 1742,1592 1879,1592 1941,1569 1994,1574 2016,1596 2052,1574 2255,1600 2286,1583 2405,1600 2436,1578 2481,1600 2507,1583 2543,1600 2556,1654 2534,1680 2246,1658 1941,1676 1826,1654 1782,1671 1631,1671 1592,1649 1516,1667 1375,1649 1326,1667"/>
-        <Baseline points="1322,1636 2556,1654"/>
-        <TextEquiv>
-          <Unicode>Je puis dans un baiser sauvage</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_5ac28479"
+                    TAGREFS="LT4052"
+                    BASELINE="2233 1857 3073 1857" 
+                    HPOS="2233"
+                    VPOS="1751"
+                    WIDTH="840"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="2233 1857 2242 1786 2295 1760 2401 1786 2481 1751 2658 1751 2728 1786 2777 1769 2803 1786 2830 1769 2852 1786 2998 1786 3025 1760 3064 1786 3073 1857 3056 1892 3020 1875 2821 1875 2777 1901 2649 1901 2609 1879 2587 1901 2481 1901 2374 1875 2242 1897"/></Shape>
+	    <String CONTENT="(la vague de larmes)"
+                    HPOS="2233"
+                    VPOS="1751"
+                    WIDTH="840"
+                    HEIGHT="150"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_78d1584d" >
-        <Coords points="1516,1777 1525,1707 1578,1724 1839,1707 1879,1724 2003,1724 2091,1707 2131,1715 2140,1777 2060,1782 2043,1799 2016,1782 1945,1799 1848,1791 1822,1808 1733,1786 1707,1808 1578,1808 1525,1786"/>
-        <Baseline points="1516,1777 2140,1777"/>
-        <TextEquiv>
-          <Unicode>Le torturer !</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_725132b0"
+                    TAGREFS="LT4052"
+                    BASELINE="1516 2043 2091 2038" 
+                    HPOS="1516"
+                    VPOS="1963"
+                    WIDTH="575"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="1516 2043 1521 1976 1574 1985 1609 1963 1826 1963 1848 1981 1888 1963 1915 1985 2069 1972 2091 2038 2069 2060 2034 2069 2003 2052 1963 2078 1906 2052 1835 2078 1729 2078 1711 2060 1689 2074 1623 2052 1574 2078 1525 2052"/></Shape>
+	    <String CONTENT="Le briser !"
+                    HPOS="1516"
+                    VPOS="1963"
+                    WIDTH="575"
+                    HEIGHT="115"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_84696d27" >
-        <Coords points="1516,1910 1521,1822 1667,1822 1777,1861 1959,1844 1985,1853 1999,1897 1990,1932 1861,1906 1835,1937 1773,1919 1689,1937 1623,1914 1565,1941 1525,1914"/>
-        <Baseline points="1516,1910 1999,1897"/>
-        <TextEquiv>
-          <Unicode>~~~ jouer !</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_e43b3a42"
+                    TAGREFS="LT4052"
+                    BASELINE="911 2237 1437 2237" 
+                    HPOS="911"
+                    VPOS="2149"
+                    WIDTH="526"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="911 2237 919 2149 999 2149 1021 2171 1057 2153 1180 2171 1202 2149 1273 2171 1326 2153 1353 2171 1428 2149 1437 2237 1419 2277 919 2282"/></Shape>
+	    <String CONTENT="_(elle _danse)"
+                    HPOS="911"
+                    VPOS="2149"
+                    WIDTH="526"
+                    HEIGHT="133"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_5ac28479" >
-        <Coords points="2233,1857 2242,1786 2295,1760 2401,1786 2481,1751 2658,1751 2728,1786 2777,1769 2803,1786 2830,1769 2852,1786 2998,1786 3025,1760 3064,1786 3073,1857 3056,1892 3020,1875 2821,1875 2777,1901 2649,1901 2609,1879 2587,1901 2481,1901 2374,1875 2242,1897"/>
-        <Baseline points="2233,1857 3073,1857"/>
-        <TextEquiv>
-          <Unicode>(la vague de larmes)</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_fa90f394"
+                    TAGREFS="LT4052"
+                    BASELINE="1317 2432 2512 2441" 
+                    HPOS="1317"
+                    VPOS="2357"
+                    WIDTH="1195"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="1317 2432 1322 2357 1415 2379 1720 2357 1746 2379 1950 2361 2043 2383 2339 2361 2374 2383 2498 2383 2512 2441 2472 2472 2317 2454 2229 2489 2114 2489 2069 2454 1817 2485 1746 2450 1702 2485 1543 2485 1508 2450 1459 2472 1432 2450 1322 2450"/></Shape>
+	    <String CONTENT="Je puis dans mon aveugle rage"
+                    HPOS="1317"
+                    VPOS="2357"
+                    WIDTH="1195"
+                    HEIGHT="132"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_725132b0" >
-        <Coords points="1516,2043 1521,1976 1574,1985 1609,1963 1826,1963 1848,1981 1888,1963 1915,1985 2069,1972 2091,2038 2069,2060 2034,2069 2003,2052 1963,2078 1906,2052 1835,2078 1729,2078 1711,2060 1689,2074 1623,2052 1574,2078 1525,2052"/>
-        <Baseline points="1516,2043 2091,2038"/>
-        <TextEquiv>
-          <Unicode>Le briser !</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_fbb64929"
+                    TAGREFS="LT4052"
+                    BASELINE="1508 2569 2083 2569" 
+                    HPOS="1508"
+                    VPOS="2485"
+                    WIDTH="575"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1508 2569 1516 2498 1578 2511 1609 2485 1698 2511 1729 2485 1826 2489 1853 2511 1879 2494 1910 2511 2034 2511 2065 2489 2083 2569 2069 2596 2047 2578 1875 2596 1817 2578 1746 2596 1649 2578 1516 2591"/></Shape>
+	    <String CONTENT="Le déchirer"
+                    HPOS="1508"
+                    VPOS="2485"
+                    WIDTH="575"
+                    HEIGHT="111"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_e43b3a42" >
-        <Coords points="911,2237 919,2149 999,2149 1021,2171 1057,2153 1180,2171 1202,2149 1273,2171 1326,2153 1353,2171 1428,2149 1437,2237 1419,2277 919,2282"/>
-        <Baseline points="911,2237 1437,2237"/>
-        <TextEquiv>
-          <Unicode>_(elle _danse)</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_0fae8cae"
+                    TAGREFS="LT4052"
+                    BASELINE="1508 2702 1990 2702" 
+                    HPOS="1508"
+                    VPOS="2626"
+                    WIDTH="482"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="1508 2702 1534 2626 1645 2644 1685 2626 1817 2649 1932 2640 1981 2649 1990 2702 1919 2710 1897 2733 1746 2733 1724 2710 1658 2733 1627 2710 1516 2724"/></Shape>
+	    <String CONTENT="Le frapper"
+                    HPOS="1508"
+                    VPOS="2626"
+                    WIDTH="482"
+                    HEIGHT="107"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_fa90f394" >
-        <Coords points="1317,2432 1322,2357 1415,2379 1720,2357 1746,2379 1950,2361 2043,2383 2339,2361 2374,2383 2498,2383 2512,2441 2472,2472 2317,2454 2229,2489 2114,2489 2069,2454 1817,2485 1746,2450 1702,2485 1543,2485 1508,2450 1459,2472 1432,2450 1322,2450"/>
-        <Baseline points="1317,2432 2512,2441"/>
-        <TextEquiv>
-          <Unicode>Je puis dans mon aveugle rage</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_b37f3973"
+                    TAGREFS="LT4052"
+                    BASELINE="2388 2640 3144 2649" 
+                    HPOS="2388"
+                    VPOS="2560"
+                    WIDTH="756"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="2388 2640 2397 2560 2489 2582 2653 2565 2777 2587 2834 2565 2905 2587 2945 2565 2998 2587 3025 2565 3051 2587 3131 2565 3144 2649 3131 2693 3020 2693 2963 2657 2852 2680 2830 2657 2724 2653 2640 2688 2560 2653 2512 2680 2392 2671"/></Shape>
+	    <String CONTENT="(la vague de sang)"
+                    HPOS="2388"
+                    VPOS="2560"
+                    WIDTH="756"
+                    HEIGHT="133"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_fbb64929" >
-        <Coords points="1508,2569 1516,2498 1578,2511 1609,2485 1698,2511 1729,2485 1826,2489 1853,2511 1879,2494 1910,2511 2034,2511 2065,2489 2083,2569 2069,2596 2047,2578 1875,2596 1817,2578 1746,2596 1649,2578 1516,2591"/>
-        <Baseline points="1508,2569 2083,2569"/>
-        <TextEquiv>
-          <Unicode>Le déchirer</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_a990bd87"
+                    TAGREFS="LT4052"
+                    BASELINE="1508 2834 1844 2834" 
+                    HPOS="1508"
+                    VPOS="2755"
+                    WIDTH="336"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1508 2834 1516 2755 1574 2781 1640 2781 1671 2755 1733 2781 1786 2768 1835 2781 1844 2834 1808 2856 1516 2856"/></Shape>
+	    <String CONTENT="Le tuer"
+                    HPOS="1508"
+                    VPOS="2755"
+                    WIDTH="336"
+                    HEIGHT="101"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_b37f3973" >
-        <Coords points="2388,2640 2397,2560 2489,2582 2653,2565 2777,2587 2834,2565 2905,2587 2945,2565 2998,2587 3025,2565 3051,2587 3131,2565 3144,2649 3131,2693 3020,2693 2963,2657 2852,2680 2830,2657 2724,2653 2640,2688 2560,2653 2512,2680 2392,2671"/>
-        <Baseline points="2388,2640 3144,2649"/>
-        <TextEquiv>
-          <Unicode>(la vague de sang)</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_1a7962d2"
+                    TAGREFS="LT4052"
+                    BASELINE="906 3020 2830 3047" 
+                    HPOS="906"
+                    VPOS="2932"
+                    WIDTH="1924"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="906 3020 911 2949 942 2932 1065 2963 1176 2932 1251 2967 1415 2967 1455 2936 1486 2967 1600 2971 1711 2945 1738 2971 1782 2971 1808 2945 1928 2967 2122 2945 2313 2980 2507 2949 2565 2976 2591 2958 2627 2985 2777 2958 2817 2985 2830 3047 2817 3100 2733 3078 2627 3078 2596 3095 2565 3078 2538 3100 2476 3078 2441 3095 2410 3073 2335 3073 2313 3095 2282 3073 2140 3091 2105 3069 2078 3091 2025 3091 1999 3069 1835 3086 1800 3064 1746 3086 1570 3086 1547 3069 1455 3082 1344 3060 1233 3082 1123 3060 911 3078"/></Shape>
+	    <String CONTENT="_(elle _danse _comme _une _bacchante _ivre _et _féroce)"
+                    HPOS="906"
+                    VPOS="2932"
+                    WIDTH="1924"
+                    HEIGHT="168"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_0fae8cae" >
-        <Coords points="1508,2702 1534,2626 1645,2644 1685,2626 1817,2649 1932,2640 1981,2649 1990,2702 1919,2710 1897,2733 1746,2733 1724,2710 1658,2733 1627,2710 1516,2724"/>
-        <Baseline points="1508,2702 1990,2702"/>
-        <TextEquiv>
-          <Unicode>Le frapper</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_58523c42"
+                    TAGREFS="LT4052"
+                    BASELINE="1309 3228 2109 3228" 
+                    HPOS="1309"
+                    VPOS="3157"
+                    WIDTH="800"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="1309 3228 1326 3157 1446 3175 1516 3157 1561 3175 1782 3157 1813 3175 1959 3175 2007 3157 2034 3175 2074 3157 2100 3175 2109 3228 2025 3259 1941 3237 1746 3254 1689 3241 1658 3259 1494 3259 1455 3237 1371 3259 1317 3250"/></Shape>
+	    <String CONTENT="Maitresse de la mer"
+                    HPOS="1309"
+                    VPOS="3157"
+                    WIDTH="800"
+                    HEIGHT="102"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_a990bd87" >
-        <Coords points="1508,2834 1516,2755 1574,2781 1640,2781 1671,2755 1733,2781 1786,2768 1835,2781 1844,2834 1808,2856 1516,2856"/>
-        <Baseline points="1508,2834 1844,2834"/>
-        <TextEquiv>
-          <Unicode>Le tuer</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_f3985207"
+                    TAGREFS="LT4052"
+                    BASELINE="1309 3356 2313 3365" 
+                    HPOS="1309"
+                    VPOS="3272"
+                    WIDTH="1004"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="1309 3356 1317 3285 1357 3272 1437 3294 1490 3272 1561 3290 1667 3272 1698 3294 1813 3299 1884 3299 1910 3277 1954 3299 2016 3277 2065 3294 2189 3281 2206 3299 2304 3299 2313 3365 2264 3392 2091 3392 2052 3374 1981 3392 1870 3374 1817 3392 1800 3369 1455 3387 1313 3369"/></Shape>
+	    <String CONTENT="Je puis jouer des vagues"
+                    HPOS="1309"
+                    VPOS="3272"
+                    WIDTH="1004"
+                    HEIGHT="120"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_1a7962d2" >
-        <Coords points="906,3020 911,2949 942,2932 1065,2963 1176,2932 1251,2967 1415,2967 1455,2936 1486,2967 1600,2971 1711,2945 1738,2971 1782,2971 1808,2945 1928,2967 2122,2945 2313,2980 2507,2949 2565,2976 2591,2958 2627,2985 2777,2958 2817,2985 2830,3047 2817,3100 2733,3078 2627,3078 2596,3095 2565,3078 2538,3100 2476,3078 2441,3095 2410,3073 2335,3073 2313,3095 2282,3073 2140,3091 2105,3069 2078,3091 2025,3091 1999,3069 1835,3086 1800,3064 1746,3086 1570,3086 1547,3069 1455,3082 1344,3060 1233,3082 1123,3060 911,3078"/>
-        <Baseline points="906,3020 2830,3047"/>
-        <TextEquiv>
-          <Unicode>_(elle _danse _comme _une _bacchante _ivre _et _féroce)</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_7918a7bf"
+                    TAGREFS="LT4052"
+                    BASELINE="1309 3493 2193 3493" 
+                    HPOS="1309"
+                    VPOS="3414"
+                    WIDTH="884"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="1309 3493 1317 3423 1424 3414 1552 3418 1570 3436 1654 3414 1742 3436 1901 3436 1919 3418 2038 3436 2087 3418 2184 3436 2193 3493 2184 3515 2136 3524 1976 3507 1910 3520 1892 3502 1844 3520 1817 3502 1742 3520 1720 3502 1698 3524 1671 3502 1605 3502 1583 3524 1503 3502 1406 3524 1371 3507 1317 3515"/></Shape>
+	    <String CONTENT="Dociles à mes accents"
+                    HPOS="1309"
+                    VPOS="3414"
+                    WIDTH="884"
+                    HEIGHT="110"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_58523c42" >
-        <Coords points="1309,3228 1326,3157 1446,3175 1516,3157 1561,3175 1782,3157 1813,3175 1959,3175 2007,3157 2034,3175 2074,3157 2100,3175 2109,3228 2025,3259 1941,3237 1746,3254 1689,3241 1658,3259 1494,3259 1455,3237 1371,3259 1317,3250"/>
-        <Baseline points="1309,3228 2109,3228"/>
-        <TextEquiv>
-          <Unicode>Maitresse de la mer</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_7b07bc7f"
+                    TAGREFS="LT4052"
+                    BASELINE="1304 3617 2428 3626" 
+                    HPOS="1304"
+                    VPOS="3542"
+                    WIDTH="1124"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="1304 3617 1313 3555 1331 3551 1556 3564 1680 3542 1711 3564 1857 3546 1884 3568 2043 3568 2069 3546 2224 3546 2259 3568 2405 3551 2428 3626 2414 3652 2392 3635 2339 3652 2277 3652 2259 3635 2131 3652 1605 3630 1578 3648 1556 3630 1499 3648 1463 3630 1424 3648 1309 3644"/></Shape>
+	    <String CONTENT="Les grands flots palpitants"
+                    HPOS="1304"
+                    VPOS="3542"
+                    WIDTH="1124"
+                    HEIGHT="110"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_f3985207" >
-        <Coords points="1309,3356 1317,3285 1357,3272 1437,3294 1490,3272 1561,3290 1667,3272 1698,3294 1813,3299 1884,3299 1910,3277 1954,3299 2016,3277 2065,3294 2189,3281 2206,3299 2304,3299 2313,3365 2264,3392 2091,3392 2052,3374 1981,3392 1870,3374 1817,3392 1800,3369 1455,3387 1313,3369"/>
-        <Baseline points="1309,3356 2313,3365"/>
-        <TextEquiv>
-          <Unicode>Je puis jouer des vagues</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_9fd0dd38"
+                    TAGREFS="LT4052"
+                    BASELINE="1304 3745 2163 3744" 
+                    HPOS="1300"
+                    VPOS="3666"
+                    WIDTH="862"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="1742 3697 1698 3697 1654 3701 1609 3706 1565 3706 1521 3710 1477 3714 1455 3666 1300 3666 1300 3741 1300 3781 2162 3781 2162 3741 2162 3670 1755 3666 1742 3697"/></Shape>
+	    <String CONTENT="Se ⟦⟧ menacants"
+                    HPOS="1300"
+                    VPOS="3666"
+                    WIDTH="862"
+                    HEIGHT="115"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_7918a7bf" >
-        <Coords points="1309,3493 1317,3423 1424,3414 1552,3418 1570,3436 1654,3414 1742,3436 1901,3436 1919,3418 2038,3436 2087,3418 2184,3436 2193,3493 2184,3515 2136,3524 1976,3507 1910,3520 1892,3502 1844,3520 1817,3502 1742,3520 1720,3502 1698,3524 1671,3502 1605,3502 1583,3524 1503,3502 1406,3524 1371,3507 1317,3515"/>
-        <Baseline points="1309,3493 2193,3493"/>
-        <TextEquiv>
-          <Unicode>Dociles à mes accents</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_123c7d8f"
+                    TAGREFS="LT4054"
+                    BASELINE="1440 3716 1754 3696" 
+                    HPOS="1428"
+                    VPOS="3622"
+                    WIDTH="323"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="1437 3728 1751 3710 1751 3692 1738 3622 1428 3639 1437 3714"/></Shape>
+	    <String CONTENT="~~~"
+                    HPOS="1428"
+                    VPOS="3622"
+                    WIDTH="323"
+                    HEIGHT="106"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_7b07bc7f" >
-        <Coords points="1304,3617 1313,3555 1331,3551 1556,3564 1680,3542 1711,3564 1857,3546 1884,3568 2043,3568 2069,3546 2224,3546 2259,3568 2405,3551 2428,3626 2414,3652 2392,3635 2339,3652 2277,3652 2259,3635 2131,3652 1605,3630 1578,3648 1556,3630 1499,3648 1463,3630 1424,3648 1309,3644"/>
-        <Baseline points="1304,3617 2428,3626"/>
-        <TextEquiv>
-          <Unicode>Les grands flots palpitants</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_4413a7b7"
+                    TAGREFS="LT4052"
+                    BASELINE="1304 3882 2582 3891" 
+                    HPOS="1304"
+                    VPOS="3807"
+                    WIDTH="1278"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="1304 3882 1309 3825 1335 3812 1892 3825 1937 3807 1954 3829 2507 3812 2569 3821 2582 3891 2569 3909 2494 3905 2428 3931 2370 3913 2343 3931 2277 3913 2255 3931 2224 3905 2140 3905 2083 3931 2025 3905 1945 3931 1830 3900 1751 3927 1707 3900 1658 3900 1614 3927 1419 3927 1366 3900 1309 3900"/></Shape>
+	    <String CONTENT="Leurs flancs puissants recèlent"
+                    HPOS="1304"
+                    VPOS="3807"
+                    WIDTH="1278"
+                    HEIGHT="124"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_9fd0dd38" >
-        <Coords points="1304,3745 1309,3683 1344,3666 1424,3692 1463,3652 1552,3652 1724,3657 1764,3688 1875,3701 1968,3701 1994,3683 2029,3697 2056,3675 2096,3701 2140,3701 2153,3759 2100,3785 1870,3763 1592,3781 1490,3759 1309,3776"/>
-        <Baseline points="1304,3745 2153,3759"/>
-        <TextEquiv>
-          <Unicode>Se ~~~ menacants</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_29c9956e"
+                    TAGREFS="LT4052"
+                    BASELINE="1304 4020 2074 4011" 
+                    HPOS="1304"
+                    VPOS="3931"
+                    WIDTH="770"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1304 4020 1313 3936 1375 3936 1401 3962 1508 3936 1600 3936 1636 3962 1715 3958 1751 3936 1777 3958 1835 3931 1910 3958 1976 3940 2060 3958 2074 4011 2025 4037 1954 4042 1309 4033"/></Shape>
+	    <String CONTENT="Un trésor précieux"
+                    HPOS="1304"
+                    VPOS="3931"
+                    WIDTH="770"
+                    HEIGHT="111"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_4413a7b7" >
-        <Coords points="1304,3882 1309,3825 1335,3812 1892,3825 1937,3807 1954,3829 2507,3812 2569,3821 2582,3891 2569,3909 2494,3905 2428,3931 2370,3913 2343,3931 2277,3913 2255,3931 2224,3905 2140,3905 2083,3931 2025,3905 1945,3931 1830,3900 1751,3927 1707,3900 1658,3900 1614,3927 1419,3927 1366,3900 1309,3900"/>
-        <Baseline points="1304,3882 2582,3891"/>
-        <TextEquiv>
-          <Unicode>Leurs flancs puissants recèlent</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_54411038"
+                    TAGREFS="LT4052"
+                    BASELINE="1304 4148 2171 4148" 
+                    HPOS="1304"
+                    VPOS="4077"
+                    WIDTH="867"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1304 4148 1313 4090 1344 4077 1388 4095 1490 4077 1600 4095 1654 4077 1689 4095 1715 4077 1755 4095 1853 4077 1879 4095 1976 4077 2038 4095 2069 4077 2096 4095 2127 4077 2162 4095 2171 4148 2144 4174 1941 4157 1879 4174 1826 4157 1760 4174 1707 4157 1680 4174 1521 4174 1494 4157 1313 4174"/></Shape>
+	    <String CONTENT="Que lui voua ma haine"
+                    HPOS="1304"
+                    VPOS="4077"
+                    WIDTH="867"
+                    HEIGHT="97"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_29c9956e" >
-        <Coords points="1304,4020 1313,3936 1375,3936 1401,3962 1508,3936 1600,3936 1636,3962 1715,3958 1751,3936 1777,3958 1835,3931 1910,3958 1976,3940 2060,3958 2074,4011 2025,4037 1954,4042 1309,4033"/>
-        <Baseline points="1304,4020 2074,4011"/>
-        <TextEquiv>
-          <Unicode>Un trésor précieux</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_a88c0943"
+                    TAGREFS="LT4052"
+                    BASELINE="1300 4272 2304 4280" 
+                    HPOS="1300"
+                    VPOS="4196"
+                    WIDTH="1004"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1300 4272 1309 4205 1623 4196 1822 4219 1839 4201 1928 4201 1950 4219 2096 4219 2184 4201 2295 4219 2304 4280 2224 4307 2065 4307 2034 4289 2007 4307 1963 4289 1892 4307 1755 4289 1304 4289"/></Shape>
+	    <String CONTENT="Lui, dont la vie humaine"
+                    HPOS="1300"
+                    VPOS="4196"
+                    WIDTH="1004"
+                    HEIGHT="111"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_54411038" >
-        <Coords points="1304,4148 1313,4090 1344,4077 1388,4095 1490,4077 1600,4095 1654,4077 1689,4095 1715,4077 1755,4095 1853,4077 1879,4095 1976,4077 2038,4095 2069,4077 2096,4095 2127,4077 2162,4095 2171,4148 2144,4174 1941,4157 1879,4174 1826,4157 1760,4174 1707,4157 1680,4174 1521,4174 1494,4157 1313,4174"/>
-        <Baseline points="1304,4148 2171,4148"/>
-        <TextEquiv>
-          <Unicode>Que lui voua ma haine</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_5570af20"
+                    TAGREFS="LT4052"
+                    BASELINE="1300 4400 2454 4418" 
+                    HPOS="1300"
+                    VPOS="4329"
+                    WIDTH="1154"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="1300 4400 1317 4342 1547 4347 1587 4329 1645 4351 1671 4334 1707 4351 1835 4338 1884 4356 1910 4338 2122 4338 2180 4360 2251 4360 2268 4342 2388 4360 2419 4342 2445 4360 2454 4418 2428 4457 2352 4457 2313 4431 2167 4457 2007 4426 1777 4440 1760 4422 1724 4440 1693 4422 1645 4444 1614 4426 1561 4444 1521 4418 1432 4444 1304 4444"/></Shape>
+	    <String CONTENT="N&#x27;est plus rien à mes yeux !"
+                    HPOS="1300"
+                    VPOS="4329"
+                    WIDTH="1154"
+                    HEIGHT="128"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_a88c0943" >
-        <Coords points="1300,4272 1309,4205 1623,4196 1822,4219 1839,4201 1928,4201 1950,4219 2096,4219 2184,4201 2295,4219 2304,4280 2224,4307 2065,4307 2034,4289 2007,4307 1963,4289 1892,4307 1755,4289 1304,4289"/>
-        <Baseline points="1300,4272 2304,4280"/>
-        <TextEquiv>
-          <Unicode>Lui, dont la vie humaine</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_2314c4b6"
+                    TAGREFS="LT4052"
+                    BASELINE="2507 4550 3272 4550 3379 4548" 
+                    HPOS="2503"
+                    VPOS="4462"
+                    WIDTH="875"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="2503 4546 2512 4475 2613 4488 2688 4462 2865 4466 2901 4493 2945 4475 3038 4493 3321 4479 3370 4493 3378 4546 3339 4568 2512 4568"/></Shape>
+	    <String CONTENT="(Annoncer ici la con-"
+                    HPOS="2503"
+                    VPOS="4462"
+                    WIDTH="875"
+                    HEIGHT="106"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_5570af20" >
-        <Coords points="1300,4400 1317,4342 1547,4347 1587,4329 1645,4351 1671,4334 1707,4351 1835,4338 1884,4356 1910,4338 2122,4338 2180,4360 2251,4360 2268,4342 2388,4360 2419,4342 2445,4360 2454,4418 2428,4457 2352,4457 2313,4431 2167,4457 2007,4426 1777,4440 1760,4422 1724,4440 1693,4422 1645,4444 1614,4426 1561,4444 1521,4418 1432,4444 1304,4444"/>
-        <Baseline points="1300,4400 2454,4418"/>
-        <TextEquiv>
-          <Unicode>N&#39;est plus rien à mes yeux !</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_810bd722"
+                    TAGREFS="LT4052"
+                    BASELINE="2543 4617 3321 4621" 
+                    HPOS="2543"
+                    VPOS="4555"
+                    WIDTH="778"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="2543 4617 2547 4568 2609 4555 3038 4555 3250 4559 3321 4621 2547 4625"/></Shape>
+	    <String CONTENT="sécration des trois"
+                    HPOS="2543"
+                    VPOS="4555"
+                    WIDTH="778"
+                    HEIGHT="70"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_2314c4b6" >
-        <Coords points="2503,4546 2512,4475 2613,4488 2688,4462 2865,4466 2901,4493 2945,4475 3038,4493 3321,4479 3370,4493 3378,4546 3339,4568 2512,4568"/>
-        <Baseline points="2507,4550 3272,4550 3379,4548"/>
-        <TextEquiv>
-          <Unicode>(Annoncer ici la con-</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_c1bb667b"
+                    TAGREFS="LT4052"
+                    BASELINE="2538 4683 3290 4692" 
+                    HPOS="2538"
+                    VPOS="4625"
+                    WIDTH="752"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="2538 4683 2543 4625 3228 4625 3277 4634 3290 4692 3033 4714 2857 4687 2543 4705"/></Shape>
+	    <String CONTENT="vagues symboliques"
+                    HPOS="2538"
+                    VPOS="4625"
+                    WIDTH="752"
+                    HEIGHT="89"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_810bd722" >
-        <Coords points="2543,4617 2547,4568 2609,4555 3038,4555 3250,4559 3321,4621 2547,4625"/>
-        <Baseline points="2543,4617 3321,4621"/>
-        <TextEquiv>
-          <Unicode>sécration des trois</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_71d5b1b5"
+                    TAGREFS="LT4052"
+                    BASELINE="2706 4745 3007 4745" 
+                    HPOS="2706"
+                    VPOS="4687"
+                    WIDTH="301"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="2706 4745 2733 4687 2998 4696 3007 4745 2715 4754"/></Shape>
+	    <String CONTENT="de lait"
+                    HPOS="2706"
+                    VPOS="4687"
+                    WIDTH="301"
+                    HEIGHT="67"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_c1bb667b" >
-        <Coords points="2538,4683 2543,4625 3228,4625 3277,4634 3290,4692 3033,4714 2857,4687 2543,4705"/>
-        <Baseline points="2538,4683 3290,4692"/>
-        <TextEquiv>
-          <Unicode>vagues symboliques</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_392c9168"
+                    TAGREFS="LT4052"
+                    BASELINE="2693 4811 3091 4811" 
+                    HPOS="2693"
+                    VPOS="4754"
+                    WIDTH="398"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="2693 4811 2702 4763 2724 4754 3042 4754 3082 4763 3091 4811 3082 4829 2702 4820"/></Shape>
+	    <String CONTENT="de larmes"
+                    HPOS="2693"
+                    VPOS="4754"
+                    WIDTH="398"
+                    HEIGHT="75"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_71d5b1b5" >
-        <Coords points="2706,4745 2733,4687 2998,4696 3007,4745 2715,4754"/>
-        <Baseline points="2706,4745 3007,4745"/>
-        <TextEquiv>
-          <Unicode>de lait</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_36405c20"
+                    TAGREFS="LT4052"
+                    BASELINE="2658 4882 3047 4882" 
+                    HPOS="2658"
+                    VPOS="4820"
+                    WIDTH="389"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="2658 4882 2671 4820 3038 4824 3047 4882 3038 4908 2666 4886"/></Shape>
+	    <String CONTENT="de sang.-"
+                    HPOS="2658"
+                    VPOS="4820"
+                    WIDTH="389"
+                    HEIGHT="88"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_392c9168" >
-        <Coords points="2693,4811 2702,4763 2724,4754 3042,4754 3082,4763 3091,4811 3082,4829 2702,4820"/>
-        <Baseline points="2693,4811 3091,4811"/>
-        <TextEquiv>
-          <Unicode>de larmes</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2867"
+                   VPOS="440"
+                   WIDTH="250"
+                   HEIGHT="162"
+                   ID="eSc_textblock_c66c23c5"
+                   TAGREFS="BT10351">
+          <Shape><Polygon POINTS="2867 440 2867 602 3117 602 3117 440"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_03a5af2f"
+                    TAGREFS="LT4052"
+                    BASELINE="2914 539 3051 539" 
+                    HPOS="2914"
+                    VPOS="464"
+                    WIDTH="128"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="2914 539 2927 464 3042 473 3042 583 2923 579"/></Shape>
+	    <String CONTENT="28"
+                    HPOS="2914"
+                    VPOS="464"
+                    WIDTH="128"
+                    HEIGHT="119"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_36405c20" >
-        <Coords points="2658,4882 2671,4820 3038,4824 3047,4882 3038,4908 2666,4886"/>
-        <Baseline points="2658,4882 3047,4882"/>
-        <TextEquiv>
-          <Unicode>de sang.-</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+        </TextBlock>
+        
 
-    
-    </TextRegion>
-    
-  </Page>
-</PcGts>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,288 +1,512 @@
-<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
-  <Metadata>
-	<Creator>escriptorium</Creator>
-	<Created>2021-01-21T15:51:05.607347+00:00</Created>
-    <LastChange>2021-01-21T15:51:05.607369+00:00</LastChange>
-  </Metadata>
-  <Page imageFilename="43_61321_default.jpg" imageWidth="3830" imageHeight="5307">
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>43_61321_default.jpg</fileName>
+      <fileIdentifier>https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502601r/f44/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10352" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10351" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10350" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10349" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10348" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4054" LABEL="DefaultLine:Handwritten" DESCRIPTION="line type DefaultLine:Handwritten"/><OtherTag ID="LT4053" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/><OtherTag ID="LT4052" LABEL="DefaultLine:Typewritten" DESCRIPTION="line type DefaultLine:Typewritten"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3830"
+          HEIGHT="5307"
+          PHYSICAL_IMG_NR="43"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3830"
+                  HEIGHT="5307">
+        
+        <TextBlock HPOS="808"
+                   VPOS="455"
+                   WIDTH="2540"
+                   HEIGHT="4369"
+                   ID="eSc_textblock_2423992b"
+                   TAGREFS="BT10348">
+          <Shape><Polygon POINTS="808 455 808 4824 3348 4824 3348 455"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_54cf4ded"
+                    TAGREFS="LT4052"
+                    BASELINE="880 738 1685 729" 
+                    HPOS="880"
+                    VPOS="641"
+                    WIDTH="805"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="880 738 884 667 915 654 964 676 1198 676 1233 645 1340 672 1388 641 1543 645 1578 672 1658 645 1685 729 1640 769 1614 747 1534 747 1472 773 1415 747 1304 747 1225 787 1052 787 1017 760 959 787 884 751"/></Shape>
+	    <String CONTENT="Demandez à Récalt ?"
+                    HPOS="880"
+                    VPOS="641"
+                    WIDTH="805"
+                    HEIGHT="146"></String>
+          </TextLine>
 
-    
+          
+          
+          <TextLine ID="eSc_line_cedc3faa"
+                    TAGREFS="LT4052"
+                    BASELINE="1760 592 2043 592" 
+                    HPOS="1760"
+                    VPOS="508"
+                    WIDTH="274"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="1760 592 1769 521 1963 530 2034 508 2034 619 1945 619 1875 654 1769 654"/></Shape>
+	    <String CONTENT="HASTOY"
+                    HPOS="1760"
+                    VPOS="508"
+                    WIDTH="274"
+                    HEIGHT="146"></String>
+          </TextLine>
 
-    
-    <TextRegion id="eSc_dummyblock_">
-    
-    
-      <TextLine id="eSc_line_bf2b541f" >
-        <Coords points="2874,367 2887,309 2958,305 2989,336 3020,336 3029,375 3016,424 2949,402 2879,420"/>
-        <Baseline points="2874,367 3029,375"/>
-        <TextEquiv>
-          <Unicode>-6-</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_7e788cfe"
+                    TAGREFS="LT4052"
+                    BASELINE="888 1074 1331 1061" 
+                    HPOS="888"
+                    VPOS="968"
+                    WIDTH="443"
+                    HEIGHT="155">
+            <Shape><Polygon POINTS="888 1074 893 1003 990 1008 1030 972 1079 999 1136 972 1202 999 1260 968 1317 972 1331 1061 1313 1096 1269 1079 1211 1105 1167 1087 1145 1114 1034 1123 1008 1101 893 1087"/></Shape>
+	    <String CONTENT="A Récalt ?"
+                    HPOS="888"
+                    VPOS="968"
+                    WIDTH="443"
+                    HEIGHT="155"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_cedc3faa" >
-        <Coords points="1760,592 1769,521 1963,530 2034,508 2034,619 1945,619 1875,654 1769,654"/>
-        <Baseline points="1760,592 2043,592"/>
-        <TextEquiv>
-          <Unicode>HASTOY</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_cac07f89"
+                    TAGREFS="LT4052"
+                    BASELINE="1724 928 2012 928" 
+                    HPOS="1724"
+                    VPOS="844"
+                    WIDTH="279"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="1724 928 1733 844 2003 857 1999 946 1733 950"/></Shape>
+	    <String CONTENT="URRUTY"
+                    HPOS="1724"
+                    VPOS="844"
+                    WIDTH="279"
+                    HEIGHT="106"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_54cf4ded" >
-        <Coords points="880,738 884,667 915,654 964,676 1198,676 1233,645 1340,672 1388,641 1543,645 1578,672 1658,645 1685,729 1640,769 1614,747 1534,747 1472,773 1415,747 1304,747 1225,787 1052,787 1017,760 959,787 884,751"/>
-        <Baseline points="880,738 1685,729"/>
-        <TextEquiv>
-          <Unicode>Demandez à Récalt ?</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_6f61213b"
+                    TAGREFS="LT4052"
+                    BASELINE="897 1410 1928 1388" 
+                    HPOS="897"
+                    VPOS="1295"
+                    WIDTH="1031"
+                    HEIGHT="151">
+            <Shape><Polygon POINTS="897 1410 902 1313 928 1335 990 1322 1096 1344 1238 1340 1264 1322 1295 1335 1415 1304 1490 1304 1521 1331 1689 1331 1742 1295 1915 1295 1928 1388 1915 1428 1857 1428 1817 1401 1715 1432 1654 1432 1618 1406 1552 1432 1516 1410 1309 1410 1282 1432 1194 1415 1101 1446 1017 1446 995 1428 977 1446 942 1428 902 1441"/></Shape>
+	    <String CONTENT="Il en sait quelque chose"
+                    HPOS="897"
+                    VPOS="1295"
+                    WIDTH="1031"
+                    HEIGHT="151"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_cac07f89" >
-        <Coords points="1724,928 1733,844 2003,857 1999,946 1733,950"/>
-        <Baseline points="1724,928 2012,928"/>
-        <TextEquiv>
-          <Unicode>URRUTY</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_8c03514e"
+                    TAGREFS="LT4052"
+                    BASELINE="1724 1260 2007 1247" 
+                    HPOS="1724"
+                    VPOS="1167"
+                    WIDTH="270"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="1724 1260 1729 1189 1751 1171 1782 1189 1800 1167 1994 1176 1994 1273 1808 1295 1729 1282"/></Shape>
+	    <String CONTENT="HASTOY"
+                    HPOS="1724"
+                    VPOS="1167"
+                    WIDTH="270"
+                    HEIGHT="128"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_7e788cfe" >
-        <Coords points="888,1074 893,1003 990,1008 1030,972 1079,999 1136,972 1202,999 1260,968 1317,972 1331,1061 1313,1096 1269,1079 1211,1105 1167,1087 1145,1114 1034,1123 1008,1101 893,1087"/>
-        <Baseline points="888,1074 1331,1061"/>
-        <TextEquiv>
-          <Unicode>A Récalt ?</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_cb602fd3"
+                    TAGREFS="LT4052"
+                    BASELINE="893 1733 1145 1733" 
+                    HPOS="893"
+                    VPOS="1654"
+                    WIDTH="243"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="893 1733 902 1654 959 1676 1003 1658 1030 1676 1101 1654 1136 1667 1136 1746 1070 1746 1039 1773 902 1755"/></Shape>
+	    <String CONTENT="Moi ?"
+                    HPOS="893"
+                    VPOS="1654"
+                    WIDTH="243"
+                    HEIGHT="119"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_8c03514e" >
-        <Coords points="1724,1260 1729,1189 1751,1171 1782,1189 1800,1167 1994,1176 1994,1273 1808,1295 1729,1282"/>
-        <Baseline points="1724,1260 2007,1247"/>
-        <TextEquiv>
-          <Unicode>HASTOY</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_2bce36ba"
+                    TAGREFS="LT4052"
+                    BASELINE="1729 1592 2016 1592" 
+                    HPOS="1729"
+                    VPOS="1521"
+                    WIDTH="287"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="1729 1592 1738 1525 2007 1521 2016 1592 1999 1623 1981 1605 1919 1623 1888 1605 1738 1631"/></Shape>
+	    <String CONTENT="RECALT"
+                    HPOS="1729"
+                    VPOS="1521"
+                    WIDTH="287"
+                    HEIGHT="110"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_6f61213b" >
-        <Coords points="897,1410 902,1313 928,1335 990,1322 1096,1344 1238,1340 1264,1322 1295,1335 1415,1304 1490,1304 1521,1331 1689,1331 1742,1295 1915,1295 1928,1388 1915,1428 1857,1428 1817,1401 1715,1432 1654,1432 1618,1406 1552,1432 1516,1410 1309,1410 1282,1432 1194,1415 1101,1446 1017,1446 995,1428 977,1446 942,1428 902,1441"/>
-        <Baseline points="897,1410 1928,1388"/>
-        <TextEquiv>
-          <Unicode>Il en sait quelque chose</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_c8658082"
+                    TAGREFS="LT4052"
+                    BASELINE="897 2069 2573 2047" 
+                    HPOS="897"
+                    VPOS="1954"
+                    WIDTH="1676"
+                    HEIGHT="151">
+            <Shape><Polygon POINTS="897 2069 902 1998 1008 1972 1220 1998 1379 1981 1415 1994 1525 1968 1636 1990 1676 1968 1786 1963 1830 1990 1884 1990 1937 1968 2100 1985 2149 1959 2229 1954 2383 1981 2441 1981 2476 1959 2498 1976 2543 1968 2560 1976 2573 2047 2529 2082 2419 2065 2392 2087 2273 2087 2242 2065 2193 2087 2144 2069 2083 2091 1985 2091 1950 2065 1901 2087 1835 2069 1746 2091 1715 2069 1614 2069 1578 2087 1508 2074 1459 2100 1437 2082 1419 2100 1251 2087 1220 2105 1012 2078 906 2105"/></Shape>
+	    <String CONTENT="Et ta fille donc ? (Mouvement de Récalt)"
+                    HPOS="897"
+                    VPOS="1954"
+                    WIDTH="1676"
+                    HEIGHT="151"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_2bce36ba" >
-        <Coords points="1729,1592 1738,1525 2007,1521 2016,1592 1999,1623 1981,1605 1919,1623 1888,1605 1738,1631"/>
-        <Baseline points="1729,1592 2016,1592"/>
-        <TextEquiv>
-          <Unicode>RECALT</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_1fe58775"
+                    TAGREFS="LT4052"
+                    BASELINE="1733 1928 2021 1919" 
+                    HPOS="1733"
+                    VPOS="1835"
+                    WIDTH="288"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="1733 1928 1738 1861 1755 1853 1861 1861 1888 1835 1937 1835 2007 1857 2021 1919 1976 1950 1897 1932 1742 1950"/></Shape>
+	    <String CONTENT="HASTOY"
+                    HPOS="1733"
+                    VPOS="1835"
+                    WIDTH="288"
+                    HEIGHT="115"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_cb602fd3" >
-        <Coords points="893,1733 902,1654 959,1676 1003,1658 1030,1676 1101,1654 1136,1667 1136,1746 1070,1746 1039,1773 902,1755"/>
-        <Baseline points="893,1733 1145,1733"/>
-        <TextEquiv>
-          <Unicode>Moi ?</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_0d1870cb"
+                    TAGREFS="LT4052"
+                    BASELINE="902 2401 2843 2379" 
+                    HPOS="902"
+                    VPOS="2290"
+                    WIDTH="1941"
+                    HEIGHT="151">
+            <Shape><Polygon POINTS="902 2401 906 2326 928 2308 972 2339 1083 2339 1110 2321 1136 2339 1180 2321 1202 2339 1242 2321 1269 2339 1304 2321 1446 2335 1539 2304 1667 2335 1689 2312 1724 2330 1786 2299 1968 2299 1994 2321 2078 2295 2290 2326 2352 2308 2397 2326 2503 2290 2578 2308 2618 2295 2658 2321 2759 2308 2830 2321 2843 2379 2812 2423 2684 2423 2644 2392 2476 2392 2419 2410 2352 2401 2321 2427 2282 2410 2202 2410 2184 2427 2158 2410 2127 2427 1950 2410 1901 2423 1866 2401 1835 2423 1738 2401 1671 2436 1556 2405 1419 2405 1282 2441 1260 2423 1211 2441 1043 2441 1012 2414 972 2432 950 2410 906 2410"/></Shape>
+	    <String CONTENT="Sa fille, mieux vaudrait l&#x27;attacher à la maison"
+                    HPOS="902"
+                    VPOS="2290"
+                    WIDTH="1941"
+                    HEIGHT="151"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_1fe58775" >
-        <Coords points="1733,1928 1738,1861 1755,1853 1861,1861 1888,1835 1937,1835 2007,1857 2021,1919 1976,1950 1897,1932 1742,1950"/>
-        <Baseline points="1733,1928 2021,1919"/>
-        <TextEquiv>
-          <Unicode>HASTOY</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_9caabe79"
+                    TAGREFS="LT4052"
+                    BASELINE="1698 2255 2065 2255" 
+                    HPOS="1698"
+                    VPOS="2171"
+                    WIDTH="358"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="1698 2255 1707 2189 1760 2171 1813 2189 1875 2171 2003 2189 2056 2171 2056 2264 1963 2286 1915 2264 1848 2290 1707 2295"/></Shape>
+	    <String CONTENT="BARNETCH"
+                    HPOS="1698"
+                    VPOS="2171"
+                    WIDTH="358"
+                    HEIGHT="124"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_c8658082" >
-        <Coords points="897,2069 902,1998 1008,1972 1220,1998 1379,1981 1415,1994 1525,1968 1636,1990 1676,1968 1786,1963 1830,1990 1884,1990 1937,1968 2100,1985 2149,1959 2229,1954 2383,1981 2441,1981 2476,1959 2498,1976 2543,1968 2560,1976 2573,2047 2529,2082 2419,2065 2392,2087 2273,2087 2242,2065 2193,2087 2144,2069 2083,2091 1985,2091 1950,2065 1901,2087 1835,2069 1746,2091 1715,2069 1614,2069 1578,2087 1508,2074 1459,2100 1437,2082 1419,2100 1251,2087 1220,2105 1012,2078 906,2105"/>
-        <Baseline points="897,2069 2573,2047"/>
-        <TextEquiv>
-          <Unicode>Et ta fille donc ? (Mouvement de Récalt)</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_78118fa8"
+                    TAGREFS="LT4052"
+                    BASELINE="911 2733 1543 2733" 
+                    HPOS="911"
+                    VPOS="2635"
+                    WIDTH="632"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="911 2733 919 2662 1101 2662 1127 2640 1176 2662 1225 2635 1326 2657 1397 2635 1516 2635 1534 2649 1543 2733 1521 2755 1432 2750 1379 2781 1282 2777 1264 2759 1238 2781 1132 2781 1105 2755 950 2772 919 2750"/></Shape>
+	    <String CONTENT="Au pied du lit !"
+                    HPOS="911"
+                    VPOS="2635"
+                    WIDTH="632"
+                    HEIGHT="146"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_9caabe79" >
-        <Coords points="1698,2255 1707,2189 1760,2171 1813,2189 1875,2171 2003,2189 2056,2171 2056,2264 1963,2286 1915,2264 1848,2290 1707,2295"/>
-        <Baseline points="1698,2255 2065,2255"/>
-        <TextEquiv>
-          <Unicode>BARNETCH</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_1ef81f5b"
+                    TAGREFS="LT4052"
+                    BASELINE="1698 2591 2423 2582" 
+                    HPOS="1698"
+                    VPOS="2503"
+                    WIDTH="725"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="1698 2591 1702 2529 1746 2507 1888 2529 1923 2507 2029 2520 2060 2503 2083 2525 2410 2507 2423 2582 2414 2626 2317 2600 2237 2622 2060 2600 2007 2631 1928 2631 1897 2604 1839 2631 1707 2622"/></Shape>
+	    <String CONTENT="HASTOY (insolent)"
+                    HPOS="1698"
+                    VPOS="2503"
+                    WIDTH="725"
+                    HEIGHT="128"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_0d1870cb" >
-        <Coords points="902,2401 906,2326 928,2308 972,2339 1083,2339 1110,2321 1136,2339 1180,2321 1202,2339 1242,2321 1269,2339 1304,2321 1446,2335 1539,2304 1667,2335 1689,2312 1724,2330 1786,2299 1968,2299 1994,2321 2078,2295 2290,2326 2352,2308 2397,2326 2503,2290 2578,2308 2618,2295 2658,2321 2759,2308 2830,2321 2843,2379 2812,2423 2684,2423 2644,2392 2476,2392 2419,2410 2352,2401 2321,2427 2282,2410 2202,2410 2184,2427 2158,2410 2127,2427 1950,2410 1901,2423 1866,2401 1835,2423 1738,2401 1671,2436 1556,2405 1419,2405 1282,2441 1260,2423 1211,2441 1043,2441 1012,2414 972,2432 950,2410 906,2410"/>
-        <Baseline points="902,2401 2843,2379"/>
-        <TextEquiv>
-          <Unicode>Sa fille, mieux vaudrait l&#39;attacher à la maison</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_67a617a7"
+                    TAGREFS="LT4052"
+                    BASELINE="911 3073 2414 3051" 
+                    HPOS="911"
+                    VPOS="2963"
+                    WIDTH="1503"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="911 3073 915 2994 933 2980 1003 3011 1061 2985 1087 3007 1163 2980 1233 3002 1260 2976 1371 3007 1499 3007 1521 2989 1649 3002 1685 2980 1773 3002 1870 2967 1963 2980 2105 2963 2189 2994 2321 2985 2339 2967 2401 2994 2414 3051 2401 3082 2304 3082 2286 3064 2211 3082 2189 3060 2114 3060 2060 3082 2021 3064 1994 3086 1954 3064 1928 3086 1839 3086 1813 3064 1671 3091 1605 3069 1570 3091 1525 3069 1459 3091 1415 3073 1397 3095 1362 3073 1286 3095 1118 3078 1074 3078 1052 3100 915 3086"/></Shape>
+	    <String CONTENT="Tu l&#x27;as dit... que la laisser courir."
+                    HPOS="911"
+                    VPOS="2963"
+                    WIDTH="1503"
+                    HEIGHT="137"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_1ef81f5b" >
-        <Coords points="1698,2591 1702,2529 1746,2507 1888,2529 1923,2507 2029,2520 2060,2503 2083,2525 2410,2507 2423,2582 2414,2626 2317,2600 2237,2622 2060,2600 2007,2631 1928,2631 1897,2604 1839,2631 1707,2622"/>
-        <Baseline points="1698,2591 2423,2582"/>
-        <TextEquiv>
-          <Unicode>HASTOY (insolent)</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_2aa7beae"
+                    TAGREFS="LT4052"
+                    BASELINE="1667 2927 2613 2914" 
+                    HPOS="1667"
+                    VPOS="2825"
+                    WIDTH="946"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="1667 2927 1680 2834 1715 2852 1777 2834 1861 2861 1901 2834 2007 2852 2118 2830 2158 2856 2242 2839 2286 2856 2485 2852 2573 2825 2600 2848 2613 2914 2578 2949 2556 2932 2485 2949 2277 2936 2246 2954 1994 2936 1968 2954 1945 2940 1844 2958 1817 2940 1782 2958 1676 2940"/></Shape>
+	    <String CONTENT="BARNETCH (l&#x27;approuvant)"
+                    HPOS="1667"
+                    VPOS="2825"
+                    WIDTH="946"
+                    HEIGHT="133"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_78118fa8" >
-        <Coords points="911,2733 919,2662 1101,2662 1127,2640 1176,2662 1225,2635 1326,2657 1397,2635 1516,2635 1534,2649 1543,2733 1521,2755 1432,2750 1379,2781 1282,2777 1264,2759 1238,2781 1132,2781 1105,2755 950,2772 919,2750"/>
-        <Baseline points="911,2733 1543,2733"/>
-        <TextEquiv>
-          <Unicode>Au pied du lit !</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_59a016ae"
+                    TAGREFS="LT4052"
+                    BASELINE="1269 3263 3188 3241" 
+                    HPOS="1269"
+                    VPOS="3162"
+                    WIDTH="1919"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="1269 3263 1273 3201 1322 3179 1472 3193 1547 3175 1636 3197 1654 3179 1698 3193 1875 3170 1901 3193 1968 3175 2021 3193 2043 3170 2171 3188 2193 3166 2277 3166 2295 3184 2343 3166 2366 3188 2428 3188 2485 3162 2600 3184 2662 3166 2684 3184 2803 3184 2821 3162 2852 3179 3126 3166 3175 3179 3188 3241 3162 3277 3126 3254 2817 3254 2768 3281 2706 3281 2684 3259 2551 3281 2428 3259 2317 3285 2211 3285 2180 3268 2078 3285 2052 3263 1945 3290 1848 3290 1826 3268 1800 3290 1676 3272 1596 3294 1446 3294 1419 3277 1401 3294 1335 3294 1309 3272 1273 3277"/></Shape>
+	    <String CONTENT="RECALT (furieux, levant son makila sur Barnetch"
+                    HPOS="1269"
+                    VPOS="3162"
+                    WIDTH="1919"
+                    HEIGHT="132"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_2aa7beae" >
-        <Coords points="1667,2927 1680,2834 1715,2852 1777,2834 1861,2861 1901,2834 2007,2852 2118,2830 2158,2856 2242,2839 2286,2856 2485,2852 2573,2825 2600,2848 2613,2914 2578,2949 2556,2932 2485,2949 2277,2936 2246,2954 1994,2936 1968,2954 1945,2940 1844,2958 1817,2940 1782,2958 1676,2940"/>
-        <Baseline points="1667,2927 2613,2914"/>
-        <TextEquiv>
-          <Unicode>BARNETCH (l&#39;approuvant)</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_0721b119"
+                    TAGREFS="LT4052"
+                    BASELINE="915 3400 1477 3392" 
+                    HPOS="915"
+                    VPOS="3308"
+                    WIDTH="562"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="915 3400 919 3312 995 3312 1039 3338 1083 3338 1105 3316 1132 3338 1185 3338 1415 3308 1463 3330 1477 3392 1357 3431 1202 3409 1101 3436 1043 3405 1026 3423 919 3405"/></Shape>
+	    <String CONTENT="C&#x27;est assez !"
+                    HPOS="915"
+                    VPOS="3308"
+                    WIDTH="562"
+                    HEIGHT="128"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_67a617a7" >
-        <Coords points="911,3073 915,2994 933,2980 1003,3011 1061,2985 1087,3007 1163,2980 1233,3002 1260,2976 1371,3007 1499,3007 1521,2989 1649,3002 1685,2980 1773,3002 1870,2967 1963,2980 2105,2963 2189,2994 2321,2985 2339,2967 2401,2994 2414,3051 2401,3082 2304,3082 2286,3064 2211,3082 2189,3060 2114,3060 2060,3082 2021,3064 1994,3086 1954,3064 1928,3086 1839,3086 1813,3064 1671,3091 1605,3069 1570,3091 1525,3069 1459,3091 1415,3073 1397,3095 1362,3073 1286,3095 1118,3078 1074,3078 1052,3100 915,3086"/>
-        <Baseline points="911,3073 2414,3051"/>
-        <TextEquiv>
-          <Unicode>Tu l&#39;as dit... que la laisser courir.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_63450167"
+                    TAGREFS="LT4052"
+                    BASELINE="915 3737 3294 3714" 
+                    HPOS="915"
+                    VPOS="3639"
+                    WIDTH="2379"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="915 3737 919 3675 981 3652 1052 3670 1105 3652 1127 3670 1291 3652 1317 3675 1397 3675 1455 3652 1516 3670 1561 3648 1587 3666 1654 3652 1738 3670 1773 3648 1901 3666 2114 3644 2251 3666 2277 3644 2361 3661 2450 3661 2489 3639 2578 3657 2609 3639 2658 3661 2759 3661 2781 3639 2826 3657 3263 3644 3294 3714 3277 3732 3117 3723 3100 3741 2994 3719 2949 3741 2896 3723 2711 3723 2666 3745 2569 3728 2543 3745 2339 3750 2202 3728 2144 3750 2096 3728 2016 3750 1808 3732 1755 3754 1662 3737 1636 3754 1450 3737 1410 3750 1393 3732 1322 3737 1300 3759 1154 3737 977 3759 950 3737 919 3741"/></Shape>
+	    <String CONTENT="Halte-là ! Parlons de Gracien, sa jeunesse, son adresse..."
+                    HPOS="915"
+                    VPOS="3639"
+                    WIDTH="2379"
+                    HEIGHT="120"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_59a016ae" >
-        <Coords points="1269,3263 1273,3201 1322,3179 1472,3193 1547,3175 1636,3197 1654,3179 1698,3193 1875,3170 1901,3193 1968,3175 2021,3193 2043,3170 2171,3188 2193,3166 2277,3166 2295,3184 2343,3166 2366,3188 2428,3188 2485,3162 2600,3184 2662,3166 2684,3184 2803,3184 2821,3162 2852,3179 3126,3166 3175,3179 3188,3241 3162,3277 3126,3254 2817,3254 2768,3281 2706,3281 2684,3259 2551,3281 2428,3259 2317,3285 2211,3285 2180,3268 2078,3285 2052,3263 1945,3290 1848,3290 1826,3268 1800,3290 1676,3272 1596,3294 1446,3294 1419,3277 1401,3294 1335,3294 1309,3272 1273,3277"/>
-        <Baseline points="1269,3263 3188,3241"/>
-        <TextEquiv>
-          <Unicode>RECALT (furieux, levant son makila sur Barnetch</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_4f15787d"
+                    TAGREFS="LT4052"
+                    BASELINE="1627 3591 2587 3591" 
+                    HPOS="1627"
+                    VPOS="3515"
+                    WIDTH="960"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="1627 3591 1654 3515 2547 3515 2578 3529 2587 3591 2578 3622 2476 3622 2414 3599 2193 3599 2167 3622 2140 3599 2074 3622 1773 3622 1751 3604 1636 3617"/></Shape>
+	    <String CONTENT="HASTOY (parant le coup)"
+                    HPOS="1627"
+                    VPOS="3515"
+                    WIDTH="960"
+                    HEIGHT="107"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_0721b119" >
-        <Coords points="915,3400 919,3312 995,3312 1039,3338 1083,3338 1105,3316 1132,3338 1185,3338 1415,3308 1463,3330 1477,3392 1357,3431 1202,3409 1101,3436 1043,3405 1026,3423 919,3405"/>
-        <Baseline points="915,3400 1477,3392"/>
-        <TextEquiv>
-          <Unicode>C&#39;est assez !</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_62f7a766"
+                    TAGREFS="LT4052"
+                    BASELINE="919 3869 3308 3843" 
+                    HPOS="919"
+                    VPOS="3767"
+                    WIDTH="2389"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="919 3869 924 3812 999 3785 1171 3785 1207 3807 1340 3781 1508 3803 1609 3803 1627 3785 1698 3803 1760 3776 1813 3776 1839 3798 1906 3781 1928 3798 2096 3798 2131 3772 2220 3794 2352 3772 2520 3794 2604 3767 2649 3785 2706 3767 2759 3790 2795 3772 2817 3790 2874 3772 2914 3790 2998 3785 3016 3767 3140 3785 3166 3767 3294 3785 3308 3843 3184 3874 3078 3851 3038 3869 3007 3851 2967 3878 2742 3856 2600 3882 2573 3856 2543 3878 2352 3860 2299 3887 2162 3887 2140 3869 2105 3891 1954 3891 1928 3865 1884 3887 1844 3865 1822 3887 1720 3878 1702 3896 1539 3896 1508 3874 1463 3896 1388 3896 1366 3874 1326 3891 1247 3874 1220 3896 1127 3874 1087 3896 1065 3874 1030 3896 928 3874"/></Shape>
+	    <String CONTENT="c&#x27;est un basque et de lui se dégage la juvénile ardeur d&#x27;un"
+                    HPOS="919"
+                    VPOS="3767"
+                    WIDTH="2389"
+                    HEIGHT="129"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_4f15787d" >
-        <Coords points="1627,3591 1654,3515 2547,3515 2578,3529 2587,3591 2578,3622 2476,3622 2414,3599 2193,3599 2167,3622 2140,3599 2074,3622 1773,3622 1751,3604 1636,3617"/>
-        <Baseline points="1627,3591 2587,3591"/>
-        <TextEquiv>
-          <Unicode>HASTOY (parant le coup)</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_3b1b5c5d"
+                    TAGREFS="LT4052"
+                    BASELINE="919 3997 1945 3989" 
+                    HPOS="919"
+                    VPOS="3918"
+                    WIDTH="1026"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="919 3997 924 3927 942 3922 995 3940 1194 3940 1211 3922 1256 3940 1291 3922 1406 3940 1432 3918 1552 3918 1570 3936 1640 3918 1879 3936 1910 3918 1932 3931 1945 3989 1923 4011 1826 4002 1808 4020 1733 4002 1627 4020 1592 3997 1441 4006 1428 4024 1388 4024 1366 4002 1317 4024 1291 4006 1211 4024 1065 4020 1043 4002 1008 4020 981 4002 928 4015"/></Shape>
+	    <String CONTENT="coeur pur, noble et fier."
+                    HPOS="919"
+                    VPOS="3918"
+                    WIDTH="1026"
+                    HEIGHT="106"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_63450167" >
-        <Coords points="915,3737 919,3675 981,3652 1052,3670 1105,3652 1127,3670 1291,3652 1317,3675 1397,3675 1455,3652 1516,3670 1561,3648 1587,3666 1654,3652 1738,3670 1773,3648 1901,3666 2114,3644 2251,3666 2277,3644 2361,3661 2450,3661 2489,3639 2578,3657 2609,3639 2658,3661 2759,3661 2781,3639 2826,3657 3263,3644 3294,3714 3277,3732 3117,3723 3100,3741 2994,3719 2949,3741 2896,3723 2711,3723 2666,3745 2569,3728 2543,3745 2339,3750 2202,3728 2144,3750 2096,3728 2016,3750 1808,3732 1755,3754 1662,3737 1636,3754 1450,3737 1410,3750 1393,3732 1322,3737 1300,3759 1154,3737 977,3759 950,3737 919,3741"/>
-        <Baseline points="915,3737 3294,3714"/>
-        <TextEquiv>
-          <Unicode>Halte-là ! Parlons de Gracien, sa jeunesse, son adresse...</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_d0049f98"
+                    TAGREFS="LT4052"
+                    BASELINE="1317 4196 2989 4174" 
+                    HPOS="1317"
+                    VPOS="4095"
+                    WIDTH="1672"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="1317 4196 1322 4112 1419 4112 1437 4130 1455 4112 1600 4112 1645 4130 1746 4112 1808 4130 1848 4108 1945 4121 1981 4104 2021 4104 2043 4126 2313 4126 2379 4099 2467 4121 2649 4121 2733 4095 2781 4117 2865 4099 2901 4117 2976 4095 2989 4174 2976 4219 2799 4196 2737 4219 2666 4219 2640 4196 2476 4196 2454 4214 2370 4196 2339 4223 2153 4201 2105 4227 2043 4227 1985 4201 1954 4219 1906 4205 1870 4232 1738 4205 1702 4232 1654 4214 1640 4232 1547 4236 1481 4210 1410 4232 1379 4210 1322 4210"/></Shape>
+	    <String CONTENT="BARNETCH (insolent passant devant Récalt)"
+                    HPOS="1317"
+                    VPOS="4095"
+                    WIDTH="1672"
+                    HEIGHT="141"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_62f7a766" >
-        <Coords points="919,3869 924,3812 999,3785 1171,3785 1207,3807 1340,3781 1508,3803 1609,3803 1627,3785 1698,3803 1760,3776 1813,3776 1839,3798 1906,3781 1928,3798 2096,3798 2131,3772 2220,3794 2352,3772 2520,3794 2604,3767 2649,3785 2706,3767 2759,3790 2795,3772 2817,3790 2874,3772 2914,3790 2998,3785 3016,3767 3140,3785 3166,3767 3294,3785 3308,3843 3184,3874 3078,3851 3038,3869 3007,3851 2967,3878 2742,3856 2600,3882 2573,3856 2543,3878 2352,3860 2299,3887 2162,3887 2140,3869 2105,3891 1954,3891 1928,3865 1884,3887 1844,3865 1822,3887 1720,3878 1702,3896 1539,3896 1508,3874 1463,3896 1388,3896 1366,3874 1326,3891 1247,3874 1220,3896 1127,3874 1087,3896 1065,3874 1030,3896 928,3874"/>
-        <Baseline points="919,3869 3308,3843"/>
-        <TextEquiv>
-          <Unicode>c&#39;est un basque et de lui se dégage la juvénile ardeur d&#39;un</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_4e92f20e"
+                    TAGREFS="LT4052"
+                    BASELINE="919 4329 2127 4311" 
+                    HPOS="919"
+                    VPOS="4232"
+                    WIDTH="1208"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="919 4329 924 4250 1052 4272 1185 4245 1432 4267 1477 4245 1503 4263 1592 4263 1693 4241 1777 4263 1853 4258 1875 4236 1897 4254 1923 4241 1999 4258 2034 4236 2114 4232 2127 4311 2114 4351 2043 4334 1999 4351 1857 4351 1822 4329 1738 4356 1671 4334 1516 4360 1463 4338 1401 4360 1220 4338 924 4365"/></Shape>
+	    <String CONTENT="Un beau fruit pour ta fille !"
+                    HPOS="919"
+                    VPOS="4232"
+                    WIDTH="1208"
+                    HEIGHT="133"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_3b1b5c5d" >
-        <Coords points="919,3997 924,3927 942,3922 995,3940 1194,3940 1211,3922 1256,3940 1291,3922 1406,3940 1432,3918 1552,3918 1570,3936 1640,3918 1879,3936 1910,3918 1932,3931 1945,3989 1923,4011 1826,4002 1808,4020 1733,4002 1627,4020 1592,3997 1441,4006 1428,4024 1388,4024 1366,4002 1317,4024 1291,4006 1211,4024 1065,4020 1043,4002 1008,4020 981,4002 928,4015"/>
-        <Baseline points="919,3997 1945,3989"/>
-        <TextEquiv>
-          <Unicode>coeur pur, noble et fier.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_74081adf"
+                    TAGREFS="LT4052"
+                    BASELINE="1437 4524 2719 4510" 
+                    HPOS="1437"
+                    VPOS="4435"
+                    WIDTH="1282"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="1437 4524 1455 4444 1525 4462 1667 4444 1693 4466 1742 4466 1769 4444 1844 4444 1866 4462 2251 4462 2326 4457 2352 4435 2485 4435 2512 4457 2680 4440 2706 4457 2719 4510 2711 4546 2582 4528 2520 4541 2503 4524 2463 4546 2343 4524 2290 4550 2074 4550 2052 4528 1861 4555 1729 4533 1605 4555 1446 4537"/></Shape>
+	    <String CONTENT="RECALT (lève encore son makila)"
+                    HPOS="1437"
+                    VPOS="4435"
+                    WIDTH="1282"
+                    HEIGHT="120"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_d0049f98" >
-        <Coords points="1317,4196 1322,4112 1419,4112 1437,4130 1455,4112 1600,4112 1645,4130 1746,4112 1808,4130 1848,4108 1945,4121 1981,4104 2021,4104 2043,4126 2313,4126 2379,4099 2467,4121 2649,4121 2733,4095 2781,4117 2865,4099 2901,4117 2976,4095 2989,4174 2976,4219 2799,4196 2737,4219 2666,4219 2640,4196 2476,4196 2454,4214 2370,4196 2339,4223 2153,4201 2105,4227 2043,4227 1985,4201 1954,4219 1906,4205 1870,4232 1738,4205 1702,4232 1654,4214 1640,4232 1547,4236 1481,4210 1410,4232 1379,4210 1322,4210"/>
-        <Baseline points="1317,4196 2989,4174"/>
-        <TextEquiv>
-          <Unicode>BARNETCH (insolent passant devant Récalt)</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_05f8e403"
+                    TAGREFS="LT4052"
+                    BASELINE="933 4656 1211 4665" 
+                    HPOS="933"
+                    VPOS="4581"
+                    WIDTH="269"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="933 4656 942 4581 1083 4603 1202 4586 1198 4679 1101 4665 937 4683"/></Shape>
+	    <String CONTENT="Gare !"
+                    HPOS="933"
+                    VPOS="4581"
+                    WIDTH="269"
+                    HEIGHT="102"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_4e92f20e" >
-        <Coords points="919,4329 924,4250 1052,4272 1185,4245 1432,4267 1477,4245 1503,4263 1592,4263 1693,4241 1777,4263 1853,4258 1875,4236 1897,4254 1923,4241 1999,4258 2034,4236 2114,4232 2127,4311 2114,4351 2043,4334 1999,4351 1857,4351 1822,4329 1738,4356 1671,4334 1516,4360 1463,4338 1401,4360 1220,4338 924,4365"/>
-        <Baseline points="919,4329 2127,4311"/>
-        <TextEquiv>
-          <Unicode>Un beau fruit pour ta fille !</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2799"
+                   VPOS="249"
+                   WIDTH="294"
+                   HEIGHT="206"
+                   ID="eSc_textblock_92f4e7c6"
+                   TAGREFS="BT10351">
+          <Shape><Polygon POINTS="2799 249 2799 455 3093 455 3093 249"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_bf2b541f"
+                    TAGREFS="LT4052"
+                    BASELINE="2874 367 3029 375" 
+                    HPOS="2874"
+                    VPOS="305"
+                    WIDTH="155"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="2874 367 2887 309 2958 305 2989 336 3020 336 3029 375 3016 424 2949 402 2879 420"/></Shape>
+	    <String CONTENT="-6-"
+                    HPOS="2874"
+                    VPOS="305"
+                    WIDTH="155"
+                    HEIGHT="119"></String>
+          </TextLine>
 
-    
-    
-      <TextLine id="eSc_line_74081adf" >
-        <Coords points="1437,4524 1455,4444 1525,4462 1667,4444 1693,4466 1742,4466 1769,4444 1844,4444 1866,4462 2251,4462 2326,4457 2352,4435 2485,4435 2512,4457 2680,4440 2706,4457 2719,4510 2711,4546 2582,4528 2520,4541 2503,4524 2463,4546 2343,4524 2290,4550 2074,4550 2052,4528 1861,4555 1729,4533 1605,4555 1446,4537"/>
-        <Baseline points="1437,4524 2719,4510"/>
-        <TextEquiv>
-          <Unicode>RECALT (lève encore son makila)</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+        </TextBlock>
+        
 
-    
-    
-      <TextLine id="eSc_line_05f8e403" >
-        <Coords points="933,4656 942,4581 1083,4603 1202,4586 1198,4679 1101,4665 937,4683"/>
-        <Baseline points="933,4656 1211,4665"/>
-        <TextEquiv>
-          <Unicode>Gare !</Unicode>
-        </TextEquiv>
-      </TextLine>
-
-    
-    </TextRegion>
-    
-  </Page>
-</PcGts>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
