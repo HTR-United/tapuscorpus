@@ -1,0 +1,103 @@
+<mets xmlns="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <fileSec>
+    
+    <fileGrp USE="export">
+      
+        <file ID="export1">
+          <FLocat xlink:href="0_f546b_default.xml"/>
+        </file>
+      
+        <file ID="export2">
+          <FLocat xlink:href="3_757c9_default.xml"/>
+        </file>
+      
+        <file ID="export3">
+          <FLocat xlink:href="4_1345a_default.xml"/>
+        </file>
+      
+        <file ID="export4">
+          <FLocat xlink:href="8_62d69_default.xml"/>
+        </file>
+      
+        <file ID="export5">
+          <FLocat xlink:href="13_3536f_default.xml"/>
+        </file>
+      
+        <file ID="export6">
+          <FLocat xlink:href="15_20092_default.xml"/>
+        </file>
+      
+        <file ID="export7">
+          <FLocat xlink:href="19_13cb6_default.xml"/>
+        </file>
+      
+        <file ID="export8">
+          <FLocat xlink:href="27_02656_default.xml"/>
+        </file>
+      
+        <file ID="export9">
+          <FLocat xlink:href="34_94ac2_default.xml"/>
+        </file>
+      
+        <file ID="export10">
+          <FLocat xlink:href="35_38004_default.xml"/>
+        </file>
+      
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="document">
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export1"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export2"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export3"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export4"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export5"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export6"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export7"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export8"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export9"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export10"/>
+      </div>
+      
+    </div>
+  </structMap>
+</mets>
