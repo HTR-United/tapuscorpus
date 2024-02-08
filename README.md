@@ -14,21 +14,23 @@ Ground Truth dataset for French typewritten OCR
 **154 pairs of images and PAGE XML files divided into 9 sub-corpus.**
 
 
-| # | name | nb of images | GT for segmenter? | GT for recognizer? | link(s) to source images | 
-| --- | :---- | :---: | :---: | :---: | ---: | 
-| 1 | 3vagues_Bordes_nd | (15) | y | y | https://gallica.bnf.fr/ark:/12148/btv1b52502601r/manifest.json |
-| 2 | Cat_MNATP_1962| (14) | n | y | https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_050603/c-2cfmj84sh--fdjfx0b91tk6 |
-| 3 | Desnos_Divers_1922-1945 | (14) | y | y | http://bljd.sorbonne.fr/ark:/naan/a011441804309XrO1fa/e3ff656f45 , http://bljd.sorbonne.fr/ark:/naan/a011441804309Dy4ooR/8f9020bc6e , http://bljd.sorbonne.fr/ark:/naan/a01144180430809P21l/036952bd71 , http://bljd.sorbonne.fr/ark:/naan/a0114418043093CzACj/ae2ff446cd |
-| 4 | Jardin_Toussaint_nd | (12) | y | y | https://gallica.bnf.fr/ark:/12148/btv1b10581912k/manifest.json |
-| 5 | Journal_Trépond_nd | (9) | y | y | https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_050082/c-65dxt4cy4--yqhpaasluvz1 |
-| 6 | Lettre_Delatre_Foley_nd | (4) | y | y | https://gallica.bnf.fr/ark:/12148/btv1b525062185/manifest.json |
-| 7 | Parallélisme_Jammes_1929| (6) |y | y | https://gallica.bnf.fr/ark:/12148/btv1b10583038c/manifest.json |
-| 8 | Poesie_Pau_1962 | (2) | y | y | https://gallica.bnf.fr/ark:/12148/btv1b10583138r/manifest.json |
-| 9 | Rapport_BNF_1984 | (10) | y | y | https://gallica.bnf.fr/ark:/12148/btv1b53097347b/manifest.json |
-| 10 | Misc_Europeana_nd | (64) | n | y | Europeana |
+| # | name | nb of images | Date | GT for segmenter? | GT for recognizer? | link(s) to source images | 
+| --- | :---- | :---: | :---: | :---: | :---: | ---: | 
+| 1 | 12148-btv1b52502601r | (15) | X | y | y | https://gallica.bnf.fr/ark:/12148/btv1b52502601r |
+| 2 | 20130043_87-1962-catalogue-dactylographié-des-enregistrements | (14) | 1962 | n | y | https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_050603/c-2cfmj84sh--fdjfx0b91tk6 |
+| 3 | bljd-DSN390-DSN355-DSN113_(27)-DSN169 | (14) | 1922-1945 | y | y | http://bljd.sorbonne.fr/ark:/naan/a011441804309XrO1fa/e3ff656f45 , http://bljd.sorbonne.fr/ark:/naan/a011441804309Dy4ooR/8f9020bc6e , http://bljd.sorbonne.fr/ark:/naan/a01144180430809P21l/036952bd71 , http://bljd.sorbonne.fr/ark:/naan/a0114418043093CzACj/ae2ff446cd |
+| 4 | 12148-btv1b10581912k | (12) | 19?? | y | y | https://gallica.bnf.fr/ark:/12148/btv1b10581912k |
+| 5 | AN-96AP_1-dossier_1-pièces_1_à_202-début-du-journal-dactylographié | (9) | 1914-1917 | y | y | https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_050082/c-65dxt4cy4--yqhpaasluvz1 |
+| 6 | 12148-btv1b525062185 | (4) | X | y | y | https://gallica.bnf.fr/ark:/12148/btv1b525062185 |
+| 7 | 12148-btv1b10583038c | (6) | 1896 | y | y | https://gallica.bnf.fr/ark:/12148/btv1b10583038c |
+| 8 | 12148-btv1b10583138r | (2) | 1962 | y | y | https://gallica.bnf.fr/ark:/12148/btv1b10583138r |
+| 9 | 12148-btv1b53097347b | (10) | 1984 | y | y | https://gallica.bnf.fr/ark:/12148/btv1b53097347b |
+| 10 | europeana-random-selection | (64) | X | n | y | Europeana |
 
 
 - (3): images are blurred (low quality), but readable none the less.
+
+Unfortunately, I did not keep track of the URL related to the images taken at random from Europeana...
 
 
 ## Annotation system

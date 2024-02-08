@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>[10_lettres_autographes_signées_d&#x27;A_[...]Gaillard-Chapelle_A_btv1b530544928_12.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10358" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT10357" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10356" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10355" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10354" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10353" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4055" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/><OtherTag ID="LT4057" LABEL="DefaultLine:Typewritten" DESCRIPTION="line type DefaultLine:Typewritten"/><OtherTag ID="LT4056" LABEL="DefaultLine:Handwritten" DESCRIPTION="line type DefaultLine:Handwritten"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1024"
+          HEIGHT="1312"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1024"
+                  HEIGHT="1312">
+        
+        <TextBlock HPOS="107"
+                   VPOS="48"
+                   WIDTH="861"
+                   HEIGHT="476"
+                   ID="eSc_textblock_4c5b58bc"
+                   TAGREFS="BT10353">
+          <Shape><Polygon POINTS="107 48 107 524 968 524 968 48"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c4d9e7bf"
+                    TAGREFS="LT4057"
+                    BASELINE="140 80 818 66" 
+                    HPOS="140"
+                    VPOS="45"
+                    WIDTH="678"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="140 80 141 57 172 63 190 56 241 62 247 57 293 61 310 54 321 60 347 53 361 53 367 59 398 59 411 54 450 57 469 51 491 51 503 56 512 51 531 50 550 55 565 49 597 54 613 48 623 53 630 49 659 53 690 52 696 48 712 52 731 45 746 50 759 45 766 50 815 49 818 66 816 78 768 74 762 79 704 80 689 72 667 72 658 82 592 82 582 76 574 82 554 83 530 75 521 83 505 75 486 85 459 80 451 86 427 86 410 77 398 86 378 78 361 87 344 80 324 84 320 79 305 79 278 89 261 88 251 80 236 85 180 83 161 90 142 85"/></Shape>
+	    <String CONTENT="seur de lampes, sera renouvellé et dans quelles conditions."
+                    HPOS="140"
+                    VPOS="45"
+                    WIDTH="678"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_de273ca0"
+                    TAGREFS="LT4057"
+                    BASELINE="196 113 933 102" 
+                    HPOS="196"
+                    VPOS="80"
+                    WIDTH="737"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="196 113 202 98 303 98 323 89 343 88 356 88 368 97 385 97 392 91 400 97 405 92 414 97 431 91 438 95 451 87 494 86 504 95 551 90 561 95 571 90 585 92 591 87 604 94 637 94 657 87 673 92 699 92 714 83 724 87 759 83 774 91 788 84 796 87 801 82 833 82 844 87 859 80 883 80 913 89 928 84 933 102 929 110 863 106 840 110 797 107 787 111 694 109 689 113 642 109 630 113 610 110 588 114 569 110 541 115 470 112 455 116 449 112 435 116 377 114 342 119 333 114 327 119 295 115 265 120 215 115 199 120"/></Shape>
+	    <String CONTENT="3° Comme je lui faisait remarquer la sombre clarté (Victor Hugo)"
+                    HPOS="196"
+                    VPOS="80"
+                    WIDTH="737"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dfec0e5b"
+                    TAGREFS="LT4057"
+                    BASELINE="141 136 887 123" 
+                    HPOS="141"
+                    VPOS="107"
+                    WIDTH="746"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="141 136 143 119 324 120 414 114 437 118 449 113 503 116 528 112 629 114 638 110 690 113 699 109 757 112 761 108 813 111 866 107 883 109 887 123 883 127 142 137"/></Shape>
+	    <String CONTENT="de couloirs et que là ma lampe serait avantageuse il me répondit"
+                    HPOS="141"
+                    VPOS="107"
+                    WIDTH="746"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e9c85f61"
+                    TAGREFS="LT4057"
+                    BASELINE="141 157 913 143" 
+                    HPOS="141"
+                    VPOS="125"
+                    WIDTH="772"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="141 157 143 141 153 138 734 127 910 125 913 143 902 150 852 153 668 156 617 148 598 153 563 149 544 155 530 150 515 155 466 151 427 157 416 153 386 159 364 154 355 161 343 155 321 154 300 160 280 155 272 161 248 156 241 161 226 156 201 156 196 160 143 158"/></Shape>
+	    <String CONTENT="que l&#x27;éclairage des couloirs et réduits ou bureaux était secondaire"
+                    HPOS="141"
+                    VPOS="125"
+                    WIDTH="772"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2200149e"
+                    TAGREFS="LT4057"
+                    BASELINE="143 177 627 167" 
+                    HPOS="143"
+                    VPOS="149"
+                    WIDTH="484"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="143 177 146 158 219 161 226 157 242 161 249 156 300 160 305 155 356 159 362 154 381 158 415 157 420 153 460 157 464 151 515 156 525 150 567 155 576 149 617 149 624 154 627 167 624 178 586 170 573 179 544 179 538 172 521 178 509 172 501 180 490 174 458 181 408 182 398 174 335 183 315 176 239 178 227 182 213 178 204 183 164 179 156 186 144 185"/></Shape>
+	    <String CONTENT="(sinon à la lettre du moins dans l&#x27;esprit)"
+                    HPOS="143"
+                    VPOS="149"
+                    WIDTH="484"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_68598aa0"
+                    TAGREFS="LT4057"
+                    BASELINE="146 230 860 218 860 218 928 221" 
+                    HPOS="145"
+                    VPOS="202"
+                    WIDTH="782"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="145 229 147 213 196 213 206 218 223 214 277 217 293 212 339 216 359 209 402 215 444 208 460 214 497 208 545 212 552 207 578 212 606 207 614 212 633 205 649 211 666 211 670 206 679 209 683 205 689 209 745 209 752 203 769 208 804 208 824 202 859 207 924 206 927 220 879 220 864 225 825 220 815 226 762 221 713 227 691 223 672 228 614 225 606 229 550 226 545 230 486 226 469 231 413 232 370 228 358 232 346 228 340 233 292 230 265 235 249 230 245 235 147 236"/></Shape>
+	    <String CONTENT="donner un maximum d&#x27;intensité. Mais là il paraît que de nombreux ...."
+                    HPOS="145"
+                    VPOS="202"
+                    WIDTH="782"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e7c9353b"
+                    TAGREFS="LT4057"
+                    BASELINE="198 209 892 198" 
+                    HPOS="198"
+                    VPOS="168"
+                    WIDTH="694"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="198 209 199 189 212 194 229 186 249 186 261 193 273 186 282 193 307 193 311 189 331 193 342 186 387 192 406 185 429 189 449 184 457 190 472 180 495 188 555 189 582 180 602 189 640 184 657 188 672 182 681 185 696 170 736 170 745 174 752 169 821 168 859 168 889 183 892 198 886 206 824 202 805 207 752 204 728 208 717 204 713 208 692 208 684 204 667 209 631 205 613 211 601 206 551 207 541 212 446 208 440 213 425 209 405 214 358 209 347 214 303 215 283 211 265 216 253 212 242 216 215 212 206 216 199 212"/></Shape>
+	    <String CONTENT="4° J&#x27;ai ensuite agité la question loges ou un luminaire doit"
+                    HPOS="198"
+                    VPOS="168"
+                    WIDTH="694"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_846db311"
+                    TAGREFS="LT4057"
+                    BASELINE="144 251 879 238" 
+                    HPOS="144"
+                    VPOS="223"
+                    WIDTH="735"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="144 251 146 237 166 235 264 236 284 231 326 235 398 229 436 232 515 227 565 230 571 226 623 229 645 225 693 228 870 223 876 225 879 238 854 243 825 240 817 244 757 241 747 245 694 247 634 243 627 248 574 244 510 250 466 247 449 251 145 253"/></Shape>
+	    <String CONTENT="emprunts de lampes administratives réduiraient à zéro l&#x27;économie"
+                    HPOS="144"
+                    VPOS="223"
+                    WIDTH="735"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db75a212"
+                    TAGREFS="LT4057"
+                    BASELINE="143 271 901 253" 
+                    HPOS="143"
+                    VPOS="238"
+                    WIDTH="758"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="143 271 145 254 180 258 188 253 241 256 253 252 266 256 312 251 326 255 351 250 367 254 376 250 424 253 432 248 440 252 461 252 466 248 518 251 533 245 660 248 682 243 747 245 751 241 851 243 876 238 898 242 901 253 896 260 830 261 808 256 803 262 770 259 689 264 665 260 617 266 552 267 527 263 521 268 492 265 471 270 455 265 439 270 427 265 417 271 386 266 374 272 285 268 266 274 238 270 225 275 210 271 184 276 164 272 145 275"/></Shape>
+	    <String CONTENT="possible par l&#x27;emploi de la lampe &quot;Solargent&quot; chaque lampe emprun-"
+                    HPOS="143"
+                    VPOS="238"
+                    WIDTH="758"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e37ae583"
+                    TAGREFS="LT4057"
+                    BASELINE="144 288 890 275" 
+                    HPOS="144"
+                    VPOS="259"
+                    WIDTH="746"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="144 288 146 275 157 276 161 272 202 276 211 271 229 274 242 270 250 275 292 268 323 274 330 268 363 273 385 267 402 272 493 266 499 271 509 266 554 270 579 264 587 268 598 264 621 268 642 262 678 266 683 262 759 265 768 260 795 264 817 260 841 264 853 259 887 264 890 275 874 282 840 283 828 277 815 284 797 278 702 287 592 288 585 283 534 283 506 288 497 284 486 288 462 284 450 289 408 289 397 285 369 290 353 286 345 290 323 288 315 294 294 287 287 293 269 288 241 293 201 289 191 295 184 289 177 294 146 289"/></Shape>
+	    <String CONTENT="tée représenterait une perte séche alors qu&#x27;actuellement le con-"
+                    HPOS="144"
+                    VPOS="259"
+                    WIDTH="746"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9104b9b3"
+                    TAGREFS="LT4057"
+                    BASELINE="143 309 592 299" 
+                    HPOS="143"
+                    VPOS="282"
+                    WIDTH="449"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="143 309 144 293 148 290 166 295 182 290 190 295 249 289 289 293 294 287 341 291 353 286 369 290 397 285 405 289 440 289 461 284 485 288 495 283 501 287 513 284 530 287 542 282 589 286 592 299 582 307 550 303 530 310 497 305 489 310 478 306 443 306 437 312 402 307 392 313 353 313 342 308 336 314 293 311 275 315 261 311 256 315 245 312 242 317 225 317 192 311 181 317 173 312 145 315"/></Shape>
+	    <String CONTENT="trat supplée à ce petit inconvénient!!!"
+                    HPOS="143"
+                    VPOS="282"
+                    WIDTH="449"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b99e16e"
+                    TAGREFS="LT4057"
+                    BASELINE="145 365 869 352" 
+                    HPOS="145"
+                    VPOS="334"
+                    WIDTH="724"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="145 365 147 348 161 346 192 346 196 350 318 348 346 343 374 347 386 342 444 346 505 340 512 344 519 340 590 343 595 338 619 343 627 338 647 342 652 337 667 342 765 336 800 340 810 334 831 334 866 338 869 352 851 357 812 354 792 358 751 355 736 359 692 356 687 360 636 357 627 361 577 358 566 362 455 360 440 365 327 362 319 367 295 364 265 368 214 365 204 369 146 369"/></Shape>
+	    <String CONTENT="ples pouvoir, par disposition spéciale supprimer avec éclairage"
+                    HPOS="145"
+                    VPOS="334"
+                    WIDTH="724"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8088e1d5"
+                    TAGREFS="LT4057"
+                    BASELINE="202 343 892 332" 
+                    HPOS="202"
+                    VPOS="299"
+                    WIDTH="690"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="202 343 203 323 256 325 265 318 276 324 359 320 408 323 417 319 448 322 455 315 475 322 493 314 504 320 515 315 579 315 585 320 595 315 614 320 629 312 642 313 654 302 678 306 684 301 703 301 713 307 718 301 748 306 757 300 889 299 892 332 883 337 825 334 804 338 690 336 673 341 556 338 547 343 496 340 473 344 340 342 334 346 203 347"/></Shape>
+	    <String CONTENT="5° Evidemment j&#x27;avais pensé dans la lustrerie a lampes multi-"
+                    HPOS="202"
+                    VPOS="299"
+                    WIDTH="690"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_64700a6f"
+                    TAGREFS="LT4057"
+                    BASELINE="145 384 892 370" 
+                    HPOS="145"
+                    VPOS="354"
+                    WIDTH="747"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="145 384 152 368 539 364 560 359 603 362 637 358 658 361 661 357 717 360 739 356 833 358 879 354 889 357 892 370 888 375 146 385"/></Shape>
+	    <String CONTENT="égal, sinon supérieur, une lampe sur trois. Mais Monsieur Depailly"
+                    HPOS="145"
+                    VPOS="354"
+                    WIDTH="747"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e31413ae"
+                    TAGREFS="LT4057"
+                    BASELINE="145 402 882 390" 
+                    HPOS="145"
+                    VPOS="373"
+                    WIDTH="737"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="145 402 147 385 201 388 211 383 412 384 427 380 612 381 637 377 830 373 876 375 882 390 880 397 867 393 857 400 848 393 824 397 816 393 792 399 784 394 748 394 730 402 715 395 683 395 670 401 644 396 626 402 564 401 547 405 519 400 479 406 423 406 408 402 398 402 392 407 357 404 277 410 235 403 196 408 173 404 147 406"/></Shape>
+	    <String CONTENT="m&#x27;en a démontré l&#x27;impossibilité et qu&#x27;il fallait remplacer lampe"
+                    HPOS="145"
+                    VPOS="373"
+                    WIDTH="737"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_012a482a"
+                    TAGREFS="LT4057"
+                    BASELINE="145 424 275 422" 
+                    HPOS="145"
+                    VPOS="403"
+                    WIDTH="130"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="145 424 146 408 152 405 199 408 211 403 272 408 275 422 258 430 222 424 211 429 171 425 147 431"/></Shape>
+	    <String CONTENT="pour lampe."
+                    HPOS="145"
+                    VPOS="403"
+                    WIDTH="130"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0b108fb6"
+                    TAGREFS="LT4057"
+                    BASELINE="145 477 783 466 887 468" 
+                    HPOS="144"
+                    VPOS="450"
+                    WIDTH="742"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="144 476 149 461 345 462 365 458 411 461 433 457 475 460 489 455 524 459 561 454 603 458 619 453 681 457 685 452 739 455 754 451 798 454 823 450 882 453 886 467 882 472 775 470 750 474 643 472 617 476 551 473 538 477 422 475 406 479 146 483"/></Shape>
+	    <String CONTENT="à vouloir vous démontrer l&#x27;économie importante à réaliser sur le"
+                    HPOS="144"
+                    VPOS="450"
+                    WIDTH="742"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_40f99da9"
+                    TAGREFS="LT4057"
+                    BASELINE="201 459 862 448" 
+                    HPOS="201"
+                    VPOS="423"
+                    WIDTH="661"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="201 459 202 439 219 434 270 440 315 440 321 434 331 438 338 432 357 439 416 435 458 438 524 436 531 429 552 432 562 427 571 431 575 427 582 431 606 427 626 435 640 435 643 430 647 434 655 428 712 434 718 427 735 424 752 432 769 432 775 428 800 428 807 423 858 423 862 448 854 452 795 453 202 460"/></Shape>
+	    <String CONTENT="Eh bien malgré toutes ces excellentes raisons je persiste"
+                    HPOS="201"
+                    VPOS="423"
+                    WIDTH="661"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_afaf4b4e"
+                    TAGREFS="LT4057"
+                    BASELINE="147 497 870 485" 
+                    HPOS="147"
+                    VPOS="470"
+                    WIDTH="723"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="147 497 149 484 176 481 409 481 474 475 540 478 549 474 737 475 751 471 795 474 808 470 864 472 870 485 860 490 673 489 661 494 609 490 592 495 542 491 527 496 410 494 405 498 355 495 340 499 322 496 148 501"/></Shape>
+	    <String CONTENT="prix de revient du courant même en remplacant lampe pour lampe;"
+                    HPOS="147"
+                    VPOS="470"
+                    WIDTH="723"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="461"
+                   VPOS="508"
+                   WIDTH="97"
+                   HEIGHT="52"
+                   ID="eSc_textblock_324686d7"
+                   TAGREFS="BT10354">
+          <Shape><Polygon POINTS="462 560 461 508 558 508 558 560"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_86aa23ce"
+                    TAGREFS="LT4057"
+                    BASELINE="147 519 472 510 872 507" 
+                    HPOS="146"
+                    VPOS="487"
+                    WIDTH="725"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="146 518 148 502 195 502 200 498 214 502 230 497 239 501 385 496 424 499 447 494 468 498 502 493 513 497 564 497 591 496 596 492 603 496 630 492 643 495 653 490 717 494 737 489 743 494 787 488 819 493 825 488 832 493 854 487 868 490 871 506 869 546 845 547 761 545 703 549 692 541 679 539 631 547 619 541 604 543 589 536 579 545 568 540 563 545 554 541 538 551 476 553 431 525 425 530 402 530 391 539 380 537 366 526 260 529 243 535 235 529 148 530"/></Shape>
+	    <String CONTENT="et c&#x27;est pourquoi je vous ai dressé ce petit tableau comparatif."
+                    HPOS="146"
+                    VPOS="487"
+                    WIDTH="725"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

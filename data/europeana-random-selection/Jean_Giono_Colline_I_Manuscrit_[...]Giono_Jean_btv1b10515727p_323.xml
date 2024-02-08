@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Jean_Giono_Colline_I_Manuscrit_[...]Giono_Jean_btv1b10515727p_323.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10358" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT10357" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10356" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10355" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10354" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10353" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4055" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/><OtherTag ID="LT4057" LABEL="DefaultLine:Typewritten" DESCRIPTION="line type DefaultLine:Typewritten"/><OtherTag ID="LT4056" LABEL="DefaultLine:Handwritten" DESCRIPTION="line type DefaultLine:Handwritten"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1024"
+          HEIGHT="1358"
+          PHYSICAL_IMG_NR="47"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1024"
+                  HEIGHT="1358">
+        
+        <TextBlock HPOS="225"
+                   VPOS="101"
+                   WIDTH="707"
+                   HEIGHT="312"
+                   ID="eSc_textblock_1fd9b65a"
+                   TAGREFS="BT10353">
+          <Shape><Polygon POINTS="226 101 225 413 932 413 932 101"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d30d985d"
+                    TAGREFS="LT4057"
+                    BASELINE="272 141 817 143" 
+                    HPOS="272"
+                    VPOS="116"
+                    WIDTH="545"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="272 141 276 123 299 124 308 116 325 116 333 124 431 124 437 118 466 123 482 118 495 124 538 119 549 125 561 124 569 117 582 124 604 125 618 117 630 124 661 124 668 117 678 123 685 117 720 122 726 117 774 117 780 123 815 125 817 143 786 153 778 147 761 147 754 153 709 153 695 147 651 147 644 153 633 147 600 147 592 153 565 149 545 153 518 152 504 145 495 145 488 152 440 152 432 145 407 152 317 145 303 152 297 147 274 145"/></Shape>
+	    <String CONTENT="Cette femme me dit : nous avons encore du poulet."
+                    HPOS="272"
+                    VPOS="116"
+                    WIDTH="545"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a796e5d"
+                    TAGREFS="LT4057"
+                    BASELINE="272 178 809 181" 
+                    HPOS="272"
+                    VPOS="156"
+                    WIDTH="537"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="272 178 277 156 289 162 308 156 321 162 336 156 346 160 351 156 372 156 379 162 498 162 507 156 526 156 542 164 561 164 568 157 600 157 607 164 617 164 625 157 634 164 676 164 698 157 727 157 736 164 757 157 791 157 806 162 809 181 798 188 778 184 761 188 739 184 735 188 711 188 706 184 652 188 591 184 562 188 555 184 542 188 531 183 467 183 453 187 411 183 274 186"/></Shape>
+	    <String CONTENT="Je lui dis : apporte le poulet et je et je riais"
+                    HPOS="272"
+                    VPOS="156"
+                    WIDTH="537"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2359e610"
+                    TAGREFS="LT4057"
+                    BASELINE="272 218 896 215" 
+                    HPOS="272"
+                    VPOS="190"
+                    WIDTH="624"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="272 218 275 195 296 198 329 192 346 196 371 192 389 198 428 193 473 198 541 196 556 191 583 196 607 196 612 191 623 196 663 196 768 195 777 190 800 195 806 190 838 190 843 195 865 195 871 190 885 190 892 195 896 215 892 228 821 224 815 228 777 228 758 222 753 228 721 224 687 229 627 229 602 224 533 224 525 228 521 224 493 228 391 225 385 230 365 230 354 225 325 230 319 225 303 225 292 230 286 225 274 225"/></Shape>
+	    <String CONTENT="je lui dit apporte le poulet cette femme me dit apporte"
+                    HPOS="272"
+                    VPOS="190"
+                    WIDTH="624"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_594adbad"
+                    TAGREFS="LT4057"
+                    BASELINE="271 253 756 253" 
+                    HPOS="271"
+                    VPOS="233"
+                    WIDTH="485"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="271 253 274 233 304 237 326 233 338 237 356 237 361 233 377 237 550 237 555 233 589 237 645 237 661 233 678 237 706 233 712 237 726 233 754 237 756 253 743 260 710 258 696 263 655 263 649 258 633 258 626 263 616 258 564 263 550 256 491 258 485 263 439 256 289 263 274 258"/></Shape>
+	    <String CONTENT="le poulet les autres le ventre leur pétait"
+                    HPOS="271"
+                    VPOS="233"
+                    WIDTH="485"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d90c2d73"
+                    TAGREFS="LT4057"
+                    BASELINE="271 293 876 289" 
+                    HPOS="271"
+                    VPOS="267"
+                    WIDTH="605"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="271 293 272 274 284 269 316 269 325 276 335 269 354 274 365 269 376 274 382 269 404 269 410 274 441 276 448 269 475 268 507 268 516 274 524 268 540 268 547 274 601 274 608 268 619 274 672 274 728 273 735 267 746 267 753 273 777 273 781 269 791 273 797 268 816 273 823 267 856 271 869 267 876 289 868 304 850 304 845 298 825 298 815 304 805 298 763 304 749 296 730 304 676 297 669 305 638 305 633 299 625 305 596 305 583 298 570 305 548 305 538 298 475 297 467 306 440 298 420 298 407 306 397 298 370 303 359 298 352 305 340 298 295 298 286 306 272 305"/></Shape>
+	    <String CONTENT="puis sonpetis oeil d&#x27;acier se tourne vers les marmites"
+                    HPOS="271"
+                    VPOS="267"
+                    WIDTH="605"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea62beb9"
+                    TAGREFS="LT4057"
+                    BASELINE="272 325 677 329" 
+                    HPOS="272"
+                    VPOS="303"
+                    WIDTH="405"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="272 325 274 307 280 306 350 307 359 303 381 307 396 303 408 308 492 308 542 304 560 310 667 306 673 310 677 329 672 345 662 339 646 346 617 346 608 337 587 337 581 344 555 337 548 344 535 345 523 337 475 337 467 345 430 345 419 336 405 337 398 344 367 344 361 338 352 344 344 336 336 336 322 344 309 344 299 334 285 334 274 344"/></Shape>
+	    <String CONTENT="c&#x27;est défendu de se reposer chez toi"
+                    HPOS="272"
+                    VPOS="303"
+                    WIDTH="405"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="862"
+                   VPOS="17"
+                   WIDTH="92"
+                   HEIGHT="55"
+                   ID="eSc_textblock_375511df"
+                   TAGREFS="BT10356">
+          <Shape><Polygon POINTS="864 17 862 72 954 72 954 17"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ab9b51ee"
+                    TAGREFS="LT4057"
+                    BASELINE="894 52 943 54" 
+                    HPOS="894"
+                    VPOS="35"
+                    WIDTH="47"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="894 52 897 36 941 35 939 86 908 75 894 79"/></Shape>
+	    <String CONTENT="160"
+                    HPOS="894"
+                    VPOS="35"
+                    WIDTH="47"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

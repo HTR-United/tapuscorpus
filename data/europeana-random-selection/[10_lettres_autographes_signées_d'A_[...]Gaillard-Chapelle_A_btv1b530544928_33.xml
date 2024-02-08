@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>[10_lettres_autographes_signées_d&#x27;A_[...]Gaillard-Chapelle_A_btv1b530544928_33.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10358" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT10357" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10356" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10355" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10354" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10353" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4055" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/><OtherTag ID="LT4057" LABEL="DefaultLine:Typewritten" DESCRIPTION="line type DefaultLine:Typewritten"/><OtherTag ID="LT4056" LABEL="DefaultLine:Handwritten" DESCRIPTION="line type DefaultLine:Handwritten"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1024"
+          HEIGHT="1312"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1024"
+                  HEIGHT="1312">
+        
+        <TextBlock HPOS="241"
+                   VPOS="164"
+                   WIDTH="746"
+                   HEIGHT="493"
+                   ID="eSc_textblock_93ba88a1"
+                   TAGREFS="BT10353">
+          <Shape><Polygon POINTS="241 164 241 657 987 657 987 164"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f77c423d"
+                    TAGREFS="LT4057"
+                    BASELINE="369 204 800 201" 
+                    HPOS="369"
+                    VPOS="167"
+                    WIDTH="431"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="369 204 370 182 390 169 435 170 459 182 510 182 526 181 539 168 594 168 615 180 621 174 632 179 656 178 678 169 697 179 704 173 716 179 725 170 738 167 761 180 797 180 800 201 797 212 771 207 726 212 718 205 693 212 662 205 647 213 613 206 604 213 582 212 575 206 539 211 533 206 512 213 498 208 489 214 468 214 448 207 436 213 427 207 391 214 370 207"/></Shape>
+	    <String CONTENT="Ce qui suit a été écrit le 4 Janvier."
+                    HPOS="369"
+                    VPOS="167"
+                    WIDTH="431"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cfa64a40"
+                    TAGREFS="LT4057"
+                    BASELINE="369 241 926 236" 
+                    HPOS="369"
+                    VPOS="209"
+                    WIDTH="557"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="369 241 374 217 443 220 449 214 467 214 479 220 489 213 517 219 548 213 559 219 580 219 591 212 608 218 622 212 635 216 657 212 668 218 692 212 702 218 720 214 751 217 758 212 775 217 782 211 813 217 829 216 835 211 843 214 847 209 878 209 886 216 902 216 916 209 923 211 926 236 917 247 887 247 874 241 859 247 852 241 838 241 832 247 822 242 795 248 780 242 772 247 752 242 702 249 669 249 662 244 648 249 640 243 609 243 590 250 583 244 568 244 563 250 542 250 538 245 528 249 524 244 510 250 493 250 486 244 457 249 440 245 426 251 371 249"/></Shape>
+	    <String CONTENT="Or, le 11 du même mois m&#x27;apporte la nouvelle que"
+                    HPOS="369"
+                    VPOS="209"
+                    WIDTH="557"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02a333ff"
+                    TAGREFS="LT4057"
+                    BASELINE="299 279 917 273" 
+                    HPOS="299"
+                    VPOS="250"
+                    WIDTH="618"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="299 279 300 255 340 261 356 255 401 254 413 254 420 261 448 254 459 254 467 261 493 261 503 254 525 253 542 259 561 254 568 260 582 255 600 260 606 254 612 259 658 259 671 252 678 259 730 258 754 252 762 256 773 252 783 258 795 251 810 258 830 252 856 256 862 251 880 250 896 256 914 256 917 273 904 285 860 285 854 279 850 284 829 285 789 284 781 279 758 286 727 280 679 280 675 285 645 280 629 287 612 283 608 288 524 288 505 283 490 288 480 283 438 283 427 288 389 285 376 289 366 284 300 284"/></Shape>
+	    <String CONTENT="les Directeurs envisagent enfin la manière forte pour"
+                    HPOS="299"
+                    VPOS="250"
+                    WIDTH="618"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a5b3dc9"
+                    TAGREFS="LT4057"
+                    BASELINE="301 318 445 315" 
+                    HPOS="301"
+                    VPOS="294"
+                    WIDTH="144"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="301 318 303 299 339 300 348 295 384 299 391 294 406 294 413 299 426 294 441 299 445 315 443 323 404 323 399 319 380 323 304 323"/></Shape>
+	    <String CONTENT="se défendre."
+                    HPOS="301"
+                    VPOS="294"
+                    WIDTH="144"
+                    HEIGHT="29"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67a8b137"
+                    TAGREFS="LT4057"
+                    BASELINE="369 355 928 350" 
+                    HPOS="369"
+                    VPOS="326"
+                    WIDTH="559"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="369 355 370 335 377 330 401 336 426 331 433 334 438 330 455 336 481 336 515 329 572 335 584 329 640 329 646 334 685 334 693 328 710 334 736 334 753 329 766 334 778 328 787 334 815 333 819 329 828 333 847 333 852 329 863 333 870 328 909 333 922 326 928 350 905 360 894 355 778 361 706 361 701 356 677 361 671 356 666 361 633 357 589 362 549 357 538 362 521 359 507 364 476 364 471 358 455 358 447 364 422 358 415 364 409 359 402 364 370 358"/></Shape>
+	    <String CONTENT="Il n&#x27;en est pas moins vrai que, quels que soient"
+                    HPOS="369"
+                    VPOS="326"
+                    WIDTH="559"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f0f39acb"
+                    TAGREFS="LT4057"
+                    BASELINE="299 392 928 388" 
+                    HPOS="299"
+                    VPOS="367"
+                    WIDTH="629"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="299 392 300 372 316 373 320 369 331 375 350 369 376 375 382 369 406 375 444 375 492 368 521 368 531 373 544 368 569 368 575 373 582 369 608 373 631 367 646 372 708 367 722 367 727 372 795 368 816 371 823 367 829 371 920 370 925 371 928 388 921 394 881 393 875 400 851 400 843 393 835 400 821 400 815 393 771 393 745 401 730 394 714 395 708 401 679 401 671 394 613 394 606 402 589 395 577 402 557 396 550 402 524 396 495 401 490 395 461 401 456 395 447 402 439 397 434 403 329 403 300 397"/></Shape>
+	    <String CONTENT="les avantages inévitablement accordés par le Gouverne-"
+                    HPOS="299"
+                    VPOS="367"
+                    WIDTH="629"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_016bc889"
+                    TAGREFS="LT4057"
+                    BASELINE="300 430 952 426" 
+                    HPOS="300"
+                    VPOS="402"
+                    WIDTH="652"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="300 430 301 410 317 413 329 405 343 406 350 413 373 413 381 405 396 412 410 406 423 413 456 412 460 407 480 412 487 404 515 405 521 412 539 404 554 412 585 412 595 404 669 411 681 403 703 411 783 411 794 402 874 402 886 410 920 410 928 403 938 404 949 410 952 426 945 436 933 434 925 438 909 431 898 437 888 431 877 438 855 438 846 431 794 431 780 437 758 432 743 439 714 439 702 432 689 438 670 432 635 432 625 440 603 435 575 440 568 434 553 434 548 438 538 435 532 440 479 437 462 441 377 441 371 437 366 441 343 441 336 435 303 435"/></Shape>
+	    <String CONTENT="ment, si les Directeurs y trouvent un peu plus d&#x27;élasti-"
+                    HPOS="300"
+                    VPOS="402"
+                    WIDTH="652"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b7bfe528"
+                    TAGREFS="LT4057"
+                    BASELINE="300 469 939 464" 
+                    HPOS="300"
+                    VPOS="442"
+                    WIDTH="639"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="300 469 301 449 316 450 321 446 352 446 356 450 431 446 450 450 459 444 467 449 475 444 493 449 565 449 579 444 600 449 619 443 625 448 646 448 652 443 694 443 701 448 753 443 777 448 785 442 824 442 829 447 848 442 875 447 899 442 910 447 922 442 936 447 939 464 933 477 926 474 921 478 911 472 894 476 876 473 870 478 866 474 841 478 833 472 819 478 799 478 793 473 777 479 726 473 707 477 704 474 694 479 681 473 662 479 635 473 619 481 582 481 575 474 567 481 534 481 527 474 502 475 496 481 450 475 443 482 400 482 390 475 303 475"/></Shape>
+	    <String CONTENT="cité pour leur trésorerie, le Public n&#x27;en désertera pas"
+                    HPOS="300"
+                    VPOS="442"
+                    WIDTH="639"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d3d1ead9"
+                    TAGREFS="LT4057"
+                    BASELINE="301 506 894 502" 
+                    HPOS="301"
+                    VPOS="479"
+                    WIDTH="593"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="301 506 303 487 343 483 350 487 361 483 431 487 437 482 483 482 496 487 518 482 549 485 576 481 596 486 600 482 611 485 642 481 660 485 679 481 694 486 718 481 737 485 743 479 807 485 883 479 891 485 894 502 892 519 875 514 839 519 817 512 801 519 759 519 748 510 726 510 719 517 702 518 697 513 667 511 658 520 621 520 590 511 576 511 563 518 504 511 483 514 476 521 449 521 441 513 423 512 406 521 389 512 377 512 362 521 336 512 304 513"/></Shape>
+	    <String CONTENT="moins les salles, à moins que le prix des places ne"
+                    HPOS="301"
+                    VPOS="479"
+                    WIDTH="593"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1fa9c8fd"
+                    TAGREFS="LT4057"
+                    BASELINE="301 544 641 542" 
+                    HPOS="301"
+                    VPOS="519"
+                    WIDTH="340"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="301 544 303 525 348 525 363 520 389 525 421 525 425 521 429 525 459 525 476 519 491 524 525 524 530 519 541 524 600 524 606 519 619 519 627 524 637 523 641 542 638 556 588 556 576 564 565 561 557 566 548 558 506 566 492 556 480 556 468 563 457 558 441 570 323 570 309 563 304 567"/></Shape>
+	    <String CONTENT="soit considérablement baissé."
+                    HPOS="301"
+                    VPOS="519"
+                    WIDTH="340"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_502a635c"
+                    TAGREFS="LT4057"
+                    BASELINE="585 617 703 615" 
+                    HPOS="584"
+                    VPOS="596"
+                    WIDTH="118"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="584 616 585 603 591 600 619 603 623 599 632 602 653 596 669 596 677 602 692 599 699 602 702 614 697 656 675 647 645 647 624 669 587 669"/></Shape>
+	    <String CONTENT="---o0o---"
+                    HPOS="584"
+                    VPOS="596"
+                    WIDTH="118"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="836"
+                   VPOS="1207"
+                   WIDTH="144"
+                   HEIGHT="42"
+                   ID="eSc_textblock_4f001451"
+                   TAGREFS="BT10357">
+          <Shape><Polygon POINTS="836 1207 836 1249 980 1249 980 1207"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

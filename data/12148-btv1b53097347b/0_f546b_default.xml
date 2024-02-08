@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>0_f546b_default.jpg</fileName>
+      <fileIdentifier>https://gallica.bnf.fr/iiif/ark:/12148/btv1b53097347b/f1/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10322" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10321" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10320" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10319" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10318" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4036" LABEL="DefaultLine:Typewritten" DESCRIPTION="line type DefaultLine:Typewritten"/><OtherTag ID="LT4035" LABEL="DefaultLine:Handwritten" DESCRIPTION="line type DefaultLine:Handwritten"/><OtherTag ID="LT4034" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3509"
+          HEIGHT="4905"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3509"
+                  HEIGHT="4905">
+        
+        <TextBlock HPOS="641"
+                   VPOS="1252"
+                   WIDTH="2390"
+                   HEIGHT="1955"
+                   ID="eSc_textblock_70f0a4c8"
+                   TAGREFS="BT10318">
+          <Shape><Polygon POINTS="645 1252 641 3207 3031 3207 3031 1257"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_cf04c708"
+                    TAGREFS="LT4036"
+                    BASELINE="830 1479 2592 1467" 
+                    HPOS="822"
+                    VPOS="1357"
+                    WIDTH="1766"
+                    HEIGHT="163">
+            <Shape><Polygon POINTS="826 1475 826 1500 1406 1520 1410 1520 1541 1500 1918 1516 1922 1516 1926 1516 2008 1496 2421 1512 2425 1512 2588 1487 2588 1463 2576 1357 1455 1377 1451 1377 1435 1361 1435 1357 1431 1357 1427 1357 1423 1357 1419 1357 1415 1357 1390 1377 1382 1381 1325 1377 1055 1361 1051 1361 940 1381 899 1361 895 1361 891 1361 887 1361 822 1381 826 1475"/></Shape>
+	    <String CONTENT="LA BIBLIOTHÈQUE NATIONALE EN 1984"
+                    HPOS="822"
+                    VPOS="1357"
+                    WIDTH="1766"
+                    HEIGHT="163"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d707fcfe"
+                    TAGREFS="LT4036"
+                    BASELINE="862 2333 2539 2333" 
+                    HPOS="858"
+                    VPOS="2162"
+                    WIDTH="1677"
+                    HEIGHT="216">
+            <Shape><Polygon POINTS="858 2329 858 2378 2535 2370 2535 2329 2535 2178 2498 2166 2494 2166 2490 2166 2486 2166 2482 2166 2466 2182 2437 2203 2347 2203 2310 2178 2290 2170 2286 2170 2282 2170 2233 2178 2143 2199 2114 2178 2110 2174 2106 2174 2102 2174 2098 2174 2040 2178 1852 2199 1811 2178 1779 2162 1774 2162 1770 2162 1664 2178 1513 2199 1468 2174 1443 2162 1439 2162 1235 2162 1231 2162 1226 2162 1186 2174 1104 2199 1051 2174 1046 2174 858 2174 858 2329"/></Shape>
+	    <String CONTENT="RAPPORT D&#x27;ACTIVITÉ"
+                    HPOS="858"
+                    VPOS="2162"
+                    WIDTH="1677"
+                    HEIGHT="216"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6342bedb"
+                    TAGREFS="LT4036"
+                    BASELINE="1026 2509 2433 2493" 
+                    HPOS="1018"
+                    VPOS="2378"
+                    WIDTH="1411"
+                    HEIGHT="176">
+            <Shape><Polygon POINTS="1022 2505 1026 2554 1100 2530 1255 2550 1300 2554 1304 2554 1341 2550 1435 2530 1488 2546 1509 2550 1513 2550 1517 2550 1521 2550 1533 2542 1570 2526 1738 2538 1836 2546 1840 2546 2429 2521 2429 2489 2421 2411 2265 2411 2200 2378 2196 2378 2192 2378 2048 2411 1963 2383 1958 2383 1721 2383 1717 2383 1639 2387 1635 2387 1631 2387 1631 2391 1603 2415 1439 2387 1435 2387 1431 2387 1361 2415 1300 2391 1296 2391 1292 2391 1288 2391 1226 2423 1018 2423 1022 2505"/></Shape>
+	    <String CONTENT="AU CONSEIL D&#x27;ADMINISTRATION"
+                    HPOS="1018"
+                    VPOS="2378"
+                    WIDTH="1411"
+                    HEIGHT="176"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04b163e7"
+                    TAGREFS="LT4036"
+                    BASELINE="1145 2763 2298 2763" 
+                    HPOS="1141"
+                    VPOS="2644"
+                    WIDTH="1153"
+                    HEIGHT="143">
+            <Shape><Polygon POINTS="1141 2759 1141 2787 2294 2787 2294 2759 2290 2644 2098 2673 1803 2656 1713 2652 1709 2652 1599 2660 1476 2673 1464 2665 1423 2644 1419 2644 1415 2644 1141 2673 1141 2759"/></Shape>
+	    <String CONTENT="de l&#x27;Administrateur général"
+                    HPOS="1141"
+                    VPOS="2644"
+                    WIDTH="1153"
+                    HEIGHT="143"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_498a01f5"
+                    TAGREFS="LT4036"
+                    BASELINE="1108 2906 2306 2898" 
+                    HPOS="1100"
+                    VPOS="2795"
+                    WIDTH="1202"
+                    HEIGHT="172">
+            <Shape><Polygon POINTS="1104 2902 1104 2967 1194 2967 1198 2967 1202 2967 1202 2963 1235 2938 1390 2967 1394 2967 1398 2967 1496 2938 1897 2963 1963 2963 1967 2963 1987 2959 2093 2934 2171 2959 2192 2963 2196 2963 2200 2963 2204 2963 2208 2963 2216 2955 2249 2934 2290 2955 2302 2893 2294 2820 1946 2795 1942 2795 1938 2795 1934 2795 1934 2799 1914 2816 1464 2799 1460 2799 1100 2820 1104 2902"/></Shape>
+	    <String CONTENT="de la Bibliothèque Nationale"
+                    HPOS="1100"
+                    VPOS="2795"
+                    WIDTH="1202"
+                    HEIGHT="172"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

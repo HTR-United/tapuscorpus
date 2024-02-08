@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>34_94ac2_default.jpg</fileName>
+      <fileIdentifier>https://gallica.bnf.fr/iiif/ark:/12148/btv1b53097347b/f35/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10322" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10321" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10320" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10319" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10318" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4036" LABEL="DefaultLine:Typewritten" DESCRIPTION="line type DefaultLine:Typewritten"/><OtherTag ID="LT4035" LABEL="DefaultLine:Handwritten" DESCRIPTION="line type DefaultLine:Handwritten"/><OtherTag ID="LT4034" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3337"
+          HEIGHT="4935"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3337"
+                  HEIGHT="4935">
+        
+        <TextBlock HPOS="490"
+                   VPOS="580"
+                   WIDTH="2752"
+                   HEIGHT="2205"
+                   ID="eSc_textblock_0f6f969c"
+                   TAGREFS="BT10318">
+          <Shape><Polygon POINTS="490 580 490 2785 3242 2785 3242 580"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ba04bb63"
+                    TAGREFS="LT4036"
+                    BASELINE="1193 703 1810 703" 
+                    HPOS="1193"
+                    VPOS="625"
+                    WIDTH="617"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="1193 703 1201 645 1222 637 1386 645 1440 625 1547 641 1580 625 1670 641 1785 625 1802 629 1810 703 1777 740 1320 740 1292 723 1201 723"/></Shape>
+	    <String CONTENT="6) _ADMINISTRATION"
+                    HPOS="1193"
+                    VPOS="625"
+                    WIDTH="617"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_32fdc132"
+                    TAGREFS="LT4036"
+                    BASELINE="954 904 3106 884" 
+                    HPOS="954"
+                    VPOS="810"
+                    WIDTH="2152"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="954 904 958 843 1003 830 1098 851 1135 826 1242 826 1337 851 1374 822 1431 847 1575 826 1596 843 1612 830 1629 847 1695 847 1732 826 1752 847 1798 847 1826 818 1872 843 2036 818 2086 843 2180 843 2234 814 2324 814 2345 834 2435 814 2501 838 2686 834 2715 810 2760 826 2773 814 2793 834 2991 814 3007 830 3094 834 3106 884 3061 904 1814 900 1756 917 1378 921 958 908"/></Shape>
+	    <String CONTENT="L&#x27;activité financière de la Bibliothèque Nationale transparait"
+                    HPOS="954"
+                    VPOS="810"
+                    WIDTH="2152"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df06652b"
+                    TAGREFS="LT4036"
+                    BASELINE="617 1007 3201 978" 
+                    HPOS="617"
+                    VPOS="921"
+                    WIDTH="2584"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="617 1007 637 945 971 962 1012 941 1036 958 1057 941 1300 958 1357 937 1715 954 1818 933 1884 949 1991 949 2012 933 2065 949 2242 929 2415 945 2588 929 2658 941 2686 925 2711 941 2760 925 2822 941 2892 921 3032 937 3069 921 3102 937 3176 925 3201 978 3180 1003 3131 1007 2835 991 2736 1011 2542 1011 2501 995 2460 1015 2160 999 2073 1019 2040 1003 2020 1019 1859 1019 1814 1003 1769 1019 1407 1011 1353 1028 987 1011 950 1032 901 1015 864 1032 835 1015 748 1032 732 1015 625 1015"/></Shape>
+	    <String CONTENT="à la lecture du Compte Financier présenté par ailleurs. Aussi ne s’étendra-"
+                    HPOS="617"
+                    VPOS="921"
+                    WIDTH="2584"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea77e63f"
+                    TAGREFS="LT4036"
+                    BASELINE="625 1110 3139 1081" 
+                    HPOS="625"
+                    VPOS="1028"
+                    WIDTH="2514"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="625 1110 633 1061 703 1052 1678 1056 1695 1040 2003 1052 2065 1036 2415 1048 2542 1032 2773 1044 3073 1028 3127 1040 3139 1081 3065 1106 2419 1098 2349 1114 2057 1118 1744 1106 1699 1122 1341 1110 1312 1126 1176 1114 958 1130 633 1118"/></Shape>
+	    <String CONTENT="t-on pas sur les aspects chiffrés pour mettre plutôt en évidence les dif-"
+                    HPOS="625"
+                    VPOS="1028"
+                    WIDTH="2514"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_846df774"
+                    TAGREFS="LT4036"
+                    BASELINE="621 1209 2077 1196" 
+                    HPOS="621"
+                    VPOS="1143"
+                    WIDTH="1456"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="621 1209 637 1147 1073 1159 1110 1143 2012 1147 2065 1151 2077 1196 2065 1217 625 1221"/></Shape>
+	    <String CONTENT="ficultés structurelles de l&#x27;établissement."
+                    HPOS="621"
+                    VPOS="1143"
+                    WIDTH="1456"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_123d9e31"
+                    TAGREFS="LT4036"
+                    BASELINE="958 1311 3007 1291" 
+                    HPOS="958"
+                    VPOS="1229"
+                    WIDTH="2049"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="958 1311 962 1246 1036 1262 1102 1246 1308 1262 1415 1241 1559 1241 1575 1258 1654 1241 1715 1258 1785 1237 1835 1254 1913 1237 2160 1254 2201 1233 2295 1250 2374 1233 2402 1250 2522 1250 2542 1233 2588 1250 2797 1246 2818 1229 2847 1246 2995 1246 3007 1291 2979 1311 1374 1311 1345 1328 962 1316"/></Shape>
+	    <String CONTENT="En effet, quelle que soit la bonne volonté et la conscience"
+                    HPOS="958"
+                    VPOS="1229"
+                    WIDTH="2049"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_251a4723"
+                    TAGREFS="LT4036"
+                    BASELINE="621 1414 2941 1390" 
+                    HPOS="621"
+                    VPOS="1328"
+                    WIDTH="2320"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="621 1414 625 1365 662 1348 724 1365 744 1348 798 1365 880 1348 983 1365 1049 1344 1296 1361 1415 1344 1547 1357 1584 1340 1682 1357 1707 1340 1773 1357 1806 1336 2160 1353 2238 1332 2493 1348 2551 1328 2592 1344 2616 1328 2690 1344 2929 1344 2941 1390 2900 1410 2633 1398 2522 1414 2263 1402 2164 1418 1938 1406 1777 1422 625 1422"/></Shape>
+	    <String CONTENT="professionnelle des personnels de l&#x27;Administration, la Bibliothèque"
+                    HPOS="621"
+                    VPOS="1328"
+                    WIDTH="2320"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0f72930e"
+                    TAGREFS="LT4036"
+                    BASELINE="621 1513 3073 1488" 
+                    HPOS="621"
+                    VPOS="1435"
+                    WIDTH="2452"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="621 1513 637 1451 1020 1468 1160 1447 1226 1464 1246 1447 1361 1447 1419 1464 1518 1443 1793 1459 1847 1439 1938 1439 1958 1455 2007 1439 2044 1455 2180 1439 2221 1455 2250 1435 2279 1451 2316 1435 2431 1451 2999 1443 3061 1447 3073 1488 2995 1513 1444 1513 1431 1529 1098 1517 925 1533 625 1521"/></Shape>
+	    <String CONTENT="Nationale a continué à souffrir en 1984 de l’insuffisance de ses struc-"
+                    HPOS="621"
+                    VPOS="1435"
+                    WIDTH="2452"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fd0ff858"
+                    TAGREFS="LT4036"
+                    BASELINE="625 1616 2349 1595" 
+                    HPOS="625"
+                    VPOS="1542"
+                    WIDTH="1724"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="625 1616 629 1562 650 1558 1259 1566 1308 1550 1649 1562 1695 1546 1995 1558 2012 1542 2258 1542 2337 1554 2349 1595 2328 1620 1695 1612 1612 1628 1357 1616 938 1636 633 1624"/></Shape>
+	    <String CONTENT="tures administratives et surtout de ses effectifs."
+                    HPOS="625"
+                    VPOS="1542"
+                    WIDTH="1724"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_96fb3f50"
+                    TAGREFS="LT4036"
+                    BASELINE="966 1714 3143 1690" 
+                    HPOS="966"
+                    VPOS="1632"
+                    WIDTH="2177"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="966 1714 971 1653 1654 1661 1691 1645 2049 1657 2077 1640 2411 1653 3007 1632 3131 1645 3143 1690 3090 1710 971 1727"/></Shape>
+	    <String CONTENT="Les conséquences sur l&#x27;ensemble du fonctionnement qe l&#x27;établis-"
+                    HPOS="966"
+                    VPOS="1632"
+                    WIDTH="2177"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_49c2516b"
+                    TAGREFS="LT4036"
+                    BASELINE="629 1821 3143 1793" 
+                    HPOS="629"
+                    VPOS="1735"
+                    WIDTH="2514"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="629 1821 646 1760 888 1772 1345 1751 2049 1760 2123 1743 2777 1751 2933 1735 3131 1747 3143 1793 3102 1817 2497 1809 2419 1825 2119 1813 2012 1830 1761 1817 752 1842 633 1830"/></Shape>
+	    <String CONTENT="sement s&#x27;avèrent suffisamment importantes pour que l&#x27;on puisse considérer"
+                    HPOS="629"
+                    VPOS="1735"
+                    WIDTH="2514"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_90f79210"
+                    TAGREFS="LT4036"
+                    BASELINE="625 1924 2760 1899" 
+                    HPOS="625"
+                    VPOS="1838"
+                    WIDTH="2135"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="625 1924 629 1875 674 1858 835 1875 979 1854 1069 1871 1086 1854 1143 1871 1259 1854 1320 1871 1357 1850 1411 1867 1452 1850 1485 1867 1678 1867 1835 1846 2028 1862 2049 1842 2073 1858 2114 1842 2151 1858 2205 1842 2246 1858 2353 1842 2390 1858 2411 1838 2505 1854 2592 1838 2608 1854 2748 1854 2760 1899 2715 1924 2526 1924 2477 1908 2402 1928 2197 1912 2040 1932 1756 1916 1596 1936 1366 1924 1329 1941 1008 1924 971 1945 785 1945 740 1928 658 1945 629 1928"/></Shape>
+	    <String CONTENT="qu’il s’agit du principal secteur sinistré de la bibliothèque."
+                    HPOS="625"
+                    VPOS="1838"
+                    WIDTH="2135"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1a51142f"
+                    TAGREFS="LT4036"
+                    BASELINE="966 2048 2563 2035" 
+                    HPOS="966"
+                    VPOS="1949"
+                    WIDTH="1597"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="966 2048 971 1994 1090 1994 1152 1965 1254 1978 1324 1961 1370 1978 1456 1957 1534 1969 1555 1990 1592 1961 1637 1990 1678 1961 1744 1961 1777 1986 1876 1953 1995 1974 2024 1949 2086 1974 2213 1969 2234 1953 2378 1974 2419 1949 2477 1986 2551 1986 2563 2035 2530 2056 971 2052"/></Shape>
+	    <String CONTENT="- retard dans les commandes, dans les marchés,"
+                    HPOS="966"
+                    VPOS="1949"
+                    WIDTH="1597"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a53353da"
+                    TAGREFS="LT4036"
+                    BASELINE="971 2150 3016 2134" 
+                    HPOS="971"
+                    VPOS="2052"
+                    WIDTH="2045"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="971 2150 975 2093 1127 2093 1193 2064 1222 2093 1259 2064 1431 2064 1448 2080 1600 2064 1625 2089 1707 2068 1740 2089 1761 2068 1835 2076 1863 2060 2044 2080 2073 2056 2147 2080 2176 2056 2242 2072 2345 2056 2374 2085 2411 2068 2456 2085 2485 2064 2514 2080 2567 2052 2641 2080 2686 2052 2777 2080 2847 2052 2921 2060 2946 2080 3003 2064 3016 2134 2970 2159 2847 2159 2830 2142 2781 2159 2678 2142 2629 2159 2575 2142 2501 2163 2427 2146 2386 2163 2300 2146 2254 2163 2110 2163 2065 2146 1954 2167 1584 2167 1555 2150 1477 2171 1448 2154 1394 2171 1053 2171 975 2154"/></Shape>
+	    <String CONTENT="- retard dans les paiements entraînant des difficultés pour"
+                    HPOS="971"
+                    VPOS="2052"
+                    WIDTH="2045"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_578cec07"
+                    TAGREFS="LT4036"
+                    BASELINE="633 2257 1234 2257" 
+                    HPOS="633"
+                    VPOS="2163"
+                    WIDTH="601"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="633 2257 641 2171 662 2163 703 2183 790 2167 818 2196 876 2163 913 2179 1032 2171 1090 2191 1135 2175 1160 2196 1226 2196 1234 2257 1201 2274 641 2270"/></Shape>
+	    <String CONTENT="les fournisseurs,"
+                    HPOS="633"
+                    VPOS="2163"
+                    WIDTH="601"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea2b9e47"
+                    TAGREFS="LT4036"
+                    BASELINE="975 2348 3114 2331" 
+                    HPOS="975"
+                    VPOS="2249"
+                    WIDTH="2139"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="975 2348 979 2278 1045 2261 1468 2278 1505 2257 1530 2274 1822 2274 1851 2257 1876 2274 1954 2257 2036 2274 2098 2253 2184 2270 2353 2270 2370 2253 2555 2270 2584 2249 2629 2265 2711 2249 2830 2249 2863 2265 2880 2249 2937 2265 2974 2249 2999 2265 3036 2249 3102 2265 3114 2331 3040 2356 983 2356"/></Shape>
+	    <String CONTENT="- retard dans, le traitement des dossiers administratifs prévo-"
+                    HPOS="975"
+                    VPOS="2249"
+                    WIDTH="2139"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_adeb7640"
+                    TAGREFS="LT4036"
+                    BASELINE="629 2459 2295 2446" 
+                    HPOS="629"
+                    VPOS="2368"
+                    WIDTH="1666"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="629 2459 633 2397 707 2405 748 2377 872 2377 921 2397 942 2377 1090 2377 1119 2405 1172 2405 1254 2401 1283 2372 1337 2372 1366 2397 1398 2372 1596 2372 1645 2377 1674 2401 1732 2372 1765 2397 1942 2397 1991 2368 2069 2397 2147 2397 2189 2368 2230 2397 2283 2397 2295 2446 2234 2471 2020 2471 1970 2455 1736 2475 1464 2475 1423 2459 1324 2475 1238 2475 1217 2459 1172 2479 633 2467"/></Shape>
+	    <String CONTENT="yant le mécontentement des personnels concernés."
+                    HPOS="629"
+                    VPOS="2368"
+                    WIDTH="1666"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2570fbb8"
+                    TAGREFS="LT4036"
+                    BASELINE="971 2562 3053 2541" 
+                    HPOS="971"
+                    VPOS="2479"
+                    WIDTH="2082"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="971 2562 975 2496 1057 2496 1082 2516 1102 2496 1353 2516 1403 2492 1431 2512 1497 2492 1588 2512 1703 2492 1724 2512 1793 2512 1843 2488 1868 2504 1917 2488 1938 2508 2209 2508 2295 2504 2324 2483 2542 2504 2633 2479 2653 2496 2740 2479 2777 2500 2797 2479 2843 2496 2904 2479 2925 2500 2979 2500 3003 2479 3040 2500 3053 2541 2979 2562 2221 2553 2197 2570 1839 2557 1802 2574 1431 2562 1382 2578 979 2566"/></Shape>
+	    <String CONTENT="Le climat qui s’en est suivi ne peut qu’être préjudiciable à"
+                    HPOS="971"
+                    VPOS="2479"
+                    WIDTH="2082"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f368344"
+                    TAGREFS="LT4036"
+                    BASELINE="637 2660 2909 2644" 
+                    HPOS="637"
+                    VPOS="2586"
+                    WIDTH="2272"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="637 2660 641 2603 658 2599 728 2615 859 2599 909 2615 925 2599 971 2615 1036 2599 1073 2615 1127 2599 1250 2611 1300 2594 1765 2611 1781 2590 1863 2607 2069 2607 2106 2590 2234 2607 2267 2590 2333 2607 2370 2586 2407 2603 2477 2586 2526 2603 2563 2586 2707 2586 2748 2603 2806 2586 2896 2603 2909 2644 2900 2673 2826 2693 2732 2664 2637 2664 2616 2685 2546 2693 2345 2664 2205 2685 2168 2669 2098 2697 1962 2681 1942 2697 1855 2697 1806 2669 1719 2693 1637 2673 1600 2701 1460 2673 1341 2697 1275 2673 1250 2693 1222 2673 1201 2697 1152 2677 1082 2693 1049 2677 983 2706 929 2706 827 2677 790 2706 646 2706"/></Shape>
+	    <String CONTENT="l’ensemble de l’activité surtout dans une période aussi difficile."
+                    HPOS="637"
+                    VPOS="2586"
+                    WIDTH="2272"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1336"
+                   VPOS="148"
+                   WIDTH="303"
+                   HEIGHT="120"
+                   ID="eSc_textblock_2c38d327"
+                   TAGREFS="BT10320">
+          <Shape><Polygon POINTS="1336 268 1336 148 1639 148 1639 268"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_bb6b3c4a"
+                    TAGREFS="LT4036"
+                    BASELINE="1366 209 1592 217" 
+                    HPOS="1366"
+                    VPOS="148"
+                    WIDTH="226"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="1366 209 1374 176 1423 176 1477 148 1518 180 1567 156 1592 217 1526 250 1370 226"/></Shape>
+	    <String CONTENT="- 33 -"
+                    HPOS="1366"
+                    VPOS="148"
+                    WIDTH="226"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

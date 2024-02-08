@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>27_02656_default.jpg</fileName>
+      <fileIdentifier>https://gallica.bnf.fr/iiif/ark:/12148/btv1b53097347b/f28/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10322" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10321" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10320" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10319" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10318" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4036" LABEL="DefaultLine:Typewritten" DESCRIPTION="line type DefaultLine:Typewritten"/><OtherTag ID="LT4035" LABEL="DefaultLine:Handwritten" DESCRIPTION="line type DefaultLine:Handwritten"/><OtherTag ID="LT4034" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3337"
+          HEIGHT="4935"
+          PHYSICAL_IMG_NR="7"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3337"
+                  HEIGHT="4935">
+        
+        <TextBlock HPOS="404"
+                   VPOS="473"
+                   WIDTH="2863"
+                   HEIGHT="573"
+                   ID="eSc_textblock_65d66c7f"
+                   TAGREFS="BT10318">
+          <Shape><Polygon POINTS="404 473 404 1046 3267 1046 3267 473"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_21744f28"
+                    TAGREFS="LT4036"
+                    BASELINE="765 600 2670 592" 
+                    HPOS="765"
+                    VPOS="526"
+                    WIDTH="1905"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="765 600 769 534 785 530 929 551 962 530 1024 551 1065 530 1139 551 1168 534 1279 551 1300 530 1345 551 1370 534 1394 551 1481 551 1505 530 1612 551 1773 546 1798 526 1839 542 1876 526 1917 546 1995 526 2053 546 2193 546 2209 530 2308 546 2411 530 2427 546 2538 546 2584 530 2637 546 2658 530 2670 592 2616 616 2423 600 2341 600 2320 616 2176 600 2106 600 2086 616 1888 600 1769 616 1728 600 1691 620 1641 604 1621 620 1501 620 1473 604 1403 620 1345 604 1312 620 1147 604 1003 620 934 604 909 620 769 620"/></Shape>
+	    <String CONTENT="- le département des Arts du spectacie, enfin, a acquis"
+                    HPOS="765"
+                    VPOS="526"
+                    WIDTH="1905"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0c5e07e1"
+                    TAGREFS="LT4036"
+                    BASELINE="592 703 2872 690" 
+                    HPOS="592"
+                    VPOS="633"
+                    WIDTH="2280"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="592 703 596 641 658 641 674 658 715 641 1053 658 1090 641 1131 658 1345 658 1386 637 1518 653 1588 653 1604 637 1674 637 1691 653 1715 637 1781 653 1826 637 1859 653 2032 653 2139 633 2172 649 2287 633 2312 649 2382 633 2427 649 2542 649 2575 633 2682 649 2789 633 2859 649 2872 690 2859 732 2793 736 2748 715 2723 736 2674 736 2653 715 2612 736 2485 736 2448 715 2411 736 2361 719 2271 732 2230 715 2209 732 2032 740 1929 736 1913 719 1826 740 1756 723 1736 740 1695 719 1670 740 1637 719 1571 740 1292 723 1271 744 880 740 859 723 814 744 757 723 596 723"/></Shape>
+	    <String CONTENT="26 !29 documents, pour l’essentiel photographiques, dont une série"
+                    HPOS="592"
+                    VPOS="633"
+                    WIDTH="2280"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e354c766"
+                    TAGREFS="LT4036"
+                    BASELINE="596 810 2937 793" 
+                    HPOS="596"
+                    VPOS="736"
+                    WIDTH="2341"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="596 810 604 748 892 748 979 764 1024 748 1361 760 1382 744 1468 744 1547 760 1711 744 1761 760 1826 744 1913 756 1929 740 1987 756 2102 740 2135 756 2263 756 2291 740 2337 756 2353 736 2394 752 2440 736 2555 752 2835 752 2913 736 2937 793 2925 834 2756 822 2427 822 2345 838 1765 826 1728 843 1209 830 1024 847 600 834"/></Shape>
+	    <String CONTENT="importante relative au TNP, tandis que la maison Jean Vilar achetait"
+                    HPOS="596"
+                    VPOS="736"
+                    WIDTH="2341"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_190416d4"
+                    TAGREFS="LT4036"
+                    BASELINE="600 908 3217 896" 
+                    HPOS="600"
+                    VPOS="834"
+                    WIDTH="2617"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="600 908 621 843 802 859 839 843 942 859 971 843 1003 859 1082 859 1102 843 1242 859 1296 843 1320 859 1464 859 1543 838 1629 855 1719 855 1744 838 1781 855 1851 838 1900 855 1979 838 2333 855 2497 834 2621 834 2645 851 2686 834 2740 851 2802 834 2835 851 2929 838 3053 851 3102 834 3118 851 3205 851 3217 896 3209 929 3139 949 2987 949 2966 933 2950 949 2830 949 2806 933 2785 949 2563 949 2518 929 2485 945 2452 929 2378 933 2341 954 2086 954 1970 933 1880 933 1863 949 1835 933 1802 949 1719 933 1641 954 1473 933 1386 958 1189 937 1168 954 1115 937 1041 958 929 937 876 958 748 937 604 945"/></Shape>
+	    <String CONTENT="1273 volumes, dont 54 sous forme de microfiches, pour son fonds documentaire"
+                    HPOS="600"
+                    VPOS="834"
+                    WIDTH="2617"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1315"
+                   VPOS="217"
+                   WIDTH="435"
+                   HEIGHT="145"
+                   ID="eSc_textblock_f4fdca1d"
+                   TAGREFS="BT10320">
+          <Shape><Polygon POINTS="1319 217 1315 358 1750 362 1750 217"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_90670069"
+                    TAGREFS="LT4036"
+                    BASELINE="1411 283 1641 283" 
+                    HPOS="1411"
+                    VPOS="205"
+                    WIDTH="230"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="1411 283 1419 205 1501 205 1563 242 1633 242 1641 283 1625 316 1580 300 1526 320 1419 308"/></Shape>
+	    <String CONTENT="- 26 -"
+                    HPOS="1411"
+                    VPOS="205"
+                    WIDTH="230"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2643"
+                   VPOS="4443"
+                   WIDTH="492"
+                   HEIGHT="217"
+                   ID="eSc_textblock_1fa0ec72"
+                   TAGREFS="BT10321">
+          <Shape><Polygon POINTS="2643 4443 2643 4656 3135 4660 3135 4455"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c1f1ce9a"
+                    TAGREFS="LT4036"
+                    BASELINE="2719 4548 2970 4548" 
+                    HPOS="2719"
+                    VPOS="4462"
+                    WIDTH="251"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="2719 4548 2728 4490 2777 4490 2806 4466 2847 4478 2863 4462 2962 4462 2970 4548 2950 4573 2728 4560"/></Shape>
+	    <String CONTENT=".../..."
+                    HPOS="2719"
+                    VPOS="4462"
+                    WIDTH="251"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

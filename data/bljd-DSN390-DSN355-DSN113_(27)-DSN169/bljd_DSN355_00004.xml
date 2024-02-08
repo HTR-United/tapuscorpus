@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>bljd_DSN355_00004.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10332" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10331" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10330" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10329" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10328" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT4042" LABEL="DefaultLine:Typewritten" DESCRIPTION="line type DefaultLine:Typewritten"/><OtherTag ID="LT4041" LABEL="DefaultLine:Handwritten" DESCRIPTION="line type DefaultLine:Handwritten"/><OtherTag ID="LT4040" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2568"
+          HEIGHT="3296"
+          PHYSICAL_IMG_NR="7"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2568"
+                  HEIGHT="3296">
+        
+        <TextBlock HPOS="160"
+                   VPOS="308"
+                   WIDTH="483"
+                   HEIGHT="270"
+                   ID="eSc_textblock_679d64d6"
+                   TAGREFS="BT10331">
+          <Shape><Polygon POINTS="160 308 160 578 643 578 643 308"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ca5e3f31"
+                    TAGREFS="LT4042"
+                    BASELINE="221 409 350 415" 
+                    HPOS="217"
+                    VPOS="340"
+                    WIDTH="132"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="219 406 217 417 343 422 349 414 349 348 222 340 219 406"/></Shape>
+	    <String CONTENT="685"
+                    HPOS="217"
+                    VPOS="340"
+                    WIDTH="132"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f649137"
+                    TAGREFS="LT4042"
+                    BASELINE="446 515 617 515" 
+                    HPOS="445"
+                    VPOS="433"
+                    WIDTH="170"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="445 513 445 530 613 535 615 513 613 433 445 444 445 513"/></Shape>
+	    <String CONTENT=""
+                    HPOS="445"
+                    VPOS="433"
+                    WIDTH="170"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="699"
+                   VPOS="226"
+                   WIDTH="1822"
+                   HEIGHT="2108"
+                   ID="eSc_textblock_04733eba"
+                   TAGREFS="BT10328">
+          <Shape><Polygon POINTS="699 226 699 2334 2521 2334 2521 226"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f34b24b7"
+                    TAGREFS="LT4042"
+                    BASELINE="1347 325 1817 315" 
+                    HPOS="1341"
+                    VPOS="233"
+                    WIDTH="473"
+                    HEIGHT="157">
+            <Shape><Polygon POINTS="1344 324 1344 365 1404 387 1407 387 1572 390 1575 390 1578 390 1633 365 1663 379 1666 379 1668 379 1671 379 1710 357 1715 357 1814 357 1814 313 1809 255 1578 233 1575 233 1572 233 1569 233 1569 236 1545 258 1415 238 1413 238 1410 238 1407 238 1407 241 1382 260 1382 263 1341 263 1344 324"/></Shape>
+	    <String CONTENT=""
+                    HPOS="1341"
+                    VPOS="233"
+                    WIDTH="473"
+                    HEIGHT="157"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b055758"
+                    TAGREFS="LT4042"
+                    BASELINE="734 1038 2425 1049" 
+                    HPOS="734"
+                    VPOS="972"
+                    WIDTH="1691"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="734 1038 736 972 783 983 841 975 866 994 1036 994 1072 977 1091 991 1121 980 1157 997 1256 997 1273 983 1297 997 1316 986 1333 997 1344 986 1391 994 1410 980 1424 991 1443 983 1457 997 1536 997 1578 975 1597 988 1611 977 1759 977 1778 988 1825 977 1847 997 1877 999 1938 988 1957 997 1968 986 2012 1002 2111 983 2136 1002 2191 1002 2229 980 2282 980 2323 997 2389 986 2416 1002 2425 1049 2394 1071 2350 1057 2262 1057 2251 1068 2235 1057 2152 1057 2133 1073 2106 1057 2020 1068 1998 1054 1971 1068 1883 1054 1855 1071 1820 1054 1784 1071 1699 1057 1602 1071 1575 1051 1547 1068 1520 1057 1465 1068 1437 1051 1410 1068 1305 1068 1294 1057 1253 1065 1240 1051 1179 1051 1143 1065 1105 1049 1042 1065 973 1065 956 1051 934 1060 918 1049 868 1065 739 1065"/></Shape>
+	    <String CONTENT="- Ne cherchez pas de remèdes compliqués pour redonner à vos enfants"
+                    HPOS="734"
+                    VPOS="972"
+                    WIDTH="1691"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c747360"
+                    TAGREFS="LT4042"
+                    BASELINE="720 1137 1927 1148" 
+                    HPOS="720"
+                    VPOS="1079"
+                    WIDTH="1207"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="720 1137 725 1084 756 1079 783 1093 835 1093 860 1079 888 1093 978 1093 992 1079 1022 1095 1039 1082 1061 1095 1245 1082 1259 1095 1275 1087 1333 1098 1369 1084 1426 1098 1514 1098 1550 1084 1586 1095 1613 1084 1627 1101 1696 1090 1754 1101 1778 1087 1861 1101 1894 1093 1921 1101 1927 1148 1902 1164 1839 1159 1809 1172 1690 1172 1677 1161 1630 1172 1586 1156 1539 1170 1325 1170 1300 1153 1267 1164 1248 1153 1187 1156 1168 1167 1080 1153 1022 1167 965 1150 874 1150 846 1161 805 1150 723 1164"/></Shape>
+	    <String CONTENT="une santé comprimise par une croissance rapide."
+                    HPOS="720"
+                    VPOS="1079"
+                    WIDTH="1207"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6e2c73e7"
+                    TAGREFS="LT4042"
+                    BASELINE="723 1334 1699 1343" 
+                    HPOS="723"
+                    VPOS="1277"
+                    WIDTH="976"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="723 1334 728 1285 739 1277 775 1293 967 1277 984 1293 1050 1296 1080 1285 1174 1296 1231 1279 1327 1296 1363 1279 1385 1299 1492 1299 1520 1288 1556 1296 1569 1282 1668 1288 1693 1299 1699 1343 1630 1370 1591 1370 1575 1354 1528 1370 1459 1351 1352 1367 1330 1348 1275 1348 1251 1367 1130 1367 1075 1351 987 1362 976 1351 937 1359 910 1345 877 1356 791 1345 772 1365 725 1365"/></Shape>
+	    <String CONTENT="- Donnez leur simplement du chocolat !"
+                    HPOS="723"
+                    VPOS="1277"
+                    WIDTH="976"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_601b7151"
+                    TAGREFS="LT4042"
+                    BASELINE="725 1538 2273 1549" 
+                    HPOS="725"
+                    VPOS="1474"
+                    WIDTH="1548"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="725 1538 728 1494 805 1494 835 1474 863 1494 1006 1494 1017 1483 1116 1496 1187 1483 1226 1496 1327 1496 1377 1474 1402 1474 1432 1496 1479 1496 1531 1477 1545 1491 1558 1480 1619 1499 1707 1483 1737 1499 1792 1499 1839 1477 1919 1499 1957 1480 2004 1480 2059 1499 2086 1491 2122 1502 2163 1480 2265 1480 2273 1549 2265 1568 2249 1557 2188 1568 2166 1551 2100 1568 1946 1568 1809 1549 1781 1565 1718 1549 1696 1560 1638 1549 1619 1565 1586 1551 1564 1565 1531 1549 1468 1546 1440 1557 1410 1549 1385 1562 1338 1546 1267 1562 1031 1543 1003 1554 943 1543 915 1554 879 1549 868 1560 811 1560 789 1543 728 1554"/></Shape>
+	    <String CONTENT="- Mais attention du chocolat RUELLE, le seul dont l&#x27;étonnante"
+                    HPOS="725"
+                    VPOS="1474"
+                    WIDTH="1548"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_700880d5"
+                    TAGREFS="LT4042"
+                    BASELINE="723 1637 2375 1645" 
+                    HPOS="723"
+                    VPOS="1579"
+                    WIDTH="1652"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="723 1637 728 1582 745 1579 846 1595 910 1584 923 1595 1053 1595 1069 1584 1113 1595 1259 1595 1308 1582 1327 1598 1448 1587 1468 1598 1542 1598 1572 1582 1641 1595 1652 1584 1729 1582 1776 1595 1817 1582 1855 1593 1916 1584 1941 1601 2004 1584 2034 1601 2353 1584 2370 1593 2375 1645 2367 1658 2304 1661 2265 1678 2177 1675 2161 1664 2141 1680 2108 1669 2084 1680 1993 1669 1976 1680 1916 1680 1877 1667 1853 1680 1778 1678 1754 1656 1690 1656 1657 1678 1616 1656 1534 1675 1487 1656 1462 1672 1385 1656 1338 1669 1325 1656 1284 1678 1264 1656 1229 1653 1176 1664 1124 1653 943 1653 901 1675 849 1675 833 1658 808 1675 725 1675"/></Shape>
+	    <String CONTENT="richesse en vitamines, provient d&#x27;une sélectione sévère des fleurs"
+                    HPOS="723"
+                    VPOS="1579"
+                    WIDTH="1652"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef62cba7"
+                    TAGREFS="LT4042"
+                    BASELINE="725 1738 1770 1746" 
+                    HPOS="725"
+                    VPOS="1680"
+                    WIDTH="1045"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="725 1738 728 1680 857 1680 899 1697 973 1683 998 1694 1031 1680 1080 1700 1121 1683 1163 1683 1182 1700 1226 1700 1251 1683 1297 1700 1385 1700 1407 1689 1435 1697 1448 1686 1520 1702 1707 1694 1762 1702 1770 1746 1762 1760 1726 1768 1710 1757 1663 1766 1641 1752 1597 1752 1564 1768 1509 1768 1465 1752 1366 1766 1305 1749 1251 1749 1220 1766 1185 1752 1157 1766 1075 1766 1036 1746 995 1763 918 1746 893 1763 811 1746 778 1763 728 1763"/></Shape>
+	    <String CONTENT="de cacao qui entrent dans sa composition."
+                    HPOS="725"
+                    VPOS="1680"
+                    WIDTH="1045"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_90efd38e"
+                    TAGREFS="LT4042"
+                    BASELINE="731 1936 2466 1944" 
+                    HPOS="731"
+                    VPOS="1870"
+                    WIDTH="1735"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="731 1936 736 1878 747 1886 789 1870 835 1881 896 1870 954 1895 992 1881 1025 1895 1047 1878 1066 1889 1094 1875 1132 1895 1185 1878 1226 1889 1278 1873 1330 1897 1594 1897 1635 1892 1655 1873 1690 1873 1754 1892 1800 1892 1822 1878 1883 1892 1910 1884 1930 1900 2004 1900 2029 1886 2111 1900 2169 1875 2323 1875 2364 1897 2458 1900 2466 1944 2458 1977 2403 1963 2364 1977 2254 1977 2221 1963 2172 1977 2133 1977 2122 1966 2081 1977 2056 1955 2018 1977 1897 1977 1866 1961 1803 1974 1773 1952 1723 1972 1690 1958 1657 1966 1638 1952 1605 1963 1558 1952 1520 1972 1484 1952 1473 1963 1355 1952 1338 1963 1308 1955 1209 1972 1146 1950 1091 1963 1069 1950 989 1950 929 1969 901 1955 841 1963 778 1950 736 1969"/></Shape>
+	    <String CONTENT="- Le chocolat RUELLE c&#x27;est le chocolat de la haute qualité absolument"
+                    HPOS="731"
+                    VPOS="1870"
+                    WIDTH="1735"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d378987f"
+                    TAGREFS="LT4042"
+                    BASELINE="720 2038 1872 2049" 
+                    HPOS="720"
+                    VPOS="1974"
+                    WIDTH="1152"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="720 2038 725 1983 739 1974 761 1991 835 1974 882 1991 921 1991 943 1977 967 1988 1006 1980 1017 1994 1055 1977 1088 1994 1127 1994 1149 1977 1281 1977 1369 1996 1437 1996 1451 1985 1468 1996 1685 1999 1710 1983 1743 1999 1762 1983 1781 1994 1809 1985 1831 1999 1866 1999 1872 2049 1864 2073 1822 2073 1803 2054 1740 2073 1649 2073 1613 2054 1580 2065 1567 2051 1490 2054 1468 2070 1377 2070 1333 2051 1275 2062 1259 2049 1215 2060 1193 2049 1116 2049 1066 2062 1053 2051 1033 2065 1006 2049 965 2065 921 2065 910 2054 899 2065 838 2065 786 2046 723 2057"/></Shape>
+	    <String CONTENT="incomparable à n&#x27;importe quel autre chocolat."
+                    HPOS="720"
+                    VPOS="1974"
+                    WIDTH="1152"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2fa3ca66"
+                    TAGREFS="LT4042"
+                    BASELINE="1273 2244 1627 2244" 
+                    HPOS="1273"
+                    VPOS="2191"
+                    WIDTH="354"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1273 2244 1278 2197 1303 2191 1355 2191 1369 2202 1424 2191 1435 2202 1600 2191 1622 2202 1627 2244 1622 2271 1602 2274 1479 2274 1435 2252 1393 2263 1369 2252 1278 2252"/></Shape>
+	    <String CONTENT="-:-:-:-:-:-:-"
+                    HPOS="1273"
+                    VPOS="2191"
+                    WIDTH="354"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
